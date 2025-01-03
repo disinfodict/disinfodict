@@ -1,0 +1,21 @@
+# Kriegsverbrechen - Journalisten {#sec-kriegsverbrechen-journalisten}
+
+::: {.callout-caution title=„Myth“}
+- Journalisten reisen in die Ukraine, um Verbrechen zu begehen.
+- Die Ukraine tötet Journalisten.
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(crimes%7Ccriminals)%20(civilian%7Ccivilians)&sort=relevance)
+:::
+
+::: {.callout-tip title=„Truth“}
+Russland ermordete mehr als 100 Journalisten in der Ukraine.
+:::
+
+> Journalisten und ihre Ausrüstung genießen Immunität, erstere als Zivilisten, letztere aufgrund des allgemeinen Schutzes, den das humanitäre Völkerrecht zivilen Objekten gewährt. Diese Immunität ist jedoch nicht absolut. Journalisten sind nur so lange geschützt, wie sie nicht direkt an den Feindseligkeiten beteiligt sind. 
+>
+> ICRC (2025)[^28a]  
+
+Zwischen 2022, dem 24. Februar, und 2024, dem 29. November, listet der Nationale Journalistenverband der Ukraine 18 im Dienst getötete Journalisten, 9 in ihrer Freizeit getötete Journalisten und 80 getötete Journalisten in den Reihen der Streitkräfte der Ukraine auf[^29a].
+
+[^28a]: ICRC 2025). Protection of Journalists. [https://casebook.icrc.org/case-study/protection-journalists](https://casebook.icrc.org/case-study/protection-journalists) 
+
+[^29a]: The National Union of Journalists of Ukraine (2024, November 29). List of journalists killed since start of russia’s full-scale aggression (UPDATE). [https://nuju.org.ua/list-of-journalists-killed-since-start-of-russia-s-full-scale-aggression-update-2/](https://nuju.org.ua/list-of-journalists-killed-since-start-of-russia-s-full-scale-aggression-update-2/)

@@ -43,22 +43,21 @@ See the chapter on corruption in russia @sec-corruption-russia.
 
 ## Poo & Poisening!
 
-TODO Scripal poisening
+Russia murders. At home and abroad. Window falls[^32a], poisoned tea, shots to the head. The list ranges from Russian spies such as Alexander Litvinenko and Sergei Skripal to family members (Skripal's daughter), journalists such as Anna Politkovskaya and the Ukrainian presidential candidate and later President Viktor Yushchenko.[^30a] There have also been attempts to poison journalists in Germany[^31a]. 
 
+Also popular: intimidation of journalists: 
 
 > Russian authorities are investigating an attack on journalist Yulia Latynina in which the prominent critic of President Vladimir Putin was doused with fecal matter by an unidentified assailant.
 > 
 > Radio Liberty (2016)[^26a]
 
+Because of the lack of toilets[^33a] in Russia, Russian soldiers plunder toilets[^34a], and even in wealthy Moscow, slurry pours over entire high-rise buildings: 
 
 > The clip shows a "fountain" surging for several minutes, spraying apparently contaminated water and debris over buildings, vehicles, and public spaces. It looked to occur near a busy intersection and reached up to the 17th story of an adjacent high-rise building, and higher than a nearby crane.
 >
 > Newsweek (2024)[^27a]
 
-
 More info about Russia's poo-culture see @sec-culture-russia.
-
-
 
 
 [^252]:  Zagorcheva, D. (2024b, March 18). Putin and the Weaponization of Family Values. CEPA. [https://cepa.org/article/putin-and-the-weaponization-of-family-values/](https://cepa.org/article/putin-and-the-weaponization-of-family-values/) 
@@ -85,4 +84,17 @@ More info about Russia's poo-culture see @sec-culture-russia.
 [^26a]: Russian Police Investigate Feces Attack On Kremlin Critic Latynina. (2016, August 21). Radio Free Europe. [https://www.rferl.org/a/russia-attack-journalist-fecal-matter-kremlin-critic/27936709.html](https://www.rferl.org/a/russia-attack-journalist-fecal-matter-kremlin-critic/27936709.html)
 
 [^27a]: 180-Foot Fountain of Feces Erupts From Sewer in Dramatic Video. (2024, October 28). Newsweek. [https://www.newsweek.com/180-foot-fountain-feces-erupts-sewer-dramatic-video-1976054](https://www.newsweek.com/180-foot-fountain-feces-erupts-sewer-dramatic-video-1976054)
+
+
+[^33a]: Von Spültoiletten können Millionen Russen nur träumen. (2024, January 24). ntv. [https://www.n-tv.de/politik/Von-Spueltoiletten-koennen-Millionen-Russen-nur-traeumen-article24682901.html](https://www.n-tv.de/politik/Von-Spueltoiletten-koennen-Millionen-Russen-nur-traeumen-article24682901.html)
+
+[^34a]: The Russia-Ukraine War, Toilets, and the New Economic Policy (2022, November 18). Australian Institute of International Affairs. [https://www.internationalaffairs.org.au/australianoutlook/the-russia-ukraine-war-toilets-and-the-new-economic-policy/](https://www.internationalaffairs.org.au/australianoutlook/the-russia-ukraine-war-toilets-and-the-new-economic-policy/) 
+
+
+[^32a]: Russia Has a Disturbing History of Deadly Falls. (2024, November 19). The Daily Beast. [https://www.thedailybeast.com/russia-has-a-disturbing-history-of-deadly-falls/](https://www.thedailybeast.com/russia-has-a-disturbing-history-of-deadly-falls/) 
+
+[^30a]: Did Putin Try to Poison a Peace Delegation in Ukraine? It Wouldn’t Be the First Time Russia Turned to Toxins. Rolling Stone. [https://www.rollingstone.com/politics/politics-news/abramovich-ukrane-peace-negotiators-poisoned-timeline-1328838/](https://www.rollingstone.com/politics/politics-news/abramovich-ukrane-peace-negotiators-poisoned-timeline-1328838/)
+
+[^31a]: Berlin prosecutor investigates possible poisoning of Russian journalist. (2023 August 18). The Guradian. [https://www.theguardian.com/world/2023/aug/17/berlin-prosecutor-probes-possible-poisoning-of-russian-journalist](https://www.theguardian.com/world/2023/aug/17/berlin-prosecutor-probes-possible-poisoning-of-russian-journalist)
+
 

@@ -44,20 +44,21 @@ Siehe das Kapitel über Korruption in Russland @sec-corruption-russia.
 
 ## Gülle und Gift
 
-TODO Scripal poisening
+Russland mordet. Im Inland und im Ausland. Fensterstürze[^32a], vergifteter Tee, Kopfschüsse. Die Liste reicht von russischen Spionen wie Alexander Litvinenko, Sergei Skripal über Familienangehörige (Skripal's Tochter) über Journalisten wie Anna Politkovskaya bis zu dem Ukrainischen Präsidentschaftskandidaten und späteren Präsidenten Wiktor Juschtschenko.[^30a] Es gab auch Vergiftungsversuche von Journalisten in Deutschland.[^31a] 
 
+Auch beliebt: Einschüchterung von Journalisten: 
 
 > Die russischen Behörden untersuchen einen Angriff auf die Journalistin Julia Latynina, bei dem die prominente Kritikerin von Präsident Wladimir Putin von einem unbekannten Angreifer mit Fäkalien übergossen wurde.
 > 
 > Radio Liberty (2016)[^26a]
 
+Wegen des Mangels an Toiletten[^33a] in Russland plündern russische Soldaten WCs[^34a], und selbst im reichen Moskau ergießt sich Gülle über ganze Hochäuser: 
 
 > Der Clip zeigt eine „Fontäne“, die mehrere Minuten lang schwappt und offenbar verunreinigtes Wasser und Trümmer über Gebäude, Fahrzeuge und öffentliche Plätze spritzt. Sie schien in der Nähe einer belebten Kreuzung aufzutreten und reichte bis zum 17. Stockwerk eines benachbarten Hochhauses und höher als ein nahe gelegener Kran.
 >
 > Newsweek (2024)[^27a]
 
 Weitere Informationen über russische Fäkalkultur finden Sie unter @sec-culture-russia.
-
 
 
 [^253]:  Zagorcheva, D. (2024b, March 18). Putin and the Weaponization of Family Values. CEPA. [https://cepa.org/article/putin-and-the-weaponization-of-family-values/](https://cepa.org/article/putin-and-the-weaponization-of-family-values/) 
@@ -79,4 +80,16 @@ Weitere Informationen über russische Fäkalkultur finden Sie unter @sec-culture
 [^261]:  (2024, August 5\) Russian woman admits to abusing illegally adopted Ukrainian child.  ZMINA Center for Human Rights. [https://zmina.ua/en/media-en/russian-woman-admits-to-abusing-illegally-adopted-ukrainian-child/](https://zmina.ua/en/media-en/russian-woman-admits-to-abusing-illegally-adopted-ukrainian-child/) 
 
 [^262]:  (2023, May 24). Easter Eggs: Russia remains a country with low levels of religiosity, and Russians’ declarative orthodoxy is primarily associated with festive social rituals. [https://re-russia.net/en/review/278/](https://re-russia.net/en/review/278/) 
+
+
+[^33a]: Von Spültoiletten können Millionen Russen nur träumen. (2024, January 24). ntv. [https://www.n-tv.de/politik/Von-Spueltoiletten-koennen-Millionen-Russen-nur-traeumen-article24682901.html](https://www.n-tv.de/politik/Von-Spueltoiletten-koennen-Millionen-Russen-nur-traeumen-article24682901.html)
+
+[^34a]: The Russia-Ukraine War, Toilets, and the New Economic Policy (2022, November 18). Australian Institute of International Affairs. [https://www.internationalaffairs.org.au/australianoutlook/the-russia-ukraine-war-toilets-and-the-new-economic-policy/](https://www.internationalaffairs.org.au/australianoutlook/the-russia-ukraine-war-toilets-and-the-new-economic-policy/) 
+
+
+[^32a]:  Aus dem Fenster gestürzt - Was steckt hinter den seltsamen Todesfällen von Russen? (29.12.2022). Schweizer Radio und Fernsehen (SRF). [https://www.srf.ch/news/international/aus-dem-fenster-gestuerzt-was-steckt-hinter-den-seltsamen-todesfaellen-von-russen](https://www.srf.ch/news/international/aus-dem-fenster-gestuerzt-was-steckt-hinter-den-seltsamen-todesfaellen-von-russen) 
+
+[^30a]: Gesine Dornblüth (19.08.2021) Deutschlandfunk.[https://www.deutschlandfunk.de/morden-nach-system-der-fall-nawalny-und-die-tradition-100.html](https://www.deutschlandfunk.de/morden-nach-system-der-fall-nawalny-und-die-tradition-100.html)
+
+[^31a]: Moskaus Todesfalle schnappt auch im Ausland zu (19.08.2023). t-online. [https://www.t-online.de/nachrichten/ukraine/id_100226554/putins-todesfall-versuchte-giftmorde-mitten-in-europa-auch-in-muenchen.html](https://www.t-online.de/nachrichten/ukraine/id_100226554/putins-todesfall-versuchte-giftmorde-mitten-in-europa-auch-in-muenchen.html).  
 

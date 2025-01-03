@@ -7,8 +7,8 @@ book:
   #description: "This dictionary consolidates and debunks chronic disinformation narratives detected by several fact-checking organisations."
   author: "Fellas & Partners"
   date: "last-modified"
-  #site-url: http://127.0.0.1:4321
-  site-url: https://disinfodict.pages.dev
+  site-url: http://127.0.0.1:4321
+  #site-url: https://disinfodict.pages.dev
   favicon: /all_common_img/DisinfoDict_logo_1x1_trans_small.png
   # note that Cloudflare's Static resource protection does not protext epub. downloads: [pdf,epub]
   downloads: [pdf,epub]
@@ -20,8 +20,8 @@ book:
     background: "grey"
     center:
       - text: "![Home](/all_common_img/DisinfoDict_logo_1x1_trans.png){width=1in}"
-        #href: http://127.0.0.1:4321
-        href: https://disinfodict.pages.dev
+        href: http://127.0.0.1:4321
+        #href: https://disinfodict.pages.dev
       - text: "Impressum"
         href: impressum.qmd
 
@@ -210,6 +210,7 @@ book:
     - warcrimes/humansafari.qmd
     - warcrimes/humanitarian.qmd
     - warcrimes/infrastructure.qmd
+    - warcrimes/journalists.qmd
     - warcrimes/nature.qmd
     - warcrimes/nuclear.qmd
     - warcrimes/prisoners.qmd
