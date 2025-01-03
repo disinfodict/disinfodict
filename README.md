@@ -1,5 +1,5 @@
 ---
-title: "Desinformation Dictionary"
+title: "Disinformation Dictionary"
 format: html
 execute: 
   enabled: false
