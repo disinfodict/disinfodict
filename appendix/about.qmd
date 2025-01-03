@@ -1,0 +1,73 @@
+# Team & Partners {.unnumbered}
+
+## Core team
+
+### Nord Atlantic Fella Organiztion (NAFO)
+
+Maker and User of the dictionary: [NAFO](https://nafo-ofan.org/pages/we-are-nafo) is a grassroots movement that fights disinformation and supports freedom and democracy worldwide with a focus on Ukraine.
+
+### fellas4europe
+
+Legal and financial home of the dictionary: [fellas4europe](https://fellas4europe.org/) is a German NGO that supports freedom and democracy in Europe with a focus on Ukraine through humanitarian help and political awareness.
+
+### Civil Network OPORA
+
+Founding partner of the dictionary: [Civil Network OPORA](https://oporaua.org/en) develops in society the practices of responsible decisions and actions through the advocacy of fair rules to enhance security and democracy in Ukraine.
+
+### Ukrainian Security & Cooperation Center (USCC)
+
+As an security precaution, we transparently allow the independent USCC to monitor our activities: the [Ukrainian Security & Cooperation Center (USCC)](https://uscc.org.ua/en/) was established in April 2021 by the team, created during the Revolution of Dignity. The organisation works to strengthen Ukraine’s information sustainability and security.
+
+
+## Content partners
+
+### Transatlantic Dialogue Center (TDC)
+ 
+Initial content contributor: [Transatlantic Dialogue Center (TDC)](https://tdcenter.org/) is a non-governmental and non-partisan think tank that provides high-quality policy advice to private and public clients. TDC published *"Ukraine Clarity Debunking Myths and Misinformation in Germany"* in German @tdc:2024a and English @tdc:2024b.
+ 
+### VoxCheck
+
+Initial content contributor (via TDC): [VoxCheck](https://voxcheck.voxukraine.org/home-eng.html) VoxCheck is a fact-checking project of the independent analytical platform “Vox Ukraine”. The team exposes lies, manipulations, and Russian propaganda both in Ukraine and abroad. 
+
+### StopFake
+
+Maintainer of a list of russian narratives: The non­governmental organization Media Reforms Center is an educational platform, founded by Mohyla School of Journalism at National University of ‘Kyiv­Mohyla Academy’, its flagship project [StopFake](https://www.stopfake.org/en) does identify cases of fake information about events in Ukraine, and does research about narratives and about how to resist the shameful phenomenon of disinformation.
+
+### EUvsDisinfo
+
+Maintainer of a database and provider of a newsletter on desinformation: [EUvsDisinfo](https://euvsdisinfo.eu/about/) is the flagship project of the EU to better forecast, address, and respond to the Russian Federation’s ongoing disinformation campaigns affecting the European Union, its Member States, and countries in the shared neighbourhood. EUvsDisinfo’s core objective is to increase public awareness and understanding of the Kremlin’s disinformation operations, and to help citizens in Europe and beyond develop resistance to digital information and media manipulation.
+
+### International Fact-Checking Network (IFCN)
+
+We commit to the [IFCN code of Principles](https://ifcncodeofprinciples.poynter.org/the-commitments) but have not applied for signatory status yet: the [International Fact-Checking Network (IFCN) at Poynter](https://www.poynter.org/ifcn/) is committed to promoting excellence in fact-checking. IFCN believes nonpartisan and transparent fact-checking can be a powerful instrument of accountability journalism. Conversely, unsourced or biased fact-checking can increase distrust in the media and experts while polluting public understanding.
+
+### German-Ukrainian Association 
+
+The *German-Ukrainian Association - for our and your freedom*, which is currently being founded, is not yet operational and has not yet decided to take a content-curating role.
+
+
+## Start-up partners
+
+### Akademie für politische Bildung
+
+Project development: [Akademie für politische Bildung](https://www.apb-tutzing.de/english/) is dedicated to the delivery, stimulation and cultivation of political knowledge in Bavaria and Germany above all party lines. Thus it is working towards a stronger foundation of our democracy and its international relations.
+
+### TechCamp
+
+Project development and start-up financing: [TechCamp](https://techcamp.america.gov/) TechCamp is a public diplomacy program hosted in the Bureau of Educational & Cultural Affairs (ECA) at the U.S. Department of State.
+
+
+## Technical partners
+
+### Deepl
+
+The multilingual Disinformation Dictionary strongly benefits from the translation services of [Deepl](https://www.deepl.com). After Russia's invasion in February 2022, Deepl quickly responded to customer wishes to integrate the Ukrainian language into its language portfolio. We thank Deepl and recommend it as *the* best translation engine we are aware of.
+
+### GitHub
+
+Source code hosting: [GitHub](https://github.com) is the home of most open-source projects today. It provides version-controlled storage of code together with processes for collaborative coding.
+
+### Cloudflare
+
+Website hosting: the [Cloudflare](https://www.cloudflare.com) global network is one of the fastest on the planet and can reach about 95% of the world’s population within approximately 50 ms. Cloudflare is known for its network security and superior protection against DDOS-attacks.
+

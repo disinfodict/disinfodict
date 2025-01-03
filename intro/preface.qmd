@@ -1,0 +1,17 @@
+# Preface {.unnumbered}
+
+This dictionary consolidates and debunks chronic disinformation narratives detected by several fact-checking organisations.
+
+It is available in English, German and Ukrainian language. It can be read on the web or downloaded as PDF or as an e-book in EPUB format.
+
+The dictionary is organized by topic parts with one ore more chapters with one or more sections.
+
+The quality of the content is monitored by our partners, see in the appendix under *Team & Partners*.
+
+If you are wondering about our logo, it is derived from this
+
+![DisinfoDict logo](../all_common_img/DisinfoDict_logo_2.7x1.png){width=30%}
+
+and finally is
+
+![DifD Logo](../all_common_img/DisinfoDict_logo_1x1_trans.png){width=30%}

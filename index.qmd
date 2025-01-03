@@ -1,0 +1,17 @@
+# Welcome {.unnumbered}
+
+
+This dictionary consolidates and debunks chronic disinformation narratives detected by several fact-checking organisations.
+
+::: {.content-visible when-format="latex"}
+The Desinformation-Dictionary © 2024 by Fellas \& Partners is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [creativecommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+:::
+
+::: {.content-visible when-format="html"}
+For barrier-free reading and listening we recommend the e-book 'epub' downloads in [English]({{<meta book.site-url>}}/Disinformation-Dictionary.epub) and [German]({{<meta book.site-url>}}/de/Desinformations-Wörterbuch.epub) language.
+
+This website is multi-lingual: for switching language click on the globe-icon top-left. This page is multi-format: you can read online, or download pdf or epub by clicking on the download-icon top left. Part and chapter navigation is on the left, section navigation is on the right. To make section navigation visible on the smartphone, simply use the smartphone in landscape mode. To start reading, click on 'Preface' right at the bottom navigation. 
+
+The Desinformation-Dictionary © 2024 by Fellas \& Partners is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [creativecommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+:::
+

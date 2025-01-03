@@ -1,0 +1,56 @@
+# Agenten & Vatniks {.unnumbered}
+
+[Vatnik](https://de.wikipedia.org/wiki/Watnik) ist ein politisches Pejorativum, das in Russland und anderen postsowjetischen Staaten für unerschütterliche, chauvinistische Anhänger der Propaganda der russischen Regierung verwendet wird.  Im weiteren Sinne wird das Wort 'Vatnik' auch für Einflussagenten verwendet, die die russische Propaganda verbreiten.
+
+## Das Netzwerk der russischen Propaganda
+
+Russland unterhält ein internationales Netz von Einflussagenten, die Desinformationen verbreiten, Angst verbreiten, die öffentliche Meinung beeinflussen und Wahlen manipulieren.
+
+> Ähnliche Sprecher [Einflussagenten] versuchen, sich als „unabhängige Experten“ zu positionieren, die „die globale Wahrheit aufdecken“. Ihre systematischen Auftritte in russischen Staatskanälen, ihre Besuche in Moskau oder in vorübergehend besetzten Gebieten sowie ihre unverhohlene Bewunderung für Putin deuten jedoch auf das Gegenteil hin. Die Gefahr der Aktivitäten solcher „Experten“ liegt nicht nur darin, dass sie Narrative verbreiten, die mit den von prorussischen Organisationen favorisierten identisch sind. Jeder von ihnen hat ein eigenes Publikum, das ihn unterstützt, eine gewisse Autorität und ein über Jahre hinweg aufgebautes Image. Dadurch erhalten sie Zugang zu einflussreichen Plattformen. 
+
+> Wenn sie also pro-russische Thesen verbreiten, legitimieren sie die russische Propaganda im Westen. Durch gemeinsame Sendungen, Kolumnen in den Medien, neu geschaffene Auszeichnungen und Preise wird die Illusion von Massenattraktivität und Expertise erzeugt. Darüber hinaus zitieren und verweisen russische Medien auf ihre Materialien, um ihre Aussagen zu untermauern. Dank solcher Zitate können russische Narrative auch im ukrainischen Informationsraum verbreitet werden, getarnt als „westlich“. Daher ist es wichtig, diese Verbindungen zu erkennen, um die Verbreitung prorussischer Narrative sowohl im Westen als auch in der Ukraine einzudämmen.
+
+[![Vox Ukraine: Das Netzwerk der russischen Propaganda](Voxukraine_TheNetworkOfRussianPropaganda.jpg)
+Das Netzwerk der russischen Propaganda: Was westliche „Experten“ verbindet, die für Russland vorteilhafte Narrative verbreiten
+](https://voxukraine.org/en/the-network-of-russian-propaganda-what-connects-western-experts-promoting-narratives-beneficial-to-russia)
+
+
+## Vatniksuppen
+
+*#vatniksoup* ist eine Twitter-Thread-Serie (und ein Hashtag!), in der Pekka Kallioniemi, ein Computerdozent der Universität Tampere, Finnland, pro-russische Akteure und Propagandisten aus der ganzen Welt vorstellt, seien es sogenannte „unabhängige Journalisten“, Politiker, Militärangehörige oder einfach nur gewöhnliche Gauner, die auf der Suche nach dem schnellen Geld sind.
+
+Die Serie bietet auch Einführungen und tiefere Einblicke in die Funktionsweise und Verbreitung von Online-Propaganda und Desinformation. Kallioniemi spricht zum Beispiel über Trollfarmen, die Manipulation sozialer Medien und Russlands Online-Informationsoperationen.
+
+Inzwischen gibt es Vatnik-Suppen auch außerhalb von Twitter als Buch [Vatnik Soup. The Ultimate Guide to Russian Disinformation](https://vatniksoup.com/en/books/) und als unabhängige Website.
+
+[Vatnik-Suppen-Logo](vatnik-soup.jpg)
+Vatnik Soup-Website
+](https://vatniksoup.com/)
+
+
+## Vatnik Datenbank
+
+[Texty.org.ua](https://texty.org.ua) ist eine unabhängige Website, die 2010 von Anatoliy Bondarenko und Roman Kulchynskyi gegründet wurde.
+
+> Wir erstellen datenjournalistische Projekte und arbeiten in traditionellen journalistischen Genres: von umfangreichen Berichten bis hin zu Kurznachrichten. Wir haben einen ukrainischen Blick auf die Welt. Wir versuchen, das Problem, über das wir schreiben, so gut wie möglich zu erforschen und zu zeigen, was wirklich passiert, und nicht nur verschiedene Standpunkte zu veröffentlichen. 
+
+> Anfang Dezember 2022 veröffentlichte TEXTY das Material mit dem Titel ["The Germs of ‚Russian World‘](https://texty.org.ua/projects/108323/germs-russian-world-who-supports-russia-europe/) - eines unserer aufwendigsten und wichtigsten Projekte des Jahres. Die Studie bot einen umfassenden Einblick in die Personen und Organisationen, die Russland und seine Politik in verschiedenen Formen in 19 Ländern Europas unterstützen. Es ist uns gelungen, über 1.300 Personen und etwa 900 Organisationen zu identifizieren, die folgende Kriterien erfüllen: Sie stimmen für prorussische Entscheidungen und geben Erklärungen ab, in denen sie den Krieg unterstützen oder die Aufhebung der Sanktionen fordern, sie nehmen an prorussischen Propagandasendungen teil, sie arbeiten mit Institutionen zusammen, die Russlands kulturelle Expansion fördern, usw.
+
+[![TEXTY_Germs1.0_screenshot](TEXTY_Germs1.0.jpg)
+The Germs of “Russian World” Version 1.0 ](https://texty.org.ua/projects/108323/germs-russian-world-who-supports-russia-europe/)
+
+
+> Im Laufe von vier Monaten haben wir unseren Datensatz verbessert und aktualisiert und ihn suchfreundlicher gestaltet. Darüber hinaus haben wir eine Reihe thematischer Materialien zu bestimmten Kategorien potenzieller Akteure der „Russischen Welt“ erstellt. Heute präsentieren wir mit Stolz die [aktualisierte Version 2.0](https://texty.org.ua/d/2023/germs_v2/en/) unseres Projekts.
+
+Bei dieser aktualisierten Version 2.0 handelt es sich um eine Datenbank mit 2109 Personen, die nach Name, Land und Tätigkeit durchsucht werden kann und weitere Informationen (und Beweise) über diese Personen liefert. Die Datenbank kann auch als csv-Datei heruntergeladen werden. Diese Auswahl von Personen ist nur die Spitze des Eisbergs, und selbst die Spitze hat Löcher: viele Einflussagenten fehlen, ganz zu schweigen von „Vatniks“ im engeren Sinne von „nützlichen Idioten“. 
+
+[![TEXTY_Germs1.0_screenshot](TEXTY_Germs2.0.jpg)
+The Germs of “Russian World” Version 2.0 ](https://texty.org.ua/d/2023/germs_v2/en/)
+
+
+
+> TEXTY stellt das Projekt [The Atlas of Russian Lobby in Europe](https://texty.org.ua/d/2023/germs_v2/lobby/en/) vor, das einen Einblick in die Vertreter verschiedener Kreise bietet, die auf die eine oder andere Weise die Förderung russischer Geschäftsinteressen in der EU erleichtert haben oder erleichtern - von Regierungsbeamten bis zu PR-Experten und Anwälten, von „russischen Freundschaftsgruppen“ bis zu informellen Netzwerkforen. Trotz der Tatsache, dass viele dieser Initiativen auf Eis gelegt wurden, werden diese Personen und Einrichtungen nach dem Ende des Krieges oder sobald es zu einer vorübergehenden Deeskalation kommt, wahrscheinlich zu den lautstärksten Befürwortern einer Wiederherstellung der früheren Wirtschaftsbeziehungen zu Russland gehören. 
+
+[TEXT_Lobbying_Atlas_screenshot](TEXTY_Lobbying_Atlas.jpg)
+Der Lobbying-Atlas: 250+ Personen und Unternehmen, die mit Russlands Geschäftsinteressen in Europa verbunden sind ](https://texty.org.ua/d/2023/germs_v2/lobby/en/)
+

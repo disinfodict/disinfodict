@@ -1,0 +1,123 @@
+# Ukraine heroes {#sec-ukraine-heroes}
+
+::: {.callout-caution title="Myth"}
+Ukrainian heroes are all nazis
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(ukraine%7Cukrainian)%20(hero%7Cheroes)&sort=relevance&_=1734812089161)
+:::
+
+::: {.callout-tip title="Truth"}
+Ukraine has lots of heroes, cossack heroes, tatar heroes, jewish heroes, a small selection follows.
+:::
+
+
+## Vladimir the Great (958 – 1015)
+
+{{< lipsum 2 >}}
+
+
+## Yaroslav the Wise (978 – 1054)
+
+{{< lipsum 2 >}}
+
+
+## Bohdan Khmelnytsky (1595 – 1657)
+
+{{< lipsum 2 >}}
+
+
+## Ivan Mazepa (1639 – 1709)
+
+{{< lipsum 2 >}}
+
+
+## Yevhen Konovalets (1891 – 1938)
+
+{{< lipsum 2 >}}
+
+
+## Stepan Bandera (1909 – 1959)
+
+{{< lipsum 2 >}}
+
+
+## Crimea heros
+
+### Amet-khan Sultan (1920 – 1971)
+
+https://en.wikipedia.org/wiki/Amet-khan_Sultan
+
+{{< lipsum 2 >}}
+
+
+### Abdraim Reshidov (1912 – 1984)
+
+https://en.wikipedia.org/wiki/Abdraim_Reshidov
+
+{{< lipsum 2 >}}
+
+
+### Cevdet Dermenci (1918 – 1985)
+
+https://en.wikipedia.org/wiki/Cevdet_Dermenci
+
+{{< lipsum 2 >}}
+
+
+### Seytnafe Seytveliyev ( 1919 – 1983)
+
+https://en.wikipedia.org/wiki/Seytnafe_Seytveliyev
+
+{{< lipsum 2 >}}
+
+
+
+## Valerii Zaluzhnyi (born 1973)
+
+https://www.president.gov.ua/documents/612024-49681
+https://www.ukrainianworldcongress.org/valerii-zaluzhnyi-13-facts-about-the-war-in-ukraine/
+
+{{< lipsum 2 >}}
+
+
+## Oleksandr Matsievskyi (1980 – 2022)
+
+https://www.president.gov.ua/documents/1462023-46089
+
+{{< lipsum 2 >}}
+
+
+## Kyrylo Budanov (born 1986)
+
+https://www.president.gov.ua/documents/572024-49677
+
+{{< lipsum 2 >}}
+
+
+## Roman Hrybov (born 1990)
+
+https://www.theguardian.com/world/2022/mar/29/ukrainian-soldier-russian-warship-medal-snake-island
+https://www.courthousenews.com/eu-court-nixes-trademark-for-russian-warship-go-fk-yourself/
+https://www.welt.de/wirtschaft/article254479722/Ukraine-Krieg-Bizarrer-Streit-um-Funkspruch-Go-fuck-yourself-zwischen-Ukraine-Held-und-EU.html
+
+{{< lipsum 2 >}}
+
+
+## Volodymyr Zelenskyy (born 1978)
+
+{{< lipsum 2 >}}
+
+
+
+## Oleksandra Matviichuk (born 1983)
+
+https://www.nobelprize.org/events/nobel-prize-dialogue/brussels2024/panellists/oleksandra-matviichuk/
+
+{{< lipsum 2 >}}
+
+
+## Unknown Urainian Grandma
+
+https://coffeeordie.com/ukraine-sunflower-seeds-insult
+https://www.theguardian.com/world/video/2022/feb/25/ukrainian-woman-sunflower-seeds-russian-soldiers-video
+
+

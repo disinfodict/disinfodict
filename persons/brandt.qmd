@@ -1,0 +1,34 @@
+# Persons Brandt {#sec-persons-brandt}
+
+::: {.callout-caution title="Myth"}
+- Willy Brand was the greatest appeaser ever
+- His appeasement brought freedom to East European countries 
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Willy%20Brandt&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Brand always thought that diplomacy and deterrence go hand in hand
+- Bankrupcy of the USSR brought freedom to East European countries
+:::
+
+## Speech on the putsch in Czechoslovakia, 1948
+
+https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-czechoslovakia-1948/
+
+{{< lipsum 1-2 >}}
+
+
+## Speech against construction of the Wall in Berlin, 1961
+
+https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-in-front-of-schoeneberg-town-hall-1961/
+
+{{< lipsum 1-2 >}}
+
+
+## Speech at the Foreign Policy Asso­ciation in New York, 1964
+
+https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-at-the-foreign-policy-association-in-new-york-15-may-1964/
+
+{{< lipsum 5-6 >}}
+
+

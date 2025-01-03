@@ -1,0 +1,31 @@
+# Donbas separatists? {#sec-donbas-separatists}
+
+::: {.callout-caution title="Myth"}
+- pro-russian fighters in Donbas are "seperatists"
+- the so-called separatists of Donbas are autonomists
+- Occupiers are a "People's Republic"
+- the Donetsk "People’s Republic" has been recognized by the US
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=donetsk%20(separatists%7Cseparatist)&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- pro-russian fighters in Donbas are paid mercenaries trained in Moscow and russian soldiers
+- pro-russian fighters are equipped with heavy weapons from Russia 
+- Occupiers are a "Kremlin's Republic" not recognized by nobody
+:::
+
+For more information about the donbas see @sec-donbas-genocide.
+
+## A
+
+{{< lipsum 1-2 >}}
+
+## B
+
+{{< lipsum 3-4 >}}
+
+## C
+
+{{< lipsum 5-6 >}}
+
+

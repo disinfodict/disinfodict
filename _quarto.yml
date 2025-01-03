@@ -1,0 +1,300 @@
+project:
+  type: book
+
+book:
+  title: "Disinformation Dictionary"
+  subtitle: "A dictionary of Myths and Truths"
+  #description: "This dictionary consolidates and debunks chronic disinformation narratives detected by several fact-checking organisations."
+  author: "Fellas & Partners"
+  date: "last-modified"
+  #site-url: http://127.0.0.1:4321
+  site-url: https://disinfodict.pages.dev
+  favicon: /all_common_img/DisinfoDict_logo_1x1_trans_small.png
+  # note that Cloudflare's Static resource protection does not protext epub. downloads: [pdf,epub]
+  downloads: [pdf,epub]
+  twitter-card: true
+  sidebar: 
+    style: "floating"
+    collapse-level: 1
+  page-footer:
+    background: "grey"
+    center:
+      - text: "![Home](/all_common_img/DisinfoDict_logo_1x1_trans.png){width=1in}"
+        #href: http://127.0.0.1:4321
+        href: https://disinfodict.pages.dev
+      - text: "Impressum"
+        href: impressum.qmd
+
+  chapters:
+  - index.qmd
+  - part: "Intro" 
+    part-de: "Intro" 
+    #part-ua: "Вступ"
+    chapters:
+    - intro/preface.qmd
+    - intro/principles.qmd
+    - intro/termstech.qmd
+    - intro/ukrlessons.qmd
+    - intro/trueukraine.qmd
+    - intro/vatniks.qmd
+    - intro/narratives.qmd
+  - part: "Brothers"
+    part-de: "Brüder"
+    chapters:
+    - brothers/russia.qmd
+    - brothers/ukraine.qmd
+  - part: "Church"
+    part-de: "Kirche"
+    chapters:
+    - church/russia.qmd
+    - church/ukraine.qmd
+  - part: "Colonies"
+    part-de: "Kolonien"
+    chapters:
+    - colonies/russia.qmd
+    - colonies/ukraine.qmd
+  - part: "Corruption"
+    part-de: "Korruption"
+    chapters:
+    - corruption/russia.qmd
+    - corruption/ukraine.qmd
+  - part: "Crimea"
+    part-de: "Krim"
+    #part-ua: "Крим"
+    chapters:
+    - crimea/history.qmd
+    - crimea/annexation.qmd
+    - crimea/purges.qmd
+  - part: "Culture"
+    part-de: "Kultur"
+    chapters:
+    - culture/russia.qmd
+    - culture/ukraine.qmd
+  - part: "Democracy"
+    part-de: "Demokratie"
+    chapters:
+    - democracy/russia.qmd
+    - democracy/ukraine.qmd
+  - part: "Denial"
+    part-de: "Leugnung"
+    chapters:
+    - denial/intro.qmd
+    - denial/azerbaijan.qmd
+    - denial/bucha.qmd
+    - denial/chasivyar.qmd
+    - denial/chernihiv.qmd
+    - denial/crimea.qmd
+    - denial/dnipro.qmd
+    - denial/hroza.qmd
+    - denial/invasion.qmd
+    - denial/khakovka.qmd
+    - denial/kramatorsk.qmd
+    - denial/kremenchuk.qmd
+    - denial/mariupol.qmd
+    - denial/mh17.qmd
+    - denial/okhmatdyt.qmd
+    - denial/zaporizhzhia.qmd
+    - denial/zoomurder.qmd
+  - part: "Donbas"
+    part-de: "Donbass"
+    #part-ua: "Донбас"
+    chapters:
+    - donbas/genocide.qmd
+    - donbas/separatists.qmd
+  - part: "Economy"
+    part-de: "Wirtschaft"
+    chapters:
+    - economy/europe.qmd
+    - economy/ukraine.qmd
+    - economy/russia.qmd
+  - part: "Genocide"
+    part-de: "Genozid"
+    #part-ua: "Геноцид"
+    chapters:
+    - genocide/definition.qmd
+    - genocide/historic.qmd
+    - genocide/announced.qmd
+    - genocide/ongoing.qmd
+  - part: "Language"
+    part-de: "Sprache"
+    #part-ua: "Мова"
+    chapters:
+    - language/russia.qmd
+    - language/ukraine.qmd
+  - part: "Maidan"
+    #part-ua: "Майдан"
+    chapters:
+    - maidan/kyiv.qmd
+    - maidan/odesa.qmd
+  - part: "Minorities"
+    part-de: "Minderheiten"
+    chapters:
+    - minorities/russia.qmd
+    - minorities/ukraine.qmd
+  - part: "NATO"
+    chapters:
+    - nato/expansion.qmd
+    - nato/threat.qmd
+    - nato/proxy.qmd
+  - part: "Nazis"
+    #part-ua: "Нацисти"
+    chapters:
+    - nazis/ukraine.qmd
+    - nazis/russia.qmd
+  - part: "Negotiations"
+    part-de: "Verhandlungen"
+    #part-ua: "переговори"
+    chapters:
+    - negotiations/endwar.qmd
+    - negotiations/russia.qmd
+    - negotiations/ukraine.qmd
+  - part: "Nukes"
+    part-de: "Nuklearwaffen"
+    #part-ua: "Ядерна зброя"
+    chapters:
+    - nukes/ukraine.qmd
+    - nukes/russia.qmd
+  - part: "Peace"
+    part-de: "Frieden"
+    chapters:
+    - peace/cooperation.qmd
+    - peace/ceasefire.qmd
+    - peace/russia.qmd
+    - peace/ukraine.qmd
+    - peace/weapons.qmd
+  - part: "Persons"
+    part-de: "Personen"
+    chapters:
+    - persons/brandt.qmd
+    - persons/gorbachev.qmd
+    - persons/navalny.qmd
+    - persons/putin.qmd
+    - persons/stalin.qmd
+    - persons/zelenskyy.qmd
+  - part: "Russia"
+    part-de: "Russland"
+    #part-ua: "Росія"
+    chapters:
+    - russia/history.qmd
+    - russia/moscow.qmd
+    - russia/empire.qmd
+    - russia/opposition.qmd
+    - russia/values.qmd
+  - part: "Russia's War"
+    part-de: "Russland's Krieg"
+    #part-ua: "Війна Росії"
+    chapters:
+    - ruwar/escalation.qmd
+    - ruwar/goals.qmd
+    - ruwar/hybrid.qmd
+    - ruwar/resilience.qmd
+    - ruwar/sanctions.qmd
+  - part: "Ukraine"
+    #part-ua: "Україна"
+    chapters:
+    - ukraine/heroes.qmd
+    - ukraine/history.qmd
+    - ukraine/kyiv.qmd
+    - ukraine/nation.qmd
+  - part: "War crimes"
+    part-de: "Kriegsverbrechen"
+    #part-ua: "Воєнні злочини"
+    chapters:
+    - warcrimes/intro.qmd
+    - warcrimes/children.qmd
+    - warcrimes/civilians.qmd
+    - warcrimes/clusterbombs.qmd
+    - warcrimes/conscription.qmd
+    - warcrimes/culture.qmd
+    - warcrimes/food.qmd
+    - warcrimes/humansafari.qmd
+    - warcrimes/humanitarian.qmd
+    - warcrimes/infrastructure.qmd
+    - warcrimes/nature.qmd
+    - warcrimes/nuclear.qmd
+    - warcrimes/prisoners.qmd
+    - warcrimes/sexual.qmd
+    - warcrimes/torture.qmd
+    - warcrimes/urbicide.qmd
+  - part: "World War II"
+    part-de: "II. Weltkrieg"
+    #part-ua: "Друга світова війна"
+    chapters:
+    - wwii/responsibility.qmd
+    - wwii/liberation.qmd
+  appendices:  
+    - appendix/about.qmd
+    - appendix/recommendations.qmd
+    - appendix/references.qmd
+
+callout-appearance: simple
+bibliography: 
+  - intro/termstech.bib
+  - intro/trueukraine.bib
+  - intro/ukrlessons.bib
+  - corruption/ukraine.bib
+  - genocide/definition.bib
+  - russia/empire.bib
+  - appendix/recommendations.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    number-sections: true
+    toc: true
+    toc-depth: 3
+    toc-expand: 1
+    email-obfuscation: javascript
+    link-external-icon: false
+    link-external-newwindow: false
+    license: CC BY-NC-ND
+  pdf:
+    latex-auto-mk: true
+    latex-tinytex: false
+    pdf-engine: xelatex
+    documentclass: scrbook
+    toc: true
+    number-sections: true
+    colorlinks: true
+    mainfont: "Segoe UI"
+    include-in-header:
+      text: |
+        \usepackage{alphalph}
+        \renewcommand*{\thepart}{%
+          \AlphAlph{\value{part}}%
+        }
+        \usepackage{makeidx}
+        \makeindex
+        \newcommand{\LatexTableFontSize}{\fontsize{6}{9}\selectfont}
+        \newcommand{\LatexReturnFontSize}{\fontsize{12}{14}\selectfont}
+#        \renewcommand\thepart{\Alph{part}}
+#better in references.qmd
+#    include-after-body:
+#      text: |
+#        \printindex
+  epub:
+    accessibilitySummary: "This publication conforms to WCAG 2.0 Level AA."
+    toc: true
+    toc-depth: 3
+    number-sections: true
+
+babelquarto:
+  languagecodes:
+  - name: de
+    text: "🇩🇪 Deutsch"
+  #- name: ua
+  #  text: "🇺🇦 Український"
+  - name: en
+    text: "🇺🇸 English"
+  mainlanguage: 'en'
+  languages: ['de']
+title-de: Desinformations-Wörterbuch
+#title-ua: Словник-дезінформації
+subtitle-de: Ein Wörterbuch der Mythen und Wahrheiten
+#subtitle-ua: Словник міфів і правд
+#description-de: Dieses Wörterbuch konsolidiert und entkräftet chronische Desinformations-Narrative, die von verschiedenen Fact-Checking-Organisationen festgestellt wurden.
+#description-ua: Цей словник об'єднує та розвінчує хронічні дезінформаційні наративи, виявлені кількома фактчекінговими організаціями
+author-de: NAFO & Partner
+#author-ua: НАФО & Партнер
+lang: en

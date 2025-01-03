@@ -1,0 +1,120 @@
+# Werte & Prinzipien {.unnumbered}
+
+::: {.callout-caution title=„Mythos“}
+Es gibt keinen Platz für *Werte & Prinzipien*, wir müssen *realistisch* sein.
+:::
+
+::: {.callout-tip title=„Wahrheit“}
+*Werte & Prinzipien* sind die Grundlage für die Zivilisation, und sie *gestalten unsere Realität*.
+:::
+
+
+## Unser Auftrag
+
+Leicht zugängliche und verlinkbare, wahrheitsgemäße Informationen bereitzustellen und weit verbreitete Desinformationsnarrative zu korrigieren.
+
+
+## Unsere Vision
+
+Wir wollen eine vertrauenswürdige, nützliche Referenz für die Korrektur von Narrativen werden und dazu beitragen, den zersetzenden Einfluss von Desinformation auf unser freies, friedliches und demokratisches Zusammenleben zu reduzieren.
+
+
+## Unsere Werte
+
+- wir fördern Ehrlichkeit und Demokratie
+- wir halten das Wörterbuch korrekt und prägnant
+- wir halten das Wörterbuch einfach und nachhaltig
+
+## Unsere Zielgruppe
+
+Das Desinfo-Wörterbuch richtet sich an Menschen
+
+- die wenig Zeit haben oder nicht gewohnt sind, lange Texte zu lesen
+- die verlässliche Informationen den bequemen oder sensationellen Lügen vorziehen
+- die zuverlässige Zitate, Links oder Quellen benötigen
+
+
+## Unsere Grundsätze
+
+- wir konzentrieren uns auf die Wahrheit, nicht auf Lügen (je öfter die Menschen Lügen konsumieren, desto mehr glauben sie ihnen)
+- wir verpflichten uns dem [IFCN-Prinzipienkodex](https://ifcncodeofprinciples.poynter.org/the-commitments)
+- jeder, der sich zu diesen Werten und Grundsätzen bekennt, kann einen Beitrag leisten (siehe [Beitragen] unten)
+- bitte lassen Sie uns wissen, wenn etwas falsch erscheint (siehe [Beitragen] unten)
+
+
+## IFCN-Grundsatzkodex
+
+1. eine Bekenntnis zur Überparteilichkeit und Fairness
+2. ein Bekenntnis zu Standards und Transparenz der Quellen
+3. eine Bekenntnis zur Transparenz der Finanzierung und Organisation
+4. ein Bekenntnis zu Standards und Transparenz in der Methodik
+5. ein Bekenntnis zu einer offenen und ehrlichen Korrekturpolitik
+
+
+## Grundlegende Prinzipien
+
+- wir schreiben das Wörterbuch in einfacher [Markdown-Sprache](https://quarto.org/docs/authoring/markdown-basics.html)
+- wir halten die Quellversion des Wörterbuchs unter Versionskontrolle auf [github](https://github.com)
+- wir veröffentlichen das Wörterbuch unter der [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) Lizenz: 
+- CC: *C*reative *C*ommons Lizenz - garantiert, dass der Inhalt in der Public Domain erhalten bleibt
+- BY: der Urheber muss genannt werden - Transparenz und Wertschätzung
+- NC: nur *N*on*C*kommerzielle Nutzung des Werks ist erlaubt - wir wollen nicht, dass Menschen für etwas bezahlen, das frei verfügbar ist
+- ND: *N*keine *D*Ableitungen oder Bearbeitungen des Werkes sind erlaubt - verhindert Manipulationen an der heiligen Wahrheit des Inhalts 
+
+
+## Autorenprinzipien
+
+### Lesbarkeit
+
+Wir versuchen, das Wörterbuch wie ein Buch lesbar zu halten. Das bedeutet, dass wir versuchen, die Wiederholung von Inhalten zu vermeiden und stattdessen lieber auf den Teil/Kapitel/Abschnitt verweisen, der am besten geeignet ist, diesen Inhalt aufzunehmen.
+
+### Teile
+
+Das Wörterbuch ist thematisch in Teile unterteilt. Die Teile sind separate Ordner auf Github und die Namen der Teile werden in der Navigation auf der obersten Ebene des Wörterbuchs (links) angezeigt.
+
+- Ordnernamen können nicht umbenannt werden (sie sind Teil der permanenten Referenzen)
+- Die Navigationsnamen der Teile können in der Datei `_quarto.yml` umbenannt werden
+- und die Reihenfolge der Kapitel in der Navigation kann in `_quarto.yml` geändert werden
+
+### Kapitel
+
+Ein Teil besteht aus Kapitel-„*.qmd“-Dateien, Kapiteltitel werden in der zweiten Ebene der Wörterbuchnavigation (links) angezeigt.
+
+- Dateinamen müssen innerhalb ihres Ordners eindeutig sein, z.B. `intro/principles.qmd`
+- die Ordner und Dateinamen dienen als Ziel für HTML-Links, z.B. `https://disinfodict/intro/principles.html`
+- ein Kapitel hat einen Titel, z. B. `# Intro | Principles` (sichtbar in der Navigation)
+- gefolgt von einem aus dem Dateinamen abgeleiteten Querverweisziel, z. B. `{#sec-intro-principles}`, auf das mit `@sec-intro-principles` verwiesen werden kann (immer englisch und nie geändert)
+- Dateien dürfen nicht in einen anderen Teil verschoben werden (Dateispeicherorte sind Teil der permanenten Verweise)
+- Dateinamen dürfen nicht geändert werden (sie sind Teil der permanenten Verweise)
+- aber die Kapitelüberschriften können geändert werden, um das Erscheinungsbild und die Navigation zu verbessern, z.B. `# Values & Principles`
+- und die Reihenfolge der Kapitel in der Navigation kann in `_quarto.yml` geändert werden
+- ein Kapitel beginnt mit einer einsilbigen Desinformation nur in einem Callout-Hinweis („Mythos“). Wenn möglich listen wir widersprüchliche Propagandalügen.
+- unmittelbar gefolgt von einem ein- oder zweisilbigen Hinweis ('Wahrheit')
+- Das EUvsDisinfo-Symbol [![EUvsDisinfo-Symbol](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/de/disinformation-cases/?text=lies&disinfo_language%5B%5D=English&sort=relevance) bringt Sie in eine Stichwortsuche auf [euvsdisinfo.eu](https://euvsdisinfo.eu/)
+
+### Abschnitte
+
+Die Kapitel sind in *Faktenabschnitte* gegliedert:
+
+- mit prägnanten Faktenüberschriften, die in der Kapitelnavigation (rechte Seite) angezeigt werden
+- die als schnelle Erzählung gelesen werden können
+- Faktenabschnitte erweitern ihre Überschrift mit Erklärungen und Quellen
+- die Reihenfolge der Faktenabschnitte kann geändert werden
+- Abschnittsüberschriften können, sollten aber nicht geändert werden (unterbricht Links zu `<Partfoldername>/<Kapiteldateiname>#<Abschnittstitel>`)
+
+
+## Grundsätze der Nachhaltigkeit
+
+- wir bevorzugen Zitate aus nachhaltigen Quellen wie Büchern und Zeitschriften
+- wir verwenden Links, von denen wir erwarten, dass sie lange funktionieren (tote Links schaden der Sichtbarkeit in den Suchmaschinen)
+- wir bevorzugen Tabellen gegenüber Bildern
+- wir bevorzugen datenbasierte Diagramme oder anderen ausgeführten R-Code nur, wenn es unbedingt notwendig ist
+- wir verwenden Bilder nur, wenn es unbedingt notwendig ist (Bilder verursachen Netzwerkverkehr, verbrauchen Energie und stoßen CO2 aus)
+- wir minimieren die Bildgröße (svg oder png oder jpg, ≤ 1280 x 1280 Pixel und vernünftig komprimiert)
+- wir bevorzugen quadratische Bilder, und ziehen 3:4 bzw. 4:3 gegenüber 9:16 und 16:9 vor
+
+
+## Beitragen
+
+Sie können Verbesserungsvorschläge im Klartext senden - vorzugsweise als [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) *.qmd Datei - [`contribution [at] disinfodict [dot] org](mailto:contribution@disinfodict.org). Für mehrfache Beiträge können Sie das [dictionary at github](https:/github.com/disinfodict/disinfodict) forken und einen Pull-Request erstellen (siehe die [README]((https:/github.com/disinfodict/disinfodict/README.qmd)).
+

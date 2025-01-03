@@ -1,0 +1,61 @@
+# Russian opposition {#sec-russia-opposition}
+
+::: {.callout-caution title="Myth"}
+- Russian opposition is our hope for a peaceful russia
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20opposition%20&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Russian opposition can't be trusted
+- is supporting russian imperialism
+- absolves the Russian people
+- calls for an end to sanctions
+- misleads the West
+- is teethless
+- steals support from Ukraine
+:::
+
+## Russian opposition can't be trusted
+
+Russia has a tradition of "managed" opposition ...
+
+{{< lipsum 2 >}}
+
+
+## is supporting russian imperialism
+
+[Most Russians support peace talks but reject return of Crimea](https://www.washingtonpost.com/world/2022/12/13/russian-poll-peace-crimea/), and that is more or less the position of russian opposition as well^[We explicitly exclude Garry Kasparov from this statement]. See for example @sec-persons-navalny.
+
+
+## absolves the Russian people
+
+> There are many people in Russia who are against the war, who don't believe Kremlin propaganda
+> [Kara-Murza, February 8 20024](https://www.dw.com/en/prisoner-swap-russian-dissidents-conflicted-over-release/a-69844483)
+
+> It is wrong to associate Russian people with the government's policies
+> [Pivovarov, February 8 20024](https://www.dw.com/en/prisoner-swap-russian-dissidents-conflicted-over-release/a-69844483)
+
+In fact is is hundreds of thousands Ordinary Russian Citizens (ORCs), who torture and murder on Ukrainian soil. 
+
+
+## calls for an end to sanctions
+
+[Kara Murza said, sanctions against Russia would be unfair](https://www.pravda.com.ua/eng/news/2024/08/3/7468716/)
+
+{{< lipsum 2 >}}
+
+
+## misleads the West
+
+{{< lipsum 2 >}}
+
+
+## is teethless
+
+{{< lipsum 2 >}}
+
+
+## steals support from Ukraine
+
+{{< lipsum 2 >}}
+

@@ -1,0 +1,45 @@
+# Ukrainian language {#sec-language-ukraine}
+
+::: {.callout-caution title="Myth"}
+Ukrainian is not a separate language but rather a dialect of the Russian language
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=ukrainian%20language&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- The Ukrainian language differs from Russian and is closer to Polish and Belarusian.
+- During history there were multiple attempts of Russia to suppress the Ukrainian language and persecute its speakers.
+:::
+
+## Denial of Ukrainian language
+
+It is worth noting that the language issue is often seen as a component of the concept of “brotherly nations”: the two languages are often seen as linguistically close ones, which should allegedly back the theory of Ukrainians and Russians being one nation. See @sec-brothers-russia.
+
+For centuries Russia tries to deny the existence of a separate Ukrainian culture and language:
+
+> A separate Little Russian language never existed, does not exist, and shall not exist, and the tongue used by commoners (i.e. Ukrainian) is nothing but Russian corrupted by the influence of Poland
+>
+> Valuev Circular of 1863
+
+However, in fact, Ukrainian and Russian are considered only 62% lexically similar.[^222] To compare, German and Dutch are 75% similar, although no one claims Dutch to be a dialect of the German language. Actulle Ukrainian language differs from Russian and is closer to Polish and Belarusian:
+
+> In general, Ukrainian and Belarusian are also closer to other Western European languages, especially to German (via Polish). At the same time Russian was being heavily influenced by Church Slavonic (South Slavic language), but also by the Turkic and Uralic languages.
+>
+> [Wikipdia, east-slavic languages](https://en.wikipedia.org/wiki/East_Slavic_languages)
+
+[![Development of the East Slavic languages](Ostslawische_Sprachen.jpg)](https://en.wikipedia.org/wiki/Old_East_Slavic)
+
+
+## Persecution of the Ukrainian language
+
+There is also a considerable reason why until recently Ukrainian has been less popular than it is supposed to be, namely a consistent policy of Russification, which refers to a historical process of cultural, linguistic, and political assimilation imposed by the Russian Empire and later continued by the Soviet Union. In short, it is a 300-year-long record[^223] of prohibition and suppression of the Ukrainian language in Ukraine under different Russian rulers. 
+
+
+## See also
+
+The chapters on "Great Russian" culture (@sec-culture-russia), on Ukrainan culture (@sec-culture-ukraine), on warcrimes against Ukrainan culture (@sec-warcrimes-culture), on Ukrainian language (@sec-language-russia) and on russian language (@sec-language-ukraine).
+
+
+
+[^222]:  *A Colorful Map Visualizes the Lexical Distances Between Europe’s Languages: 54 Languages Spoken by 670 Million People*. (2017, August 28). Open Culture. Retrieved May 2, 2024, from https://www.openculture.com/2017/08/a-colorful-map-visualizes-the-lexical-distances-between-europes-languages.html
+
+[^223]:  *Документи про заборону української мови \[Documents banning the Ukrainian language\]*. (2016, May 10). Rid I Vira. Retrieved May 2, 2024, from https://web.archive.org/web/20160819125540/http:/ridivira.com/uk/buttia-ukraintsiv/397-dokumenty-pro-zaboronu-ukrainskoi-movy

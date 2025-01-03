@@ -1,0 +1,28 @@
+# Warcrimes – intro {#sec-warcrimes-intro}
+
+::: {.callout-caution title="Myth"}
+- Ukraine commits war crimes in Ukraine.
+- Ukraine is responsible for Russia committing war crimes in Ukraine.
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+It is Russia that is shelling civilian infrastructure, committing war crimes, and violating the rules of war - in Ukraine and in Russia
+:::
+
+Russia war crimes have been repeatedly confirmed not only by the Ukrainian side[^112] but also by international organizations.[^113]
+Beyond investigations taking place in Ukraine, more than 20 countries have now opened investigations into Russian war crimes, as defined by their national legislation. The International Criminal Court (ICC) issued arrest warrants for Russian President Vladimir Putin and Russian Commissioner for Children's Rights Maria Lvova-Belova on suspicion of kidnapping Ukrainian children (@sec-warcrimes-children).
+Moreover, the ICC continues its investigation of war crimes in Ukraine due to the address of 39 states parties to the Rome Statute, which suspect Russia of committing them.[^122]
+Furthermore, deliberate Russian assaults on civilians and essential infrastructure, such as schools, hospitals, and residential areas, have been extensively documented.
+According to findings from the UN Human Rights Office,[^126] these actions could constitute war crimes.
+
+For more evidence see the following chapters.
+
+[^112]:  Russia’s war crimes in Ukraine. (n.d.). Russia’s War in Ukraine. Retrieved May 1, 2024, from https://war.ukraine.ua/russia-war-crimes/
+
+[^113]:  UN Commission concludes that war crimes have been committed in Ukraine, expresses concern about suffering of civilians. (2022, September 23). UN Human Rights Office. Retrieved May 1, 2024, from https://www.ohchr.org/en/press-releases/2022/10/un-commission-concludes-war-crimes-have-been-committed-ukraine-expresses
+
+[^122]:  Statement of ICC Prosecutor, Karim A.A. Khan QC, on the Situation in Ukraine: Receipt of Referrals from 39 States Parties and the Opening of an Investigation. (n.d.). International Criminal Court. https://www.icc-cpi.int/news/statement-icc-prosecutor-karim-aa-khan-qc-situation-ukraine-receipt-referrals-39-states
+
+
+[^126]:  UN Commission concludes that war crimes have been committed in Ukraine, expresses concern about suffering of civilians. (2022, September 23). UN Human Rights Office. Retrieved May 1, 2024, from https://www.ohchr.org/en/press-releases/2022/10/un-commission-concludes-war-crimes-have-been-committed-ukraine-expresses

@@ -1,0 +1,46 @@
+# Kriegsverbrechen – Kriegsgefangene {#sec-warcrimes-prisoners}
+
+::: {.callout-caution title=„Myth“}
+Moskau hält sich peinlich genau an die Genfer Konventionen zur Behandlung von Kriegsgefangenen 
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20prisoners&sort=relevance)
+:::
+
+::: {.callout-tip title=„Truth“}
+Russland begeht Kriegsverbrechen an ukrainischen Kriegsgefangenen, auch an illegal inhaftiertem medizinischem und seelsorgerischem Personal
+:::
+
+Die Genfer Konvention[^99] verbietet Gewalt gegen Kriegsgefangene. Darüber hinaus wird die Rückführung von gefangenem medizinischem Personal gefordert, es sei denn, das medizinische Personal wird für die Versorgung anderer Kriegsgefangener benötigt[^2a] Dies bedeutet, dass gefangen genommenes medizinisches Personal nicht einfach inhaftiert, geschweige denn mit Gewalt behandelt werden darf.
+
+## Olenivka-Gefängnis
+
+Russland hat am 29\. Juli 2022 im Gefängnis von Oleniwka in der Region Donezk in eklatanter Weise Geiseln getötet: 53 Tote und über 130 Verletzte. Bisher konnte jedoch keine internationale Mission den Ort erreichen, um die Ursache und die genaue Zahl der Opfer zu ermitteln.[^100] 
+
+## Hinrichtungen
+
+Russland exekutiert immer mehr ukrainische Kriegsgefangene[^1a]. 
+
+![Oleksandr Matsievsky](OleksandrMatsievsky.jpg)
+
+So wurde beispielsweise der ukrainische Scharfschütze Oleksandr Matsievsky im ersten Jahr der umfassenden Invasion von den Russen gefangen genommen. Später tauchte ein Video auf, das ihn beim Rauchen seiner letzten Zigarette in einem Wald zeigt, offenbar neben einem Grab, das er hatte ausheben müssen. „Ruhm für die Ukraine“, sagt er zu seinen Entführern. Augenblicke später ertönen Schüsse und er fällt tot um. Seine Hinrichtung ist eine von vielen. Nach Angaben der ukrainischen Staatsanwaltschaft wurden seit Beginn der umfassenden Invasion mindestens 147 ukrainische Kriegsgefangene von den russischen Streitkräften hingerichtet, 127 davon im Jahr 2024.
+
+
+## Folter
+
+Russland begeht systematische Menschenrechtsverletzungen, sexuelle Gewalt und andere Formen der Folter an Kriegsgefangenen[^3a]. Sogar medizinisches Personal wird gefoltert.[^4a]   
+
+Siehe auch die Kapitel über sexuelle Gewalt (@sec-warcrimes-sexual) und Folter (@sec-warcrimes-torture).  
+
+
+
+[^99]:  Geneva Convention relative to the Treatment of Prisoners of War. (n.d.). UN Human Rights Office. Retrieved May 1, 2024, from https://www.ohchr.org/en/instruments-mechanisms/instruments/geneva-convention-relative-treatment-prisoners-war
+
+[^100]:  Lee, J. S., Oakford, S., Parker, C., & Ilyushina, M. (2022, August 6). What we know about the blast that killed Ukrainian POWs in Olenivka. Washington Post. Retrieved May 1, 2024, from [https://www.washingtonpost.com/world/2022/08/06/olenivka-prison-explosion-ukraine-russia/](https://www.washingtonpost.com/world/2022/08/06/olenivka-prison-explosion-ukraine-russia/) 
+
+[^1a]: Russia is executing more and more Ukrainian prisoners of war. (2024, December 21). [BBC news](https://www.bbc.com/news/articles/c7ve11lr247o). 
+
+[^2a]: Commentary of 1952 on Convention (I) for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field. Geneva, 12 August 1949. [International Humanitarian Law Databases.](https://ihl-databases.icrc.org/en/ihl-treaties/gci-1949/article-28/commentary/1952)
+
+[^3a]: Teils monatelange Folter von ukrainischen Kriegsgefangenen. (2024, März 15.). [Zeit online](https://www.zeit.de/politik/ausland/2024-03/kriegsgefangene-ukraine-folter-un-bericht) 
+
+[^4a]:  Ukrainische Kriegsgefangene - «Wir waren gefesselt und durften nicht auf die Toilette». (2024, November 14th). [SRF news](https://www.srf.ch/news/international/ukraine/ukrainische-kriegsgefangene-wir-waren-gefesselt-und-durften-nicht-auf-die-toilette) 
+

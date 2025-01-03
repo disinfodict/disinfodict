@@ -1,0 +1,37 @@
+# Democracy in Russia? {#sec-democracy-russia}
+
+\index{Elections}
+\index{Democracy}
+\index{Oligarchy}
+\index{Dictator}
+\index{Dictatorship}
+
+::: {.callout-caution title="Myth"}
+Russia has free elections
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(referendum%7Celections%7Coligarchy)%20Russia&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Russia never had free elections. 
+Russia fakes free elections.
+Russia was an oligarchy and now is a dictatorship.  
+:::
+
+
+
+## A
+
+
+{{< lipsum 1-2 >}}
+
+
+## B
+
+{{< lipsum 1-2 >}}
+
+
+## C
+
+{{< lipsum 1-2 >}}
+
+

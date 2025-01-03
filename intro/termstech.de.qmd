@@ -1,0 +1,253 @@
+# Begriffe & Techniken {.unnumbered}
+
+::: {.callout-caution title=„Mythos“}
+So etwas wie Wahrheit gibt es nicht.
+:::
+
+::: {.callout-tip title=„Wahrheit“}
+Die Propaganda versucht, unseren Sinn für Wahrheit zu zerstören und uns im Interesse anderer in die Irre zu führen.
+:::
+
+## Wahrheit
+
+Der Grund dafür, dass wir uns auf Wahrheiten und nicht auf Lügen konzentrieren, dass wir Lügen als solche kennzeichnen und dass wir auf Lügen sofort eine kurze korrigierende Wahrheit folgen lassen, ist dieser:
+
+> Wie Gilbert schreibt, kann der menschliche Verstand, „wenn er mit einem Mangel an Zeit, Energie oder schlüssigen Beweisen konfrontiert wird, die Ideen, die er während des Verstehens unwillkürlich annimmt, nicht akzeptieren.“
+> [Trumps Lügen vs. Ihr Gehirn](https://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658/)
+
+Um eine Lüge zu verstehen, müssen wir sie für einen Moment in unserem Kurzzeitgedächtnis haben. Wenn wir abgelenkt werden, bevor wir sie als Lüge erkennen, z.B. durch die nächste Lüge, riskieren wir, einen Strom von Lügen in unserem Langzeitgedächtnis zu speichern. Das ist der Grund, warum Propagandisten wie Donald Trump oder Sahra Wagenknecht einen schnellen Strom von Lügen ausspucken.
+
+
+## Desinformation
+
+*Fehlinformation* ist eine falsche oder irreführende Information (siehe [Wikipedia](https://en.wikipedia.org/wiki/Misinformation)).
+
+*Desinformation* ist eine Fehlinformation, die absichtlich verbreitet wird, um Menschen zu täuschen (siehe [Wikipedia](https://de.wikipedia.org/wiki/Desinformation) und [Deutsche Regierung](https://www.bundesregierung.de/breg-de/schwerpunkte/umgang-mit-desinformation/was-ist-desinformation-1875148)).
+
+Desinformation kann eine Information sein, die 
+
+- __isoliert__: aus dem Zusammenhang gerissen
+- __gerahmt__: in einen anderen Kontext gestellt
+- __manipuliert__: z.B. verfälschte Bilder
+- __erfunden__: komplett erfunden, z.B. durch KI gesteuert
+
+Die wohl am längsten anhaltende Desinformation wurde wahrscheinlich vom zaristischen Geheimdienst Ochrana verbreitet: „Die Protokolle der Weisen von Zion“ - ein zutiefst antisemitisches Pamphlet, das bis heute bei Rechtsextremen, Teilen der Linken und Islamisten sehr beliebt ist.
+
+Zu Sowjetzeiten wurde die „Operation Denver“ gestartet, bei der die UdSSR das Gerücht verbreitete, AIDS sei eine biologische Waffe der USA. Dies sollte die Aufmerksamkeit vom Einsatz chemischer Kampfstoffe in Afghanistan ablenken und war teilweise erfolgreich.
+
+Die von @White:2016 entwickelten vier D beschreiben Elemente der Desinformation. Später wurde dies auf die fünf D erweitert:
+
+- __Dismiss__: die Quelle diffamieren, die Information leugnen
+- __Distort__: Kontext und Inhalt manipulieren, Inhalte erfinden
+- __Distract__: Russland will, dass unser Denken und Reden seiner Agenda folgt, oder zumindest: nicht unserer eigenen Agenda. Selbst wenn wir ihre Desinformation entlarven, werden wir von der Wahrheit und unseren relevanten Vorbereitungen und Aktionen abgelenkt.
+- __Dismay__: einschüchtern, bedrohen und terrorisieren (nukleare Bedrohung zur Auslösung von „German Angst“)
+- __Divide__: Aikidō der Desinformation, die Macht der gegnerischen Gesellschaft nutzen, um gegen sich selbst zu kämpfen (Sponsoring von rechts und links, um zu destabilisieren und politische Auseinandersetzungen zu schüren)
+
+## Propaganda
+
+Propaganda ist eine Kommunikation, die in erster Linie dazu dient, ein Publikum zu beeinflussen oder zu überzeugen, um ein bestimmtes Ziel zu erreichen. Dabei kann es sich um eine nicht objektive Darstellung von Fakten handeln, um eine bestimmte Synthese oder Wahrnehmung zu fördern, oder um eine belastete Sprache, die eher eine emotionale als eine rationale Reaktion auf die präsentierten Informationen hervorruft. Propaganda kann in einer Vielzahl unterschiedlicher Kontexte vorkommen. [Wikipedia](https://de.wikipedia.org/wiki/Propaganda)
+
+Kriegs- und Hasspropaganda ist seit 1976 verboten. In den Verträgen der Vereinten Nationen, Kapitel IV, 4. INTERNATIONALER VERTRAG ÜBER BÜRGERLICHE UND POLITISCHE RECHTE, Artikel 20 heißt es:
+
+1. Jede Propaganda für den Krieg ist gesetzlich verboten.
+2. Jedes Eintreten für nationalen, rassischen oder religiösen Haß, das eine Aufstachelung zu Diskriminierung, Feindseligkeit oder Gewalt darstellt, ist gesetzlich verboten.
+
+Dieser [Vertrag](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-4&chapter=4&clang=_en) wurde am 18. März 1968 unterzeichnet und am 16. Oktober 1973 von der Russischen Föderation ratifiziert.
+
+
+Das von der staatlichen Nachrichtenagentur Ria Novosti veröffentlichte faschistische Manifest „[Was Russland mit der Ukraine tun sollte](https://www.blaetter.de/ausgabe/2022/mai/dokumentiert-was-russland-mit-der-ukraine-tun-sollte)“ verstößt gegen Artikel 20, es 
+
+> fordert die Beseitigung der ukrainischen Eliten und die „Entukrainisierung“ der ukrainischen Nation - sogar die Abschaffung des Namens Ukraine und die Zerstörung der ukrainischen Kultur. Die Ukrainer werden mit ähnlichen Begriffen beschrieben wie die Untermenschen der Nazis - Untermenschen, wie die Nazis nicht-arische „Minderwertige“ wie „die Massen aus dem Osten“ bezeichneten - also Juden, Roma und Slawen. 
+>
+> Das ist Faschismus pur.
+> 
+> Mit der Veröffentlichung dieser Geschichte am 3. April, dem Tag, an dem die Welt von dem schrecklichen Massaker an mindestens 400 ukrainischen Zivilisten durch die russische Armee in Buka erfuhr, hat RIA Novosti einen Zynismus erreicht, wie es ihn seit den 1930er Jahren in Europa nicht mehr gegeben hat. Dieses faschistische Manifest offenbart die schreckliche Gefahr, die das Regime des russischen Diktators Wladimir Putin heute für die Ukraine und die Welt darstellt.
+
+
+## Psychologische Kriegsführung
+
+Desinformation ist ein Teil der *psychologischen Kriegsführung*. Der Begriff „psychologische Kriegsführung“ wird verwendet, *"um jede Aktion zu bezeichnen, die hauptsächlich mit psychologischen Methoden durchgeführt wird, mit dem Ziel, eine geplante psychologische Reaktion bei anderen Menschen hervorzurufen “* [Wikipedia](https://de.wikipedia.org/wiki/Psychologische_Kriegsf%C3%BChrung).
+
+Man beachte, dass psychologische Reaktionen wie Angst, Frustration und Hoffnungslosigkeit durch eine Mischung aus Desinformation, militärischen und terroristischen Aktionen erzeugt werden. Besonders brutale Methoden wurden von Dschingis Khan nach Moskau gebracht:
+
+> Dschingis Khan, Führer des mongolischen Reiches im 13. Jahrhundert n. Chr., wandte weniger subtile Techniken an. Es war besser, den Willen des Feindes zu brechen, bevor man ihn angreifen musste, und eine einvernehmliche Lösung zu finden, als sich seinem Zorn auszusetzen. Die mongolischen Generäle verlangten die Unterwerfung unter den Khan und drohten den zunächst eroberten Dörfern mit der vollständigen Zerstörung, falls sie sich weigerten, sich zu ergeben. Wenn sie um die Einnahme der Siedlung kämpfen mussten, machten die mongolischen Generäle ihre Drohungen wahr und massakrierten die Überlebenden. Die Geschichten über die anrückenden Horden verbreiteten sich in den nächsten Dörfern und schufen eine Aura der Unsicherheit, die die Möglichkeit eines künftigen Widerstands untergrub. 
+> [Wikipedia](https://de.wikipedia.org/wiki/Psychologische_Kriegsf%C3%BChrung#cite_ref-4)
+
+Seitdem setzen russische Diktatoren brutale psychologische Kriegsführung ein, um das russische Imperium zu vergrößern und die eigene Bevölkerung zu unterdrücken. 
+
+
+## Aktive Maßnahmen (1920)
+
+*Aktive Maßnahmen* (russisch: активные мероприятия, romanisiert: aktivnye meropriyatiya) ist ein Begriff, der die politische Kriegsführung der Sowjetunion und der Russischen Föderation beschreibt. Der Begriff, der auf die 1920er Jahre zurückgeht, umfasst Operationen wie Spionage, Propaganda, Sabotage und Attentate, die auf außenpolitischen Zielen der sowjetischen und russischen Regierung beruhen [Wikipedia](https://de.wikipedia.org/wiki/Aktive_Ma%C3%9Fnahmen)
+
+Für weitere Einzelheiten siehe @Galeotti:2019 @Darczewska:2017
+
+
+## Reflexive Kontrolle (1967)
+
+Die moderne psychologische Kriegsführung ist eine Mischung aus diesen brutalen und subtileren Methoden. Der sowjetische mathematische Psychologe Vladimir Lefebvre entwickelte 1967 das Konzept der *Reflexiven Kontrolle* (@Goeij:2023). Nach @Kamphuis:2018 sind die Elemente der *Reflexiven Kontrolle*: 
+
+- __Ablenkung__: Schaffung einer realen oder imaginären Bedrohung für die Flanke oder den Rücken des Gegners in der Vorbereitungsphase von Kampfhandlungen, um ihn zu zwingen, seine Pläne anzupassen.
+- __Überlastung__ (mit Informationen): häufig große Mengen an widersprüchlichen Informationen übermitteln.
+- __Lähmung__: den Eindruck einer unerwarteten Bedrohung für ein vitales Interesse oder eine Schwachstelle erwecken.
+- Erschöpfung__: den Feind zu nutzlosen Operationen zwingen, ihn zwingen, mit reduzierten Ressourcen in den Kampf zu ziehen.
+- Täuschung__: den Feind zwingen, als Reaktion auf eine imaginäre Bedrohung in der Vorbereitungsphase des Kampfes Mittel zu verlagern.
+- Spaltung__: Akteure davon überzeugen, gegen die Interessen der Koalition zu operieren.
+- Einlullen__: den Feind davon überzeugen, dass es sich um ein im Voraus geplantes operatives Training und nicht um Vorbereitungen für Kampfhandlungen handelt.
+- Abschreckung__: den Eindruck von Überlegenheit erwecken.
+- Provokation__: den Feind zu Aktionen zwingen, die für die eigene Seite vorteilhaft sind.
+- Suggestion__: Informationen anbieten, die den Feind rechtlich, moralisch, ideologisch oder in anderen Bereichen beeinflussen.
+- Druck__: Informationen anbieten, die die gegnerischen Befehlshaber und/oder die gegnerische Regierung in den Augen der Bevölkerung diskreditieren.
+
+<!-- Memo: contains this list of lies
+1. Ethnic Russian minorities are suppressed in the Ukraine and in EU-countries;
+2. Russia is an enemy of the West and therefore the West tries to limit Russia’s global influence and power;
+3. The USA and other EU-countries organized the colour revolutions in a few post-Soviet countries that were anti-Russia oriented;
+4. Russia is a superpower and has to have the right to influence. The ‘objective’ sphere of its influence is the Commonwealth of Independent States (CIS);
+5. Russia is a stronghold in fighting modern fascism. Everything identified as anti-Soviet or anti-Russian should be labelled as fascism;
+6. Western individualism is destructive. Collective consciousness is the traditional form of consciousness for Russians;
+7. The Russian Orthodox Church is the only right religion. Morality is dying in the West. Europe becomes ‘Gay-Europe’, which is illustrated by the many homophobic rants in Russian media and society;
+8. The Russian World, the Russkiy Mir, is an alternative to ‘Gay-Europe’.
+-->
+
+Für einen Kommentar zu Russland's reflexiven Kontrolle siehe [Kommentar: Reflexive Kontrolle als Königsdisziplin russischer hybrider Kriegführung: ukrainische Entscheidungsengpässe in einem "nichtlinearen" Konflikt](https://www.bpb.de/themen/europa/ukraine-analysen/250431/kommentar-reflexive-kontrolle-als-koenigsdisziplin-russischer-hybrider-kriegfuehrung-ukrainische-entscheidungsengpaesse-in-einem-nichtlinearen-konflikt/).
+
+Für eine empirische Studie über *Reflexive Kontrolle* in Russlands Krieg gegen die Ukraine siehe @Doroshenko:2021. Für eine detaillierte Studie über *Reflexive Kontrolle* siehe @Vasara:2020
+
+
+## Hybride Kriegsführung (2007)
+
+Der Begriff *Hybrider Krieg* oder *hybride Kriegsführung* wurde von @Hoffman:2007 eingeführt und beschreibt eine flexible Mischung aus regulären und irregulären, symmetrischen und asymmetrischen, militärischen und nichtmilitärischen Konfliktmitteln, die offen und verdeckt eingesetzt werden, mit dem Ziel, die Schwelle zwischen den binären Zuständen von Krieg und Frieden, wie sie im Völkerrecht definiert sind, zu verwischen. 
+
+Die Grenze zur Perfidie, die durch die Genfer Konventionen verboten ist, ist fließend. 
+
+Die russische Invasion auf der Krim und im Donbass sind eindeutige Beispiele für hybride Kriegsführung: Russland schickte Soldaten ohne Abzeichen und behauptete, es handele sich um Separatisten, also innerukrainische Akteure, und begleitete dies mit Hasspropaganda: Der Bericht des Hohen Kommissars der Vereinten Nationen für Menschenrechte 2014 über die Lage der Menschenrechte in der Ukraine (@UN:2014) stellte fest, dass Russland während der Invasion der Krim *Hasspropaganda* einsetzte, die gegen Artikel 20 verstieß:
+
+> Mit dem Beginn der Krim-Krise kam es zu neuen Einschränkungen des freien Zugangs zu Informationen. Medienbeobachter wiesen auf einen erheblichen Anstieg der Propaganda im Fernsehen der Russischen Föderation hin, die sich parallel zu den Entwicklungen auf und um die Krim entwickelte. Es wurden auch Fälle von Hasspropaganda gemeldet. Dmitri Kiselev, russischer Journalist und kürzlich zum stellvertretenden Generaldirektor der staatlichen russischen Fernseh- und Rundfunkanstalt ernannt, hat in den Hauptnachrichten des Fernsehkanals „Rossija“ die Ukraine als „von gewalttätigen Faschisten überranntes Land“ dargestellt, Informationen über Kiewer Ereignisse verschleiert und behauptet, dass die Russen in der Ukraine ernsthaft bedroht und in physische Gefahr geraten seien, was die „Rückkehr“ der Krim in die Russische Föderation rechtfertige.
+
+
+## Firehose of Falsehoods (2016)
+
+> Die neue russische Propaganda unterhält, verwirrt und überwältigt das Publikum
+
+Laut @Paul:2016 sind die charakteristischen Merkmale der *Firehose of Falsehoods* (etwa: *Spritzflut der Unwahrheiten*) Modells für russische Propaganda folgende
+
+- Großes Nachrichtenvolumen und mehrere Kanäle (Nachrichten, die in größerem Umfang und aus mehreren Quellen empfangen werden, sind überzeugender)
+- Schnell, kontinuierlich und wiederholend (der erste Eindruck bleibt haften, Wiederholung führt zu Vertrautheit, und Vertrautheit führt zu Akzeptanz)
+- Fehlendes Engagement für die objektive Realität (gefälschte Beweise und andere Faktoren)
+- Keine Verpflichtung zur Beständigkeit (nicht erforderlich, wenn Ablenkung das Ziel ist, nicht erforderlich, wenn das Publikum nicht gewohnt ist, längere Texte zu lesen und längere Gedanken zu verarbeiten)
+
+> Psychologische Studien zeigen, dass das Gehirn, wenn es ständig mit denselben Informationen konfrontiert wird, beginnt, diese Informationen als wahr anzusehen - ungeachtet widersprüchlicher oder gegenteiliger Beweise [Desinformation und reflexive Kontrolle: Der neue Kalte Krieg](https://georgetownsecuritystudiesreview.org/2017/02/01/disinformation-and-reflexive-control-the-new-cold-war/)
+
+> This means that when the New York Times, or any other publication, runs a headline like “[Trump Claims, With No Evidence, That ‘Millions of People Voted Illegally,’](http://www.nytimes.com/2016/11/27/us/politics/trump-adviser-steps-up-searing-attack-on-romney.html)” it perversely reinforces the very claim it means to debunk.
+> [Trump’s Lies vs. Your Brain](https://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658/)
+
+> Wenn wir mit falschen oder potenziell falschen Aussagen überschüttet werden, ist unser Gehirn ziemlich schnell so überlastet, dass wir aufhören, alles zu durchschauen. 
+> [Trumps Lügen vs. Ihr Gehirn](https://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658/)
+
+> Brendan Nyhan, ein Politikwissenschaftler an der Dartmouth University, der sich mit falschen Überzeugungen beschäftigt, hat herausgefunden, dass es fast unmöglich ist, Lügen zu korrigieren, wenn die falschen Informationen spezifisch politischer Natur und Teil unserer politischen Identität sind.
+> [Trumps Lügen vs. Ihr Gehirn](https://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658/)
+
+In jüngster Zeit gibt es viele Beispiele, aber da es erst gestern vor 10 Jahren passiert ist, werde ich das Beispiel des Abschusses von MH17 durch russische Streitkräfte verwenden. Nach dem Ereignis ging die russische Propaganda auf Hochtouren und setzte die „Spritzflut der Unwahrheiten“ ein. 
+
+
+## Weaponized Narratives (2017)
+
+Der Begriff *Weaponized Narratives* (etwa: *Waffenartige Narrative*) wurde von @Allenby:2017a, @Allenby:2017b eingeführt. Nach *[The Weaponized Narrative Initiative](https://weaponizednarrative.asu.edu/)* am *The Center on the Future of War*:
+
+__Waffenartige Narrative__ ist ein Angriff, der darauf abzielt, die Zivilisation, die Identität und den Willen des Gegners zu untergraben. Durch das Erzeugen von Verwirrung, Komplexität und politischen und sozialen Spaltungen verwirrt er die Reaktion des Verteidigers.
+
+__Wie funktionieren Waffenartige Narrative?__ Eine schnelllebige Informationsflut ist das ideale Schlachtfeld für diese Art der Kriegsführung - für Guerillas und Terroristen ebenso wie für gegnerische Staaten. Eine Flut von narrativen Angriffen lässt der angegriffenen Bevölkerung nur wenig Zeit zur Verarbeitung und Bewertung. Das ist kognitiv desorientierend und verwirrend - vor allem, wenn die Gegner kaum begreifen, was auf sie einprasselt. Es bieten sich zahlreiche Gelegenheiten für emotionale Manipulationen, die den Willen des Gegners zum Widerstand untergraben.
+
+__Wie erkennt man Waffenartige Narrative?__ Die Bemühungen Russlands, sich in die Wahlen westlicher Demokratien - darunter Frankreich und Deutschland sowie die Vereinigten Staaten - einzumischen, sind in den Nachrichten. Das waffenartige Narrativ des Islamischen Staates war äußerst effektiv. Sogar politische Bewegungen haben das Thema aufgegriffen, wie man am Aufstieg der Alt-Right-Bewegung in den Vereinigten Staaten und Europa sehen kann. Kurz gesagt, viele verschiedene Arten von Gegnern haben waffenartige Narrative als vorteilhaft in diesem Kampfraum empfunden. Weitere aktuelle Ziele sind die Ukraine, der Brexit, die NATO, das Baltikum und sogar der Papst.
+
+
+## Foreign Information Manipulation and Interference (FIMI)
+
+Die Manipulation und Beeinflussung ausländischer Informationen (Foreign Information Manipulation and Interference - FIMI) - oft auch als „Desinformation“ bezeichnet - ist eine wachsende politische und sicherheitspolitische Herausforderung für die Europäische Union. In Anbetracht der außen- und sicherheitspolitischen Komponente hat der Europäische Auswärtige Dienst eine führende Rolle bei der Auseinandersetzung mit diesem Thema übernommen. Seit 2015, als das Problem erstmals auf der politischen Agenda der EU auftauchte, haben wir unsere Kapazitäten zur Bewältigung der FIMI-Herausforderung erheblich ausgebaut.
+
+### Europäischer Auswärtiger Dienst – EAD
+
+Definition von FIMI: Der [EAD](https://www.eeas.europa.eu/eeas/tackling-disinformation-foreign-information-manipulation-interference_en?etrans=de) definiert FIMI als ein Verhaltensmuster, das Werte, Verfahren und politische Prozesse bedroht oder negativ beeinflussen kann. Solche Aktivitäten haben einen manipulativen Charakter und werden absichtlich und koordiniert durchgeführt. Akteure dieser Tätigkeit können staatliche oder nichtstaatliche Akteure sein, einschließlich ihrer Stellvertreter innerhalb und außerhalb ihres eigenen Hoheitsgebiets. 
+
+Seit 2015 führt die East Stratcom Task Force (ESTF) die Kampagne [EUvsDisinfo](https://www.euvsdisinfo.eu) durch, um kremlfreundliche Desinformation, Informationsmanipulation und Einmischung zu überwachen, zu analysieren und zu bekämpfen. Das Aushängeschild der Kampagne ist die Datenbank mit kremlfreundlichen Desinformationsfällen, die regelmäßig aktualisiert und entlarvt wird.
+
+
+### FIMI-ISAC
+
+Das [Foreign Information Manipulation and Interference (FIMI) - INFORMATION SHARING AND ANALYSIS CENTRE (ISAC)](https://fimi-isac.org) ist eine Gruppe gleichgesinnter Organisationen, die sich für den Schutz demokratischer Gesellschaften, Institutionen und der kritischen Informationsinfrastrukturen der Demokratie vor Manipulationen und Schäden von außen einsetzen. Durch die Zusammenarbeit ermöglicht der FIMI-ISAC seinen Mitgliedern, FIMI schneller und effektiver zu erkennen, zu analysieren und zu bekämpfen und dabei den Grundwert der Meinungsfreiheit zu wahren.
+
+FIMI-ISAC hat 2024 seinen ersten Bericht über ausländische Einflussnahme auf Wahlen veröffentlicht: [FIMI-ISAC Collective Findings I: Elections](https://fimi-isac.org/wp-content/uploads/2024/10/FIMI-ISAC-Collective-Findings-I-Elections.pdf)
+
+
+### Agentur der Europäischen Union für Cybersicherheit (ENISA)
+
+Die [Agentur der Europäischen Union für Cybersicherheit (ENISA)](https://www.enisa.europa.eu/) arbeitet mit Organisationen und Unternehmen zusammen, um das Vertrauen in die digitale Wirtschaft zu stärken, die Widerstandsfähigkeit der EU-Infrastruktur zu verbessern und letztlich die digitale Sicherheit der EU-Bürger zu gewährleisten. Sie tut dies durch den Austausch von Wissen, die Entwicklung von Personal und Strukturen und die Sensibilisierung. Der EU-Cybersicherheitsakt hat die Arbeit der Agentur gestärkt.
+
+Siehe auch „Foreign Information Manipulation and Interference (FIMI) and Cybersecurity - Threat Landscape“ (@ENISA:FIMI:2022:de)
+
+<!--
+### DISARM Framework
+
+Foreign information manipulation and interference (FIMI) presents a growing political and security challenge, which is why there is a need for a common defence framework. Disinformation Analysis and Risk Management (DISARM) is an open-source, master framework that draws on best practices in global cybersecurity. The DISARM framework contributes to FIMI defence through the coordination of effective action. 
+
+The Hybrid CoE Research Report examines the DISARM framework and its suitability for rapid adoption by strategic communications practitioners, and its credibility for specialist FIMI threat analysts (@Newman:2022).
+
+Henin:2023
+https://www.disinfo.eu
+
+https://www.disinfo.eu/wp-content/uploads/2023/04/20230412_FIMI-FS-FINAL.pdf
+
+
+https://www.alfredlandecker.org/en/projects/alliance4europe-disarm-foundation
+https://alliance4europe.eu
+https://www.disarm.foundation/framework
+-->
+
+## Prebunking
+
+[prebunking.withgoogle.com](https://prebunking.withgoogle.com/), ist eine Zusammenarbeit zwischen der Universität Cambridge, Jigsaw (Google) und BBC Media Action. Das Social Decision-Making Lab der Universität Cambridge war führend bei der Entwicklung von Prebunking-Ansätzen, die auf der Impftheorie beruhen und darauf abzielen, die Widerstandsfähigkeit der Menschen gegenüber Falsch- und Desinformationen zu stärken. 
+
+Die Website erklärt [Common Manipulation Techniques](https://prebunking.withgoogle.com), erklärt [How To Prebunk](https://prebunking.withgoogle.com/how-to-prebunk/), listet [Resources and Case Studies](https://prebunking.withgoogle.com/resources/) und [Current Initiatives](https://prebunking.withgoogle.com/eu-prebunking/) auf und bietet ein [Quiz](https://prebunking.withgoogle.com/quiz/). Die Kurzbeschreibungen hier stammen von ihrer Website und ihrem vollständigen [Practical Guide to Prebunking Misinformation](https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf).
+
+Prebunking ist eine Technik, um Manipulationen im Internet vorzubeugen. Prebunking-Botschaften sollen Menschen dabei helfen, manipulative Inhalte zu erkennen und ihnen zu widerstehen. Indem sie die Menschen vorwarnen und sie in die Lage versetzen, irreführende Argumente zu erkennen und zu widerlegen, helfen diese Botschaften den Betrachtern, sich gegen künftige Irreführungen zu wappnen.
+
+Es gibt zwei vorherrschende Formen des Prebunking, die Fehlinformationen auf einer höheren Ebene behandeln
+über spezifische Fehlinformationsbehauptungen hinaus. Beide befassen sich mit unterschiedlichen Arten von Fehlinformationen:
+
+- Fehlinformationsnarrative
+- Fehlinformationstechniken
+
+### Fehlinformationsnarrative
+
+Fehlinformationen im Internet treten oft in Form von Behauptungen oder Meinungen zu einem bestimmten Thema auf. Einzelne Desinformationsbehauptungen können jedoch oft in ein breiteres Narrativ einfließen. Themenbezogenes Prebunking befasst sich mit den breiteren, anhaltenden Narrativen von Fehlinformationen, die über spezifische Behauptungen hinausgehen.
+
+Die Bekämpfung einzelner Fehlinformationsbehauptungen ist zeitaufwändig und reaktiv, während das Prebunking breiter angelegter Narrative die Grundlagen mehrerer Behauptungen auf einmal entkräften kann und viel effektiver ist, wenn es darum geht, Widerstand gegen neue Behauptungen zu leisten, die diese falsche Grundlage teilen.
+
+### Fehlinformationstechniken
+
+Das technikbasierte Prebunking konzentriert sich auf die Taktiken zur Verbreitung von Fehlinformationen. Während
+die Informationen, die zur Manipulation und Beeinflussung von Personen im Internet verwendet werden, sehr unterschiedlich sein können sehr unterschiedlich sein können, wiederholen sich die Techniken, die zur Irreführung eingesetzt werden, oft themenübergreifend und über
+Zeit. 
+
+
+## Dezentrale Informationskriegsführung
+
+Die russische Informationskriegsführung ist staatlich gefördert, zentralisiert und offensiv. Westliche Demokratien betreiben keine staatlich geförderten und zentralisierten Trollfabriken, die Desinformationen verbreiten (und werden dies auch nie tun). Westliche Demokratien sind mit Sicherheit defensiv und daher in der Informationskriegsführung benachteiligt. Westliche Demokratien haben bisher keine 
+
+- offensive Prebunking-Kampagnen
+- groß angelegte Einrichtungen, die Desinformation in Echtzeit bekämpfen
+- Bestrafung der Urheber und Verbreiter bösartiger Desinformationen
+
+Bis zum vollständigen Einmarsch Russlands in die Ukraine litten die westlichen Demokratien weitgehend hilflos unter der russischen Desinformation, die sich mit der Popularität der Fragmentierung privater Online-Presseorgane und insbesondere sozialer Netzwerke noch verschlimmerte. 
+
+Mit dem vollständigen Einmarsch Russlands in die Ukraine trat ein neues Phänomen auf: Die dezentralisierte Informationskriegsführung. Eine internationale Graswurzelbewegung namens [Nordatlantic Fella Organisation (NAFO)](https://nafo-ofan.org/pages/we-are-nafo) entstand: Engagierte Bürger auf der ganzen Welt bekämpfen russische Desinformation und unterstützen den ukrainischen Kampf für Freiheit und Frieden. Hier einige Artikel über die NAFO:
+
+
+- 2023-01-25: [Dezentralisierung ist die größte Stärke der NAFO](https://emerging-europe.com/opinion/why-decentralisation-is-nafos-greatest-strength/)
+- 2023-12-23: [Meinung: NAFO führt den Meme-Krieg der Ukraine](https://kyivindependent.com/opinion-nafo-and-ukraines-meme-war/)
+
+- 2024-06-24: [NAFO FORDERT EIN WEITERES HOCHRANGIGES OPFER](https://www.lucorg.com/nafo-claims-another-high-profile-victim/)
+- 2024-07-01: [NAFO fordert ein weiteres prominentes Opfer: Kampf gegen Desinformation](https://hackernoon.com/lang/de/Nafo-fordert-im-Kampf-gegen-Desinformation-ein-weiteres-prominentes-Opfer)
+- 2024-12-11: [Das Zeitalter der dezentralen Informationskriegsführung ist da](https://irregularwarfare.org/articles/the-age-of-decentralized-information-warfare-is-here/)
+- 2024-10-08: [Militärische Lehren für die NATO aus dem Russland-Ukraine-Krieg](https://henryjacksonsociety.org/publications/military-lessons-for-nato-from-the-russia-ukraine-war-preparing-for-the-wars-of-tomorrow/)

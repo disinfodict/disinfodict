@@ -1,0 +1,12 @@
+# Ceasefire {#sec-peace-ceasefire}
+
+::: {.callout-caution title="Myth"}
+Ceasefire is peace
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=peace&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Russia will use a ceasefire to prearm further and continue the genocide in the occupied territories
+:::
+
+{{< lipsum 1-2 >}}

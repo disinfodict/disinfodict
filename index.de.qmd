@@ -1,0 +1,15 @@
+# Willkommen {.unnumbered}
+
+Dieses Wörterbuch konsolidiert und entlarvt chronische Desinformationsnarrative, die von verschiedenen Fact-Checking-Organisationen aufgedeckt wurden.
+
+::: {.content-visible when-format="latex"}
+Das Desinformations-Wörterbuch © 2024 von Fellas & Partnern ist lizensiert unter CC BY-NC-ND 4.0. Für die vollständige Lizenz siehe [creativecommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+:::
+
+::: {.content-visible when-format="html"}
+Zum barrierefreien Lesen und Hören empfehlen wir die e-book 'epub' downloads in den Sprachen [Deutsch]({{<meta book.site-url>}}/de/Desinformations-Wörterbuch.epub) und [Englisch]({{<meta book.site-url>}}/Disinformation-Dictionary.epub).
+
+Diese Webseite ist mehrsprachig: Um die Sprache zu wechseln, klicken Sie auf das Globus-Icon oben links. Diese Seite hat mehrere Formate: Sie können sie online lesen oder als pdf, epub oder docx herunterladen, indem Sie auf das Download-Icon oben links klicken. Die Teil- und Kapitelnavigation befindet sich auf der linken Seite, die Abschnittsnavigation auf der rechten Seite. Um die Abschnittsnavigation auf dem Smartphone sichtbar zu machen, verwenden Sie das Smartphone einfach im Querformat. Um mit dem Lesen zu beginnen, klicken Sie auf „Vorwort“ rechts in der unteren Navigation.
+
+Das Desinformations-Wörterbuch © 2024 von Fellas & Partnern ist lizensiert unter CC BY-NC-ND 4.0. Für die vollständige Lizenz siehe [creativecommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+:::

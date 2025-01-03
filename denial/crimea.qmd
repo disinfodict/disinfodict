@@ -1,0 +1,30 @@
+# Green men? {#sec-denial-crimea}
+
+::: {.callout-caution title="Myth"}
+- Crimea never was ukrainian
+- Crimea is not annexed
+- Crimea decided its own fate
+- "Green men" are not russian soldiers
+- Russia saved Crimea
+- European leaders have accepted the loss of Crimea
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=crimea&date=01.01.2014%20-%2001.01.2018&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+TODO
+:::
+
+
+## A
+
+{{< lipsum 1-2 >}}
+
+## B
+
+{{< lipsum 3-4 >}}
+
+## C
+
+{{< lipsum 5-6 >}}
+
+

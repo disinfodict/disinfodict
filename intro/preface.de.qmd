@@ -1,0 +1,17 @@
+# Vorwort {.unnumbered}
+
+Dieses Wörterbuch konsolidiert und entlarvt chronische Desinformationsnarrative, die von mehreren Fact-Checking-Organisationen aufgedeckt wurden.
+
+Es ist in englischer, deutscher und ukrainischer Sprache verfügbar. Es kann im Internet gelesen oder als PDF oder heruntergeladen werden.
+
+Das Wörterbuch ist nach Themenbereichen mit einem oder mehreren Kapiteln mit einem oder mehreren Abschnitten gegliedert.
+
+Die Qualität der Inhalte wird von unseren Partnern überwacht, siehe im Anhang unter *Team & Partners*.
+
+Wenn Sie sich nach unserem Logo fragen, es ist so hergeleitet
+
+![DisinfoDict Logo](../all_common_img/DisinfoDict_logo_2.7x1.png){width=30%}
+
+und ist schließlich
+
+![DifD Logo](../all_common_img/DisinfoDict_logo_1x1_trans.png){width=30%}

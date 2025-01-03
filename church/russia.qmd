@@ -1,0 +1,51 @@
+# Church in Russia? {#sec-church-russia}
+
+::: {.callout-caution title="Myth"}
+Russian Orthodox Church defends traditional family values.
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=church%20russia&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+The Russian Orthodox Church is a KGB/FSB organization that helps to oppress Russians and wage war against Ukrainian Christians.
+:::
+
+See also the chapter on russian values @sec-russia-values.
+
+
+
+https://en.wikipedia.org/wiki/Russian_Orthodox_Church
+
+## TODO
+
+{{< lipsum 1-2 >}}
+
+## WWII and NKVD
+
+{{< lipsum 3-4 >}}
+
+## Persecution under Khrushchev
+
+While the Russian Orthodox Church was brutally persecuted under Stalin, it experienced a revival after his death, albeit under strict control by the KGB and later the FSB. Under Stalin, religious institutions were heavily suppressed, and their members persecuted. [^262]
+
+## Glasnost and KGB
+
+After Stalin's death, the Church was formally recognized again, but the KGB used it to control the population and closely monitored its activities. [^263] This control continued under the FSB, and high-ranking church officials such as Patriarch Kirill had connections with the KGB.[^264] 
+
+## Warmonger Kirill
+
+Patriarch Kirill of the Russian Orthodox Church, while urging the clergy to abandon “flashy and provocative luxury,” possesses multiple million-dollar properties.[^265] Kirill, who was spying for the KGB in Switzerland in the 1970s,[^266] publicly supported Russia’s aggression against Ukraine. His predecessor, Patriarch Alexy II was a KGB agent as well.[^267]
+
+
+
+[^262]:  Döpmann, H. D. (n.d.). Stalin und die Russische Orthodoxe Kirche. [https://www.kommunismusgeschichte.de/jhk/jhk-2003/article/detail/stalin-und-die-russische-orthodoxe-kirche](https://www.kommunismusgeschichte.de/jhk/jhk-2003/article/detail/stalin-und-die-russische-orthodoxe-kirche)
+
+[^263]:  Steiner, E. (2003, January 22).  Gleb Jakunin: “Orthodoxie War Filiale Des KGB. ” DIE FURCHE. [https://www.furche.at/wirtschaft/gleb-jakunin-orthodoxie-war-filiale-des-kgb-1295599](https://www.furche.at/wirtschaft/gleb-jakunin-orthodoxie-war-filiale-des-kgb-1295599) 
+
+[^264]:  ZDFheute, (2023, February 7). Schweizer Bundespolizei: Kyrill I. war KGB-Agent. ZDFheute. [https://www.zdf.de/nachrichten/panorama/schweizer-bundespolizei-kyrill-kgb-agent-100.html](https://www.zdf.de/nachrichten/panorama/schweizer-bundespolizei-kyrill-kgb-agent-100.html) 
+
+[^265]:  (2023, July 20). Russian Orthodox leader calls on clerics to forgo luxurious lifestyles. The Moscow Times. [https://www.themoscowtimes.com/2023/07/20/russian-orthodox-leader-calls-on-clerics-to-forgo-luxurious-lifestyles-a81907](https://www.themoscowtimes.com/2023/07/20/russian-orthodox-leader-calls-on-clerics-to-forgo-luxurious-lifestyles-a81907) 
+
+[^266]:  (2023, February 6). Russian Patriarch Kirill spied in Switzerland for KGB in 70s – Media. The Moscow Times. [https://www.themoscowtimes.com/2023/02/06/russian-patriarch-kirill-spied-in-switzerland-for-kgb-in-70s-media-a80151](https://www.themoscowtimes.com/2023/02/06/russian-patriarch-kirill-spied-in-switzerland-for-kgb-in-70s-media-a80151) 
+
+[^267]:  (1999, February 12). Russian Patriarch 'was KGB spy'. The Guardian. [https://www.theguardian.com/world/1999/feb/12/1](https://www.theguardian.com/world/1999/feb/12/1) 
+

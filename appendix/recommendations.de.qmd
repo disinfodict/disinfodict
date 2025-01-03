@@ -1,0 +1,54 @@
+# Empfehlungen {.unnumbered}
+
+## Lehrmaterialien
+
+- Leitlinien für Lehrkräfte und pädagogische Fachkräfte zur Bekämpfung von Desinformation und zur Förderung der digitalen Kompetenz durch allgemeine und berufliche Bildung (@ECDE:2022:de)
+- Desinformation entlarven und bekämpfen : Toolkit für Lehrkräfte (@ECDC:2024:de)
+
+## NGOs
+
+- [fellas4europe](https://fellas4europe.org/)
+- [EUvsDisinfo](https://euvsdisinfo.eu/ukraine/)
+- [StopFake](https://www.stopfake.org/de)
+- [MIMIKAMA - zuerst denken - dann klicken](https://www.mimikama.org/)
+
+
+## Russischer Medienmonitor
+
+Russische Medien und das russische Fernsehen veröffentlichen jeden Tag Aufrufe zur Vernichtung des ukrainischen Militärs, der ukrainischen Kultur und des ukrainischen Volkes. Eine ausgezeichnete Quelle hierfür ist der *Russian Media Monitor* von Julia Davis - Investigative Reporterin, russische Medienanalystin und Kommentatorin unter [www.russialies.com](http://www.russialies.com).
+
+## Bund
+
+- [FAQ Desinformation im Kontext des russischen Angriffskrieges gegen die Ukraine, Bundesministerioum des Inneren und für Heimat](https://www.bmi.bund.de/SharedDocs/faqs/DE/themen/heimat/desinformation/faq-liste-desinformation.html)  <!-- [](https://www.demokratie-leben.de) -->
+- [Bundeszentrale für politische Bildung](https://www.bpb.de/themen/medien-journalismus/digitale-desinformation/)
+
+## [Zentrum Liberale Moderne](https://libmod.de/)
+
+- [NARRATIV-CHECK](https://libmod.de/narrativcheck/)
+- [Gegenmedien als Radikalisierungsmaschine](https://gegenmedien.info/)
+- [gegner analyse](https://gegneranalyse.de/)
+
+## ÖRR
+
+- [ARD Faktenfinder](https://www.tagesschau.de/faktenfinder)
+- [BR Faktenfuchs](https://www.br.de/nachrichten/faktenfuchs-faktencheck,QzSIzl3)
+- [ZDF investigativ](https://www.zdf.de/nachrichten/thema/zdf-investigativ-100.html)
+
+
+## Bücher
+
+- [LEXIKON FÜR PUTIN-VERSTEHER](https://www.edition-fototapeta-shop.de/p/lexikon-fuer-putin-versteher)
+- [Putins Netz](https://de.wikipedia.org/wiki/Putins_Netz)
+- [Die Moskau-Connection](https://de.wikipedia.org/wiki/Die_Moskau-Connection)
+
+
+## Experten
+
+Der Desinformationsanalyst Dietmar Pichler baut ein [Disinformation Resilience Network (DRN)](https://www.disinforesilience.eu) auf, eine gemeinnützige und überparteiliche Organisation, die sich der Analyse der Auswirkungen von Desinformation, Propaganda und extremistischen Ideologien durch ausländische und inländische Akteure auf den Informationsraum demokratischer Gesellschaften widmet.
+
+DRN bietet eine Plattform für Experten aus verschiedenen Bereichen wie Politikwissenschaft, Journalismus, Geschichte, Sicherheit und Diplomatie, um Ideen auszutauschen, zusammenzuarbeiten und sich zu vernetzen. DRN arbeitet eng mit nationalen und internationalen Organisationen, Pädagogen, Analysten und Interessenvertretern zusammen, die für diese Themen relevant sind.
+
+Am 29. November 2024 trafen sich unter dem Titel [Foreign Interference, Subversion & Disinformation](https://www.disinforesilience.eu/2024/12/09/foreign-interference-and-disinformation-conference-in-vienna-analyzes-the-local-and-international-situation/) Experten, Diplomaten und Vertreter aus Politik und Zivilgesellschaft zu einem Meinungsaustausch.
+
+<!-- Die Linguistin [Dr. Annamária Fábián] (https://www.gl.uni-bayreuth.de/de/team/A-Fabian/) kennt sich mit Desinformation aus und hat ein interessantes Buch über politische Kommunikation geschrieben (siehe TODO) -->
+

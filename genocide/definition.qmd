@@ -1,0 +1,78 @@
+# Genocide definition {#sec-genocide-definition}
+
+::: {.callout-caution title="Myth"}
+What is Genocide? A Nazi thing!? 
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20holodomor&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+A genocide committed by the Russians was the reason for the invention of the term 'genocide'.
+:::
+
+## Lemkin I
+
+{{< lipsum 2 >}}
+
+
+## Holodomor
+
+{{< lipsum 2 >}}
+
+
+## Holocaust
+
+{{< lipsum 2 >}}
+
+## UN Genocide Convention 1948
+
+A specific "intent to destroy" is the mens rea requirement of genocide.
+
+* Killing members of the group
+* Causing serious bodily or mental harm to members of the group
+* Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part
+* Imposing measures intended to prevent births within the group
+* Forcibly transferring children of the group to another group
+
+Punished are
+
+* Attempted genocide 
+* conspiracy to commit genocide
+* incitement to genocide
+* complicity in genocide are criminalized
+* successful
+
+
+## Stalin
+
+{{< lipsum 2 >}}
+
+
+## Lemkin II
+
+{{< lipsum 2 >}}
+
+## Mace
+
+https://en.wikipedia.org/wiki/James_Mace
+https://x.com/OlenaWave/status/1860385111956492406
+
+
+## Kotkin 
+
+@Kotkin:2014, @Kotkin:2017
+
+{{< lipsum 2 >}}
+
+
+## Applebaum
+
+@Applebaum:2017
+
+{{< lipsum 2 >}}
+
+
+## Etkind 2023
+
+@Etkind:2023
+
+{{< lipsum 2 >}}

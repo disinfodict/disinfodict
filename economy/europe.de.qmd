@@ -1,0 +1,50 @@
+# Wirtschaft in Europa {#sec-economy-europe}
+
+::: {.callout-caution title=„Myth“}
+Die EU kann ohne russische Energie nicht überleben
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(economy%7Cinflation)%20russia&sort=relevance)
+:::
+
+::: {.callout-tip title=„Truth“}
+- Europa hat es geschafft, mit einem Jahr unabhängig von russischem Gas zu werden: niemand hat gefroren
+- Europa ersetzt fossile Brennstoffe durch billigere erneuerbare Energien aufgrund der globalen Überhitzung
+:::
+
+## **Mythos 14: Die EU kann ohne russische Energieressourcen nicht überleben** {#mythos-14:-die-eu-kann-ohne-russische-energieressourcen-nicht-überleben}
+
+| ” | *“Der Winter kann relativ warm sein, aber eine Woche oder fünf Tage lang kann es ungewöhnlich kalt sein. In dieser kurzen Zeitspanne können, Gott bewahre, ganze Städte, ganze Länder gefrieren.” —Alexei Miller, Vorsitzender von Gazprom* [^172] |
+| :---- | ----- |
+
+Russlands Invasion in die Ukraine hat eine schnelle und tiefgreifende Neubewertung der Energieversorgung der Europäischen Union ausgelöst, da sich die Entkopplung der Energieversorgung zwischen Europa und Russland stark beschleunigt hat.
+
+Es gab Versuche, die Auswirkungen der Reduzierung der russischen Energieflüsse in die EU zu untersuchen, wobei sich die meisten Analysen auf die Berechnung der wirtschaftlichen Auswirkungen, insbesondere im Zusammenhang mit Erdgas, konzentrierten. Allein im Jahr 2022 reduzierte Russland seine Erdgaslieferungen nach Europa um mehr als 80 %.[^173] Darüber hinaus beschloss Europa ein Embargo für russische Kohleimporte und ab Februar 2023 ein Embargo für 90 % der Rohöl- und Ölprodukte (einschließlich Benzin und Diesel), die es aus Russland importiert.[^174]
+
+In Reaktion auf die Herausforderungen, die durch Russlands Invasion in die Ukraine entstanden sind, hat die Europäische Kommission im Mai 2022 den REPower EU-Plan initiiert.[^175] Dieser Plan konzentriert sich auf Energieeinsparungen, die Förderung sauberer Energieerzeugung, die Diversifizierung der Energieversorgung und die Beschleunigung des Übergangs zu erneuerbaren Energien. Der Krieg hat die Umstellung der EU auf erneuerbare Energien beschleunigt, so dass Wind- und Solarenergie im Jahr 2022 zum ersten Mal Gas als Stromquelle überholt haben.[^176] Im Jahr 2023 betrug der Anteil des russischen Gases an den gesamten Gasimporten der EU 15 %, was einen Rückgang gegenüber 24 % im Jahr 2022 und einen deutlichen Rückgang gegenüber dem Vorkriegsniveau von 45 % bedeutet. Insgesamt sind die Gasimporte aus Russland seit 2021 um 71 % zurückgegangen.[^177] Infolgedessen wurden Norwegen und die USA im Jahr 2023 mit 30 % bzw. 19 % der gesamten Gaseinfuhren zu den wichtigsten Gaslieferanten der EU.[^178] Die Europäische Union hat angekündigt, dass sie ihre Abhängigkeit von russischen Energiequellen erfolgreich reduziert hat.[^179]
+
+![EU Gesamt-Gas-Importe](EU_total_gas_imports.jpg)
+
+Auch die Kosten der Sanktionen für den Energiesektor erschienen nicht hoch. Die von einer Gruppe deutscher Wirtschaftswissenschaftler unter der Leitung von Rüdiger Bachmann durchgeführten Untersuchungen deuten beispielsweise darauf hin, dass “eine Unterbrechung der Energieeinfuhr zu einem Rückgang des BIP zwischen 0,5 % und 3 % führen würde, was auf jeden Fall geringer ist als der Rückgang des deutschen BIP um 4,5 % im Jahr 2020 aufgrund der COVID-19-Pandemie”.[^180]
+
+Trotz Bemühungen, die Lieferungen zu reduzieren, haben die russischen Exporte von Flüssigerdgas (LNG) in die EU seit der Invasion der Ukraine zugenommen.[^181] Die in Brüssel ansässige wirtschaftswissenschaftliche Denkfabrik Bruegel hat in einer umfassenden Studie nachgewiesen, dass die EU ohne russisches LNG auskommen kann, und politische Optionen vorgestellt, um dies zu erreichen.[^182]
+
+
+[^173]:  McWilliams, B., Sgaravatti, G., Tagliapietra, S., & Zachmann, G. (2023, March). *How would the European Union fare without Russian energy?* ScienceDirect. https://doi.org/10.1016/j.enpol.2022.113413n
+
+[^174]:  McWilliams, B., Sgaravatti, G., Tagliapietra, S., & Zachmann, G . (2024, February 22). *The European Union-Russia energy divorce: state of play*. Bruegel. Retrieved May 2, 2024, from https://www.bruegel.org/analysis/european-union-russia-energy-divorce-state-play
+
+[^175]:  *REPowerEU*. (n.d.). European Commission. https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe\_en
+
+[^176]:  Jones, D., Brown S. , & Dr. Czyżak, P. (2023, January 31). *European Electricity Review 2023 | Ember*. Ember. Retrieved May 2, 2024, from [https://ember-climate.org/insights/research/european-electricity-review-2023/](https://ember-climate.org/insights/research/european-electricity-review-2023/) 
+
+[^177]:  *Remarks by Commissioner Simson at the press conference of the Energy Council*. (2024, March 4). European Commission. Retrieved May 2, 2024, from https://ec.europa.eu/commission/presscorner/detail/ltn/speech\_24\_1303
+
+[^178]:  *In focus: EU energy security and gas supplies*. (2024, February 15). European Commission. Retrieved May 2, 2024, from https://energy.ec.europa.eu/news/focus-eu-energy-security-and-gas-supplies-2024-02-15\_en
+
+[^179]:  *In focus: EU energy security and gas supplies*. (2024, February 15). European Commission. Retrieved May 2, 2024, from https://energy.ec.europa.eu/news/focus-eu-energy-security-and-gas-supplies-2024-02-15\_en
+
+[^180]:  *What if? The Economic Effects for Germany of a Stop of Energy Imports from Russia*. (2022, March 7). www.econtribute.de. Retrieved April 29, 2024, from [https://www.econtribute.de/RePEc/ajk/ajkpbs/ECONtribute\_PB\_028\_2022.pdf](https://www.econtribute.de/RePEc/ajk/ajkpbs/ECONtribute_PB_028_2022.pdf) 
+
+[^181]:  O’Carroll, & Jones. (2023, August 30). *EU imports of Russian liquified gas leap by 40% since Ukraine invasion*. The Guardian. Retrieved May 2, 2024, from [https://www.theguardian.com/business/2023/aug/30/eu-imports-of-russian-liquified-gas-leap-by-40-since-ukraine-invasion\#:\~:text=EU%20imports%20of%20Russian%20liquified%20natural%20gas%20(LNG)%20have%20increased,efforts%20to%20cut%20down%20supplies](https://www.theguardian.com/business/2023/aug/30/eu-imports-of-russian-liquified-gas-leap-by-40-since-ukraine-invasion#:~:text=EU%20imports%20of%20Russian%20liquified%20natural%20gas%20\(LNG\)%20have%20increased,efforts%20to%20cut%20down%20supplies). 
+
+[^182]:  McWilliams, B., Sgaravatti, G., Tagliapietra, S., & Zachmann, G . (2023, June 28). *The EU can manage without Russian liquified natural gas*. Bruegel. Retrieved May 2, 2024, from https://www.bruegel.org/policy-brief/eu-can-manage-without-russian-liquified-natural-gas
+

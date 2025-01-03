@@ -1,0 +1,55 @@
+# Lessons from Ukraine {.unnumbered}
+
+::: {.callout-caution title="Myth"}
+There is nothing the EU can learn from Ukraine
+:::
+
+::: {.callout-tip title="Truth"}
+The EU can learn a lot about how to counter russian hybrid warfare. 
+Here we focus on countering disinformation.
+:::
+
+The [Hybrid CoE Research Report](https://dfrlab.org/2024/01/24/how-ukraine-fights-russian-disinformation-beehive-vs-mammoth), a joint effort between the European Centre of Excellence for Countering Hybrid Threats and the Digital Forensic Research Lab (DFRLab), focuses on Ukrainian best practices in countering disinformation, mainly in the period following Russia’s February 2022 full-scale invasion (FSI) of Ukraine. However, many of these practices are the result of an evolution spanning the decade since the Euromaidan revolution. The report identifies the following ten lessons that the West could learn from the unique Ukrainian experience.
+
+Here we show the summary lessons, for more information consult @Kalensky:2024.
+
+## 1. Laying a solid foundation is fundamental
+
+A monitoring system so extensive that it generates overlap is a must. Rapidly refuting the lies, debunking disinformation, and setting the record straight are necessary conditions for successfully countering the disinformation campaigns. Action of any kind should be prioritized, contemplation must not paralyze efforts to fight back, and trial and error is both permitted and encouraged.
+
+## 2. Numbers are crucial
+
+Numbers really matter, be they human resources, financial resources, the number of different countermeasures and the various actors implementing them, or the repetition of key narratives from as many speakers as possible. Despite the fact that Ukrainians are putting far greater resources into counter-disinformation efforts than most Western countries, they understand that the aggressor still outstrips them.
+
+## 3. Overlap is not a drawback, but rigidity is
+
+The overlap between various monitoring, debunking, and counter-disinformation efforts is encouraged, not avoided. More actors working on the same topic means more reliable output, faster responses, and safeguards against the failure of one of them. In coordination, the loose nature and lack of formal procedures facilitates and speeds up responses.
+
+## 4. Cherish the role of civil society
+
+No government in the world can tackle the problem of disinformation alone. Civil society is absolutely crucial. Ukraine has shown how a vibrant, active and energetic civil society, constantly coming up with new ideas, protected the information space even before the government entered the scene, and how crucial it still is for many target audiences.
+
+## 5. Preparation is essential, but not a panacea
+
+Preparation for the conflict was vital; it is important not only to prepare contingency plans and ensure that the relevant teams are ready to act in the event of war, but also to prepare the crisis messaging and backup channels. However, plans must not become dogma; adaptability is also key. The Ukrainian example also serves as a warning, showing that despite facing a prolonged conflict, a society may still refuse to believe the worst-case scenarios.
+
+## 6. Punitive measures are a must
+
+It is impossible to rely only on defence and building up resilience against attacks. Punitive measures that limit the capability of hostile actors, or at least impose additional costs on their behaviour, must be part of the package. For many Ukrainian practitioners, these tools are the most important when it comes to protecting the information space against the aggressor.
+
+## 7. Humour is a serious matter
+
+Content generating amusement is used very deliberately by Ukrainians. Humour helps to reach larger audiences, and humorous content goes viral more often. It also helps to boost the morale of those under attack, and increase resilience to aggression in both the kinetic and the information space. And finally, it helps to impose costs on the disinformers by mocking and ridiculing them, and damaging their credibility.
+
+## 8. Actions speak louder than words
+
+When the atrocities reached their most horrifying level, it became impossible to use disinformation narratives to convince people about a “brotherly” Russia that attacks exclusively military targets. When Western countries took in Ukrainian refugees and started sending military and financial aid, it became impossible to successfully claim that the West had abandoned Ukraine altogether. However, audiences in occupied territories, cut off from any sources of real information, are still under threat.
+
+## 9. The information war is not over – and won’t end anytime soon
+
+Despite some optimistic takes by Western commentators, no one in Ukraine would consider that the information war has already been won and that they could cease their efforts. Everyone understands that Russia’s information aggression will continue adapting to new circumstances, and that it is of the utmost importance to continue fighting against it.
+
+## 10. The West needs to catch up with Ukraine
+
+When it comes to Western partners, Ukrainians would like to see them doing what Ukraine has been doing during the last decade: taking Russian disinformation seriously and actively resisting it. Concerns persist among Ukrainians regarding the success of Russian disinformation abroad. As a nation under attack, they also propose an “Information Ramstein” to provide support not just in the form of weapons but also in the information space. Ultimately, Ukrainian civil society remains reliant on support from the West.
+

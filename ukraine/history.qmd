@@ -1,0 +1,27 @@
+# Ukraine history {#sec-ukraine-history}
+
+::: {.callout-caution title="Myth"}
+- Ukraine has no history
+- Ukraine has a nazi-history
+- Ukraine belonged to Poland, Lithuania, Russia, you name it
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(ukraine%7Cukrainian)%20history&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Ukraine has an older history than the Moscovites
+:::
+
+
+## A
+
+{{< lipsum 1-2 >}}
+
+## B
+
+{{< lipsum 3-4 >}}
+
+## C
+
+{{< lipsum 5-6 >}}
+
+

@@ -1,0 +1,22 @@
+# Verhandlungen Russland {#sec-negotiations-russia}
+
+::: {.callout-caution title=„Myth“}
+Russland ist bereit, über den Frieden zu verhandeln.
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(russia%7Cmoscow%7Cputin)%20(negotiate%7Cnegotiations)&sort=relevance)
+:::
+
+::: {.callout-tip title=„Truth“}
+- Russland marschierte während der Verhandlungen ein
+- Russland verlangte immer die Kapitulation vor einem Waffenstillstand
+- Russland sagte, er werde nicht verhandeln, solange er seinen Krieg gewinnen kann
+:::
+
+Putin und andere russische Beamte haben regelmäßig fälschlicherweise behauptet, dass der Kreml bereit sei, Verhandlungen zur Beendigung des Krieges zu führen, während gleichzeitig signalisiert wird, dass der Kreml an seinen maximalistischen Zielen für die Ukraine festhält, einschließlich territorialer Ansprüche und eines Regierungswechsels. In einem kürzlich geführten Interview sagte der russische Präsident Wladimir Putin: “Es ist irgendwie lächerlich von unserer Seite, jetzt zu verhandeln, nur weil ihnen die Patronen ausgehen”.[^86] Dies deutet darauf hin, dass die russische Regierung nur dann verhandelt, wenn sie auf dem Schlachtfeld eine Niederlage erleidet. Zu dieser Einschätzung kommt auch das *“Institute for the Study of War”* im Juni 2024.[^87] Ukrainische Beamte hingegen haben ihre Bereitschaft zu Verhandlungen mit Russland bekundet, sobald Russland seine Truppen aus dem international anerkannten Territorium der Ukraine, einschließlich Donbas und Krim, abzieht.
+
+Siehe auch das Hauptkapitel über Verhandlungen @sec-negotiations-endwar.
+
+
+[^86]:  Интервью Президента России В.В.Путина Дмитрию Киселеву \[Interview of the President of Russia Vladimir Putin to Dmitry Kiselyov\]. (2024, March 13). YouTube. Retrieved May 1, 2024, from https://www.youtube.com/watch?v=HsmcWV2WBmQ
+
+[^87]:  Institute for the Study of War. (n.d.). Institute for the Study of War. https://www.understandingwar.org/backgrounder/why-putin-remains-uninterested-meaningful-negotiations-ukraine
+

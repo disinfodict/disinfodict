@@ -1,0 +1,32 @@
+# Crimea purges {#sec-crimea-purges}
+
+\index{Crimea}
+\index{purges}
+\index{genocide}
+\index{tatars}
+\index{deportation}
+
+::: {.callout-caution title="Myth"}
+Crimean Tatars love Russia
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Crimea%7Ccrimean)%20(tatars%7Cdeportation)&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Russia is responsible for massive human rights violations against Crimean tatars and other Crimean inhabitants
+:::
+
+For the history of Crimea see @sec-crimea-history.
+
+# A 
+
+{{< lipsum 2 >}}
+
+
+# B 
+
+{{< lipsum 2 >}}
+
+
+# C 
+
+{{< lipsum 2 >}}

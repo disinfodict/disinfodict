@@ -1,0 +1,8 @@
+# Referenzen {.unnumbered}
+
+::: {#refs}
+:::
+
+\clearpage
+\addcontentsline{toc}{chapter}{Index}
+\printindex

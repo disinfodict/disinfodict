@@ -1,0 +1,26 @@
+# Ukraine Kyiv {#sec-ukraine-kyiv}
+
+::: {.callout-caution title="Myth"}
+Kyiv belongs to Russia
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(kyiv%7Ckiev)%20history&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Kyiv belongs to Ukraine
+- Kyiv ruled russian territory long before Moscow existed
+:::
+
+
+## A
+
+{{< lipsum 1-2 >}}
+
+## B
+
+{{< lipsum 3-4 >}}
+
+## C
+
+{{< lipsum 5-6 >}}
+
+

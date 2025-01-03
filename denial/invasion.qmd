@@ -1,0 +1,32 @@
+# Full invasion {#sec-denial-invasion}
+
+::: {.callout-caution title="Myth"}
+- NATO/US/EU are preparing an invasion of Russia
+- The American invasion of Ukraine publicly depicted as a Russian invasion
+- The West is falsely announcing a Russian invasion to sell weapons to Ukraine
+- There is no evidence that Russian is planning an invasion of Ukraine
+- Ukraine provoked Russia into launching full-scale invasion
+- Russia invaded to prevent Genocide
+- Russia’s invasion is in full conformity with UN Charter
+
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=full%2Binvasion&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Russia prepared invasion long ago, invaded unprovoked to conquer Ukraine and commit genocide to everything ukrainian.
+:::
+
+
+## A
+
+{{< lipsum 1-2 >}}
+
+## B
+
+{{< lipsum 3-4 >}}
+
+## C
+
+{{< lipsum 5-6 >}}
+
+

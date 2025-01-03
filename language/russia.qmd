@@ -1,0 +1,74 @@
+# Russian language {#sec-language-russia}
+
+::: {.callout-caution title="Myth"}
+Russian language is forbidden in Ukraine
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20language&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Modern Ukraine had russian and Ukrainian as official languages.
+- after a history of Russian oppression and the full-scale Russian invasion, many Ukrainians turn away from the Russian language
+- Russian is still allowed
+:::
+
+
+## Ukrainins spoke both: Ukrainian and Russian
+
+Indeed, the Russian language used to be widely used in Ukraine, being the second most popular language in the country. Before the full-scale invasion, it was spoken in both private life and official settings.[^18a] However, this linguistic dominance was not a natural occurrence but rather a consequence of centuries-long Russian influence, marked by cultural imposition and political maneuvering.
+
+## Russification
+
+Under Russian rule, in different forms,[^228] a range of coercive measures were employed to diminish the role of the Ukrainian language, including executions, deportations, arrests, bans, and the artificial elevation of the Russian language's prestige, leaving a lasting impact on today’s Ukraine's linguistic landscape. Consequently, a significant portion of the Ukrainian population came to identify Russian as their native language. However, after 1991, the situation has gradually improved: In 2023, only 6% of respondents now consider Russian their native language, a substantial decrease from the 31% reported in 2006\. Conversely, the number of people identifying Ukrainian as their native language has risen from 52% in 2006 to 78% in 2023.[^229]
+
+
+## Russian Invasion
+
+> As war rages, evidence points to a renaissance for the Ukrainian language. In Ukraine, not only those who spoke Ukrainian prior to the conflict, but also formerly Russian-speaking citizens are now rallying around the Ukrainian language as a symbol of national unity. Since the start of the full-scale invasion, this has largely happened as a result of individual, bottom-up choices. Allegations of discrimination against Russian speakers in Ukraine featured prominently among Russia’s expressed grievances prior to the invasion. All the signs indicate that Russia’s linguistic propaganda efforts have backfired on a grand scale. At the same time, the Crimean Tatar language has been the object of discrimination in Russian-occupied Crimea since 2014.
+> 
+> Executive summary of SCEEUS Report[^22a]
+
+### Russophone authors 
+
+> Russia’s full-scale invasion of Ukraine in February 2022 was a turning point for several Russophone authors in and outside Ukraine.
+> 
+> ZOiS (2024)[^21a]
+
+
+### Public polls
+
+> In 2022, the share of citizens who use Ukrainian in everyday life increased compared to 2021. While in 2021 this figure was 64%, in 2022 it rose to 71%. At the same time, the use of the Russian language has decreased by almost 10%. This dynamic is the result of both the effect of symbolic rejection and the impossibility of conducting public opinion polls in the occupied and frontline territories of the South and East of Ukraine.  
+>
+> The share of people who consider Ukrainian their native language has also increased.  While in 2021, 77% of Ukrainians considered Ukrainian to be their native language, this figure rose to 87% over the year. At the same time, Ukrainian language identity prevails in all regions of Ukraine.
+> 
+> Since the start of the full-scale invasion, there is a broad consensus in Ukrainian society that banning Russian cultural products (in the form of performances by Russian artists and broadcasts of Russian films) is a necessary step to protect Ukraine. This opinion prevails in all regions, with only the South showing roughly equal shares of those who agree and disagree.
+>
+> Poll (2023)[^19a]
+
+### Legal situation
+
+> the Constitutional Court affirmed that knowing the Ukrainian language is the duty of every citizen of Ukraine but that each citizen is free to choose a language for private communication
+> 
+> Oxford Human Rights Hub (2023)[^20a]
+
+
+## See also
+
+The chapters on "Great Russian" culture (@sec-culture-russia), on Ukrainan culture (@sec-culture-ukraine), on warcrimes against Ukrainan culture (@sec-warcrimes-culture), on Ukrainian language (@sec-language-russia) and on russian language (@sec-language-ukraine).
+
+
+
+[^228]:  Danylenko, A., & Naienko, N. (2022, January). *Linguistic russification in Russian Ukraine: Languages, imperial models, and policies*. ResearchGate. Retrieved May 2, 2024, from [https://www.researchgate.net/publication/362729882\_Linguistic\_russification\_in\_Russian\_Ukraine\_Languages\_imperial\_models\_and\_policies](https://www.researchgate.net/publication/362729882_Linguistic_russification_in_Russian_Ukraine_Languages_imperial_models_and_policies) 
+
+[^229]:  *Ефективність реалізації державної політики у сфері утвердження української національної та громадянської ідентичності: соціологічні індикатори \[Efficiency of Implementation of the State Policy in the Sphere of Strengthening Ukrainian National and Civil Identity: Sociological Indicators\]*. (2023, June 29). Razumkov Centre. Retrieved May 2, 2024, from https://razumkov.org.ua/napriamky/sotsiologichni-doslidzhennia/efektyvnist-realizatsii-derzhavnoi-polityky-u-sferi-utverdzhennia-ukrainskoi-natsionalnoi-ta-gromadianskoi-identychnosti-sotsiologichni-indykatory-traven-2023r
+
+
+[^18a]: Natalie Poftak and Diana Shykula (2024) The Ongoing Language Discussion in Ukraine. In: Lanoux (2024). Conneticut College.   [https://openpress.digital.conncoll.edu/beingukraine/chapter/chapter-7/](https://openpress.digital.conncoll.edu/beingukraine/chapter/chapter-7/)
+
+[^19a]: National Culture and Language in Ukraine: Changes in Public Opinion after a Year of the Full-Scale War (2023, March 20). ILKO KUCHERIV DEMOCRATIC INITIATIVES FOUNDATION (DIF). [https://dif.org.ua/en/article/national-culture-and-language-in-ukraine-changes-in-public-opinion-after-a-year-of-the-full-scale-war](https://dif.org.ua/en/article/national-culture-and-language-in-ukraine-changes-in-public-opinion-after-a-year-of-the-full-scale-war)
+
+[^20a]: Sergiy Panasyuk (2023) The Use of Russian Language in Ukraine in Wartime. Oxford Human Rights Hub. [https://ohrh.law.ox.ac.uk/the-use-of-russian-language-in-ukraine-in-wartime/](https://ohrh.law.ox.ac.uk/the-use-of-russian-language-in-ukraine-in-wartime/)
+
+[^21a]: Russophone Authors Two Years After Russia’s Full-Scale Invasion of Ukraine (2024). Centre for East European and International Studies (ZOiS). [https://www.zois-berlin.de/en/publications/zois-spotlight/russophone-authors-two-years-after-russias-full-scale-invasion-of-ukraine](https://www.zois-berlin.de/en/publications/zois-spotlight/russophone-authors-two-years-after-russias-full-scale-invasion-of-ukraine)
+
+[^22a]: Lönngren, Rosén & Yurchenko (2023) Scorched by War: A Report on the Current Language Situation in Ukraine. SCEEUS Report Series on Ukrainian Domestic Affairs, No. 11. [https://sceeus.se/en/publications/scorched-by-war-a-report-on-the-current-language-situation-in-ukraine/](https://sceeus.se/en/publications/scorched-by-war-a-report-on-the-current-language-situation-in-ukraine/)
+

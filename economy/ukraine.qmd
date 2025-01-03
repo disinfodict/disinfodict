@@ -1,0 +1,29 @@
+# Economy in Ukraine {#sec-economy-ukraine}
+
+::: {.callout-caution title="Myth"}
+- Ukrainian economy failed
+- Maidan destroyed Ukrainian economy
+- Ukrainian economy will fail without Russia
+- the US destroy Ukrainian economy
+
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(economy%7Cinflation) ukraine&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Ukraine was growing its economoy ... towards EU standards
+- Russia's war hits Ukrainian economy
+:::
+
+## A
+
+{{< lipsum 1-2 >}}
+
+## B
+
+{{< lipsum 3-4 >}}
+
+## C
+
+{{< lipsum 5-6 >}}
+
+

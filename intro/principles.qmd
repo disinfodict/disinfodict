@@ -1,0 +1,113 @@
+# Values & Principles {.unnumbered}
+
+::: {.callout-caution title="Myth"}
+There is no room for *Values & Principles*, we must be *realistic*.
+:::
+
+::: {.callout-tip title="Truth"}
+*Values & Principles* are the basis for civilization, and they *shape our reality*.
+:::
+
+## Our mission
+
+Providing easily accessible and linkable truthful information, correcting widespread disinformation narratives.
+
+## Our vision
+
+To become a trusted, useful reference for correcting narratives, helping to reduce the corrosive influence of disinformation on our free, peaceful and democratic coexistence.
+
+## Our values
+
+-   we promote honesty and democracy
+-   we keep the dictionary correct and concise
+-   we keep the dictionary simple and sustainable
+
+## Our target group
+
+The Desinfo-Dictionary is for people
+
+-   who have little time or are not used to reading long texts
+-   who prefer reliable information over convenient or sensational lies
+-   who need reliable quotes, links or sources
+
+## Our principles
+
+-   we focus truth, not lies (the more often people consume lies, the more they believe them)
+-   we commit to the [IFCN code of Principles](https://ifcncodeofprinciples.poynter.org/the-commitments)
+-   everyone committing to these Values & Principles can contribute (see [Contribute] below)
+-   please let us know if something seems wrong (see [Contribute] below)
+
+## IFCN code of Principles
+
+1.  a commitment to Non-partisanship and Fairness
+2.  a commitment to Standards and Transparency of Source
+3.  a commitment to Transparency of Funding & Organization
+4.  a commitment to Standards and Transparency of Methodology
+5.  a commitment to an Open & Honest Corrections Policy
+
+## Basic principles
+
+-   we write the dictionary in simple [markdown language](https://quarto.org/docs/authoring/markdown-basics.html)
+-   we keep the dictionary source version controlled on [github](https://github.com)
+-   we publish the dictionary under the \[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International\](https://creativecommons.org/licenses/by-nc-nd/4.0/) license:
+    -   CC: *C*reative *C*ommons license - guarantees that the content survives in the publis domain
+    -   BY: credit must be given to the creator - transparency and appreciation
+    -   NC: only *N*on*C*ommercial uses of the work are permitted - we don't want people to pay for something that is freely available
+    -   ND: *N*o *D*erivatives or adaptations of the work are permitted - prevents tampering with the holy truth of the content
+
+
+## Authoring principles
+
+### Readability
+
+We try to keep the dictionary readable like a book. This implies that we try to avoid repeating content and rather prefer to cross-reference to the part/chapter/section which most suitably hosts this content.
+
+### Parts
+
+The dictionary is divided thematically into parts. The parts are separate folders on Github and the names of the parts are displayed in the navigation at the top level of the dictionary (left).
+
+- Folder names may not be renamed (they are part of the permanent references)
+- Navigation names of parts can be renamed in file `_quarto.yml`
+- and the sequence of the chapters in the navigation can be changed in `_quarto.yml`
+
+### Chapters
+
+A part consists of chapter `*.qmd` files, chapter titles are shown second-level dictionary navigation (left side).
+
+- filenames must be unique within their folder, e.g. `intro/principles.qmd`
+- the folders and filenames serve as target for html links, e.g. `https://disinfodict/intro/principles.html`
+- a chapter has a title, e.g. `# Intro | Principles` (visible in navigation)
+- followed by a cross-reference target derived from the filename, e.g. `{#sec-intro-principles}` which can be referenced by `@sec-intro-principles` (always english and never changed)
+- files must not be put into a different part (file locations are part of permanent references)
+- file names must not be changed (they are part of permanent references)
+- but chapter titles can be changed improving appearance and navigation, e.g. `# Values & Principles`
+- and the sequence of the chapters in the navigation can be changed in `_quarto.yml`
+- a chapter begins with one-sentence disinformation only in a callout-caution ('Myth'). If possible, we list contradictory propaganda lies. -   immediately followed by a one- or two-sentence callout-tip ('Truth')
+- The EUvsDisinfo icon [![EUvsDisinfo icon](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/?text=lies&disinfo_language%5B%5D=English&sort=relevance) links to a keyword search on [euvsdisinfo.eu](https://euvsdisinfo.eu/)
+
+
+### Sections
+
+Chapters are organized in *fact-sections*:
+
+-   with concise fact headers shown in the chapter navigation (right side)
+-   that can be read as a quick storyline
+-   fact-sections expand their header with explanations and sources
+-   the sequence of fact-sections can be changed
+-   section headers can, but should not be changed (breaks links to `<partfoldername>/<chapterfilename>#<sectiontitle>`)
+
+
+## Sustainability principles
+
+-   we prefer quotes from sustainable sources such as books, journals
+-   we use links that we expect to work for long (dead links harm search engine visibility)
+-   we prefer tables over pictures
+-   we prefer use data based charts or other executed R-code only if absolutely necessary
+-   we use pictures only if absolutely necessary (pictures cause network traffic, consume energy and emit CO2)
+-   we minimize picture size (svg or png or jpg, ≤ 1280 x 1280 Pixel and reasonably compressed)
+-   we prefer square pictures, and prefer 3:4 resp. 4:3 over 9:16 and 16:9
+
+
+## Contribute
+
+You can send plaintext suggestions for improvements - preferably as a [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) *.qmd file - [contribution [at] disinfodict [dot] org](mailto:contribution@disinfodict.org). For multiple contributions you can fork the [dictionary at github](https:/github.com/disinfodict/disinfodict) and create a pull-request (see the [README]((https:/github.com/disinfodict/disinfodict/README.qmd))).

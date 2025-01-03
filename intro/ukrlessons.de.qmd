@@ -1,0 +1,55 @@
+# Lektionen aus der Ukraine {.unnumbered}
+
+::: {.callout-caution title=„Mythos“}
+Es gibt nichts, was die EU von der Ukraine lernen kann
+:::
+
+::: {.callout-tip title=„Wahrheit“}
+Die EU kann eine Menge darüber lernen, wie sie der russischen hybriden Kriegsführung begegnen kann. Hier konzentrieren wir uns auf die Bekämpfung von Desinformation.
+:::
+
+Der [Hybrid CoE Research Report](https://dfrlab.org/2024/01/24/how-ukraine-fights-russian-disinformation-beehive-vs-mammoth), ein gemeinsames Projekt des Europäischen Exzellenzzentrums für die Bekämpfung hybrider Bedrohungen und des Digital Forensic Research Lab (DFRLab), befasst sich mit den bewährten ukrainischen Praktiken bei der Bekämpfung von Desinformation, vor allem in der Zeit nach der russischen Invasion der Ukraine im Februar 2022 (FSI). Viele dieser Praktiken sind jedoch das Ergebnis einer Entwicklung, die sich über das Jahrzehnt seit der Euromaidan-Revolution erstreckt. In dem Bericht werden die folgenden zehn Lektionen genannt, die der Westen aus der einzigartigen ukrainischen Erfahrung lernen könnte.
+
+Hier zeigen wir die Zusammenfassung der Lehren, weitere Informationen finden Sie unter @Kalensky:2024.
+
+
+## 1. Die Schaffung eines soliden Fundaments ist von grundlegender Bedeutung.
+
+Ein Überwachungssystem, das so umfangreich ist, dass es Überschneidungen erzeugt, ist ein Muss. Die rasche Widerlegung von Lügen, die Entlarvung von Desinformation und die Richtigstellung von Tatsachen sind notwendige Voraussetzungen für eine erfolgreiche Bekämpfung von Desinformationskampagnen. Aktionen jeglicher Art sollten Vorrang haben, Nachdenken darf die Bemühungen um Gegenmaßnahmen nicht lähmen, und Versuch und Irrtum sind erlaubt und erwünscht.
+
+## 2. Zahlen sind entscheidend
+
+Zahlen spielen eine große Rolle, sei es bei den personellen und finanziellen Ressourcen, bei der Anzahl der verschiedenen Gegenmaßnahmen und der verschiedenen Akteure, die sie durchführen, oder bei der Wiederholung von Schlüsselnarrativen durch möglichst viele Sprecher. Obwohl die Ukrainer weitaus mehr Ressourcen in die Desinformationsbekämpfung stecken als die meisten westlichen Länder, wissen sie, dass der Aggressor ihnen immer noch überlegen ist.
+
+
+## 3. Überschneidungen sind kein Nachteil, Starrheit hingegen schon
+
+Überschneidungen zwischen verschiedenen Überwachungs-, Entlarvungs- und Desinformationsbekämpfungsmaßnahmen werden gefördert, nicht vermieden. Mehr Akteure, die am selben Thema arbeiten, bedeuten zuverlässigere Ergebnisse, schnellere Reaktionen und Schutz vor dem Versagen eines der Akteure. Bei der Koordinierung erleichtern und beschleunigen der lockere Charakter und das Fehlen formeller Verfahren die Reaktionen.
+
+## 4. Wertschätzung der Rolle der Zivilgesellschaft
+
+Keine Regierung der Welt kann das Problem der Desinformation allein bewältigen. Die Zivilgesellschaft ist absolut entscheidend. Die Ukraine hat gezeigt, wie eine lebendige, aktive und tatkräftige Zivilgesellschaft, die ständig neue Ideen einbringt, den Informationsraum geschützt hat, noch bevor die Regierung auf den Plan trat, und wie wichtig sie für viele Zielgruppen immer noch ist.
+
+## 5. Vorbereitung ist wichtig, aber kein Allheilmittel
+
+Die Vorbereitung auf den Konflikt war von entscheidender Bedeutung. Es ist nicht nur wichtig, Notfallpläne zu erstellen und dafür zu sorgen, dass die zuständigen Teams im Kriegsfall handlungsfähig sind, sondern auch die Krisenbotschaften und Backup-Kanäle vorzubereiten. Die Pläne dürfen jedoch nicht zu einem Dogma werden; Anpassungsfähigkeit ist ebenfalls entscheidend. Das ukrainische Beispiel dient auch als Warnung, denn es zeigt, dass sich eine Gesellschaft trotz eines langwierigen Konflikts weigern kann, an die schlimmsten Szenarien zu glauben.
+
+## 6. Strafrechtliche Maßnahmen sind ein Muss
+
+Es ist unmöglich, sich nur auf die Verteidigung und den Aufbau von Widerstandsfähigkeit gegen Angriffe zu verlassen. Strafmaßnahmen, die die Fähigkeiten der feindlichen Akteure einschränken oder zumindest zusätzliche Kosten für ihr Verhalten verursachen, müssen Teil des Pakets sein. Für viele ukrainische Praktiker sind diese Instrumente die wichtigsten, wenn es darum geht, den Informationsraum vor Angreifern zu schützen.
+
+## 7. Humor ist eine ernste Angelegenheit
+
+Inhalte, die zur Belustigung beitragen, werden von den Ukrainern sehr bewusst eingesetzt. Humor hilft, ein größeres Publikum zu erreichen, und humorvolle Inhalte verbreiten sich häufiger. Er trägt auch dazu bei, die Moral der Angegriffenen zu stärken und die Widerstandsfähigkeit gegen Angriffe sowohl im kinetischen als auch im Informationsbereich zu erhöhen. Und schließlich hilft es, den Desinformanten Kosten aufzuerlegen, indem man sie verspottet und lächerlich macht und ihre Glaubwürdigkeit beschädigt.
+
+## 8. Taten sagen mehr als Worte
+
+Als die Gräueltaten ihr schrecklichstes Ausmaß erreichten, wurde es unmöglich, die Menschen mit Desinformationsnarrativen von einem „brüderlichen“ Russland zu überzeugen, das ausschließlich militärische Ziele angreift. Als die westlichen Länder ukrainische Flüchtlinge aufnahmen und begannen, militärische und finanzielle Hilfe zu leisten, wurde es unmöglich, erfolgreich zu behaupten, der Westen habe die Ukraine völlig im Stich gelassen. Das Publikum in den besetzten Gebieten, das von allen Quellen echter Informationen abgeschnitten ist, ist jedoch weiterhin bedroht.
+
+## 9. Der Informationskrieg ist noch nicht vorbei - und wird auch nicht so bald enden
+
+Trotz einiger optimistischer Einschätzungen westlicher Kommentatoren ist in der Ukraine niemand der Ansicht, dass der Informationskrieg bereits gewonnen ist und die Bemühungen eingestellt werden können. Jedem ist klar, dass sich die russische Informationsaggression weiterhin an neue Umstände anpassen wird und dass es von größter Wichtigkeit ist, sie weiterhin zu bekämpfen.
+
+## 10. Der Westen muss gegenüber der Ukraine aufholen
+
+Von den westlichen Partnern wünschen sich die Ukrainer, dass sie das tun, was die Ukraine in den letzten zehn Jahren getan hat: die russische Desinformation ernst nehmen und sich aktiv dagegen wehren. Die Ukrainer sind nach wie vor besorgt über den Erfolg der russischen Desinformation im Ausland. Als Nation, die angegriffen wird, schlagen sie außerdem einen „Informations-Ramstein“ vor, der nicht nur mit Waffen, sondern auch im Informationsraum Unterstützung bieten soll. Letztlich ist die ukrainische Zivilgesellschaft weiterhin auf die Unterstützung des Westens angewiesen.

@@ -1,0 +1,81 @@
+# Crimea history {#sec-crimea-history}
+
+\index{Crimea} 
+\index{Crimea!subtopic} 
+\index{history} 
+\index{history!subtopic}
+\index{tatars} 
+
+::: {.callout-caution title="Myth"}
+Crimea historically belongs to Russia. 
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Crimea+history&disinfo_language%5B%5D=English&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Crimea has tatarian and ukrainian roots. 
+- The russian empire tried multiple times to invade and russify Crimea against the will of Crimeans.
+:::
+
+For the annexation of Crimea see @sec-crimea-annexation.
+
+## Language
+
+### Crimea is Ukraine
+
+Many foreign politicians proclaimed that the Russian Federation has legitimate rights to this territory since the Russian language is widely spoken in Crimea. This idea coincides with the Russian geopolitical project “Russian world,”[^17] which implies bringing together Russian-speaking populations around the world. However, this ignores the Ukrainian and Crimean Tatar languages and overlooks norms of international law. 
+
+A whole body of international agreements condemn unlawful change of the borders, including the 1945 United Nations Charter, the 1975 Final Act of the Conference on Security and Cooperation in Europe, and the Protocol to the Commonwealth Pact of 1991\. The principle of territorial integrity is enshrined in Article 2(4)[^18] of the UN Charter and has been recognized as customary international law. Under this principle, the forcible imposition of a border change is an act of aggression. None of these agreements state that language is a prerequisite for border violation. 
+
+### No oppression of russian language
+
+Following the repatriation of Crimean Tatars[^19] in the late 1980s and early 1990s, the ethnic makeup of Crimea's two million population was approximately 60–63% Russian, 22–25% Ukrainian and 12–14% Crimean Tatar.[^20]Given this ethnic diversity, Article 24.2 and Article 53.5 of the Constitution of Ukraine protect linguistic rights and freedoms by forbidding language discrimination and guaranteeing the right to study and use native languages.[^21] 
+
+Accordingly, Crimean citizens could freely apply Russian not only as their daily life language but also for cultural and educational purposes. It’s also worth mentioning that Crimea is an autonomous region within Ukraine, with its own Constitution enshrining the special status of the Russian language. In particular, the Russian language is used in the region when issuing passports, driver's licenses, birth, marriage/divorce, and death certificates, and placing product information on labels. 
+
+In 2001, 90.7% of Crimean students in schools were educated in Russian and 99.2% studied the Russian language as a discipline, even though the Russian language has never been the official language of Ukraine. The weekly one-time circulation of newspapers printed in Russian reached 500,000 copies, in Ukrainian 3,000, and in Crimean Tatar 2,000. All television and radio companies in Crimea broadcasted in Russian. Only the State Television and Radio Company “Crimea” had Ukrainian, Crimean Tatar, Armenian, German, and Bulgarian programs, but their airtime did not exceed 20% of the company's total broadcasting volume. Moreover, 90% of the books published in the Crimean region were in Russian[^22].
+
+## History
+
+
+### Crimea belonged to Russia only briefly
+
+Throughout its millennia-long history, Crimea has been part of Russia only for 171 years (1783–1954). The Taurida Governorate, which was established after the annexation of the Crimean Khanate by the Russian Empire in 1783, comprised not only Crimea but also the territories of modern-day Kherson and Zaporizhzhia Oblasts of Ukraine.
+
+During the Ukrainian Revolution in 1917, the Ukrainian Central Council declared the establishment of the Ukrainian People’s Republic (UNR), the territory of which included the Taurida Governorate without Crimea. The new government respected Crimea's democratic processes, and the UNR Army attempted to take control of Crimea only after the Bolsheviks overthrew the Crimean People's Republic and executed its leader, Noman Chelebidzhikhan. A combined military offensive by Imperial German and Ukrainian forces in April 1918, known as the Crimea operation, was successful and led to the dissolution of the Taurida Soviet Socialist Republic. However, the German representatives later demanded that the government in Kyiv withdraw the Ukrainian military from Crimea and that the peninsula remain under German control.[^23]
+
+During World War II, a tragedy took place that forever changed the ethnic composition of the peninsula. Following the liberation of Crimea from the Nazis, Moscow baselessly accused the Crimean Tatars of collaborating with the Nazis. Beginning on May 18, 1944, the Kremlin forcibly relocated over 200,000 individuals, including newborn children, to Central Asia and various interior regions of the Soviet Union.[^24] This deportation turned into the Genocide during which 25% of Crimean Tatars perished under the estimations conducted by Soviet organs. Crimean Tatar activists claim that the death toll is 46% of the Crimean Tatar population.[^25] The deportation meant that the Russians deliberately destroyed unique Crimean culture and heritage. They forcefully changed the ethnic composition of the peninsula, and this is where the myth that Crimea is “Russian territory” started[^26].
+
+In 1954, Moscow opted to hand Crimea over to Ukraine. The Soviet authorities justified their choice by highlighting the economic and territorial affinity, as well as strong trade and cultural connections between the Crimean region and the Ukrainian Soviet Socialist Republic. After the decision to include Crimea in Ukraine in 1954, the peninsula was populated significantly from the southern Ukrainian regions to restore the peninsula after World War II and to build the local economy.
+
+After Ukraine became independent, Russia recognized its borders. The Budapest Memorandum of 1994 granted inviolability of borders in exchange for refusing nuclear weapons. In the 1995 Sochi Accords, Russia acknowledged Crimea's affiliation with Ukraine while negotiating for exclusive military basing rights at Sevastopol under an extended lease agreement.[^27] Finally, the “Big Treaty” signed between Russia and Ukraine in 1997 stated that both countries respect each other's territorial integrity.
+
+## Culture
+
+{{< lipsum 2 >}}
+
+
+[^17]:  Masiyenko, Y.,  Zahryvenko, K.,  Koval, N., & Tereshchenko, D. (2022). “The Russian flag will be flown wherever Russian is spoken”: “Russkiy Mir” Foundation. In Ukrainian Institute. Retrieved April 30, 2024, from https://ui.org.ua/wp-content/uploads/2022/07/case-study\_russkiy-mir-foundation.pdf
+
+[^18]:  United Nations Charter (full text) | United Nations. (n.d.). United Nations. https://www.un.org/en/about-us/un-charter/full-text
+
+[^19]:  Repatriation and integration of the Tatars of Crimea. (2000, February 18). Retrieved April 30, 2024, from https://assembly.coe.int/nw/xml/XRef/X2H-Xref-ViewHTML.asp?FileID=8863\&lang=EN 
+
+[^20]:  UKRAINE 2013 HUMAN RIGHTS REPORT. (n.d.). In Country Reports on Human Rights Practices for 2013\. Bureau of Democracy, Human Rights and Labor of the United States Department of State. Retrieved April 30, 2024, from https://2009-2017.state.gov/documents/organization/220554.pdf
+
+[^21]:  CONSTITUTION OF UKRAINE. (n.d.). https://rm.coe.int/constitution-of-ukraine/168071f58b
+
+[^22]:  Російська мова в Криму – і державна, і офіційна \[Russian is both the state and official language in Crimea\]. (2008, February 5). Radio Svoboda. Retrieved April 30, 2024, from https://www.radiosvoboda.org/a/884271.html
+
+[^23]:  Krim-Operation. (2023, October 11). Wikipedia. Retrieved April 30, 2024, from https://de.wikipedia.org/wiki/Krim-Operation
+
+[^24]:  About Crimea: The Historical Background. (n.d.). Crimea Platform. Retrieved April 30, 2024, from https://crimea-platform.org/en/krim-do-okupaciyi/istorichnij-ekskurs/\#:\~:text=Founded%20between%20528%20BC%20and,orbit%20of%20the%20Roman%20Empire
+
+[^25]:  Asan, E. (2023, May 18). Crimea was never Russian. Al Jazeera. https://www.aljazeera.com/opinions/2023/5/18/crimea-was-never-russian
+
+[^26]:  Lytsevych, O.: ‘Crimea was always Russian.’ (2021, May 11). Chatham House – International Affairs Think Tank. https://www.chathamhouse.org/2021/05/myths-and-misconceptions-debate-russia/myth-12-crimea-was-always-russian
+
+[^27]:  Wolczuk, K., & Pr. Dragneva, R. (2022, August 24). Russia’s longstanding problem with Ukraine’s borders. Chatham House. Retrieved April 30, 2024, from [https://www.chathamhouse.org/2022/08/russias-longstanding-problem-ukraines-borders](https://www.chathamhouse.org/2022/08/russias-longstanding-problem-ukraines-borders) 
+
+
+
+

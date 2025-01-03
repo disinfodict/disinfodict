@@ -1,0 +1,24 @@
+# WWII liberation {#sec-ww2-liberation}
+
+::: {.callout-caution title="Myth"}
+Russia liberated Germany from the Nazis.
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=WWII%20(liberation%7Cliberate)&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+The allies liberated Germany from Fascism, the Soviet Union received weapons from the US, many Ukrainian soldiers died and the USSR occupied central Europe with Stalinism.
+:::
+
+## A
+
+{{< lipsum 1-2 >}}
+
+## B
+
+{{< lipsum 3-4 >}}
+
+## C
+
+{{< lipsum 5-6 >}}
+
+

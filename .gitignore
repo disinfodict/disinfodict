@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.quarto
+zzz_memo.txt
+_book
+
+/.quarto/

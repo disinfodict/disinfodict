@@ -1,0 +1,75 @@
+# Genocide ongoing {#sec-genocide-ongoing}
+
+::: {.callout-caution title="Myth"}
+- Genocide doesn't happen
+- It was not the Russians
+- It doesn't qualify for Genocide
+- The victims deserve it
+- The victims do it themselves
+- The victims do it to us (russians)
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20ukraine&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Russia has announced and started Genocide of everyone and everything Ukrainian.
+:::
+
+
+## Purges of Crimea, Donbass and Luhansk since 2014
+
+### Crimea
+
+See @sec-crimea-purges
+
+
+### Donbas
+
+See @sec-donbas-genocide
+
+
+## Genocidal war against Ukraine since 2022
+
+Each of the following 5 criteria justifies a charge of genocide (@sec-genocide-definition). Russia does all of this as announced (@sec-genocide-announced).
+
+
+### Killing members of the group
+
+See warcrimes:
+
+- illegal conscripting @sec-warcrimes-conscription
+- against Prisoners of War (POWs) @sec-warcrimes-prisoners
+- using clusterbombs @sec-warcrimes-clusterbombs
+- against humanitarian facilities and personnel @sec-warcrimes-humanitarian
+- against civilians @sec-warcrimes-civilians
+- "human safari" @sec-warcrimes-humansafari
+
+### Causing serious bodily or mental harm to members of the group
+
+See warcrimes:
+
+- against Prisoners of War (POWs) @sec-warcrimes-prisoners
+- systematic torture @sec-warcrimes-torture
+- systematic sexualized violence @sec-warcrimes-sexual
+
+
+### Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part
+
+See warcrimes:
+
+- against civil infrastructure @sec-warcrimes-infrastructure
+- against nuclear facilities @sec-warcrimes-nuclear
+- systematic destruction of villages and towns @sec-warcrimes-urbicide
+- systematic destruction of forests and nature reserves @sec-warcrimes-nature
+- systematic destruction of Fields and harvests @sec-warcrimes-food
+- systematic destruction of Ukrainian culture, cultural institutions and creative artists @sec-warcrimes-culture
+
+
+### Imposing measures intended to prevent births within the group
+
+See systematic sexualized violence @sec-warcrimes-sexual against prisoners of war and civilians.
+
+
+### Forcibly transferring children of the group to another group
+
+See @sec-warcrimes-children
+

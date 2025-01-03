@@ -1,0 +1,32 @@
+# Kakhovka dam {#sec-denial-kakhovka}
+
+::: {.callout-caution title="Myth"}
+- Russia warned the UN
+- Ukraine destroyed the Kakhovka dam
+- Ukraine plans to destroy another dam
+- UN denies water ecocide of Crimea by Ukraine
+- Western weapons destroyed the Kakhovka dam
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Kakhovka&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Russia threatened to blow up the dam
+- Only Russia was in control of the dam
+- Only someone in control of the dam could blow it
+- Russia blew the dam
+:::
+
+
+## A
+
+{{< lipsum 1-2 >}}
+
+## B
+
+{{< lipsum 3-4 >}}
+
+## C
+
+{{< lipsum 5-6 >}}
+
+

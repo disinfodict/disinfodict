@@ -1,0 +1,120 @@
+# Nazis in Ukraine? {#sec-nazis-ukraine}
+
+\index{Nazis}
+\index{Nazis!Ukraine}
+
+::: {.callout-caution title="Myth"}
+- Ukraine is full of Nazis
+- Germany owes Russia fighting against nazis
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nazis%20(ukraine%7Ckyiv%7Ckiev)&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Russia defames nationalists as Nazis: far-right parties play no role in Ukraine
+- Germany owes Ukraine in particular the fight against genocide
+:::
+
+The myth of Nazi governments is one of the most commonly used narratives in Russia’s propaganda toolbox. They have already accused the whole Western world of Nazism: from separate states like Germany or the Baltic States to the entire EU and NATO.[^231]
+
+
+## Defamation of freedom
+
+In the case of Ukraine, these accusations culminated during the Revolution of Dignity, although even back then, at the peak moment of the struggle to defend the nation’s right to self-determination, the far-right movement did not receive broad support both in public life and the political environment.[^232] Moreover, from 1991 to 2024, only once did a radical right-wing party manage to enter the parliament as an independent entity through proportional voting — which was Svoboda in 2012 with 10.44% of votes.[^233] Since then, despite nationalist sentiment during and after Russia's annexation of Crimea and the Russo-Ukrainian War, far-right parties have been unsuccessful in garnering sufficient votes to gain political representation (compared to the representation of far-right movements in national parliaments of the EU countries).[^234]
+
+## Multi-ethnic history
+
+In particular, Western Ukraine, which Russia has accused of Nazism, historically hosted vibrant Jewish cultural communities, including the Jewish shtetl. These cultural enclaves were significantly diminished by both Stalinist policies and the Nazi Holocaust.[^235] In 2022, the concept of denazification in Ukraine has even sparked irony and laughter in public discourse, given the notable presence of high-ranking Jewish politicians in the country, including the current President, Volodymyr Zelenskyi. Rustem Umerov, the current Defense Minister of Ukraine, is a Muslim of Crimean-Tatar origin.
+
+
+## Thriving antisemitism?
+
+The myth of Ukrainians Nazism became a very successful and convenient narrative for Russian propaganda, especially in Germany, the country that has once endured the horror of an actual Nazi regime. Having this trauma expanded through generations, the fear of nationalist movements and misinterpretation of this notion seems to be a natural consequence.
+
+When analyzing the dynamics of antisemitic hate crimes in Ukraine, it is worth noting that in the last 20 years, the number of antisemitic vandalism incidents did not exceed **25 cases per year**.[^236][^237][^238] To compare, in the first 34 days since the start of the outbreak of the Israel-Hamas war, **29** anti-Semitic incidents were recorded **per day** in Germany. This number is 320% higher than the annual average for 2022, which was just under seven incidents per day and **2,480 per year**.[^239][^240] In other European states, like France, in the first month of this war, over 1500 antisemitic cases were recorded.[^241]
+
+In response to Russian propagandistic claims, in 2014, the Jewish community even had to write an open letter to President Putin noting that “Russian-speaking citizens of Ukraine are not being humiliated or discriminated against,” and “even the most marginal[^242] do not dare show anti-Semitism or other xenophobic behavior.”[^243] Not surprisingly, in some cases, it was Russia that organized antisemitic provocations in Ukraine, in particular by recruiting minors.[^244]
+
+
+## German responsibility?
+
+The concept of German historical responsibility towards Russia, stemming from the devastation of World War II, is a widespread viewpoint in German society. It is often considered one of the reasons why Germany should not support Ukraine with weapons in its fight against Russia.
+
+However, this overlooks the fact that Ukraine, as well as Russia, was part of the Soviet Union and suffered enormous losses during the Second World War. The Soviet Union, frequently equated solely with Russia in discussions, was a multinational union, with Ukraine being one of the most affected republics. According to various estimates, 8 to 10 million Ukrainians died during World War II, including over 5 million civilians.[^246] Around 28,000 villages and 700 cities were destroyed, and Ukraine accounted for 40% of the USSR’s total material losses in the war — equivalent to $100 million at the time.[^247]
+
+Some historians, among them Timothy Snider, argue that conquering Ukraine was one of the main goals of Hitler's war, and “the Ukrainians were to be at the center of the project of colonization and enslavement.”[^248] The expert also reminds, referring to Russian research, that in absolute numbers, more inhabitants of Soviet Ukraine died in the Second World War than inhabitants of Soviet Russia. Germany therefore has at least as great a historical responsibility towards Ukraine. In addition, there is a German responsibility for financing Russia's rearmament through gas purchases in recent decades.
+
+Reflecting on German responsibility during the Second World War, the emphasis should shift from comparing losses between countries to the importance of prevention. As Germany's Foreign Minister Annalena Baerbock said, “It was, and still is, \[German\] responsibility to strengthen international law in order to prevent future wars, to prevent genocide, crimes against humanity.”[^249]
+
+
+## Defamation of Asov
+
+The Asov brigade is regularly defamed by Russian propagandists as a nazi brigade. Russia hates the Asov for its effective resistance against the invasion into Donbas in 2014. 
+
+> Svidomi talks about the history of Azov, the liberation of Mariupol in 2014, as well as how Russian propaganda tries to discredit the unit, and what consequences it had during the battles for Mariupol in 2022.
+> 
+> Svidomi (2023)[^23a]
+
+
+Russian disinformation was so successful, that the US banned Asov from receiving Western weapons in 2016:
+
+> Notably, the Leahy Law, which requires incidents of human rights violations to be assessed based on specific facts, was never applied to Azov. This decision stemmed largely from the characterization of Azov by Western media, which had evidently been influenced by Moscow’s propaganda
+>
+> Svidomi (2025)[^24a]
+
+In Autumn 2014, the volunteer Asov brigade was reorganized as a regular regiment of the National Guard of Ukraine. In June 2024, the US finally lifted the ban on Asov:
+
+> Reacting to the US decision, the Azov brigade said in a statement: "The lies about Azov, which the Kremlin regime have been spreading in the West for years, received a devastating blow today."
+>
+> BBC news (2024)[^25a]
+
+
+## Who was Bandera?
+
+Stepan Bandera is regularly mentioned by Russian propagandists, but rarely by Ukrainians: Bandera is just one of many prominent figures in Ukrainian history, and his exact role has still not been scientifically researched. One reason for this is the lack of access to Russian archives. For details see @sec-ukraine-heroes. 
+
+
+
+[^231]:  *Nazi east, Nazi west, Nazi over the cuckoo’s nest*. (2017, February 27). EUvsDisinfo. Retrieved May 2, 2024, from [https://euvsdisinfo.eu/nazi-east-nazi-west-nazi-over-the-cuckoos-nest/](https://euvsdisinfo.eu/nazi-east-nazi-west-nazi-over-the-cuckoos-nest/)
+
+[^232]:  Jacobsen, K. (2014, May 20). *Ukraine’s far-right: Popular or propaganda?* Al Jazeera. Retrieved May 2, 2024, from [https://www.aljazeera.com/features/2014/5/20/ukraines-far-right-popular-or-propaganda](https://www.aljazeera.com/features/2014/5/20/ukraines-far-right-popular-or-propaganda) 
+
+[^233]:  Melanie Mierzejewski-Voznyak: The Radical Right in Post-Soviet Ukraine. In: The Oxford Handbook of the Radical Right (Ed. Jens Rydgren). Oxford University Press, 2018, p. 862
+
+[^234]:  Armstrong, M. (2023, November 23). *Where Europe’s Far-Right Has Gained Ground*. Statista. Retrieved May 2, 2024, from [https://www.statista.com/chart/6852/seats-held-by-far-right-parties-in-europe/](https://www.statista.com/chart/6852/seats-held-by-far-right-parties-in-europe/) 
+
+[^235]:  Veidlinger, J. (2013). In the Shadow of the Shtetl: Small-Town Jewish Life in Soviet Ukraine. Indiana University Press.
+
+[^236]:  Lykhachev, V. (2018). *Antisemitism in Ukraine, 2017*. UN Human Rights Office. Retrieved May 2, 2024, from [https://www.ohchr.org/sites/default/files/Documents/Issues/Religion/Submissions/UKRAINE\_Annex1.pdf](https://www.ohchr.org/sites/default/files/Documents/Issues/Religion/Submissions/UKRAINE_Annex1.pdf) 
+
+[^237]:  *Freedom House Annual Report on Hate Crimes in Ukraine*. (2020). Freedom House. Retrieved May 2, 2024, from https://freedomhouse.org/sites/default/files/2021-06/FH-AnnualReport2020-EN\_v02.pdf
+
+[^238]:  *Freedom House Report on Hate Crimes in Ukraine*. (2022). Freedom House. Retrieved May 2, 2024, from https://freedomhouse.org/sites/default/files/2023-04/FH-AnnualReport2022-EN\_v05.pdf
+
+[^239]:  *Antisemitische Reaktionen auf den 07\. Oktober*. (2023, November 28). Report Antisemitism. Retrieved May 2, 2024, from https://www.report-antisemitism.de/monitoring/
+
+[^240]:  *Antisemitic incidents in Germany 2022*. (n.d.). Report Antisemitism. Retrieved May 2, 2024, from https://report-antisemitism.de/documents/Antisemitic\_incidents\_in\_Germany\_Annual-Report\_Federal\_Association\_RIAS\_2022.pdf
+
+[^241]:  *Anti-Semitic acts in France rise to 1,500 since October 7*. (2023, November 14). Le Monde. Retrieved May 2, 2024, from https://www.lemonde.fr/en/international/article/2023/11/14/anti-semitic-acts-in-france-rise-to-1-500-since-october-7\_6253987\_4.html
+
+[^242]:  Authors’ Note:  in the meaning of the most nationalist groups
+
+[^243]:  *Open letter of Ukrainian Jews to Russian Federation President Vladimir Putin*. (2014, March 5). Voices of Ukraine. Retrieved May 2, 2024, from https://maidantranslations.com/2014/03/05/open-letter-of-ukrainian-jews-to-russian-federation-president-vladimir-putin/
+
+[^244]:  *СБУ викрила спецслужби рф на вербуванні українських підлітків для антисемітських провокацій у різних регіонах України \[SBU catches Russian special services recruiting Ukrainian teenagers for anti-Semitic provocations in different regions of Ukraine\]*. (2023, October 25). Security Service of Ukraine. Retrieved May 2, 2024, from https://ssu.gov.ua/novyny/sbu-vykryla-spetssluzhby-rf-na-verbuvanni-ukrainskykh-pidlitkiv-dlia-antysemitskykh-provokatsii-u-riznykh-rehionakh-ukrainy
+
+
+[^246]:  *Друга світова війна \[World War II\]*. (n.d.). Ukrainian Institute of National Memory. Retrieved May 2, 2024, from https://uinp.gov.ua/informaciyni-materialy/muzeynykam/vizualnyy-suprovid-ekspozyciyi/infografiky/druga-svitova-viyna
+
+[^247]:  *Окупація: Втрати України під час Другої світової, завдані нацистами та комуністами \[Occupation: Ukraine’s losses during World War II caused by Nazis and Communists\]*. (2021, June 22). Ukrinform. Retrieved May 2, 2024, from https://www.ukrinform.ua/rubric-society/3268440-okupacia-vtrati-ukraini-pid-cas-drugoi-svitovoi-zavdani-nacistami-ta-komunistami.html
+
+[^248]:  *Timothy Snyder: Germany’s Historical Responsibility For Ukraine*. (2017, June 23). YouTube. Retrieved May 2, 2024, from https://www.youtube.com/watch?v=OTJwCCAF2lA
+
+[^249]:  Taha, R. (2023, July 18). *Baerbock says Germany has a duty to end Russian war crimes*. dw.com. Retrieved May 2, 2024, from [https://www.dw.com/en/germany-has-a-duty-to-end-russian-war-crimes-in-ukraine-says-baerbock/a-66260261](https://www.dw.com/en/germany-has-a-duty-to-end-russian-war-crimes-in-ukraine-says-baerbock/a-66260261) 
+
+
+[^23a]: Azov Brigade is nine years old: How Russian propaganda discredited the unit and what consequences it had during the defence of Mariupol. (2023, May 5). Svidomi. [https://svidomi.in.ua/en/page/azov-brigade-is-nine-years-old-how-russian-propaganda-discredited-the-unit-and-what-consequences-it-had-during-the-defence-of-mariupol](https://svidomi.in.ua/en/page/azov-brigade-is-nine-years-old-how-russian-propaganda-discredited-the-unit-and-what-consequences-it-had-during-the-defence-of-mariupol)
+
+[^24a]: Myths of Neo-Nazism and Bandera: How Azov Became the Target of Russian Propaganda. (2025, January 1st). Svidomi. [https://svidomi.in.ua/en/page/myths-of-neo-nazism-and-bandera-how-azov-became-the-target-of-russian-propaganda](https://svidomi.in.ua/en/page/myths-of-neo-nazism-and-bandera-how-azov-became-the-target-of-russian-propaganda) 
+
+[^25a]: US lifts weapons ban on Ukraine's Azov brigade. (2024, June 11). BBC news. [https://www.bbc.com/news/articles/c1vv6p9k1z1o](https://www.bbc.com/news/articles/c1vv6p9k1z1o)
+

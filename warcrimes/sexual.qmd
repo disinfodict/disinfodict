@@ -1,0 +1,25 @@
+# Warcrimes – sexual {#sec-warcrimes-sexual}
+
+::: {.callout-caution title="Myth"}
+TODO
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(sexual%7Crape%7Craped)&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+TODO
+:::
+
+
+## A
+
+{{< lipsum 1-2 >}}
+
+## B
+
+{{< lipsum 3-4 >}}
+
+## C
+
+{{< lipsum 5-6 >}}
+
+

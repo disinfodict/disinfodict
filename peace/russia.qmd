@@ -1,0 +1,12 @@
+# Peace Russia? {#sec-peace-russia}
+
+::: {.callout-caution title="Myth"}
+Russia wants peace
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=peace&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Russia has started an unprovoked war and will continue conquering Europe unless stopped
+:::
+
+{{< lipsum 1-2 >}}

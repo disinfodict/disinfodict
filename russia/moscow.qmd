@@ -1,0 +1,23 @@
+# Russia Moscow {#sec-russia-moscow}
+
+::: {.callout-caution title="Myth"}
+Moscow has a claim to leadership over all Slavic peoples
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=moscow%20history&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- International law applies
+- Moscow is a historically young city
+:::
+
+## International law applies
+
+{{< lipsum 1-2 >}}
+
+## Moscow is a historically young city
+
+At the time of [Kyivan Rus (880 - 1240)](https://en.wikipedia.org/wiki/Kievan_Rus%27), [Moscow (1147)](https://en.wikipedia.org/wiki/Moscow) was nothing but forest. 
+
+{{< lipsum 3-4 >}}
+
+

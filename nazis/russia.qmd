@@ -1,0 +1,62 @@
+# Nazis in Russia! {#sec-nazis-russia}
+
+<!-- This is a comment -->
+
+\index{Nazis}
+\index{Nazis!Russia}
+\index{Fascism}
+\index{Ruscism}
+\index{Stalinism}
+\index{Putinism}
+
+::: {.callout-caution title="Myth"}
+Russia fights Nazis abroad
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Nazis+Russia&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Russia projects its *ruscist* version of fascism onto its opponents to disguise its motives and "justify" its aggression
+:::
+
+## Projected Nazis
+
+Every russian accusation is a confession! This chapter gives evidence that Russia has fascist motives and pursues fascist actions. The chapter compares different definitions of power systems around fascism. The following table gives a summary:
+
+\LatexTableFontSize
+
+Feature | Mussolini | Hitler | Stalin | Putin | Fascism | Ruscism
+------- | --------- | ------ | ------ | ----- | ------- | -------
+Corruption | yes |yes | yes |yes | yes | yes
+Lawlessness and tyranny | yes | yes | yes | yes | yes | yes
+Democracy overturned | no | yes | no | no | yes | no
+Deportation | yes |yes | yes |yes | yes | yes
+Killing opponents | yes |yes | yes |yes | yes | yes
+Mass killings | yes |yes | yes |yes| yes | yes
+Mass rape | yes |yes | yes |yes | yes | yes
+Mass torture | yes |yes | yes |yes | no | yes | yes
+Foced labor | yes |yes | yes |yes | yes | yes
+Camps | KZ | KZ | Gulag | Gulag | KZ | Gulag
+Antisemitism | late | yes | yes | yes | es | yes
+Racism | yes | yes | yes | yes | yes | yes
+Genocide | yes | yes | yes | yes | yes | yes
+Ethnocide | yes | yes | yes | yes | yes | yes
+Urbicide | yes | yes | yes | yes | yes | yes
+Ecocide | no | no | yes | yes | no | yes
+Fascination Bloodbath | yes |yes | yes |yes | yes | yes
+War | yes | yes | yes |yes | yes | yes 
+War crimes | yes |yes | yes |yes | yes | yes
+
+\LatexReturnFontSize
+
+## Imperialism
+
+## Stalinism
+
+## Putinism
+
+## Fascism?
+
+## Ruscism!
+
+
+

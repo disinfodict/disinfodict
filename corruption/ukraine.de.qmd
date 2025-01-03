@@ -1,0 +1,59 @@
+# Korruption in der Ukraine? {#sec-corruption-ukraine}
+
+::: {.callout-caution title=„Myth“}
+Die Ukraine ist ein korruptes Land
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(corrupt%7Ccorruption)%20(ukraine%7Ckiev%7Ckyiv)&sort=relevance)
+:::
+
+::: {.callout-tip title=„Truth“}
+Während Russland eine korrupte Ukraine bevorzugt, will das ukrainische Volk die Korruption loswerden und die Ukraine ist jetzt ein viel weniger korruptes Land als Russland
+:::
+
+Das Bild von der Ukraine als einem großen Land in Europa mit ständigen Krisen, Korruptionsproblemen und politischer Instabilität ist weit verbreitet. Dabei werden jedoch wichtige Reformen, die die Ukraine durchlaufen hat, übersehen.
+
+## Unabhängigkeit
+
+Die Entscheidung des ukrainischen Volkes für die Unabhängigkeit 1991, siehe @sec-democracy-ukraine, war auch ein Votum gegen Korruption und für die Europäische Union.
+
+## Orangene Revolution
+
+Die *[Orange Revolution](https://en.wikipedia.org/wiki/Orange_Revolution)* 2004/2005 war auch ein Votum gegen Korruption und für die Europäische Union.
+
+
+## Euromaidan
+
+Der *[Euromaidan](https://de.wikipedia.org/wiki/Euromaidan)* 2013/2014 war ebenfalls ein Votum gegen Korruption und für die Europäische Union.
+
+
+## Anti-Korruption im Krieg
+
+Die Flucht von Wiktor Janukowytsch aus der Ukraine im Jahr 2014 führte dazu, dass der ukrainische Staat nur noch etwa 11 000 Dollar[^188] in der Staatskasse hatte. Das war eine enorme Herausforderung für die neu etablierte Regierung, hat aber die Reformen nicht aufgehalten. 
+
+Das Nationale Antikorruptionsbüro der Ukraine[^189] und die Spezialisierte Antikorruptionsstaatsanwaltschaft haben 2015 ihre Arbeit aufgenommen und das Hohe Antikorruptionsgericht im Jahr 2020\. Sie sind mit der Aufdeckung, strafrechtlichen Verfolgung und Verurteilung hochrangiger politischer Korruption betraut. Die neu geschaffenen Organisationen wurden mit umfangreichen Befugnissen und Ressourcen ausgestattet und sind vor externem politischem Druck geschützt. 
+
+In der Gesellschaft sind neben den Ermittlungsbehörden Transparenzinitiativen entstanden, die in Europa nahezu beispiellos sind. Ein herausragendes Beispiel ist ProZorro,[^190] das zentrale E-Beschaffungssystem, welches von der Gesellschaft (NGOs, Freiwilligen, Unternehmen) entwickelt wurde. Darüber hinaus hat die Verpflichtung für Beamte und ihre nahen Verwandten, elektronische Vermögenserklärungen abzugeben, ein Maß an Transparenz in Europa etabliert, das recht selten ist. Dies ermöglicht es der Zivilgesellschaft und den Ermittlungsbehörden, die deklarierten Vermögenswerte zu überprüfen.
+
+Diese Reformen und die Verpflichtung zur Korruptionsbekämpfung haben wesentliche Grundlagen für die EU-Beitrittsperspektive geschaffen.
+
+Trotz des Krieges würdigte die OECD im März 2024 die Umsetzung der Antikorruptionspolitik der Ukraine als “hoch”,[^191] und dies zeitigt Ergebnisse: laut dem Korruptionswahrnehmungsindex (CPI) von Transparency International[^192] hat sich das Ansehen der Ukraine auf der internationalen Bühne in den letzten Jahren allmählich, aber stetig verbessert, so dass sie mit anderen EU-Bewerbern wie Serbien, Albanien oder Bosnien und Herzegowina gleichgezogen hat.[^193]
+
+*Weitere Informationen über die Bemühungen der Ukraine zur Korruptionsbekämpfung finden Sie in @tdcenter:2023*
+
+![* Ukraine und Trends im Korruptionswahrnehmungsindex. Source:  [https://www.transparency.org/en/countries/ukraine](https://www.transparency.org/en/countries/ukraine)* 
+<br>](CorruptionPerceptionIndex_Ukraine.jpg)
+
+![*Russland und Trends im Korruptionswahrnehmungsindex. Source:  [https://www.transparency.org/en/countries/russia](https://www.transparency.org/en/countries/russia)* 
+<br>](CorruptionPerceptionIndex_Russia.jpg)
+
+
+[^188]:  *Після втечі Януковича в скарбниці залишалося 108 тисяч 133 гривні 65 копійок \[After Yanukovych’s flight, the treasury had 108,133.65 hryvnia left\]*. (2017, March 11). LB.ua. Retrieved May 2, 2024, from https://lb.ua/news/2017/03/11/360928\_posle\_begstva\_yanukovicha\_kazne.html
+
+[^189]:  *National Anticorruption Directorate*. (n.d.). NABU Official Website. Retrieved May 2, 2024, from https://nabu.gov.ua/en/tags/national-anticorruption-directorate/
+
+[^190]:  [https://prozorro.gov.ua/uk](https://prozorro.gov.ua/uk) 
+
+[^191]:  Review of Anti-Corruption Reforms in Ukraine under the Fifth Round of Monitoring. (n.d.). https://www.oecd-ilibrary.org/governance/review-of-anti-corruption-reforms-in-ukraine-under-the-fifth-round-of-monitoring\_9e03ebb6-en
+
+[^192]:  *2022 Corruption Perceptions Index*. (n.d.). Transparency International. Retrieved May 2, 2024, from https://www.transparency.org/en/cpi/2022/index/ukr
+
+[^193]:  Mattia Nelles, 2023\. Die Ukraine ist ein korruptes Land In: N. Pryhornytska, K. Pavlova, ed. Ukraine im Fokus. Propaganda erkennen, Fakten verstehen. Berlin: CRISP, pp. 53-59.

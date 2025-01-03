@@ -1,0 +1,35 @@
+# Family of Ukraine {#sec-brothers-ukraine}
+
+::: {.callout-caution title="Myth"}
+Ukrainians belong to the Russian family.
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=brothers%20(ukrainians|ukraine)&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Ukraine belongs to the European family.
+:::
+
+## Melting pot Europe 
+
+{{< lipsum 1-2 >}}
+
+See @sec-minorities-ukraine
+
+## European Culture
+
+{{< lipsum 3-4 >}}
+
+See @sec-culture-ukraine
+
+## Ukrainian Language
+
+{{< lipsum 5-6 >}}
+
+See @sec-language-ukraine
+
+## Ukrainian People
+
+{{< lipsum 7-8 >}}
+
+See @sec-democracy-ukraine
+

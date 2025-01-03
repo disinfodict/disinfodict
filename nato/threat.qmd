@@ -1,0 +1,26 @@
+# NATO threatened? {#sec-nato-threat}
+
+::: {.callout-caution title="Myth"}
+NATO-Expansion threatened Russia, hence Russia had to protect itself by invading Ukraine
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nato%20%20threatens%20russia&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- NATO did not expand militarily to the East. 
+- Russia fears Ukraine's EU membership: that economic prosperity in the neighboring country threatens the exploitation of the Russian population by the oligarchy.
+:::
+
+
+## Ukraine gave up their nuclear weapons
+
+See @sec-nukes-ukraine.
+
+## No military expansion of NATO
+
+See @sec-nato-expansion.
+
+## EU-Membership threatened!
+
+{{< lipsum 5-6 >}}
+
+

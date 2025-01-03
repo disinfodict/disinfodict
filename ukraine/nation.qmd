@@ -1,0 +1,32 @@
+# Ukraine nation {#sec-ukraine-nation}
+
+::: {.callout-caution title="Myth"}
+- Ukraine is part of the Russian Nation
+- Ukrainian nation did not exist until after the Bolshevik Revolution
+- Ukrainian nation only exists in western Ukraine
+- Capital of Ukraine is Lviv, not Kyiv
+- Ukrainian nationalists are nazis
+- Ukrainian nation failed
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=ukraine%20nation&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Urainian nation is older than Russia
+- Urainian capital is Kyiv (and that's older than Moscow)
+- Urainian citizens fight for their nation's values - Russians have no values to fight for
+:::
+
+
+## A
+
+{{< lipsum 1-2 >}}
+
+## B
+
+{{< lipsum 3-4 >}}
+
+## C
+
+{{< lipsum 5-6 >}}
+
+

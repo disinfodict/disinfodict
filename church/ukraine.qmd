@@ -1,0 +1,30 @@
+# Church in Ukraine {#sec-church-ukraine}
+
+::: {.callout-caution title="Myth"}
+Ukraine fights Orthodox Christianity
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=church%20ukraine&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Ukraine tolerated multiple churches: greek, ukrainian orthodox and even russian orthodox. 
+But russian orthodox churches infiltrated FSB agents and stockpiled weapons. 
+:::
+
+
+## Section 1
+
+{{< lipsum 1-2 >}}
+
+## Section 2
+
+{{< lipsum 3-4 >}}
+
+## Section 3
+
+{{< lipsum 5-6 >}}
+
+## Section 4
+
+{{< lipsum 7-8 >}}
+
+

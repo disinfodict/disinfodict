@@ -1,0 +1,13 @@
+# Peace Ukraine {#sec-peace-ukraine}
+
+::: {.callout-caution title="Myth"}
+Ukraine doesn't want peace
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(escalation%7Cescalate)&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Ukrainians want peace more than anyone else
+- Russia prefers to continue its war
+:::
+
+{{< lipsum 1-2 >}}
