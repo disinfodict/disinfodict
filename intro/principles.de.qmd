@@ -116,5 +116,5 @@ Die Kapitel sind in *Faktenabschnitte* gegliedert:
 
 ## Beitragen
 
-Sie können Verbesserungsvorschläge im Klartext senden - vorzugsweise als [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) *.qmd Datei - [`contribution [at] disinfodict [dot] org](mailto:contribution@disinfodict.org). Für mehrfache Beiträge können Sie das [dictionary at github](https:/github.com/disinfodict/disinfodict) forken und einen Pull-Request erstellen (siehe die [README]((https:/github.com/disinfodict/disinfodict/README.qmd)).
+Sie können Verbesserungsvorschläge im Klartext senden - vorzugsweise als [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) *.qmd Datei - [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). Für mehrfache Beiträge können Sie das [dictionary at github](https:/github.com/disinfodict/disinfodict) forken und einen Pull-Request erstellen (siehe die [README]((https:/github.com/disinfodict/disinfodict/README.qmd)).
 

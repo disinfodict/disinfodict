@@ -5,6 +5,8 @@ execute:
   enabled: false
 ---
 
+# Conribute
+
 You can contribute to the Desinformation Dictionary in multiple ways
 
 - low tech approach: just modify a chapter file or write a new one
@@ -12,6 +14,9 @@ You can contribute to the Desinformation Dictionary in multiple ways
 - git: use version control on your PC
 - github: clone the Dictionary repository in your github account, modify and submit
 - recommended: combine RStudio with git and github
+
+To submit you contribution use the email address in the [dictionary](https://disinfodict.pages.dev/intro/principles#contribute), for many submissions learn how to use pull requests, see below [Dictionary flow].
+
 
 # Low tech approach
 

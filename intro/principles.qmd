@@ -110,4 +110,4 @@ Chapters are organized in *fact-sections*:
 
 ## Contribute
 
-You can send plaintext suggestions for improvements - preferably as a [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) *.qmd file - [contribution [at] disinfodict [dot] org](mailto:contribution@disinfodict.org). For multiple contributions you can fork the [dictionary at github](https:/github.com/disinfodict/disinfodict) and create a pull-request (see the [README]((https:/github.com/disinfodict/disinfodict/README.qmd))).
+You can send plaintext suggestions for improvements - preferably as a [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) *.qmd file - [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). For multiple contributions you can fork the [dictionary at github](https:/github.com/disinfodict/disinfodict) and create a pull-request (see the [README]((https:/github.com/disinfodict/disinfodict/README.qmd))).
