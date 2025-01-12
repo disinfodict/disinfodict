@@ -27,15 +27,15 @@ Der *[Euromaidan](https://de.wikipedia.org/wiki/Euromaidan)* 2013/2014 war ebenf
 
 ## Anti-Korruption im Krieg
 
-Die Flucht von Wiktor Janukowytsch aus der Ukraine im Jahr 2014 führte dazu, dass der ukrainische Staat nur noch etwa 11 000 Dollar[^188] in der Staatskasse hatte. Das war eine enorme Herausforderung für die neu etablierte Regierung, hat aber die Reformen nicht aufgehalten. 
+Die Flucht von Wiktor Janukowytsch aus der Ukraine im Jahr 2014 führte dazu, dass der ukrainische Staat nur noch etwa 11 000 Dollar[^corruption-ukraine.de-1] in der Staatskasse hatte. Das war eine enorme Herausforderung für die neu etablierte Regierung, hat aber die Reformen nicht aufgehalten. 
 
-Das Nationale Antikorruptionsbüro der Ukraine[^189] und die Spezialisierte Antikorruptionsstaatsanwaltschaft haben 2015 ihre Arbeit aufgenommen und das Hohe Antikorruptionsgericht im Jahr 2020\. Sie sind mit der Aufdeckung, strafrechtlichen Verfolgung und Verurteilung hochrangiger politischer Korruption betraut. Die neu geschaffenen Organisationen wurden mit umfangreichen Befugnissen und Ressourcen ausgestattet und sind vor externem politischem Druck geschützt. 
+Das Nationale Antikorruptionsbüro der Ukraine[^corruption-ukraine.de-2] und die Spezialisierte Antikorruptionsstaatsanwaltschaft haben 2015 ihre Arbeit aufgenommen und das Hohe Antikorruptionsgericht im Jahr 2020\. Sie sind mit der Aufdeckung, strafrechtlichen Verfolgung und Verurteilung hochrangiger politischer Korruption betraut. Die neu geschaffenen Organisationen wurden mit umfangreichen Befugnissen und Ressourcen ausgestattet und sind vor externem politischem Druck geschützt. 
 
-In der Gesellschaft sind neben den Ermittlungsbehörden Transparenzinitiativen entstanden, die in Europa nahezu beispiellos sind. Ein herausragendes Beispiel ist ProZorro,[^190] das zentrale E-Beschaffungssystem, welches von der Gesellschaft (NGOs, Freiwilligen, Unternehmen) entwickelt wurde. Darüber hinaus hat die Verpflichtung für Beamte und ihre nahen Verwandten, elektronische Vermögenserklärungen abzugeben, ein Maß an Transparenz in Europa etabliert, das recht selten ist. Dies ermöglicht es der Zivilgesellschaft und den Ermittlungsbehörden, die deklarierten Vermögenswerte zu überprüfen.
+In der Gesellschaft sind neben den Ermittlungsbehörden Transparenzinitiativen entstanden, die in Europa nahezu beispiellos sind. Ein herausragendes Beispiel ist ProZorro,[^corruption-ukraine.de-3] das zentrale E-Beschaffungssystem, welches von der Gesellschaft (NGOs, Freiwilligen, Unternehmen) entwickelt wurde. Darüber hinaus hat die Verpflichtung für Beamte und ihre nahen Verwandten, elektronische Vermögenserklärungen abzugeben, ein Maß an Transparenz in Europa etabliert, das recht selten ist. Dies ermöglicht es der Zivilgesellschaft und den Ermittlungsbehörden, die deklarierten Vermögenswerte zu überprüfen.
 
 Diese Reformen und die Verpflichtung zur Korruptionsbekämpfung haben wesentliche Grundlagen für die EU-Beitrittsperspektive geschaffen.
 
-Trotz des Krieges würdigte die OECD im März 2024 die Umsetzung der Antikorruptionspolitik der Ukraine als “hoch”,[^191] und dies zeitigt Ergebnisse: laut dem Korruptionswahrnehmungsindex (CPI) von Transparency International[^192] hat sich das Ansehen der Ukraine auf der internationalen Bühne in den letzten Jahren allmählich, aber stetig verbessert, so dass sie mit anderen EU-Bewerbern wie Serbien, Albanien oder Bosnien und Herzegowina gleichgezogen hat.[^193]
+Trotz des Krieges würdigte die OECD im März 2024 die Umsetzung der Antikorruptionspolitik der Ukraine als “hoch”,[^corruption-ukraine.de-4] und dies zeitigt Ergebnisse: laut dem Korruptionswahrnehmungsindex (CPI) von Transparency International[^corruption-ukraine.de-5] hat sich das Ansehen der Ukraine auf der internationalen Bühne in den letzten Jahren allmählich, aber stetig verbessert, so dass sie mit anderen EU-Bewerbern wie Serbien, Albanien oder Bosnien und Herzegowina gleichgezogen hat.[^corruption-ukraine.de-6]
 
 *Weitere Informationen über die Bemühungen der Ukraine zur Korruptionsbekämpfung finden Sie in @tdcenter:2023*
 
@@ -46,14 +46,14 @@ Trotz des Krieges würdigte die OECD im März 2024 die Umsetzung der Antikorrupt
 <br>](CorruptionPerceptionIndex_Russia.jpg)
 
 
-[^188]:  *Після втечі Януковича в скарбниці залишалося 108 тисяч 133 гривні 65 копійок \[After Yanukovych’s flight, the treasury had 108,133.65 hryvnia left\]*. (2017, March 11). LB.ua. Retrieved May 2, 2024, from https://lb.ua/news/2017/03/11/360928\_posle\_begstva\_yanukovicha\_kazne.html
+[^corruption-ukraine.de-1]:  *Після втечі Януковича в скарбниці залишалося 108 тисяч 133 гривні 65 копійок \[After Yanukovych’s flight, the treasury had 108,133.65 hryvnia left\]*. (2017, March 11). LB.ua. Retrieved May 2, 2024, from [https://lb.ua/news/2017/03/11/360928\_posle\_begstva\_yanukovicha\_kazne.html](https://lb.ua/news/2017/03/11/360928\_posle\_begstva\_yanukovicha\_kazne.html)
 
-[^189]:  *National Anticorruption Directorate*. (n.d.). NABU Official Website. Retrieved May 2, 2024, from https://nabu.gov.ua/en/tags/national-anticorruption-directorate/
+[^corruption-ukraine.de-2]:  *National Anticorruption Directorate*. (n.d.). NABU Official Website. Retrieved May 2, 2024, from [https://nabu.gov.ua/en/tags/national-anticorruption-directorate/](https://nabu.gov.ua/en/tags/national-anticorruption-directorate/)
 
-[^190]:  [https://prozorro.gov.ua/uk](https://prozorro.gov.ua/uk) 
+[^corruption-ukraine.de-3]:  [https://prozorro.gov.ua/uk](https://prozorro.gov.ua/uk) 
 
-[^191]:  Review of Anti-Corruption Reforms in Ukraine under the Fifth Round of Monitoring. (n.d.). https://www.oecd-ilibrary.org/governance/review-of-anti-corruption-reforms-in-ukraine-under-the-fifth-round-of-monitoring\_9e03ebb6-en
+[^corruption-ukraine.de-4]:  Review of Anti-Corruption Reforms in Ukraine under the Fifth Round of Monitoring. (n.d.). [https://www.oecd-ilibrary.org/governance/review-of-anti-corruption-reforms-in-ukraine-under-the-fifth-round-of-monitoring\_9e03ebb6-en](https://www.oecd-ilibrary.org/governance/review-of-anti-corruption-reforms-in-ukraine-under-the-fifth-round-of-monitoring\_9e03ebb6-en)
 
-[^192]:  *2022 Corruption Perceptions Index*. (n.d.). Transparency International. Retrieved May 2, 2024, from https://www.transparency.org/en/cpi/2022/index/ukr
+[^corruption-ukraine.de-5]:  *2022 Corruption Perceptions Index*. (n.d.). Transparency International. Retrieved May 2, 2024, from [https://www.transparency.org/en/cpi/2022/index/ukr](https://www.transparency.org/en/cpi/2022/index/ukr)
 
-[^193]:  Mattia Nelles, 2023\. Die Ukraine ist ein korruptes Land In: N. Pryhornytska, K. Pavlova, ed. Ukraine im Fokus. Propaganda erkennen, Fakten verstehen. Berlin: CRISP, pp. 53-59.
+[^corruption-ukraine.de-6]:  Mattia Nelles, 2023\. Die Ukraine ist ein korruptes Land In: N. Pryhornytska, K. Pavlova, ed. Ukraine im Fokus. Propaganda erkennen, Fakten verstehen. Berlin: CRISP, pp. 53-59.

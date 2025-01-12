@@ -12,7 +12,7 @@
 Russia intentionally bombed the theater with hundreds of civilians in it
 :::
 
-a[^120], b[^125]
+a[^denial-mariupol-1], b[^denial-mariupol-2]
 
 
 
@@ -30,6 +30,6 @@ a[^120], b[^125]
 
 
 
-[^120]:  Ukraine: Deadly Mariupol theatre strike ‘a clear war crime’ by Russian forces – new investigation. (2023, June 30). Amnesty International. Retrieved May 1, 2024, from https://www.amnesty.org/en/latest/news/2022/06/ukraine-deadly-mariupol-theatre-strike-a-clear-war-crime-by-russian-forces-new-investigation/
+[^denial-mariupol-1]:  Ukraine: Deadly Mariupol theatre strike ‘a clear war crime’ by Russian forces – new investigation. (2023, June 30). Amnesty International. Retrieved May 1, 2024, from [https://www.amnesty.org/en/latest/news/2022/06/ukraine-deadly-mariupol-theatre-strike-a-clear-war-crime-by-russian-forces-new-investigation/](https://www.amnesty.org/en/latest/news/2022/06/ukraine-deadly-mariupol-theatre-strike-a-clear-war-crime-by-russian-forces-new-investigation/)
 
-[^125]:  LIE: Bombing of maternity hospital in Mariupol staged. (2022, March 17). VoxUkraine. Retrieved May 1, 2024, from https://voxukraine.org/en/lie-bombing-of-maternity-hospital-in-mariupol-staged
+[^denial-mariupol-2]:  LIE: Bombing of maternity hospital in Mariupol staged. (2022, March 17). VoxUkraine. Retrieved May 1, 2024, from [https://voxukraine.org/en/lie-bombing-of-maternity-hospital-in-mariupol-staged](https://voxukraine.org/en/lie-bombing-of-maternity-hospital-in-mariupol-staged)

@@ -64,8 +64,8 @@ The fascist manifesto “[What Russia should do with Ukraine](https://english.nv
 > 
 > By publishing this story on April 3, the same day the world found out about horrible massacre of at least 400 Ukrainian civilians by the Russian army in Bucha, RIA Novosti has sunk to a level a cynicism not seen since the 1930s in Europe. This fascist manifesto lays bare the dreadful danger that the regime of Russian dictator Vladimir Putin now poses to Ukraine, and to the world.
 
-<!-- de: https://www.blaetter.de/ausgabe/2022/mai/dokumentiert-was-russland-mit-der-ukraine-tun-sollte -->
-<!-- ru: https://ria.ru/20220403/ukraina-1781469605.html -->
+<!-- de: [https://www.blaetter.de/ausgabe/2022/mai/dokumentiert-was-russland-mit-der-ukraine-tun-sollte](https://www.blaetter.de/ausgabe/2022/mai/dokumentiert-was-russland-mit-der-ukraine-tun-sollte) -->
+<!-- ru: [https://ria.ru/20220403/ukraina-1781469605.html](https://ria.ru/20220403/ukraina-1781469605.html) -->
 
 
 ## Psychological warfare
@@ -117,7 +117,7 @@ Modern psychological warfare is a mixture of these brutal and more subtle method
 
 For an empirical study on *Reflexive Control* in Russia's war against Ukraine see @Doroshenko:2021. For a detailed study on *Reflexive Control* see @Vasara:2020
 
-<!-- https://www.bpb.de/themen/europa/ukraine-analysen/250431/kommentar-reflexive-kontrolle-als-koenigsdisziplin-russischer-hybrider-kriegfuehrung-ukrainische-entscheidungsengpaesse-in-einem-nichtlinearen-konflikt/ -->
+<!-- [https://www.bpb.de/themen/europa/ukraine-analysen/250431/kommentar-reflexive-kontrolle-als-koenigsdisziplin-russischer-hybrider-kriegfuehrung-ukrainische-entscheidungsengpaesse-in-einem-nichtlinearen-konflikt/](https://www.bpb.de/themen/europa/ukraine-analysen/250431/kommentar-reflexive-kontrolle-als-koenigsdisziplin-russischer-hybrider-kriegfuehrung-ukrainische-entscheidungsengpaesse-in-einem-nichtlinearen-konflikt/) -->
 
 
 ## Hybrid Warfare (2007)
@@ -210,14 +210,14 @@ Foreign information manipulation and interference (FIMI) presents a growing poli
 The Hybrid CoE Research Report examines the DISARM framework and its suitability for rapid adoption by strategic communications practitioners, and its credibility for specialist FIMI threat analysts (@Newman:2022).
 
 Henin:2023
-https://www.disinfo.eu
+[https://www.disinfo.eu](https://www.disinfo.eu)
 
-https://www.disinfo.eu/wp-content/uploads/2023/04/20230412_FIMI-FS-FINAL.pdf
+[https://www.disinfo.eu/wp-content/uploads/2023/04/20230412_FIMI-FS-FINAL.pdf](https://www.disinfo.eu/wp-content/uploads/2023/04/20230412_FIMI-FS-FINAL.pdf)
 
 
-https://www.alfredlandecker.org/en/projects/alliance4europe-disarm-foundation
-https://alliance4europe.eu
-https://www.disarm.foundation/framework
+[https://www.alfredlandecker.org/en/projects/alliance4europe-disarm-foundation](https://www.alfredlandecker.org/en/projects/alliance4europe-disarm-foundation)
+[https://alliance4europe.eu](https://alliance4europe.eu)
+[https://www.disarm.foundation/framework](https://www.disarm.foundation/framework)
 -->
 
 

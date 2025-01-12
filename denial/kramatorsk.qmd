@@ -15,9 +15,9 @@ Russia bombed multiple railway stations on that day
 
 ## Kramatorsk
 
-On April 8, 2022, at 10:28 a.m. ballistic missile equipped with a cluster munition warhead dispersed 50 small bombs, known as submunitions, over the train tracks and station in Kramatorsk. At least 58 people, who were waiting for the evacuation train, were killed – all of them civilians – and over 100 others were injured.[^93]
+On April 8, 2022, at 10:28 a.m. ballistic missile equipped with a cluster munition warhead dispersed 50 small bombs, known as submunitions, over the train tracks and station in Kramatorsk. At least 58 people, who were waiting for the evacuation train, were killed – all of them civilians – and over 100 others were injured.[^denial-kramatorsk-2]
 
-a[^123]
+a[^denial-kramatorsk-1]
 
 ## B
 
@@ -27,6 +27,6 @@ a[^123]
 
 {{< lipsum 5-6 >}}
 
-[^93]:  Death at the Station: Russian Cluster Munition Attack in Kramatorsk. (2023, February 21). Human Rights Watch. Retrieved May 1, 2024, from https://www.hrw.org/video-photos/interactive/2023/02/21/death-at-the-station/russian-cluster-munition-attack-in-kramatorsk
+[^denial-kramatorsk-2]:  Death at the Station: Russian Cluster Munition Attack in Kramatorsk. (2023, February 21). Human Rights Watch. Retrieved May 1, 2024, from [https://www.hrw.org/video-photos/interactive/2023/02/21/death-at-the-station/russian-cluster-munition-attack-in-kramatorsk](https://www.hrw.org/video-photos/interactive/2023/02/21/death-at-the-station/russian-cluster-munition-attack-in-kramatorsk)
 
-[^123]:  ZDFheute. (2023, February 21). Kramatorsk: Angriff war laut HRW-Bericht Kriegsverbrechen. ZDFheute. https://www.zdf.de/nachrichten/politik/kramatorsk-streumunition-ukraine-krieg-russland-100.html
+[^denial-kramatorsk-1]:  ZDFheute. (2023, February 21). Kramatorsk: Angriff war laut HRW-Bericht Kriegsverbrechen. ZDFheute. [https://www.zdf.de/nachrichten/politik/kramatorsk-streumunition-ukraine-krieg-russland-100.html](https://www.zdf.de/nachrichten/politik/kramatorsk-streumunition-ukraine-krieg-russland-100.html)

@@ -230,4 +230,190 @@ sudo apt install npm
 sudo apt install nodejs
 npm install @daisy/ace -g
 -->
+
+
+### Expert use only
+
+## Footnote reorganisation
+
+```{R}
+for (i in grep("/", dir(pattern="[.]qmd", recursive=T), value=TRUE)){
+ cat(i)
+ x <- readLines(i)
+ names(x) <- seq_along(x)
+ y <- gregexpr("\\[\\^[0-9a-zA-Z-]+\\]", x)
+ y <- lapply(seq_along(y), function(j){
+   a <- y[[j]]
+   if (a[1]==-1)
+     NULL
+   else
+     cbind(row=j, start=as.vector(a), stop=as.vector(a)+attr(a, "match.length")-1L)
+ })
+ names(y) <- seq_along(x)
+ z <- do.call("rbind", y)
+ if (!is.null(z)){
+     n <- sapply(y, function(a){if (is.null(a)) 0 else nrow(a)})
+     oldid <- substr(x[z[,"row"]], z[,"start"], z[,"stop"])
+     toldid <- sapply(split(oldid, oldid), length)
+     #if (any(toldid!=2)){
+     #  print(toldid[toldid!=2])
+     #}
+     tnewid <- toldid
+     tnewid[] <- paste0("[^",gsub("/","-",substr(i, 1, nchar(i)-4)),"-",seq_along(toldid),"]")
+     newid <- tnewid[oldid]
+     for (j in rev(seq_along(newid))){
+       k <- z[j,"row"]
+       s <- x[k]
+       s1 <- if (z[j,"start"]>1) substr(s, 1, z[j,"start"]-1L)
+       s2 <- if (z[j,"stop"]<nchar(s)) substr(s, z[j,"stop"]+1L, nchar(s))
+       s3 <- paste0(s1, newid[j], s2)
+       x[k] <- s3
+     }
+     writeLines(x, i)
+     cat(" done\n") 
+   }
+}
+```
+
+### Checking formatted links
+
+
+```{R}
+require(curl)
+hand <- new_handle()
+handle_setheaders(hand
+, "User-Agent" = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" 
+, "Accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8" 
+, "Accept-Language" = "de,en-US;q=0.7,en;q=0.3" 
+, "Accept-Encoding" = "gzip, deflate, br, zstd" 
+, "DNT" = "1" 
+, "Sec-GPC" = "1" 
+, "Connection" = "keep-alive" 
+, "Upgrade-Insecure-Requests" = "1" 
+, "Sec-Fetch-Dest" = "document" 
+, "Sec-Fetch-Mode" = "navigate" 
+, "Sec-Fetch-Site" = "none" 
+, "Sec-Fetch-User" = "?1" 
+, "Priority" = "u=0, i"
+)
+fi <- file("log.txt", open="w")
+for (i in grep("/", dir(pattern="[.]bib", recursive=T), value=TRUE)){
+ cat("\n", i, "\n", file=fi)
+ x <- readLines(i)
+ names(x) <- seq_along(x)
+ y <- gregexpr("(\\(|\\{)((http://|https://)[[:alpha:]0-9.:/#?=_&\\\\-]+)", x, perl=TRUE)
+ y <- lapply(seq_along(y), function(j){
+   a <- y[[j]]
+   if (a[1]==-1)
+     NULL
+   else
+     cbind(row=j, start=attr(a, "capture.start")[,2], stop=attr(a, "capture.start")[,2]+attr(a, "capture.length")[,2]-1L)
+ })
+ names(y) <- seq_along(x)
+ z <- do.call("rbind", y)
+ if (!is.null(z)){
+     n <- sapply(y, function(a){if (is.null(a)) 0 else nrow(a)})
+     oldid <- substr(x[z[,"row"]], z[,"start"], z[,"stop"])
+     for (j in rev(seq_along(oldid))){
+       k <- z[j,"row"]
+       s <- x[k]
+       h <- oldid[j]
+       u <- url(h)
+       Sys.sleep(runif(1, 1, 2))
+       o <- curl_fetch_memory("https://www.nato.int/cps/en/natohq/opinions_224174.htm/head", handle = hand)$status_code
+       if (o != 200){
+         cat("\nrow=", z[j,"row"], "  start=", z[j,"start"], "  stop=", z[j,"stop"], "BROKEN ", o, " ", h, "\n", file=fi)
+       }else{
+       close(u)
+       cat("\nrow=", z[j,"row"], "  start=", z[j,"start"], "  stop=", z[j,"stop"], "  OK   ", o, " ",  h, "\n", file=fi)
+       }
+     }
+   }
+} 
+close(fi)
+#gsub("(^|[^[\\[\\(\\`)]]?)((http://|https://)[[:alpha:]0-9./#?=_&\\\\-]+)", "\\1[\\2](\\2)", x)
+```
+
+
+### Checking and formatting unformatted links
+
+
+```{R}
+require(curl)
+hand <- new_handle()
+handle_setheaders(hand
+, "User-Agent" = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" 
+, "Accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8" 
+, "Accept-Language" = "de,en-US;q=0.7,en;q=0.3" 
+, "Accept-Encoding" = "gzip, deflate, br, zstd" 
+, "DNT" = "1" 
+, "Sec-GPC" = "1" 
+, "Connection" = "keep-alive" 
+, "Upgrade-Insecure-Requests" = "1" 
+, "Sec-Fetch-Dest" = "document" 
+, "Sec-Fetch-Mode" = "navigate" 
+, "Sec-Fetch-Site" = "none" 
+, "Sec-Fetch-User" = "?1" 
+, "Priority" = "u=0, i"
+)
+#require(httr)
+# headers = c(
+#   `User-Agent` = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0',
+#   `Accept` = 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8',
+#   `Accept-Language` = 'de,en-US;q=0.7,en;q=0.3',
+#   `Accept-Encoding` = 'gzip, deflate, br, zstd',
+#   `DNT` = '1',
+#   `Sec-GPC` = '1',
+#   `Connection` = 'keep-alive',
+#   `Upgrade-Insecure-Requests` = '1',
+#   `Sec-Fetch-Dest` = 'document',
+#   `Sec-Fetch-Mode` = 'navigate',
+#   `Sec-Fetch-Site` = 'none',
+#   `Sec-Fetch-User` = '?1',
+#   `Priority` = 'u=0, i'
+# )
+# httr::HEAD(url = 'https://www.nato.int/cps/en/natohq/opinions_224174.htm', httr::add_headers(.headers=headers)), times=1)$status_code
+fi <- file("log.txt", open="w")
+for (i in grep("/", dir(pattern="[.]qmd", recursive=T), value=TRUE)){
+ cat("\n", i, "\n", file=fi)
+ x <- readLines(i)
+ names(x) <- seq_along(x)
+ y <- gregexpr("(^|[^[\\[\\(\\`)]]?)((http://|https://)[[:alpha:]0-9.:/#?=_&\\\\-]+)", x, perl=TRUE)
+ y <- lapply(seq_along(y), function(j){
+   a <- y[[j]]
+   if (a[1]==-1)
+     NULL
+   else
+     cbind(row=j, start=attr(a, "capture.start")[,2], stop=attr(a, "capture.start")[,2]+attr(a, "capture.length")[,2]-1L)
+ })
+ names(y) <- seq_along(x)
+ z <- do.call("rbind", y)
+ if (!is.null(z)){
+     n <- sapply(y, function(a){if (is.null(a)) 0 else nrow(a)})
+     oldid <- substr(x[z[,"row"]], z[,"start"], z[,"stop"])
+     for (j in rev(seq_along(oldid))){
+       k <- z[j,"row"]
+       s <- x[k]
+       h <- oldid[j]
+       u <- url(h)
+       Sys.sleep(runif(1, 1, 2))
+       o <- curl_fetch_memory("https://www.nato.int/cps/en/natohq/opinions_224174.htm/head", handle = hand)$status_code
+       if (o != 200){
+         cat("\nrow=", z[j,"row"], "  start=", z[j,"start"], "  stop=", z[j,"stop"], "BROKEN ", o, " ", h, "\n", file=fi)
+       }else{
+       close(u)
+       cat("\nrow=", z[j,"row"], "  start=", z[j,"start"], "  stop=", z[j,"stop"], "  OK   ", o, " ",  h, "\n", file=fi)
+         s1 <- if (z[j,"start"]>1) substr(s, 1, z[j,"start"]-1L)
+         s2 <- if (z[j,"stop"]<nchar(s)) substr(s, z[j,"stop"]+1L, nchar(s))
+         s3 <- paste0(s1, "[", h, "](", h, ")", s2)
+         x[k] <- s3
+       }
+     }
+     #writeLines(x, i)
+   }
+} 
+close(fi)
+#gsub("(^|[^[\\[\\(\\`)]]?)((http://|https://)[[:alpha:]0-9./#?=_&\\\\-]+)", "\\1[\\2](\\2)", x)
+```
+
   

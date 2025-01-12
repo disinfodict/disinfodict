@@ -21,7 +21,7 @@ Seit Jahrhunderten versucht Russland, die Existenz einer eigenen ukrainischen Ku
 >
 > Das Zirkular von Valuev (1863)
 
-Tatsächlich werden Ukrainisch und Russisch jedoch nur zu 62 % als lexikalisch ähnlich angesehen.[^223] Zum Vergleich: Deutsch und Niederländisch sind zu 75 % ähnlich und dennoch behauptet niemand, dass Niederländisch ein Dialekt der deutschen Sprache ist:
+Tatsächlich werden Ukrainisch und Russisch jedoch nur zu 62 % als lexikalisch ähnlich angesehen.[^language-ukraine.de-1] Zum Vergleich: Deutsch und Niederländisch sind zu 75 % ähnlich und dennoch behauptet niemand, dass Niederländisch ein Dialekt der deutschen Sprache ist:
 
 > In general, Ukrainian and Belarusian are also closer to other Western European languages, especially to German (via Polish). At the same time Russian was being heavily influenced by Church Slavonic (South Slavic language), but also by the Turkic and Uralic languages.
 >
@@ -32,7 +32,7 @@ Tatsächlich werden Ukrainisch und Russisch jedoch nur zu 62 % als lexikalisch �
 
 ## Verfolgung der ukrainischen Sprache
 
-Es gibt auch einen wesentlichen Grund dafür, dass das Ukrainische bis vor kurzem weniger beliebt war, als es eigentlich sein sollte. Es handelt sich um eine konsequente Politik der Russifizierung, die sich auf einen historischen Prozess der kulturellen, sprachlichen und politischen Assimilierung bezieht, der vom Russischen Reich aufgezwungen und später von der Sowjetunion fortgesetzt wurde. Kurz gesagt, es geht um eine 300-jährige Geschichte[^224] des Verbots und der Unterdrückung der ukrainischen Sprache in der Ukraine unter verschiedenen russischen Herrschern. 
+Es gibt auch einen wesentlichen Grund dafür, dass das Ukrainische bis vor kurzem weniger beliebt war, als es eigentlich sein sollte. Es handelt sich um eine konsequente Politik der Russifizierung, die sich auf einen historischen Prozess der kulturellen, sprachlichen und politischen Assimilierung bezieht, der vom Russischen Reich aufgezwungen und später von der Sowjetunion fortgesetzt wurde. Kurz gesagt, es geht um eine 300-jährige Geschichte[^language-ukraine.de-2] des Verbots und der Unterdrückung der ukrainischen Sprache in der Ukraine unter verschiedenen russischen Herrschern. 
 
 
 ## Siehe auch
@@ -40,6 +40,6 @@ Es gibt auch einen wesentlichen Grund dafür, dass das Ukrainische bis vor kurze
 Die Kapitel über die „großrussische“ Kultur (@sec-culture-russia), über die ukrainische Kultur (@sec-culture-ukraine), über Kriegsverbrechen gegen die ukrainische Kultur (@sec-warcrimes-culture), über die ukrainische Sprache (@sec-language-russia) und über die russische Sprache (@sec-language-ukraine).
 
 
-[^223]:  A Colorful Map Visualizes the Lexical Distances Between Europe’s Languages: 54 Languages Spoken by 670 Million People. (2017, August 28). Open Culture. Retrieved May 2, 2024, from https://www.openculture.com/2017/08/a-colorful-map-visualizes-the-lexical-distances-between-europes-languages.html
+[^language-ukraine.de-1]:  A Colorful Map Visualizes the Lexical Distances Between Europe’s Languages: 54 Languages Spoken by 670 Million People. (2017, August 28). Open Culture. Retrieved May 2, 2024, from [https://www.openculture.com/2017/08/a-colorful-map-visualizes-the-lexical-distances-between-europes-languages.html](https://www.openculture.com/2017/08/a-colorful-map-visualizes-the-lexical-distances-between-europes-languages.html)
 
-[^224]:  Документи про заборону української мови \[Documents banning the Ukrainian language\]. (2016, May 10). Rid I Vira. Retrieved May 2, 2024, from https://web.archive.org/web/20160819125540/http:/ridivira.com/uk/buttia-ukraintsiv/397-dokumenty-pro-zaboronu-ukrainskoi-movy
+[^language-ukraine.de-2]:  Документи про заборону української мови \[Documents banning the Ukrainian language\]. (2016, May 10). Rid I Vira. Retrieved May 2, 2024, from [https://web.archive.org/web/20160819125540/http:/ridivira.com/uk/buttia-ukraintsiv/397-dokumenty-pro-zaboronu-ukrainskoi-movy](https://web.archive.org/web/20160819125540/http:/ridivira.com/uk/buttia-ukraintsiv/397-dokumenty-pro-zaboronu-ukrainskoi-movy)

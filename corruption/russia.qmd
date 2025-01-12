@@ -13,11 +13,11 @@ Russian propaganda claims that russian leaders care about their people, are smar
 
 ## Corruption Perceptions Index
 
-According to the 2023 Corruption Perceptions Index[^268] reported by Transparency International, Russia is ranked as the 141st most corrupt nation out of 180 countries, having dropped 2 places compared to the previous year. The Index indicates that the situation has been steadily deteriorating since 2020\. 
+According to the 2023 Corruption Perceptions Index[^corruption-russia-1] reported by Transparency International, Russia is ranked as the 141st most corrupt nation out of 180 countries, having dropped 2 places compared to the previous year. The Index indicates that the situation has been steadily deteriorating since 2020\. 
 
 In contrast, the results for European countries vary, but none of the EU members have fallen below 76th place, which is held by Hungary. Denmark tops the ranking, with Finland in second place. The United States is ranked 24th. Overall, the top positions are predominantly occupied by countries that are considered part of the "collective West."
 
-The Corruption Perceptions Index for the public sector in Russia showed 74 points for 2023\. The scale ranges from 0 to 100, with higher numbers indicating more corruption. With this result, Russia ranks 143rd. Thus, compared to other countries, it is considerably below the average. Transparency International cites[^269] corruption in the defense sector as one of the factors contributing to Russia's failures in Ukraine.
+The Corruption Perceptions Index for the public sector in Russia showed 74 points for 2023\. The scale ranges from 0 to 100, with higher numbers indicating more corruption. With this result, Russia ranks 143rd. Thus, compared to other countries, it is considerably below the average. Transparency International cites[^corruption-russia-2] corruption in the defense sector as one of the factors contributing to Russia's failures in Ukraine.
 
 
 ![*Ukraine and trends in Corruption Perceptions Index. Source:  [https://www.transparency.org/en/countries/ukraine](https://www.transparency.org/en/countries/ukraine)* 
@@ -29,12 +29,12 @@ The Corruption Perceptions Index for the public sector in Russia showed 74 point
 
 ## Mafia loyalty
 
-Putin’s Russia can be characterized[^270] as a regime marked by strong central control. Putin’s actions appear to prioritize the personal enrichment of himself and his close associates over broader Russian national interests. In this system, loyalty serves as the primary mechanism for maintaining cohesion within the regime. As long as these individuals comply with his directives without dissent, they are shielded from repercussions related to corruption or other serious offenses.
+Putin’s Russia can be characterized[^corruption-russia-3] as a regime marked by strong central control. Putin’s actions appear to prioritize the personal enrichment of himself and his close associates over broader Russian national interests. In this system, loyalty serves as the primary mechanism for maintaining cohesion within the regime. As long as these individuals comply with his directives without dissent, they are shielded from repercussions related to corruption or other serious offenses.
 
 
 ## Personal enrichment
 
-Putin's display of piety serves political purposes rather than moral conviction. Before being sanctioned, the Russian president’s reputed girlfriend and children enjoyed opulent lifestyles in the “decadent West”. While the families of Putin’s elite relished Parisian apartments, private jets, and elite Western universities,[^271] nearly 19 million Russians continue to live in poverty.[^272]
+Putin's display of piety serves political purposes rather than moral conviction. Before being sanctioned, the Russian president’s reputed girlfriend and children enjoyed opulent lifestyles in the “decadent West”. While the families of Putin’s elite relished Parisian apartments, private jets, and elite Western universities,[^corruption-russia-4] nearly 19 million Russians continue to live in poverty.[^corruption-russia-5]
 
 
 ## Fake rule of law
@@ -44,35 +44,35 @@ There are no effective systemic checks on Putin’s authority. The legislature (
 
 ## War instead of values
 
-It is also evident that Russia prioritizes its imperialistic ambitions over the welfare of its people. In the 2000s, Russia embarked[^273] on modernizing its military forces, resulting in a rapid increase in defense spending: a 175 percent growth from 2000 to 2019, according to the Stockholm International Peace Research Institute. This spending peaked in 2016 at 5.5 percent of the gross domestic product (GDP) and saw a significant increase in 2023[^274], reaching 5.9 percent of Russia's GDP. This is substantial expenditure in a context where public sector corruption is rife. It should also be noted that defense needs did not necessitate such spending; Russia was building an army to attack sovereign countries at its borders. With the start of the full-scale invasion, Russia worsened[^275] its economic situation significantly by triggering sanctions[^276]. Not to mention the loss of over half a million people killed or severely injured,[^277] Russia ruthlessly sent its own servicemen to their doom.
+It is also evident that Russia prioritizes its imperialistic ambitions over the welfare of its people. In the 2000s, Russia embarked[^corruption-russia-6] on modernizing its military forces, resulting in a rapid increase in defense spending: a 175 percent growth from 2000 to 2019, according to the Stockholm International Peace Research Institute. This spending peaked in 2016 at 5.5 percent of the gross domestic product (GDP) and saw a significant increase in 2023[^corruption-russia-7], reaching 5.9 percent of Russia's GDP. This is substantial expenditure in a context where public sector corruption is rife. It should also be noted that defense needs did not necessitate such spending; Russia was building an army to attack sovereign countries at its borders. With the start of the full-scale invasion, Russia worsened[^corruption-russia-8] its economic situation significantly by triggering sanctions[^corruption-russia-9]. Not to mention the loss of over half a million people killed or severely injured,[^corruption-russia-10] Russia ruthlessly sent its own servicemen to their doom.
 
 See also the chapter on russian values @sec-russia-values.
 
 
 ## Quality of life?
 
-The claim that the standard of living in Russia is higher than in Western countries is false. According to the Human Development Index (HDI)[^278] a measure developed by the United Nations to assess social and economic development, Switzerland ranks highest for quality of life. Norway is in second place, followed by Iceland in third. Other countries in the top ten of the HDI rankings include Hong Kong, Australia, Denmark, Sweden, Ireland, Germany, and the Netherlands. The United States ranks 21st, and Austria is 25th. These nations achieve high scores in healthcare, income, and education, offering their citizens a superior quality of life. Russia, on the other hand, is significantly lower at 51st.
+The claim that the standard of living in Russia is higher than in Western countries is false. According to the Human Development Index (HDI)[^corruption-russia-11] a measure developed by the United Nations to assess social and economic development, Switzerland ranks highest for quality of life. Norway is in second place, followed by Iceland in third. Other countries in the top ten of the HDI rankings include Hong Kong, Australia, Denmark, Sweden, Ireland, Germany, and the Netherlands. The United States ranks 21st, and Austria is 25th. These nations achieve high scores in healthcare, income, and education, offering their citizens a superior quality of life. Russia, on the other hand, is significantly lower at 51st.
 
 
 
-[^268]:  2023 Corruption Perceptions Index \- Explore Russia’s results. (2024, January 30). Transparency.org. [https://www.transparency.org/en/cpi/2023/index/rus](https://www.transparency.org/en/cpi/2023/index/rus) 
+[^corruption-russia-1]:  2023 Corruption Perceptions Index \- Explore Russia’s results. (2024, January 30). Transparency.org. [https://www.transparency.org/en/cpi/2023/index/rus](https://www.transparency.org/en/cpi/2023/index/rus) 
 
-[^269]:  Barneyc. (2023b, March 1). Blog: Can Ukraine thank Russian corruption for hindering their invasion? \- Transparency International Defence & Security. Transparency International Defence & Security. [https://ti-defence.org/can-ukraine-thank-russian-corruption-for-hindering-their-invasion/](https://ti-defence.org/can-ukraine-thank-russian-corruption-for-hindering-their-invasion/) 
+[^corruption-russia-2]:  Barneyc. (2023b, March 1). Blog: Can Ukraine thank Russian corruption for hindering their invasion? \- Transparency International Defence & Security. Transparency International Defence & Security. [https://ti-defence.org/can-ukraine-thank-russian-corruption-for-hindering-their-invasion/](https://ti-defence.org/can-ukraine-thank-russian-corruption-for-hindering-their-invasion/) 
 
-[^270]:  Written evidence from Garry Kasparov (RSC0011) THE NATURE OF VLADIMIR PUTIN’S REGIME IN RUSSIA. (2018). In The UK Parliament (No. RSC0011). Retrieved from [https://committees.parliament.uk/writtenevidence/89928/html/](https://committees.parliament.uk/writtenevidence/89928/html/) 
+[^corruption-russia-3]:  Written evidence from Garry Kasparov (RSC0011) THE NATURE OF VLADIMIR PUTIN’S REGIME IN RUSSIA. (2018). In The UK Parliament (No. RSC0011). Retrieved from [https://committees.parliament.uk/writtenevidence/89928/html/](https://committees.parliament.uk/writtenevidence/89928/html/) 
 
-[^271]:  de Puy Kamp, M., Abou-Ghazala, Y., & Chapman, I. (2022, April 12). Kremlin-connected children grew up in the very countries whose societies their parents claim to reject. CNN. [https://edition.cnn.com/2022/04/12/us/kremlin-kids-in-the-west-invs/index.html](https://edition.cnn.com/2022/04/12/us/kremlin-kids-in-the-west-invs/index.html) 
+[^corruption-russia-4]:  de Puy Kamp, M., Abou-Ghazala, Y., & Chapman, I. (2022, April 12). Kremlin-connected children grew up in the very countries whose societies their parents claim to reject. CNN. [https://edition.cnn.com/2022/04/12/us/kremlin-kids-in-the-west-invs/index.html](https://edition.cnn.com/2022/04/12/us/kremlin-kids-in-the-west-invs/index.html) 
 
-[^272]:  Duffy, K. (2022, April 11). Putin's former chief economic adviser says the number of Russians living in poverty will probably double, maybe triple, in the wake of the Ukraine war. Business Insider. [https://www.businessinsider.com/putin-economic-adviser-andrei-illarionov-russian-poverty-double-triple-ukraine-2022-4](https://www.businessinsider.com/putin-economic-adviser-andrei-illarionov-russian-poverty-double-triple-ukraine-2022-4) 
+[^corruption-russia-5]:  Duffy, K. (2022, April 11). Putin's former chief economic adviser says the number of Russians living in poverty will probably double, maybe triple, in the wake of the Ukraine war. Business Insider. [https://www.businessinsider.com/putin-economic-adviser-andrei-illarionov-russian-poverty-double-triple-ukraine-2022-4](https://www.businessinsider.com/putin-economic-adviser-andrei-illarionov-russian-poverty-double-triple-ukraine-2022-4) 
 
-[^273]:  Barneyc. (2023c, March 1). Blog: Can Ukraine thank Russian corruption for hindering their invasion? \- Transparency International Defence & Security. Transparency International Defence & Security. [https://ti-defence.org/can-ukraine-thank-russian-corruption-for-hindering-their-invasion/](https://ti-defence.org/can-ukraine-thank-russian-corruption-for-hindering-their-invasion/) 
+[^corruption-russia-6]:  Barneyc. (2023c, March 1). Blog: Can Ukraine thank Russian corruption for hindering their invasion? \- Transparency International Defence & Security. Transparency International Defence & Security. [https://ti-defence.org/can-ukraine-thank-russian-corruption-for-hindering-their-invasion/](https://ti-defence.org/can-ukraine-thank-russian-corruption-for-hindering-their-invasion/) 
 
-[^274]:  Tian, N., Da Silva, D. L., Liang, X., & Scarazzato, L. (2024). SIPRI Fact Sheet. [https://www.sipri.org/sites/default/files/2024-04/2404\_fs\_milex\_2023.pdf](https://www.sipri.org/sites/default/files/2024-04/2404_fs_milex_2023.pdf) 
+[^corruption-russia-7]:  Tian, N., Da Silva, D. L., Liang, X., & Scarazzato, L. (2024). SIPRI Fact Sheet. [https://www.sipri.org/sites/default/files/2024-04/2404\_fs\_milex\_2023.pdf](https://www.sipri.org/sites/default/files/2024-04/2404_fs_milex_2023.pdf) 
 
-[^275]:  Impact of sanctions on the Russian economy. (n.d.). In the European Council. Retrieved August 4, 2024, from [https://www.consilium.europa.eu/en/infographics/impact-sanctions-russian-economy/](https://www.consilium.europa.eu/en/infographics/impact-sanctions-russian-economy/) 
+[^corruption-russia-8]:  Impact of sanctions on the Russian economy. (n.d.). In the European Council. Retrieved August 4, 2024, from [https://www.consilium.europa.eu/en/infographics/impact-sanctions-russian-economy/](https://www.consilium.europa.eu/en/infographics/impact-sanctions-russian-economy/) 
 
-[^276]:  Sanctions and Russia’s War: Limiting Putin’s Capabilities. (2024, July 19). U.S. Department of The Treasury. [https://home.treasury.gov/news/featured-stories/sanctions-and-russias-war-limiting-putins-capabilities](https://home.treasury.gov/news/featured-stories/sanctions-and-russias-war-limiting-putins-capabilities) 
+[^corruption-russia-9]:  Sanctions and Russia’s War: Limiting Putin’s Capabilities. (2024, July 19). U.S. Department of The Treasury. [https://home.treasury.gov/news/featured-stories/sanctions-and-russias-war-limiting-putins-capabilities](https://home.treasury.gov/news/featured-stories/sanctions-and-russias-war-limiting-putins-capabilities) 
 
-[^277]:  Втрати Росії в Україні \- офіційні дані. \[Russian losses in Ukraine \- official data\](2024, August 4). [https://index.minfin.com.ua/ua/russian-invading/casualties/](https://index.minfin.com.ua/ua/russian-invading/casualties/) 
+[^corruption-russia-10]:  Втрати Росії в Україні \- офіційні дані. \[Russian losses in Ukraine \- official data\](2024, August 4). [https://index.minfin.com.ua/ua/russian-invading/casualties/](https://index.minfin.com.ua/ua/russian-invading/casualties/) 
 
-[^278]:  Standard Of Living By Country 2024\. (n.d.). [https://www.datapandas.org/ranking/standard-of-living-by-country](https://www.datapandas.org/ranking/standard-of-living-by-country) 
+[^corruption-russia-11]:  Standard Of Living By Country 2024\. (n.d.). [https://www.datapandas.org/ranking/standard-of-living-by-country](https://www.datapandas.org/ranking/standard-of-living-by-country) 

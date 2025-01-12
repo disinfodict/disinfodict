@@ -194,14 +194,14 @@ Foreign information manipulation and interference (FIMI) presents a growing poli
 The Hybrid CoE Research Report examines the DISARM framework and its suitability for rapid adoption by strategic communications practitioners, and its credibility for specialist FIMI threat analysts (@Newman:2022).
 
 Henin:2023
-https://www.disinfo.eu
+[https://www.disinfo.eu](https://www.disinfo.eu)
 
-https://www.disinfo.eu/wp-content/uploads/2023/04/20230412_FIMI-FS-FINAL.pdf
+[https://www.disinfo.eu/wp-content/uploads/2023/04/20230412_FIMI-FS-FINAL.pdf](https://www.disinfo.eu/wp-content/uploads/2023/04/20230412_FIMI-FS-FINAL.pdf)
 
 
-https://www.alfredlandecker.org/en/projects/alliance4europe-disarm-foundation
-https://alliance4europe.eu
-https://www.disarm.foundation/framework
+[https://www.alfredlandecker.org/en/projects/alliance4europe-disarm-foundation](https://www.alfredlandecker.org/en/projects/alliance4europe-disarm-foundation)
+[https://alliance4europe.eu](https://alliance4europe.eu)
+[https://www.disarm.foundation/framework](https://www.disarm.foundation/framework)
 -->
 
 ## Prebunking

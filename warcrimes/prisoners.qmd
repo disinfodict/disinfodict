@@ -9,15 +9,15 @@ Moscow scrupulously observes Geneva Conventions on treatment of POWs
 Russia commits war crimes against Ukrainian prisoners of war, even against illegally imprisoned medical and pastoral personnel
 :::
 
-Geneva Convention[^98] prohibits violence against prisoners of war. Furthermore it requires to repatriate captured medical personnel, unless the medical personel is needed to take care of other Prisoners of War (POWs).[^2a] This implies that captured medical personnel must not simply be jailed, let alone treated with violence.
+Geneva Convention[^warcrimes-prisoners-5] prohibits violence against prisoners of war. Furthermore it requires to repatriate captured medical personnel, unless the medical personel is needed to take care of other Prisoners of War (POWs).[^warcrimes-prisoners-2] This implies that captured medical personnel must not simply be jailed, let alone treated with violence.
 
 ## Olenivka prison
 
-Russians committed a blatant act of killing hostages in Olenivka prison, Donetsk region, on 29 July, 2022: 53 killed and over 130 wounded. But so far, no international mission has been able to get to the scene to determine the cause and exact number of casualties.[^99] 
+Russians committed a blatant act of killing hostages in Olenivka prison, Donetsk region, on 29 July, 2022: 53 killed and over 130 wounded. But so far, no international mission has been able to get to the scene to determine the cause and exact number of casualties.[^warcrimes-prisoners-6] 
 
 ## Executions
 
-Russia is executing more and more Ukrainian prisoners of war[^1a]. 
+Russia is executing more and more Ukrainian prisoners of war[^warcrimes-prisoners-1]. 
 
 ![Oleksandr Matsievsky](OleksandrMatsievsky.jpg)
 
@@ -25,21 +25,21 @@ For example Ukrainian sniper Oleksandr Matsievsky was captured by Russians in th
 
 ## Torture
 
-Russia commits systematic human rights violations, sexual violence and other forms of torture against POWs.[^3a]. They even torture medical personel.[^4a]   
+Russia commits systematic human rights violations, sexual violence and other forms of torture against POWs.[^warcrimes-prisoners-3]. They even torture medical personel.[^warcrimes-prisoners-4]   
 
 See also the chapters on sexual violence (@sec-warcrimes-sexual) and torture (@sec-warcrimes-torture).  
 
 
 
-[^98]:  Geneva Convention relative to the Treatment of Prisoners of War. (n.d.). UN Human Rights Office. Retrieved May 1, 2024, from https://www.ohchr.org/en/instruments-mechanisms/instruments/geneva-convention-relative-treatment-prisoners-war
+[^warcrimes-prisoners-5]:  Geneva Convention relative to the Treatment of Prisoners of War. (n.d.). UN Human Rights Office. Retrieved May 1, 2024, from [https://www.ohchr.org/en/instruments-mechanisms/instruments/geneva-convention-relative-treatment-prisoners-war](https://www.ohchr.org/en/instruments-mechanisms/instruments/geneva-convention-relative-treatment-prisoners-war)
 
-[^99]:  Lee, J. S., Oakford, S., Parker, C., & Ilyushina, M. (2022, August 6). What we know about the blast that killed Ukrainian POWs in Olenivka. Washington Post. Retrieved May 1, 2024, from [https://www.washingtonpost.com/world/2022/08/06/olenivka-prison-explosion-ukraine-russia/](https://www.washingtonpost.com/world/2022/08/06/olenivka-prison-explosion-ukraine-russia/) 
+[^warcrimes-prisoners-6]:  Lee, J. S., Oakford, S., Parker, C., & Ilyushina, M. (2022, August 6). What we know about the blast that killed Ukrainian POWs in Olenivka. Washington Post. Retrieved May 1, 2024, from [https://www.washingtonpost.com/world/2022/08/06/olenivka-prison-explosion-ukraine-russia/](https://www.washingtonpost.com/world/2022/08/06/olenivka-prison-explosion-ukraine-russia/) 
 
-[^1a]: Russia is executing more and more Ukrainian prisoners of war. (2024, December 21). [BBC news](https://www.bbc.com/news/articles/c7ve11lr247o). 
+[^warcrimes-prisoners-1]: Russia is executing more and more Ukrainian prisoners of war. (2024, December 21). [BBC news](https://www.bbc.com/news/articles/c7ve11lr247o). 
 
-[^2a]: Commentary of 1952 on Convention (I) for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field. Geneva, 12 August 1949. [International Humanitarian Law Databases.](https://ihl-databases.icrc.org/en/ihl-treaties/gci-1949/article-28/commentary/1952)
+[^warcrimes-prisoners-2]: Commentary of 1952 on Convention (I) for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field. Geneva, 12 August 1949. [International Humanitarian Law Databases.](https://ihl-databases.icrc.org/en/ihl-treaties/gci-1949/article-28/commentary/1952)
 
-[^3a]: Teils monatelange Folter von ukrainischen Kriegsgefangenen. (2024, März 15.). [Zeit online](https://www.zeit.de/politik/ausland/2024-03/kriegsgefangene-ukraine-folter-un-bericht) 
+[^warcrimes-prisoners-3]: Teils monatelange Folter von ukrainischen Kriegsgefangenen. (2024, März 15.). [Zeit online](https://www.zeit.de/politik/ausland/2024-03/kriegsgefangene-ukraine-folter-un-bericht) 
 
-[^4a]:  Ukrainische Kriegsgefangene - «Wir waren gefesselt und durften nicht auf die Toilette». (2024, November 14th). [SRF news](https://www.srf.ch/news/international/ukraine/ukrainische-kriegsgefangene-wir-waren-gefesselt-und-durften-nicht-auf-die-toilette) 
+[^warcrimes-prisoners-4]:  Ukrainische Kriegsgefangene - «Wir waren gefesselt und durften nicht auf die Toilette». (2024, November 14th). [SRF news](https://www.srf.ch/news/international/ukraine/ukrainische-kriegsgefangene-wir-waren-gefesselt-und-durften-nicht-auf-die-toilette) 
 

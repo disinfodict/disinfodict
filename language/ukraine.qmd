@@ -20,7 +20,7 @@ For centuries Russia tries to deny the existence of a separate Ukrainian culture
 >
 > Valuev Circular of 1863
 
-However, in fact, Ukrainian and Russian are considered only 62% lexically similar.[^222] To compare, German and Dutch are 75% similar, although no one claims Dutch to be a dialect of the German language. Actulle Ukrainian language differs from Russian and is closer to Polish and Belarusian:
+However, in fact, Ukrainian and Russian are considered only 62% lexically similar.[^language-ukraine-1] To compare, German and Dutch are 75% similar, although no one claims Dutch to be a dialect of the German language. Actulle Ukrainian language differs from Russian and is closer to Polish and Belarusian:
 
 > In general, Ukrainian and Belarusian are also closer to other Western European languages, especially to German (via Polish). At the same time Russian was being heavily influenced by Church Slavonic (South Slavic language), but also by the Turkic and Uralic languages.
 >
@@ -31,7 +31,7 @@ However, in fact, Ukrainian and Russian are considered only 62% lexically simila
 
 ## Persecution of the Ukrainian language
 
-There is also a considerable reason why until recently Ukrainian has been less popular than it is supposed to be, namely a consistent policy of Russification, which refers to a historical process of cultural, linguistic, and political assimilation imposed by the Russian Empire and later continued by the Soviet Union. In short, it is a 300-year-long record[^223] of prohibition and suppression of the Ukrainian language in Ukraine under different Russian rulers. 
+There is also a considerable reason why until recently Ukrainian has been less popular than it is supposed to be, namely a consistent policy of Russification, which refers to a historical process of cultural, linguistic, and political assimilation imposed by the Russian Empire and later continued by the Soviet Union. In short, it is a 300-year-long record[^language-ukraine-2] of prohibition and suppression of the Ukrainian language in Ukraine under different Russian rulers. 
 
 
 ## See also
@@ -40,6 +40,6 @@ The chapters on "Great Russian" culture (@sec-culture-russia), on Ukrainan cultu
 
 
 
-[^222]:  *A Colorful Map Visualizes the Lexical Distances Between Europe’s Languages: 54 Languages Spoken by 670 Million People*. (2017, August 28). Open Culture. Retrieved May 2, 2024, from https://www.openculture.com/2017/08/a-colorful-map-visualizes-the-lexical-distances-between-europes-languages.html
+[^language-ukraine-1]:  *A Colorful Map Visualizes the Lexical Distances Between Europe’s Languages: 54 Languages Spoken by 670 Million People*. (2017, August 28). Open Culture. Retrieved May 2, 2024, from [https://www.openculture.com/2017/08/a-colorful-map-visualizes-the-lexical-distances-between-europes-languages.html](https://www.openculture.com/2017/08/a-colorful-map-visualizes-the-lexical-distances-between-europes-languages.html)
 
-[^223]:  *Документи про заборону української мови \[Documents banning the Ukrainian language\]*. (2016, May 10). Rid I Vira. Retrieved May 2, 2024, from https://web.archive.org/web/20160819125540/http:/ridivira.com/uk/buttia-ukraintsiv/397-dokumenty-pro-zaboronu-ukrainskoi-movy
+[^language-ukraine-2]:  *Документи про заборону української мови \[Documents banning the Ukrainian language\]*. (2016, May 10). Rid I Vira. Retrieved May 2, 2024, from [https://web.archive.org/web/20160819125540/http:/ridivira.com/uk/buttia-ukraintsiv/397-dokumenty-pro-zaboronu-ukrainskoi-movy](https://web.archive.org/web/20160819125540/http:/ridivira.com/uk/buttia-ukraintsiv/397-dokumenty-pro-zaboronu-ukrainskoi-movy)
