@@ -19,9 +19,10 @@ book:
   page-footer:
     background: "grey"
     center:
-      - text: "![Home](/all_common_img/DisinfoDict_logo_1x1_trans.png){width=1in}"
+      - text: "![Home](http://127.0.0.1:4321/all_common_img/DisinfoDict_logo_1x1_trans.png){width=1in}"
         href: http://127.0.0.1:4321
-        #href: https://disinfodict.pages.dev
+      #- text: "![Home](https://disinfodict.pages.dev/all_common_img/DisinfoDict_logo_1x1_trans.png){width=1in}"
+      #  href: https://disinfodict.pages.dev
       - text: "Impressum"
         href: impressum.qmd
 
