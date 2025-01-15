@@ -33,6 +33,7 @@ There you see the success of your work and can detect and correct mistakes. To d
 - install R from [CRAN](https://cran.r-project.org/)
 - install RStudio from [posit](https://posit.co/download/rstudio-desktop/)
 - install TinyTex from the terminal in RStudio
+- install the Segoe UI fonts (or change `mainfont: "Segoe UI"` to a font you have or comment that line out)
 
 ```{}
 quarto install TinyTex
