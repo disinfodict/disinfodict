@@ -1,4 +1,4 @@
-# Status {#sec-intro-status .unnumbered}
+# Status {.unnumbered #sec-status-status}
 
 This chapter shows the completion status of all chapters in English and German in percent. Of course, finished chapters can still be corrected and improved. Each subsection without ```lipsum``` placeholder text and ```TODO``` note is considered ready.
 
