@@ -238,7 +238,92 @@ npm install @daisy/ace -g
 -->
 
 
-### Expert use only
+# Expert use only
+
+## Measuring dictionary status
+
+```{R}
+en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), "README.qmd")
+en <- en[grep("/", en)] 
+de <- en[grep("[.]de[.]qmd$", en)]
+ua <- en[grep("[.]ua[.]qmd$", en)]
+en <- setdiff(en, c(de, ua))
+names(en) <- sub("[.]qmd", "", en)
+names(de) <- sub("[.]qmd", "", de)
+enstatus <- sapply(en, function(i){
+  x <- paste(readLines(i), collapse=" ")
+  y <- strsplit(x, "##")[[1]]
+  lipsum <- grep("lipsum|TODO", y, ignore.case = TRUE)
+  n <- length(y)
+  k <- n - length(lipsum)
+  p <- k/n
+  p
+})
+destatus <- sapply(de, function(i){
+  x <- paste(readLines(i), collapse=" ")
+  y <- strsplit(x, "##")[[1]]
+  lipsum <- grep("\\{\\{< lipsum", y)
+  n <- length(y)
+  k <- n - length(lipsum)
+  p <- k/n
+  p
+})
+d <- cbind(en=100*enstatus, ".de"=rep(0, length(enstatus)))
+d[,2] <- 0
+rownames(d) <- names(enstatus)
+if (length(destatus))
+  d[sub("\\.de","",names(destatus)),2] <- 100*destatus
+round(d)
+save(d, file = "status.RData")
+```
+
+## Mesasuring dictionary size
+
+```{R}
+en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), "README.qmd")
+en <- en[-grep("[.][a-z][a-z][.]", en)]
+de <- dir(pattern="[.]de[.]qmd$", recursive=T)
+
+names(en) <- en
+names(de) <- de
+
+enwords <- sapply(en, function(i){
+ x <- readLines(i)
+ lipsum <- length(unlist(grep("\\{\\{< lipsum", x))) > 0
+ y <- sum(lengths(strsplit(x, ' ')))
+ ifelse(lipsum, NA, y)
+})
+dewords <- sapply(de, function(i){
+ x <- readLines(i)
+ lipsum <- length(unlist(grep("\\{\\{< lipsum", x))) > 0
+ y <- sum(lengths(strsplit(x, ' ')))
+ ifelse(lipsum, NA, y)
+})
+
+enlinks <- sapply(en, function(i){
+ x <- readLines(i)
+ lipsum <- length(unlist(grep("\\{\\{< lipsum", x))) > 0
+ names(x) <- seq_along(x)
+ y <- sum(sapply(gregexpr("(\\(|\\{)((http://|https://)[[:alpha:]0-9.:/#?=_&\\\\-]+)", x), function(l){
+   if (l[1]==-1) {
+     0
+   }else{
+     length(l)
+   }
+ }))
+ ifelse(lipsum, NA, y)
+})
+length(en)
+length(de)
+length(en)*mean(enwords, na.rm=TRUE)
+length(en)*mean(dewords, na.rm=TRUE)
+summary(enwords)
+summary(dewords)
+length(en)*mean(enlinks, na.rm=TRUE)
+summary(enlinks)
+```
+
+
 
 ## Footnote reorganisation
 
@@ -303,7 +388,7 @@ handle_setheaders(hand
 , "Priority" = "u=0, i"
 )
 fi <- file("log.txt", open="w")
-for (i in grep("/", dir(pattern="[.]bib", recursive=T), value=TRUE)){
+for (i in grep("/", dir(pattern="[.](bib|qmd)", recursive=T), value=TRUE)){
  cat("\n", i, "\n", file=fi)
  x <- readLines(i)
  names(x) <- seq_along(x)
@@ -421,5 +506,3 @@ for (i in grep("/", dir(pattern="[.]qmd", recursive=T), value=TRUE)){
 close(fi)
 #gsub("(^|[^[\\[\\(\\`)]]?)((http://|https://)[[:alpha:]0-9./#?=_&\\\\-]+)", "\\1[\\2](\\2)", x)
 ```
-
-  

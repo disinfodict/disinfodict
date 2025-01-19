@@ -28,6 +28,10 @@ book:
 
   chapters:
   - index.qmd
+  - part: "Status" 
+    part-de: "Status" 
+    chapters:
+    - status/status.qmd
   - part: "Intro" 
     part-de: "Intro" 
     #part-ua: "Вступ"

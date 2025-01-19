@@ -4,6 +4,8 @@
 
 - Leitlinien für Lehrkräfte und pädagogische Fachkräfte zur Bekämpfung von Desinformation und zur Förderung der digitalen Kompetenz durch allgemeine und berufliche Bildung (@ECDE:2022:de)
 - Desinformation entlarven und bekämpfen : Toolkit für Lehrkräfte (@ECDC:2024:de)
+- Das Projekt [Framing](https://www.teachtoday.de/Themen/Digitale_Gesellschaft/Desinformation/3795_Projektidee_Framing.htm) ist eines der Projekte von [teachtoday](https://www.teachtoday.de/) von der Telekom zur Entwicklung von Medienkompetenz, weiterhin gibt es eine [Toolbox](https://www.teachtoday.de/2920_Toolbox.htm) und das Medienmagazin [Scroller](https://www.scroller.de/Dein_Magazin/3784_Fakt_oder_Fake.htm) für Kinder und Jugendliche.
+- Die Seite [Medienkompetenz stärken](https://www.bmfsfj.de/bmfsfj/themen/kinder-und-jugend/medienkompetenz/medienkompetenz-staerken-75350) des Bundesfamilienministeriums
 
 ## NGOs
 
@@ -11,7 +13,17 @@
 - [EUvsDisinfo](https://euvsdisinfo.eu/ukraine/)
 - [StopFake](https://www.stopfake.org/de)
 - [MIMIKAMA - zuerst denken - dann klicken](https://www.mimikama.org/)
+- [Mediendienst Integration](https://mediendienst-integration.de/) ist eine Informations-Plattform des "Rats für Migration e.V." zu den Themen Flucht, Migration und Diskriminierung, allerdings will der Mediendienst nur Rechts-Extremismus kennen, nicht aber Links-Extremismus oder Probleme mit russischer Unterwanderung deutscher Institutionen.
 
+## Medien
+
+- [European Digital Media Observatory](https://edmo.eu/)
+- [dpa Faktencheck](https://www.dpa.com/de/faktencheck)
+- [DW (Deutsche Welle)](https://www.dw.com/de/faktencheck/t-56578552)
+- [ARD Faktencheck](https://www.tagesschau.de/faktenfinder)
+- [ZDF investigativ](https://www.zdf.de/nachrichten/thema/zdf-investigativ-100.html)
+- [Correctiv Faktencheck](https://correctiv.org/faktencheck/)
+- [Arte Fake news](https://www.arte.tv/de/videos/RC-022858/fake-news/) und [Aktuelles und Gesellschaft](https://www.arte.tv/de/videos/aktuelles-und-gesellschaft/)
 
 ## Russischer Medienmonitor
 
@@ -21,6 +33,7 @@ Russische Medien und das russische Fernsehen veröffentlichen jeden Tag Aufrufe 
 
 - [FAQ Desinformation im Kontext des russischen Angriffskrieges gegen die Ukraine, Bundesministerioum des Inneren und für Heimat](https://www.bmi.bund.de/SharedDocs/faqs/DE/themen/heimat/desinformation/faq-liste-desinformation.html)  <!-- [](https://www.demokratie-leben.de) -->
 - [Bundeszentrale für politische Bildung](https://www.bpb.de/themen/medien-journalismus/digitale-desinformation/)
+- 
 
 ## [Zentrum Liberale Moderne](https://libmod.de/)
 

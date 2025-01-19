@@ -1,0 +1,11 @@
+# Status {#sec-intro-status .unnumbered}
+
+This chapter shows the completion status of all chapters in English and German. Of course, finished chapters can still be corrected and improved. Each subsection without ```lipsum``` placeholder text and ```TODO``` note is considered ready.
+
+Last updated `{r} substr(Sys.time(), 1, 19)`.
+
+```{R}
+#| echo: false
+load("../status.RData")
+round(d)
+```

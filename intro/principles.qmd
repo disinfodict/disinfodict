@@ -110,4 +110,5 @@ Chapters are organized in *fact-sections*:
 
 ## Contribute
 
-You can send plaintext suggestions for improvements - preferably as a [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) *.qmd file - [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). For multiple contributions you can fork the [dictionary at github](https:/github.com/disinfodict/disinfodict) and create a pull-request (see the [README]((https:/github.com/disinfodict/disinfodict/README.qmd))).
+You can send plaintext suggestions for improvements - preferably as a [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) *.qmd file - [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). The syntax for defining section headers, footnotes and integrate pictures is simple, see for example [part brothers | chapter russia](https://github.com/disinfodict/disinfodict/blob/main/brothers/russia.qmd). There is also a [mini demo dictionary](https://github.com/disinfodict/disinfoquick) for learning. For an overview which chapters still require work see [status](#sec-status-status).
+For multiple contributions you can fork the [dictionary at github](https:/github.com/disinfodict/disinfodict) and create a pull-request (see the [README]((https:/github.com/disinfodict/disinfodict/README.qmd))).
