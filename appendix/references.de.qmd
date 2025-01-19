@@ -1,4 +1,4 @@
-# Referenzen {.unnumbered}
+# Referenzen {.unnumbered #sec-appendix-references}
 
 ::: {#refs}
 :::

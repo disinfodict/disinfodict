@@ -1,5 +1,4 @@
-# Recommendations {.unnumbered}
-
+# Recommendations {.unnumbered #sec-appendix-recommendations}
 
 ## Teaching materials
 

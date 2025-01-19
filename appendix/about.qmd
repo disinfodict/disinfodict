@@ -1,4 +1,4 @@
-# Team & Partners {.unnumbered}
+# Team & Partners {.unnumbered #sec-appendix-about}
 
 ## Core team
 
@@ -43,7 +43,7 @@ We commit to the [IFCN code of Principles](https://ifcncodeofprinciples.poynter.
 
 ### German-Ukrainian Association 
 
-The *German-Ukrainian Association - for our and your freedom*, which is currently being founded, is not yet operational and has not yet decided to take a content-curating role.
+The *German-Ukrainian Association - for our and your freedom*, is involved in curating the content.
 
 
 ## Start-up partners

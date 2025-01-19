@@ -1,12 +1,12 @@
-# Preface {.unnumbered}
+# Preface {.unnumbered #sec-intro-preface}
 
-This dictionary consolidates and debunks chronic disinformation narratives detected by several fact-checking organisations.
+The Desinformation Dictionary provides ground-truths about topics that several fact-checking organisations detected in frequent disinformation narratives. Our focus is debunking russian disinformation in the context of the russian war against Ukraine.  
 
-It is available in English, German and Ukrainian language. It can be read on the web or downloaded as PDF or as an e-book in EPUB format.
+It is available in English and German language. It can be read on the web or downloaded as PDF or as an e-book in EPUB format.  
 
-The dictionary is organized by topic parts with one ore more chapters with one or more sections.
+The dictionary is organized by topic parts with one ore more chapters with one or more sections.  
 
-The quality of the content is monitored by our partners, see in the appendix under *Team & Partners*.
+The quality of the content is monitored by our partners, see in the appendix under [Team & Partners](#sec-appendix-about).  
 
 If you are wondering about our logo, it is derived from this
 

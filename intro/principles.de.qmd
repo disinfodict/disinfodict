@@ -1,4 +1,4 @@
-# Werte & Prinzipien {.unnumbered}
+# Werte & Prinzipien {.unnumbered #sec-intro-principles}
 
 ::: {.callout-caution title=„Mythos“}
 Es gibt keinen Platz für *Werte & Prinzipien*, wir müssen *realistisch* sein.
@@ -22,7 +22,7 @@ Wir wollen eine vertrauenswürdige, nützliche Referenz für die Korrektur von N
 ## Unsere Werte
 
 - wir fördern Ehrlichkeit und Demokratie
-- wir halten das Wörterbuch korrekt und prägnant
+- wir halten das Wörterbuch knapp und korrekt
 - wir halten das Wörterbuch einfach und nachhaltig
 
 ## Unsere Zielgruppe
@@ -37,9 +37,11 @@ Das Desinfo-Wörterbuch richtet sich an Menschen
 ## Unsere Grundsätze
 
 - wir konzentrieren uns auf die Wahrheit, nicht auf Lügen (je öfter die Menschen Lügen konsumieren, desto mehr glauben sie ihnen)
-- wir verpflichten uns dem [IFCN-Prinzipienkodex](https://ifcncodeofprinciples.poynter.org/the-commitments)
+- wir verpflichten uns dem [IFCN-Prinzipienkodex](https://ifcncodeofprinciples.poynter.org/the-commitments) (siehe unten)
+- wir schreiben unsere Texte selber oder verwenden [CC](https://de.creativecommons.net) Quellen; unter Copyright stehende Texte zitieren wir im Rahem von Fair Use nur in kurzen Ausschnitten und mit Quellenangabe.
 - jeder, der sich zu diesen Werten und Grundsätzen bekennt, kann einen Beitrag leisten (siehe [Beitragen] unten)
-- bitte lassen Sie uns wissen, wenn etwas falsch erscheint (siehe [Beitragen] unten)
+- wenn Sie einen Fehler finden benachrichtigen sie uns bitte mit Korrekturvorschlag und Quelle auf [correction [at] disinfodict [dot] org](mailto:correction@disinfodict.org)
+- wenn Sie glauben wir verletzen Ihr copyright benachrichtigen sie uns bitte mit Nachweis auf [copyright [at] disinfodict [dot] org](mailto:copyright@disinfodict.org)
 
 
 ## IFCN-Grundsatzkodex
@@ -54,12 +56,12 @@ Das Desinfo-Wörterbuch richtet sich an Menschen
 ## Grundlegende Prinzipien
 
 - wir schreiben das Wörterbuch in einfacher [Markdown-Sprache](https://quarto.org/docs/authoring/markdown-basics.html)
-- wir halten die Quellversion des Wörterbuchs unter Versionskontrolle auf [github](https://github.com)
+- wir halten die Quellversion des Wörterbuchs unter Versionskontrolle auf [github](https://github.com/disinfodict/disinfodict)
 - wir veröffentlichen das Wörterbuch unter der [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) Lizenz: 
-- CC: *C*reative *C*ommons Lizenz - garantiert, dass der Inhalt in der Public Domain erhalten bleibt
-- BY: der Urheber muss genannt werden - Transparenz und Wertschätzung
-- NC: nur *N*on*C*kommerzielle Nutzung des Werks ist erlaubt - wir wollen nicht, dass Menschen für etwas bezahlen, das frei verfügbar ist
-- ND: *N*keine *D*Ableitungen oder Bearbeitungen des Werkes sind erlaubt - verhindert Manipulationen an der heiligen Wahrheit des Inhalts 
+  - **CC**: **C**reative **C**ommons Lizenz - garantiert, dass der Inhalt in der Public Domain erhalten bleibt
+  - **BY**: der Urheber muss genannt werden - Transparenz und Wertschätzung
+  - **NC**: nur **N**on-**C**ommerzielle Nutzung des Werks ist erlaubt - wir wollen nicht, dass Menschen für etwas bezahlen, das frei verfügbar ist
+  - **ND**: **N**on-**D**erivative (keine Ableitungen oder Bearbeitungen des Werkes sind erlaubt) - verhindert Manipulationen an der heiligen Wahrheit des Inhalts 
 
 
 ## Autorenprinzipien
@@ -102,6 +104,14 @@ Die Kapitel sind in *Faktenabschnitte* gegliedert:
 - die Reihenfolge der Faktenabschnitte kann geändert werden
 - Abschnittsüberschriften können, sollten aber nicht geändert werden (unterbricht Links zu `<Partfoldername>/<Kapiteldateiname>#<Abschnittstitel>`)
 
+### Übersetzungen
+
+- wir bemühen uns, alle Kapitel in alle unterstützten Sprachen zu übersetzen (siehe den Globus 🌐 Sprachwähler in der oberen linken Ecke)
+- wir verwenden niemals maschinelle Übersetzungen ohne Überprüfung und Korrektur und wir verwenden den hochwertigen Übersetzer von [deepl](deepl.com)
+- wir übersetzen nur in Sprachen, die wir gut sprechen, und wenn wir keine Muttersprachler sind, nutzen wir [deepl](deepl.com) Rückübersetzungen zur Kontrolle der Bedeutung
+- ohne Übersetzungen fällt unsere Technologie auf Englisch zurück
+
+
 
 ## Grundsätze der Nachhaltigkeit
 
@@ -116,5 +126,8 @@ Die Kapitel sind in *Faktenabschnitte* gegliedert:
 
 ## Beitragen
 
-Sie können Verbesserungsvorschläge im Klartext senden - vorzugsweise als [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) *.qmd Datei - [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). Die Syntax für die Definition von Abschnittsüberschriften, Fußnoten und die Integration von Bildern ist einfach, siehe zum Beispiel [Teil Brüder | Kapitel Russland](https://github.com/disinfodict/disinfodict/blob/main/brothers/russia.de.qmd). Es gibt auch ein [Mini- Demo-Wörterbuch](https://github.com/disinfodict/disinfoquick) zum Lernen. Eine Übersicht, welche Kapitel noch bearbeitet werden müssen, finden Sie unter  [Status](#sec-status-status). Für mehrfache Beiträge können Sie das [dictionary at github](https:/github.com/disinfodict/disinfodict) forken und einen Pull-Request erstellen (siehe die [README]((https:/github.com/disinfodict/disinfodict/README.qmd)).
+Sie können Verbesserungsvorschläge im Klartext senden, Binärdateien akzeptieren wir aus Sicherheitsgründen nicht. Bitte nutzen sie das [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) *.qmd Dateiformat und senden es an [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org).  Die Syntax für die Definition von Abschnittsüberschriften, Fußnoten und die Integration von Bildern ist einfach, siehe zum Beispiel [Teil Brüder | Kapitel Russland](https://github.com/disinfodict/disinfodict/blob/main/brothers/russia.de.qmd). Es gibt auch ein [Mini- Demo-Wörterbuch](https://github.com/disinfodict/disinfoquick) zum Lernen.  
 
+Eine Übersicht, welche Kapitel noch bearbeitet werden müssen, finden Sie unter  [Status](#sec-status-status). Wenn Sie Inhalte einreichen, akzeptieren Sie die [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) Lizenz. Um doppelte Arbeit zu vermeiden, treten Sie unserer Signalgruppe bei und geben Sie an, an welchem Kapitel Sie arbeiten. Um der Gruppe beizutreten, senden Sie Ihr Signal-Handle (oder Ihre Mobil-Nummer) an [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). Der Beitritt zu dieser Gruppe ist nur auf Einladung möglich.  
+
+Für mehrfache Beiträge können Sie das [dictionary at github](https:/github.com/disinfodict/disinfodict) forken und einen Pull-Request erstellen (siehe die [README]((https:/github.com/disinfodict/disinfodict/README.qmd)).

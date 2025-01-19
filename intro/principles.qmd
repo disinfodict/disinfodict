@@ -1,4 +1,4 @@
-# Values & Principles {.unnumbered}
+# Values & Principles {.unnumbered #sec-intro-principles}
 
 ::: {.callout-caution title="Myth"}
 There is no room for *Values & Principles*, we must be *realistic*.
@@ -19,7 +19,7 @@ To become a trusted, useful reference for correcting narratives, helping to redu
 ## Our values
 
 -   we promote honesty and democracy
--   we keep the dictionary correct and concise
+-   we keep the dictionary concise and correct
 -   we keep the dictionary simple and sustainable
 
 ## Our target group
@@ -32,10 +32,13 @@ The Desinfo-Dictionary is for people
 
 ## Our principles
 
--   we focus truth, not lies (the more often people consume lies, the more they believe them)
--   we commit to the [IFCN code of Principles](https://ifcncodeofprinciples.poynter.org/the-commitments)
--   everyone committing to these Values & Principles can contribute (see [Contribute] below)
--   please let us know if something seems wrong (see [Contribute] below)
+- we focus on the truth, not lies (the more people consume lies, the more they believe them)
+- we are committed to the [IFCN Code of Principles](https://ifcncodeofprinciples.poynter.org/the-commitments) (see below)
+- we write our texts ourselves or use [CC](https://de.creativecommons.net) sources; in the context of fair use, we quote texts under copyright only in short excerpts and with reference to the source.
+- anyone who subscribes to these values and principles can make a contribution (see [Contribute] below)
+- if you find an error, please notify us with a suggested correction and source at [correction [at] disinfodict [dot] org](mailto:correction@disinfodict.org)
+- if you believe we are infringing your copyright please notify us with proof at [copyright [at] disinfodict [dot] org](mailto:copyright@disinfodict.org)
+
 
 ## IFCN code of Principles
 
@@ -48,12 +51,12 @@ The Desinfo-Dictionary is for people
 ## Basic principles
 
 -   we write the dictionary in simple [markdown language](https://quarto.org/docs/authoring/markdown-basics.html)
--   we keep the dictionary source version controlled on [github](https://github.com)
--   we publish the dictionary under the \[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International\](https://creativecommons.org/licenses/by-nc-nd/4.0/) license:
-    -   CC: *C*reative *C*ommons license - guarantees that the content survives in the publis domain
-    -   BY: credit must be given to the creator - transparency and appreciation
-    -   NC: only *N*on*C*ommercial uses of the work are permitted - we don't want people to pay for something that is freely available
-    -   ND: *N*o *D*erivatives or adaptations of the work are permitted - prevents tampering with the holy truth of the content
+-   we keep the dictionary source version controlled on [github](https://github.com/disinfodict/disinfodict)
+-   we publish the dictionary under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) license:
+    -   **CC**: **C**reative **C**ommons license - guarantees that the content survives in the publis domain
+    -   **BY**: credit must be given to the creator - transparency and appreciation
+    -   **NC**: only **N**on-**C**ommercial uses of the work are permitted - we don't want people to pay for something that is freely available
+    -   **ND**: **N**o **D**erivatives or adaptations of the work are permitted - prevents tampering with the holy truth of the content
 
 
 ## Authoring principles
@@ -97,6 +100,14 @@ Chapters are organized in *fact-sections*:
 -   section headers can, but should not be changed (breaks links to `<partfoldername>/<chapterfilename>#<sectiontitle>`)
 
 
+### Translations
+
+- we strive to off all chapters in all supported languages (see the globe 🌐 language selector in the upper left corner)
+- we never use machine translation without checking and correcting and we use the high-quality translator from [deepl](deepl.com)
+- we only translate into languages we speak well, and if we are not native speakers, we use [deepl](deepl.com) back-translations to check the meaning
+- without translations our technology falls back to english
+
+
 ## Sustainability principles
 
 -   we prefer quotes from sustainable sources such as books, journals
@@ -110,5 +121,8 @@ Chapters are organized in *fact-sections*:
 
 ## Contribute
 
-You can send plaintext suggestions for improvements - preferably as a [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) *.qmd file - [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). The syntax for defining section headers, footnotes and integrate pictures is simple, see for example [part brothers | chapter russia](https://github.com/disinfodict/disinfodict/blob/main/brothers/russia.qmd). There is also a [mini demo dictionary](https://github.com/disinfodict/disinfoquick) for learning. For an overview which chapters still require work see [status](#sec-status-status).
+You can send plaintext suggestions for improvements, we do not accept binary files for security reasons. Please use the [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) *.qmd fileformat and send to [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). The qmd syntax for defining section headers, footnotes and integrate pictures is simple, see for example [part brothers | chapter russia](https://github.com/disinfodict/disinfodict/blob/main/brothers/russia.qmd). There is also a [mini demo dictionary](https://github.com/disinfodict/disinfoquick) for learning.  
+
+For an overview which chapters still require work see [status](#sec-status-status). By submitting content, you accept the  [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. To avoid duplicate work, join our signal group and announce which chapter you are working on. To join, send your signal handle (or your mobile number) to [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). Joining the group is invitation-only.  
+
 For multiple contributions you can fork the [dictionary at github](https:/github.com/disinfodict/disinfodict) and create a pull-request (see the [README]((https:/github.com/disinfodict/disinfodict/README.qmd))).

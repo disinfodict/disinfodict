@@ -1,4 +1,4 @@
-# Team & Partner {.unnumbered}
+# Team & Partner {.unnumbered #sec-appendix-about}
 
 ## Kernteam
 
@@ -44,7 +44,7 @@ Wir bekennen uns zum [IFCN-Prinzipienkodex](https://ifcncodeofprinciples.poynter
 
 ### Deutsch-Ukrainische Gesellschaft 
 
-The *German-Ukrainian Society - for our and your freedom* is involved in curating the content.
+Die *Deutsch-Ukrainische Gesellschaft - für unsere und Eure Freiheit* ist an der Kuratierung der Inhalte beteiligt.
 
 
 ## Start-up-Partner

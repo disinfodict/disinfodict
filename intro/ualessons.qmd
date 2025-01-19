@@ -1,4 +1,4 @@
-# Lessons from Ukraine {.unnumbered}
+# Lessons from Ukraine {.unnumbered #sec-intro-ualessons}
 
 ::: {.callout-caution title="Myth"}
 There is nothing the EU can learn from Ukraine

@@ -38,7 +38,7 @@ book:
     - intro/preface.qmd
     - intro/principles.qmd
     - intro/termstech.qmd
-    - intro/ukrlessons.qmd
+    - intro/ualessons.qmd
     - intro/trueukraine.qmd
     - intro/vatniks.qmd
     - intro/narratives.qmd
@@ -236,7 +236,7 @@ callout-appearance: simple
 bibliography: 
   - intro/termstech.bib
   - intro/trueukraine.bib
-  - intro/ukrlessons.bib
+  - intro/ualessons.bib
   - corruption/ukraine.bib
   - genocide/definition.bib
   - russia/empire.bib

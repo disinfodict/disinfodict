@@ -1,12 +1,12 @@
-# Vorwort {.unnumbered}
+# Vorwort {.unnumbered #sec-intro-preface}
 
-Dieses Wörterbuch konsolidiert und entlarvt chronische Desinformationsnarrative, die von mehreren Fact-Checking-Organisationen aufgedeckt wurden.
+Dieses Wörterbuch konsolidiert und entlarvt chronische Desinformationsnarrative, die von mehreren Fact-Checking-Organisationen aufgedeckt wurden.  
 
-Es ist in englischer, deutscher und ukrainischer Sprache verfügbar. Es kann im Internet gelesen oder als PDF oder heruntergeladen werden.
+Es ist in englischer und deutscher Sprache verfügbar. Es kann im Internet gelesen oder als PDF oder heruntergeladen werden.  
 
-Das Wörterbuch ist nach Themenbereichen mit einem oder mehreren Kapiteln mit einem oder mehreren Abschnitten gegliedert.
+Das Wörterbuch ist nach Themenbereichen mit einem oder mehreren Kapiteln mit einem oder mehreren Abschnitten gegliedert.  
 
-Die Qualität der Inhalte wird von unseren Partnern überwacht, siehe im Anhang unter *Team & Partners*.
+Die Qualität der Inhalte wird von unseren Partnern überwacht, siehe im Anhang unter [Team & Partner](#sec-appendix-about).  
 
 Wenn Sie sich nach unserem Logo fragen, es ist so hergeleitet
 
