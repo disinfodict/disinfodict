@@ -1,4 +1,4 @@
-# Begriffe & Techniken {.unnumbered}
+# Begriffe & Techniken {.unnumbered #sec-intro-termstech}
 
 ::: {.callout-caution title=„Mythos“}
 So etwas wie Wahrheit gibt es nicht.
