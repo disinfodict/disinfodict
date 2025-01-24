@@ -139,7 +139,6 @@ book:
     chapters:
     - nato/expansion.qmd
     - nato/threat.qmd
-    - nato/proxy.qmd
   - part: "Nazis"
     #part-ua: "Нацисти"
     chapters:
@@ -191,6 +190,7 @@ book:
     - ruwar/escalation.qmd
     - ruwar/goals.qmd
     - ruwar/hybrid.qmd
+    - ruwar/proxy.qmd
     - ruwar/resilience.qmd
     - ruwar/sanctions.qmd
   - part: "Ukraine"
@@ -239,6 +239,7 @@ bibliography:
   - intro/ualessons.bib
   - corruption/ukraine.bib
   - genocide/definition.bib
+  - nazis/russia.bib
   - russia/empire.bib
   - appendix/recommendations.bib
 
