@@ -6,7 +6,47 @@ Russia wants peace
 :::
 
 ::: {.callout-tip title="Truth"}
-Russia has started an unprovoked war and will continue conquering Europe unless stopped
+- Russia has started an unprovoked war and will continue conquering Europe unless stopped
+- Russia even wants to conquer the US
 :::
 
+
+## Poland 
+
+Khrushchev was overheard to say, "at the final reception" for the polish leader: 
+
+> If you don't like us, son't accept our invitations and dpon't invite us to come to see you. Whether you like it or not, history is on our side. We will bury you! 
+> 
+> Nikita Khrushchev (1956)[^peace-russia-1]
+
+
+### Ukraine
+
+> Whether you like it or not, my beauty, you have to endure it
+>
+> Putin about Ukraine to Macron[^peace-russia-2]
+
 {{< lipsum 1-2 >}}
+
+
+## Europe
+
+{{< lipsum 1-2 >}}
+
+
+## US
+
+> We will take America without firing a shot. We do not have to invade the U.S. We will destroy you from within
+>
+> Nikita Khrushchev (1956)[^peace-russia-3]
+
+
+
+
+[^peace-russia-1]: Khrushchev's "We will bury you". (1962, February 7) CIA [https://www.cia.gov/readingroom/docs/CIA-RDP73B00296R000200040087-1.pdf
+](https://www.cia.gov/readingroom/docs/CIA-RDP73B00296R000200040087-1.pdf)
+
+[^peace-russia-2]: Obszöne Weisheiten. (11.2.2022) FAZ. [https://www.faz.net/aktuell/feuilleton/putin-zitiert-obszoene-folklore-und-droht-der-ukraine-17795210.html](https://www.faz.net/aktuell/feuilleton/putin-zitiert-obszoene-folklore-und-droht-der-ukraine-17795210.html)  
+
+[^peace-russia-3]: The Cold War & Disinformation. (2022, November 9) L.M. Elliott. 
+[https://lmelliott.com/book_landing_page_historical/walls/educators-guide-media-literacy-walls](https://lmelliott.com/book_landing_page_historical/walls/educators-guide-media-literacy-walls)

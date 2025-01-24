@@ -268,12 +268,24 @@ destatus <- sapply(de, function(i){
   p <- k/n
   p
 })
+enreserved <- sapply(en, function(i){
+  x <- paste(readLines(i), collapse=" ")
+  length(grep("\\{\\{ reserved \\}\\}", x, ignore.case = TRUE))>0
+})
+dereserved <- sapply(de, function(i){
+  x <- paste(readLines(i), collapse=" ")
+  length(grep("\\{\\{ reserved \\}\\}", x, ignore.case = TRUE))>0
+})
 d <- cbind(en=100*enstatus, ".de"=rep(0, length(enstatus)))
 d[,2] <- 0
 rownames(d) <- names(enstatus)
 if (length(destatus))
   d[sub("\\.de","",names(destatus)),2] <- 100*destatus
-round(d)
+d <- as.data.frame(round(d))
+dereserved <- names(dereserved)[dereserved]
+if (length(dereserved))
+  enreserved[sub("\\.de","",names(dereserved))] <- TRUE
+d$reserved <- ifelse(enreserved, 'reserved', '')
 save(d, file = "status.RData")
 ```
 
@@ -283,7 +295,6 @@ save(d, file = "status.RData")
 en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), "README.qmd")
 en <- en[-grep("[.][a-z][a-z][.]", en)]
 de <- dir(pattern="[.]de[.]qmd$", recursive=T)
-
 names(en) <- en
 names(de) <- de
 

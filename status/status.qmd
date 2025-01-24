@@ -7,5 +7,5 @@ Last updated `{r} substr(Sys.time(), 1, 19)`.
 ```{R}
 #| echo: false
 load("../status.RData")
-round(d)
+d
 ```

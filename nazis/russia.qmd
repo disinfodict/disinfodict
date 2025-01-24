@@ -42,7 +42,7 @@ Genocide | yes | yes | yes | yes | yes | yes
 Ethnocide | yes | yes | yes | yes | yes | yes
 Urbicide | yes | yes | yes | yes | yes | yes
 Ecocide | no | no | yes | yes | no | yes
-Fascination Bloodbath | yes |yes | yes |yes | yes | yes
+Fascination Bloodbath[^nazis-russia-1] | yes |yes | yes |yes | yes | yes
 War | yes | yes | yes |yes | yes | yes 
 War crimes | yes |yes | yes |yes | yes | yes
 
@@ -59,4 +59,8 @@ War crimes | yes |yes | yes |yes | yes | yes
 ## Ruscism!
 
 
+[^nazis-russia-1]: @Theweleit:2020
 
+[^nazis-russia-2]: @Winter:2020
+
+{{ reserved }}
