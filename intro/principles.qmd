@@ -102,10 +102,34 @@ Chapters are organized in *fact-sections*:
 
 ### Translations
 
+- a chapter can be written in English or German first
 - we strive to off all chapters in all supported languages (see the globe 🌐 language selector in the upper left corner)
 - we never use machine translation without checking and correcting and we use the high-quality translator from [deepl](deepl.com)
 - we only translate into languages we speak well, and if we are not native speakers, we use [deepl](deepl.com) back-translations to check the meaning
 - without translations our technology falls back to english
+
+
+## Style guide
+
+### Pyramid principle
+
+We don't write towards a punch line, but start with the core statement or statements and then elaborate on this. Many people don't read to the end, so the most important things have to come first. E.g. in @sec-culture-russia:
+
+::: {.callout-tip title=“Truth”}
+- Russia is killing the culture in its colonies and appropriating the culture of its invaded neighbors.
+- Russia's true culture is corruption and lies, violence and fear. 
+:::
+
+At the next level, the section headings then form a line of argument (or simply enumeration) of the arguments, which are then further explained and substantiated in the sections.
+
+
+### No false balance
+
+We want to counter Russian lies with truths. We don't want to be balanced. There is enough false balance. Take the culture section, for example. Wikipedia would simply list the most important examples of Russian and Ukrainian culture. We are not Wikipedia. We have two chapters, one on the supposedly “Great” Russian culture and one on the supposedly inferior or non-existent Ukrainian culture. We counter these Russian lies, on the one hand, with wonderful examples of Ukrainian culture (and this chapter should be quite long). On the other hand, we deconstruct the fairy tale of the “Great Russian Culture” by showing that Russian culture is a fake giant because 
+
+- Russia is murdering the culture of Ukraine (and other colonies)
+- Russia appropriates the culture of Ukraine (and other colonies)
+- an alleged highlight of Russian culture, the Russian “national poet” Pushkin was in reality a Russian imperial poet, who partly operated with fascist imagery, and could not be more different from the freedom-loving Ukrainian national poets.
 
 
 ## Sustainability principles
@@ -113,7 +137,7 @@ Chapters are organized in *fact-sections*:
 -   we prefer quotes from sustainable sources such as books, journals
 -   we use links that we expect to work for long (dead links harm search engine visibility)
 -   we prefer tables over pictures
--   we prefer use data based charts or other executed R-code only if absolutely necessary
+-   we use data based charts or other executed R-code only if absolutely necessary
 -   we use pictures only if absolutely necessary (pictures cause network traffic, consume energy and emit CO2)
 -   we minimize picture size (svg or png or jpg, ≤ 1280 x 1280 Pixel and reasonably compressed)
 -   we prefer square pictures, and prefer 3:4 resp. 4:3 over 9:16 and 16:9

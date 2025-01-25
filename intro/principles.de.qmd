@@ -106,10 +106,34 @@ Die Kapitel sind in *Faktenabschnitte* gegliedert:
 
 ### Übersetzungen
 
+- ein Kapitel kann zuerst in Englisch oder Deutsch geschrieben werden
 - wir bemühen uns, alle Kapitel in alle unterstützten Sprachen zu übersetzen (siehe den Globus 🌐 Sprachwähler in der oberen linken Ecke)
 - wir verwenden niemals maschinelle Übersetzungen ohne Überprüfung und Korrektur und wir verwenden den hochwertigen Übersetzer von [deepl](deepl.com)
 - wir übersetzen nur in Sprachen, die wir gut sprechen, und wenn wir keine Muttersprachler sind, nutzen wir [deepl](deepl.com) Rückübersetzungen zur Kontrolle der Bedeutung
 - ohne Übersetzungen fällt unsere Technologie auf Englisch zurück
+
+
+## Styleguide
+
+### Pyramiden-Prinzip
+
+Wir schreiben nicht auf eine Pointe hin, sondern beginnen mit der Kernaussage oder den Kernaussagen und detaillieren das anschließend aus. Viele Leute lesen nicht zuende, also muss das Wichtigste zuerst kommen. Z.B. in @sec-culture-russia:
+
+::: {.callout-tip title=„Truth“}
+- Russland tötet die Kultur in seinen Kolonien und eignet sich die Kultur seiner überfallenen Nachbarn an.
+- Russlands wahre Kultur besteht aus Korruption und Lügen, Gewalt und Angst. 
+:::
+
+Auf der nächsten Ebene bilden dann die Abschnittsüberschriften eine Argumentationslinie (oder schlicht Aufzählung) der Argumente, die dann in den Abschnitten weiter erläutert und belegt werden.
+
+
+### Keine Ausgewogenheit
+
+Wir wollen russische Lügen mit Wahrheiten kontern. Wir wollen nicht ausgewogen sein. False-Balance gibt es genug. Nehmen wir zum Beispiel den Teil Kultur. Wikipedia würde einfach die wichtigsten Beispiele russischer und ukrainischer Kultur auflisten. Wir sind nicht Wikipedia. Wir haben zwei Kapitel, eines über die angeblich "Große" russiche Kultur und eines über die angeblich minderwertige oder nicht vorhandene Ukrainische Kultur. Diese russichen Lügen kontern wir, einerseits, durch wunderbare Beispiele Ukrainischer Kultur (und dieses Kapitel dürfte ziemlich lang) werden. Andererseits, dekonstruieren wir die Mär von der "Großen Russischen Kultur", indem wir aufzeigen, dass die russische Kultur ein Scheinriese ist, weil 
+
+- Russland die Kultur der Ukraine (und in anderen Kolonien) ermordet
+- Russland sich die Kultur der Ukraine (und von anderen Kolonien) aneignet
+- ein angebliches Highlight der russischen Kultur, der russische"Nationaldichter" Puschkin in Wirklichkeit ein russischer Imperialdichter war, der zum Teil mit faschistischen Bildern operiert hat, und von den freiheitsliebenden Ukrainischen Nationaldichtern nicht verschiedener sein könnte.
 
 
 
@@ -118,7 +142,7 @@ Die Kapitel sind in *Faktenabschnitte* gegliedert:
 - wir bevorzugen Zitate aus nachhaltigen Quellen wie Büchern und Zeitschriften
 - wir verwenden Links, von denen wir erwarten, dass sie lange funktionieren (tote Links schaden der Sichtbarkeit in den Suchmaschinen)
 - wir bevorzugen Tabellen gegenüber Bildern
-- wir bevorzugen datenbasierte Diagramme oder anderen ausgeführten R-Code nur, wenn es unbedingt notwendig ist
+- wir verwenden datenbasierte Diagramme oder anderen ausgeführten R-Code nur, wenn es unbedingt notwendig ist
 - wir verwenden Bilder nur, wenn es unbedingt notwendig ist (Bilder verursachen Netzwerkverkehr, verbrauchen Energie und stoßen CO2 aus)
 - wir minimieren die Bildgröße (svg oder png oder jpg, ≤ 1280 x 1280 Pixel und vernünftig komprimiert)
 - wir bevorzugen quadratische Bilder, und ziehen 3:4 bzw. 4:3 gegenüber 9:16 und 16:9 vor
