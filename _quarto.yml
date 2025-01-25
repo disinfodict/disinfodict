@@ -234,6 +234,7 @@ book:
 
 callout-appearance: simple
 bibliography: 
+  - intro/preface.bib
   - intro/termstech.bib
   - intro/trueukraine.bib
   - intro/ualessons.bib

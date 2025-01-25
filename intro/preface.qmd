@@ -1,12 +1,47 @@
 # Preface {.unnumbered #sec-intro-preface}
 
-The Desinformation Dictionary provides ground-truths about topics that several fact-checking organisations detected in frequent disinformation narratives. Our focus is debunking russian disinformation in the context of the russian war against Ukraine.  
+## What
+
+The *Desinformation Dictionary* provides ground-truths about topics that several fact-checking organisations detected in frequent disinformation narratives. Our focus is debunking russian disinformation in the context of the russian war against Ukraine.  
 
 It is available in English and German language. It can be read on the web or downloaded as PDF or as an e-book in EPUB format.  
 
 The dictionary is organized by topic parts with one ore more chapters with one or more sections.  
 
 The quality of the content is monitored by our partners, see in the appendix under [Team & Partners](#sec-appendix-about).  
+
+
+## Why 
+
+> A hallmark of propaganda is its ability to blur the lines between fact and fiction, confusing the distinction between truth and falsehood
+
+Quotation from @Dierickx:2024, who analyzed several challenges and contexts that fact checkers face. We have extended that also for citizens fighting disinfo:
+
+- knowing or finding the facts
+- knowing or recognizing sources and patterns of propaganda
+- disentangling the truth in each specific context
+- finding the truth fast
+- debunking the lies fast (late coming comments lack visibility)^[NAFO solves that by posting graphical memes, which is very fast, but can easier defamed as not-fact-based. Using memes tends to escalate and prolong discussions and bind capacity; providing facts tends to silence trolls]
+- scaling the work to the industrial scale of disinformation dissemination
+- scaling the work and reach against algorithmic biases or even censorship in social networks
+- scaling the work across different social networks despite proprietary content management
+
+
+## How
+
+The *Desinformation Dictionary*  addresses these challenges somewhat by
+
+- providing curated truths in the context of the russian war in Ukraine
+- teaching about propaganda patterns
+- linking to officially diagnosed and debunked disinfo at [![EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/)
+- finding truth fast via keyword navigation and search function
+- debunking the lies fast by linking or copy-pasting the truths
+- fast implies higher throughput and therefore better scaling^[although disinfo scaling is much cheaper unless regulation enforces algorithmic countermeasures]
+- (against algorithmic biases only regulation helps, that enforces transparency and fairness)
+- works uniformly in all social networks^[except for algorithmic dampening of reach when using external links]
+
+
+## Logo
 
 If you are wondering about our logo, it is derived from this
 

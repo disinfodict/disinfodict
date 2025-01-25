@@ -1,12 +1,47 @@
 # Vorwort {.unnumbered #sec-intro-preface}
 
-Dieses Wörterbuch konsolidiert und entlarvt chronische Desinformationsnarrative, die von mehreren Fact-Checking-Organisationen aufgedeckt wurden.  
+## Was
+
+Dieses Wörterbuch konsolidiert und widerlegt chronische Desinformationsnarrative, die von mehreren Fact-Checking-Organisationen aufgedeckt wurden.  
 
 Es ist in englischer und deutscher Sprache verfügbar. Es kann im Internet gelesen oder als PDF oder heruntergeladen werden.  
 
 Das Wörterbuch ist nach Themenbereichen mit einem oder mehreren Kapiteln mit einem oder mehreren Abschnitten gegliedert.  
 
 Die Qualität der Inhalte wird von unseren Partnern überwacht, siehe im Anhang unter [Team & Partner](#sec-appendix-about).  
+
+
+## Warum 
+
+> Ein Kennzeichen von Propaganda ist ihre Fähigkeit, die Grenzen zwischen Fakten und Fiktion zu verwischen und die Unterscheidung zwischen Wahrheit und Lüge zu verwirren
+
+Zitat von @Dierickx:2024, die verschiedene Herausforderungen und Kontexte analysiert haben, mit denen sich Faktenchecker konfrontiert sehen. Wir haben das auch für Bürger erweitert, die gegen Desinformation kämpfen:
+
+- die Fakten zu kennen oder zu finden
+- Quellen und Muster der Propaganda zu kennen oder zu erkennen
+- die Wahrheit in jedem spezifischen Kontext zu entschlüsseln
+- die Wahrheit schnell zu finden
+- die Lügen schnell zu widerlegen (spät eintreffenden Kommentaren mangelt es an Sichtbarkeit)^[NAFO löst das, indem es grafische Memes postet, was sehr schnell geht, aber leichter als nicht-faktenbasiert diffamiert werden kann. Die Verwendung von Memen neigt dazu, Diskussionen zu eskalieren und zu verlängern und Kapazitäten zu binden; die Bereitstellung von Fakten neigt dazu, Trolle zum Schweigen zu bringen]
+- Skalierung der Arbeit auf das industrielle Ausmaß der Desinformationsverbreitung
+- Skalierung der Arbeit und der Reichweite gegen algorithmische Verzerrungen oder sogar Zensur in sozialen Netzwerken
+- Skalierung der Arbeit über verschiedene soziale Netzwerke hinweg trotz proprietärem Content Management
+
+
+## Wie
+
+Das *Desinformations-Wörterbuch* geht auf diese Herausforderungen ein, durch
+
+- bereitstellen kuratierter Wahrheiten im Kontext des russischen Krieges in der Ukraine
+- aufklären über die Muster der Propaganda
+- verlinken zu offiziell diagnostizierter und widerlegter Desinformation auf [![EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/)
+- Stichwortnavigation und Suchfunktion die Wahrheit schnell zu finden
+- rasches Widerlegen der Lügen mittels Verlinkung oder Copy-Paste der Wahrheiten
+- schneller impliziert höheren Durchsatz und daher bessere Skalierung^[obwohl die Skalierung von Desinformation viel billiger ist, es sei denn, die Regulierung erzwingt algorithmische Gegenmaßnahmen]
+- (gegen algorithmische Verzerrungen hilft nur Regulierung, welche Transparenz und Fairness erzwingt)
+- einheitliches Funktionieren in allen sozialen Netzwerken^[mit Ausnahme der algorithmischen Dämpfung der Reichweite bei Verwendung externer Links]
+
+
+## Logo
 
 Wenn Sie sich nach unserem Logo fragen, es ist so hergeleitet
 
