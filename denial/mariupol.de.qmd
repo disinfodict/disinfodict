@@ -1,15 +1,15 @@
-# Mariupol theater {#sec-denial-mariupol}
+# Theater in Mariupol {#sec-denial-mariupol}
 
-::: {.callout-caution title="Myth"}
-- the bombing was staged
-- Russia never attacks civilian targets
-- Ukrainian troops are storing weapons in synagogue
-- Ukrainian Nazis did it
+::: {.callout-caution title=„Myth“}
+- Die Bombardierung war inszeniert
+- Russland greift niemals zivile Ziele an
+- Die ukrainischen Truppen lagern Waffen in der Synagoge
+- Ukrainische Nazis haben es getan
 [<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=mariupol&sort=relevance)
 :::
 
-::: {.callout-tip title="Truth"}
-Russia intentionally bombed the theater with hundreds of civilians in it
+::: {.callout-tip title=„Truth“}
+Russland bombardierte absichtlich das Theater mit Hunderten von Zivilisten darin
 :::
 
 a[^denial-mariupol-1], b[^denial-mariupol-2]
@@ -27,6 +27,7 @@ a[^denial-mariupol-1], b[^denial-mariupol-2]
 ## C
 
 {{< lipsum 5-6 >}}
+
 
 
 
