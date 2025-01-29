@@ -10,7 +10,7 @@ Russland:
 - es waren nicht wir
 - es war die Ukraine
 - sie haben es verdient
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Bucha&sort=relevance)
+[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Bucha&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

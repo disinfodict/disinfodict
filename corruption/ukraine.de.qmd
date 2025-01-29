@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Die Ukraine ist ein korruptes Land
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(corrupt%7Ccorruption)%20(ukraine%7Ckiev%7Ckyiv)&sort=relevance)
+[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(corrupt%7Ccorruption)%20(ukraine%7Ckiev%7Ckyiv)&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

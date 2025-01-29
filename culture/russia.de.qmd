@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Russland hat eine überlegene „Große Russische Kultur“
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Russia%7Crussian)%20Culture%20&sort=relevance)
+[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Russia%7Crussian)%20Culture%20&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

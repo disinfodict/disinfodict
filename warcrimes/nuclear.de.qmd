@@ -3,7 +3,7 @@
 ::: {.callout-caution title=„Myth“}
 - Die Ukraine hat ihre eigenen Atomkraftwerke beschossen
 - Russisches Bombardement war legitim, weil die Ukraine Waffen in Atomanlagen versteckt hat
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20(nuclear%7Catom%7CZaporizhzhia%7CChernobyl)&sort=relevance)
+[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20(nuclear%7Catom%7CZaporizhzhia%7CChernobyl)&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

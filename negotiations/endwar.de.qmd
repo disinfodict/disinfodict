@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Alle Kriege werden *durch* Verhandlungen beendet.
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=negotiations%20end%20war&sort=relevance)
+[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=negotiations%20end%20war&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}
