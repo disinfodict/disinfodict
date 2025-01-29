@@ -1,4 +1,4 @@
-# Kramatorsk railway station {#sec-denial-kramatorsk}
+# Kramatorsk Railway {#sec-denial-kramatorsk}
 
 ::: {.callout-caution title="Myth"}
 - the bombing of the railway station never happened
