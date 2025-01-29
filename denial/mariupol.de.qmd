@@ -1,39 +1,62 @@
 # Theater in Mariupol {#sec-denial-mariupol}
 
-::: {.callout-caution title=„Myth“}
+::: {.callout-caution title=„Mythos“}
 - Die Bombardierung war inszeniert
 - Russland greift niemals zivile Ziele an
-- Die ukrainischen Truppen lagern Waffen in der Synagoge
 - Ukrainische Nazis haben es getan
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=mariupol&sort=relevance)
+[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=mariupol&sort=relevance)
 :::
 
-::: {.callout-tip title=„Truth“}
-Russland bombardierte absichtlich das Theater mit Hunderten von Zivilisten darin
+::: {.callout-tip title=„Wahrheit“}
+Die Bombardierung des Theaters war Teil des beabsichtigen russischen Genozids an der Zivilbevölkerung von Mariupol.
+[<br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=2em}](https://de.wikipedia.org/wiki/Luftangriff_auf_das_Theater_von_Mariupol)
 :::
 
-a[^denial-mariupol-1], b[^denial-mariupol-2]
+
+## Ort der Belagerung
+
+Der Krieg gegen Mariupol begann nicht erst 2022, sondern bereits 2014, als Russland einen verdeckten Krieg führte. Nach der Annexion der Krim und dem Krieg in Donezk und Luhansk verschlechterte sich die wirtschaftliche Lage der Stadt drastisch. Der Bau der Kertsch-Brücke isolierte Mariupol vom internationalen Seehandel.
+
+Die Belagerung Mariupols begann mit Kriegsbeginn am 24. Februar 2022 und endete am 20. Mai 2022 mit der Kapitulation. Die Stadt wurde vollkommen eingekesselt und von der Außenwelt abgeschnitten. Durch die russische Lufthoheit war Mariupol der russischen Bombardierung schutzlos ausgeliefert. 90 % der Wohngebäude wurden zerstört, Wasser, Elektrizität, Energie-, Wärme- und Heizungssysteme – wurden schon eine Woche nach dem Beginn des Krieges systematisch zerstört und damit die in den Kellern der Wohnblocks ausharrende Bevölkerung der anhaltenden winterlichen Kälte schutzlos preisgegeben. 
 
 
+## Ort der Kultur
 
-## A
+Das Theater von Mariupol ist wie zum Beispiel das Theater in Aachen ein Order der Zivilisation, der Kultur und des Friedens.
 
-{{< lipsum 1-2 >}}
+::: {#fig-denial-mariupol-theater layout-ncol=2}
+[![Theater Aachen (Wikimedia)](Mariupol_Theater_Aachen_Theater_624x460.jpg)](https://commons.wikimedia.org/wiki/File:Aachen_BW_2016-07-09_17-24-02.jpg)
 
-## B
+[![Theater Mariupol (Wikimedia)](Mariupol_Theater_624x460.jpg)](https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B5%D0%B0%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0.jpg)
 
-{{< lipsum 3-4 >}}
-
-## C
-
-{{< lipsum 5-6 >}}
-
+Das könnte auch unser Theater sein
+:::
 
 
+## Ort des Todes
 
-[^denial-mariupol-1]:  Ukraine: Deadly Mariupol theatre strike ‘a clear war crime’ by Russian forces – new investigation. (2023, June 30). Amnesty International. Retrieved May 1, 2024, from [https://www.amnesty.org/en/latest/news/2022/06/ukraine-deadly-mariupol-theatre-strike-a-clear-war-crime-by-russian-forces-new-investigation/](https://www.amnesty.org/en/latest/news/2022/06/ukraine-deadly-mariupol-theatre-strike-a-clear-war-crime-by-russian-forces-new-investigation/)
+In die Keller des Theaters hatten sich über 1200 Bürger, darunter viele Kinder, geflüchtet, worauf zwei große, aus der Luft gut lesbare Pflasteraufschriften „ДЕТИ“ (Kinder) vor und hinter dem Theater hinwiesen. Am 16. März 2022 bombardierte Russland das Theater gezielt, und tötet nach Schätzungen von Associated Press ca. 600 Menschen [Wikipedia](https://de.wikipedia.org/wiki/Luftangriff_auf_das_Theater_von_Mariupol).
 
-[^denial-mariupol-2]:  LIE: Bombing of maternity hospital in Mariupol staged. (2022, March 17). VoxUkraine. Retrieved May 1, 2024, from [https://voxukraine.org/en/lie-bombing-of-maternity-hospital-in-mariupol-staged](https://voxukraine.org/en/lie-bombing-of-maternity-hospital-in-mariupol-staged)
+[![Theater nach dem Luftangriff. Screenshot aus dem BBC-Video, 11. April 2022](Mariupol_Theater_destroyed.jpg)](https://mipl.org.ua/en/attack-on-mariupol-drama-theater-how-it-was-the-survivors-stories/)
+
+Das Bild stammt aus diesen [Geschichten von Überlebenden](https://mipl.org.ua/en/attack-on-mariupol-drama-theater-how-it-was-the-survivors-stories/). 
 
 
-{{ reserved }}
+## Ort der Massengräber
+
+Es gab in Mariupol massive Menschenrechtsverletzungen, darunter gezielte Angriffe auf Zivilisten, Blockaden humanitärer Hilfe und die Bombardierung medizinischer Einrichtungen. Der schlimmste Fall der Zerstörung einer medizinischen Einrichtung war die gezielte Bombardierung der Geburts- und Kinderklinik auf dem linken Ufer Mariupols am 9. März 2022 (siehe @sec-warcrimes-humanitarian). Man geht von 100.000 Toten in Mariupol aus, viele wurden in Massengräbern verscharrt.[^denial-mariupol-1]
+
+
+## Ort der Gerechtigkeit?
+
+Selbst das oft Russland-geneigte Amnesty International konnte nicht anders, als den russischen Angriff auf ein mit schutzsuchenden Zivilisten gefülltes Theater als ein klares Kriegsverbrechen zu bezeichnen, welches vor den Internationalen Gerichtshof gehört.[^denial-mariupol-2]
+
+Ein längerer Aufsatz in der Zeitschrift Osteuropa kommt zu der Schlussfolgerung, dass Russland in Mariupol Völkermord begangen hat[^denial-mariupol-3], siehe auch @sec-genocide-definition, allerdings beinhaltet der Text von 2022 noch russische Narrative über angebliche Separatisten im Donbass, siehe @sec-donbas-separatists.
+
+
+[^denial-mariupol-1]: 3rd mass grave was found near Mariupol (2024-04-25). hromadske.radio.   [https://hromadske.radio/en/news/2022/04/25/3rd-mass-grave-was-found-near-mariupol-photos](https://hromadske.radio/en/news/2022/04/25/3rd-mass-grave-was-found-near-mariupol-photos)
+
+[^denial-mariupol-2]:  Ukraine: Deadly Mariupol theatre strike ‘a clear war crime’ by Russian forces – new investigation. (2023, June 30). Amnesty International. Retrieved May 1, 2024, from [https://www.amnesty.org/en/latest/news/2022/06/ukraine-deadly-mariupol-theatre-strike-a-clear-war-crime-by-russian-forces-new-investigation/](https://www.amnesty.org/en/latest/news/2022/06/ukraine-deadly-mariupol-theatre-strike-a-clear-war-crime-by-russian-forces-new-investigation/)
+
+[^denial-mariupol-3]: Otto Luchterhand (2022-04-14). Völkermord in Mariupol. Zeitschrift Osteuropa. [https://zeitschrift-osteuropa.de/blog/voelkermord-in-mariupol/](https://zeitschrift-osteuropa.de/blog/voelkermord-in-mariupol/)
+
