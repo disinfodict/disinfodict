@@ -1,5 +1,8 @@
 project:
   type: book
+  preview:
+    port: 4200
+    browser: false
 
 book:
   title: "Disinformation Dictionary"
@@ -10,9 +13,12 @@ book:
   site-url: http://127.0.0.1:4321
   #site-url: https://disinfodict.pages.dev
   favicon: /all_common_img/DisinfoDict_logo_1x1_trans_small.png
-  # note that Cloudflare's Static resource protection does not protext epub. downloads: [pdf,epub]
   downloads: [pdf,epub]
-  twitter-card: true
+  open-graph: true
+  #https://www.opengraph.xyz/
+  twitter-card:
+    creator: "disinfodict"
+    site: "disinfodict"
   sidebar: 
     style: "floating"
     collapse-level: 1
@@ -116,7 +122,7 @@ book:
     #part-ua: "Геноцид"
     chapters:
     - genocide/definition.qmd
-    - genocide/historic.qmd
+    - genocide/history.qmd
     - genocide/announced.qmd
     - genocide/ongoing.qmd
   - part: "Language"
@@ -181,6 +187,8 @@ book:
     - russia/history.qmd
     - russia/moscow.qmd
     - russia/empire.qmd
+    - russia/life.qmd
+    - russia/soul.qmd
     - russia/opposition.qmd
     - russia/values.qmd
   - part: "Russia's War"
