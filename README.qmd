@@ -243,7 +243,7 @@ npm install @daisy/ace -g
 ## Measuring dictionary status
 
 ```{R}
-en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), "README.qmd")
+en <-  setdiff(setdiff(dir(pattern="[.]qmd$", recursive=T), "README.qmd"), "status/status.qmd")
 en <- en[grep("/", en)] 
 de <- en[grep("[.]de[.]qmd$", en)]
 ua <- en[grep("[.]ua[.]qmd$", en)]
