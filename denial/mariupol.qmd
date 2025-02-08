@@ -9,7 +9,7 @@
 
 ::: {.callout-tip title="Truth"}
 The bombing of the theater was part of the intended Russian genocide against the civilian population of Mariupol.
-[<br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=2em}](https://en.wikipedia.org/wiki/Mariupol_theatre_airstrike)
+[<br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Mariupol_theatre_airstrike)
 :::
 
 ## Place of the siege
@@ -34,23 +34,27 @@ This could also be our theater
 
 ## Place of death
 
-Over 1,200 citizens, including many children, had taken refuge in the basement of the theater, as indicated by two large pavement signs “ДЕТИ” (children) in front of and behind the theater, which were easy to read from the air. On March 16, 2022, Russia targeted and bombed the theater, killing about 600 people, according to Associated Press estimates [Wikipedia](https://en.wikipedia.org/wiki/Mariupol_theatre_airstrike).
+Over 1,200 citizens, including many children, had taken refuge in the basement of the theater, as indicated by two large pavement signs “ДЕТИ” (children) in front of and behind the theater, which were easy to read from the air. On March 16, 2022, Russia targeted and bombed the theater, killing about 600 people, according to estimates of Associated Press ([Wikipedia](https://en.wikipedia.org/wiki/Mariupol_theatre_airstrike)).
 
 [![Theater after the airstrike. Screenshot from BBC video, April 11, 2022](Mariupol_Theater_destroyed.jpg)](https://mipl.org.ua/en/attack-on-mariupol-drama-theater-how-it-was-the-survivors-stories/)
 
 The image comes from these [stories from survivors](https://mipl.org.ua/en/attack-on-mariupol-drama-theater-how-it-was-the-survivors-stories/). 
 
 
-## Location of the mass graves
+## Place of mass graves
 
 There have been massive human rights violations in Mariupol, including targeted attacks on civilians, blockades of humanitarian aid and the bombing of medical facilities. The worst case of destruction of a medical facility was the targeted bombing of the maternity and children's clinic on the left bank of Mariupol on March 9, 2022 (see @sec-warcrimes-humanitarian). It is estimated that 100,000 people died in Mariupol, many were buried in mass graves[^denial-mariupol-1].
 
 
 ## Place of justice?
 
+According to the Convention on the Prevention and Punishment of the Crime of Genocide, legal experts classify the events as genocide, as living conditions were deliberately created to destroy the population. These included the encirclement of the city, the starvation of the people, the targeted bombing of shelters and hospitals and the deportation of tens of thousands to Russia. See also @sec-genocide-definition
+
 Even the often Russia-biased Amnesty International could not help but call the Russian attack on a theater filled with civilians seeking protection a clear war crime that belongs before the International Criminal Court[^denial-mariupol-2].
 
-A longer essay in the journal Osteuropa concludes that Russia committed genocide in Mariupol[^denial-mariupol-3], see also @sec-genocide-definition, however the 2022 text still includes Russian narratives about alleged separatists in the Donbass, see @sec-donbas-separatists.
+A longer essay on Mariupol in the journal Osteuropa also concludes that Russia committed genocide in Mariupol[^denial-mariupol-3], although the 2022 text still contains Russian narratives about alleged separatists in the Donbass, see @sec-donbas-separatists.
+
+This genocide could probably have been prevented if the international community had acted more decisively earlier.
 
 
 
