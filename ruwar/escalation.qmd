@@ -6,9 +6,9 @@ By supporting Ukraine the west escalates the russian war
 :::
 
 ::: {.callout-tip title="Truth"}
-- Helping Ukraine is legitimate and legal, even sending troops would be.
-- Helping Ukraine is effective, Ukraine survived.
-- Russia escalates the war as long as the is not enough support
+- Helping Ukraine is legitimate and legal, even sending troops would be
+- Helping Ukraine is effective, Ukraine survived
+- Russia escalates the war as long as there is not enough support
 - Russia bluffs with spreading fear and defining "red lines" to undermine support
 :::
 
@@ -16,27 +16,46 @@ By supporting Ukraine the west escalates the russian war
 
 Ukraine is a sovereign nation with the right to self-defense, as enshrined in Article 51 of the UN Charter. Providing military assistance to a country facing unprovoked aggression is therefore legitimate under international law.
 
+## Help is effective
+
 Western aid has so far helped Ukraine to conduct successful military operations and liberate its territories: Kyiv region, Kharkiv region,[^ruwar-escalation-1] and Kherson.[^ruwar-escalation-2] Each day, it helps repel constant Russian attacks. Western support is crucial in terms of restocking Ukrainian ammunition and protecting Ukrainian civilian infrastructure.
 
 The Ukrainian government has repeatedly stated that it only uses its weapons for self-defense and to repel the Russian attack. Ukraine works with its arms suppliers to ensure that weapons are not misused and that the humanitarian principles of the laws of war are respected.
 
-Russia is also reliant on supplies of arms and components from countries like Iran, North Korea, and China. Unlike the West, these states do not put any conditions. The recently supplied North Korean ballistic missiles have already killed at least 24 Ukrainians and injured more than 70.[^ruwar-escalation-3][^ruwar-escalation-4]
-
 The demand to immediately stop arms exports to Ukraine would favor the aggressor and leave Ukraine in a weak position. There are no comparable calls on Russia and its allies to stop their own arms supplies. An immediate halt to arms deliveries to Ukraine would allow Russia to further build its military superiority and strike again.
 
-## Help is effective
-
-The delayed military support caused more struggle and “slower-than-expected” progress of the Ukrainian army. There is a direct connection between weapons deliveries and the progress of the Ukrainian army, as well as protecting the lives of civilians. For instance, a delay in the delivery of tanks and infantry fighting vehicles by over a year gave Russia time to fortify defenses,[^ruwar-escalation-5] hindering Ukraine's counteroffensive. Ukraine urgently requested Western tanks at the NATO summit on March 24, 2022\. However, the first batch of 31 M1A1 Abrams tanks, equipped with mine plows, arrived a year and a half later on September 25, 2023\. German Leopard tanks arrived a year after initial requests. These delays hampered Ukraine's mine-clearing abilities and slowed advances on the heavily mined frontline.[^ruwar-escalation-6] ATACMS, requested by Ukraine on September 12, 2022, arrived on October 17, 2023, delayed by Western concerns.[^ruwar-escalation-7] Their delay hindered Ukraine's ability to strike deep into Russian-occupied territory. Similarly, F-16s and F-15s, requested in March 2022, were approved after 1.5 years, leaving Ukraine vulnerable[^ruwar-escalation-8] to Russian air superiority.
+Russia is also reliant on supplies of arms and components from countries like Iran, North Korea, and China. Unlike the West, these states do not put any conditions. The recently supplied North Korean ballistic missiles have already killed at least 24 Ukrainians and injured more than 70.[^ruwar-escalation-3][^ruwar-escalation-4]
 
 Historically, the Russian army lost wars to presumably weaker enemies. For instance, the Soviets withdrew from Afghanistan in 1989 due to the Mujahideen employing guerrilla tactics against the Red Army, the United Nations’ request to leave, and the USA placing economic sanctions.[^ruwar-escalation-9]
 
- Russia's claim that supplying weapons to Ukraine won't help win is countered by Ukraine's adaptability. 
- 
-## Russian escalation
+Russia's claim that supplying weapons to Ukraine won't help win is countered by Ukraine's adaptability. 
+
+
+## Delayed help harms
+
+The delayed military support caused more struggle and “slower-than-expected” progress of the Ukrainian army. There is a direct connection between weapons deliveries and the progress of the Ukrainian army, as well as protecting the lives of civilians. For instance, a delay in the delivery of tanks and infantry fighting vehicles by over a year gave Russia time to fortify defenses,[^ruwar-escalation-5] hindering Ukraine's counteroffensive. Ukraine urgently requested Western tanks at the NATO summit on March 24, 2022\. 
+
+However, the first batch of 31 M1A1 Abrams tanks, equipped with mine plows, arrived a year and a half later on September 25, 2023\. German Leopard tanks arrived a year after initial requests. These delays hampered Ukraine's mine-clearing abilities and slowed advances on the heavily mined frontline.[^ruwar-escalation-6] ATACMS, requested by Ukraine on September 12, 2022, arrived on October 17, 2023, delayed by Western concerns.[^ruwar-escalation-7] Their delay hindered Ukraine's ability to strike deep into Russian-occupied territory. Similarly, F-16s and F-15s, requested in March 2022, were approved after 1.5 years, leaving Ukraine vulnerable[^ruwar-escalation-8] to Russian air superiority.
+
+
+## Red lines Psyops
+
+Delayed weapons delivery to Ukraine is the result of successful Russian psyops operating with "red lines". Disinformation and fear are Russia's strongest weapons against the West. Particularly in Germany, Russia is successfully play the piano of "German Angst". But in reality, Russia's red lines have proven to be just psyops:
+
+> Vladimir Putin attempted to draw yet another of his famous red lines on September 12, warning Western leaders that any decision to let Ukraine use long-range missiles on Russian territory would put NATO “at war” with Russia. “This will mean that NATO countries, the United States, European countries, are at war with Russia,” he stated, before vowing to take “appropriate decisions” in response. There is one obvious problem with this latest threat: Ukraine is already using the weapons in question to hit occupied regions that Putin considers Russian without provoking any escalation, never mind war between Russia and NATO.
+
+In reality, Russia fears strength. 
+
+> Since February 2022, Ukraine’s partners have debunked red line after red line as they have expanded their military aid to Kyiv from helmets and hand-held anti-tank weapons to Patriot air defense systems, long-range missiles, and F-16 fighter jets. Ukraine has repeatedly called Putin’s bluff by liberating occupied regions claimed by the Kremlin and disabling or sinking around one-third of the entire Russian Black Sea Fleet. In August 2024, the Ukrainian army crossed the reddest of all red lines by invading Russia itself[^ruwar-escalation-10]. 
+
+Weakness invites Russia to further escalate, as it did multiple times during the war. For example, after Ukraine allowed russian soldiers to escape from Cherson, Russia responded with massive missile attacks on Ukrainian civil infrastructure.
+
+
+## Russia escalated
 
 The slow arming strategy has emboldened Putin, reinforcing his perception of Western weakness. Despite delays, Ukraine has achieved success, but addressing supply delays is crucial for future operations.
 
-It is Russia who escalates ... unprovoked. 
+It is Russia who escalated ... unprovoked. 
 
 - Russia invaded ... unprovoked
 - Russia abducted children ... unprovoked
@@ -44,15 +63,16 @@ It is Russia who escalates ... unprovoked.
 - Russia raped and tortured ... unprovoked
 - Russia attacked nuclear power stations and destroyed dams ... unprovoked
 
-There are multiple examples of Russia escalating after perceiving Ukraine as weak, after Western hesitation.
 
-## Red lines
+## Time for Western red lines
 
-There are multiple examples of crossing Russia's "red lines" ... and Russia accepts or even withdraws
+A bully can only be stopped with strength and threats. It's time for Western red lines. 
 
-{{< lipsum 1-2 >}}
+> This reactive approach places the West at a considerable disadvantage and hands the escalation initiative to Russia, enabling the Kremlin to set the terms of engagement for the entire war. For example, while Russia can attack civilian targets across Ukraine as it sees fit, the Russian Federation itself remains a safe haven for Putin’s forces due to restrictions imposed by the risk-averse West on Ukraine’s ability to defend itself.  
+> ...  
+> Instead, Western leaders could aim to establish a series of red lines that would incur serious costs if crossed. These could include geographical red lines protecting Ukraine’s southern coastline and major cities, or more specific red lines designed to restrict attacks on civilian targets such as Ukraine’s energy grid or basic municipal services. Major war crimes such as the continued mass deportation of Ukrainian children could also be addressed[^ruwar-escalation-11].
 
-
+Only once the West crosses and declares the reddest of red lines, Ukraine will have peace: it is time to take Ukraine into NATO and strengthen European defense. Strengthening European defense requires two things: strengthen European military and take the experienced Ukrainian army into NATO. 
 
 
 [^ruwar-escalation-1]:  Lutska, V. (2022, September 18). Ukrainian forces liberated most of the Kharkiv region in a rapid counter-offensive. Retrieved May 1, 2024, from [https://war.ukraine.ua/articles/ukrainian-forces-liberated-most-of-the-kharkiv-region-in-a-rapid-counter-offensive/](https://war.ukraine.ua/articles/ukrainian-forces-liberated-most-of-the-kharkiv-region-in-a-rapid-counter-offensive/) 
@@ -73,6 +93,7 @@ There are multiple examples of crossing Russia's "red lines" ... and Russia acce
 
 [^ruwar-escalation-9]:  Defeat of the Soviet Union in Afghanistan — The end of the Cold War — Higher History Revision — BBC Bitesize. (n.d.). BBC. Retrieved May 1, 2024, from [https://www.bbc.co.uk/bitesize/guides/zq63b9q/revision/2](https://www.bbc.co.uk/bitesize/guides/zq63b9q/revision/2) 
 
+[^ruwar-escalation-10]: Peter Dickinson (September 17, 2024) Putin is becoming entangled in his own discredited red lines. Ukraine Alert, Atlantic Council. [https://www.atlanticcouncil.org/blogs/ukrainealert/putin-is-becoming-entangled-in-his-own-discredited-red-lines/](https://www.atlanticcouncil.org/blogs/ukrainealert/putin-is-becoming-entangled-in-his-own-discredited-red-lines/)
 
-
+[^ruwar-escalation-11]: Mykola Bielieskov (September 17, 2024) Time to make Russia worry about the West’s red lines in Ukraine. Ukraine Alert, Atlantic Council. [https://www.atlanticcouncil.org/blogs/ukrainealert/time-to-make-russia-worry-about-the-wests-red-lines-in-ukraine/](https://www.atlanticcouncil.org/blogs/ukrainealert/time-to-make-russia-worry-about-the-wests-red-lines-in-ukraine/)
 
