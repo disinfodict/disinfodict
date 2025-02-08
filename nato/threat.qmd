@@ -6,21 +6,59 @@ NATO-Expansion threatened Russia, hence Russia had to protect itself by invading
 :::
 
 ::: {.callout-tip title="Truth"}
-- NATO did not expand militarily to the East. 
-- Russia fears Ukraine's EU membership: that economic prosperity in the neighboring country threatens the exploitation of the Russian population by the oligarchy.
+- Ukraine gave up nuclear weapons
+- NATO did not expand militarily to the East
+- Russia did not feel threatened
+- Russia fears attractiveness of EU in its neighborhood
+- because that threatens exploitation of russians and their colonies
 :::
 
 
-## Ukraine gave up their nuclear weapons
+## Ukraine gave up nukes
 
 See @sec-nukes-ukraine.
 
-## No military expansion of NATO
+## NATO did not expand militarily
 
 See @sec-nato-expansion.
 
-## EU-Membership threatened!
+## Russia didn't feel threatened
 
-{{< lipsum 5-6 >}}
+Clever russian propagandists don't say, that NATO objectively threatens Russia, they say that Russia subjectively feels threatened, and that the West must respect that. In other words: they say Russia's inadequate feelings justify to attack your neighbor, commit human rights violations and exterminate your neighbor. 
+
+And of course it is a propaganda lie that Russia feels threatened. Russia uses every opportunity to test NATO with hybrid attacks, see @sec-ruwar-hybrid. Russia even accepted the fact that the neutral countries Finland and Sweden joined NATO because of the full-scale invasion. This is not how you behave when you are afraid.  
+
+## NATO weakness provoked Putin
+
+By contrast: NATO Weakness invited Putin: 
+
+> Russian President Vladimir Putin didn’t invade Ukraine in 2022 because he feared NATO. He invaded because he believed that NATO was weak, that his efforts to regain control of Ukraine by other means had failed, and that installing a pro-Russian government in Kyiv would be safe and easy. His aim was not to defend Russia against some non-existent threat but rather to expand Russia’s power, eradicate Ukraine’s statehood, and destroy NATO, goals he still pursues[^nato-thread-1].
+
+Russia has a long tradition of deceiving its enemies and victims:
+
+> Russia’s fulminations about a NATO expansion in 2022 were efforts to shape the information space ahead of the invasion, not reactions to NATO’s actions[^nato-thread-1].
 
 
+## EU attractivity threatened
+
+> Russian president Vladimir Putin wants you to believe that NATO is responsible for his February 24 invasion of Ukraine  
+> ...  
+> U.S.-Russian relations deteriorated even further in 2014, again because of new democratic expansion, not NATO expansion. The next democratic mobilization to threaten Putin happened again in Ukraine in 2013–14.  
+> ...  
+> In February 2022, Putin embarked on a new strategy for ending Ukrainian democracy: massive military intervention.   
+> ...  
+> Putin may dislike NATO expansion, but he is not genuinely frightened by it. Russia has the largest army in Europe, engorged by two decades of lavish spending. NATO is a defensive alliance. It has never attacked the Soviet Union or Russia, and it never will. Putin knows that. But Putin is threatened by a flourishing democracy in Ukraine. He cannot tolerate a successful and democratic Ukraine on Russia’s border, especially if the Ukrainian people also begin to prosper economically. That would undermine the Kremlin’s own regime stability and proposed rationale for autocratic state leadership[^nato-threat-2].
+
+
+## Mafia empire wants expansion
+
+> Russia, by aiming to prevent the EU’s enlargement and impose its own control over Ukraine, Moldova, and Georgia, is on a campaign to reassert its imperial idea in Europe[^nato-threat-3].
+
+
+[^nato-thread-1]: Weakness is Lethal: Why Putin Invaded Ukraine and How the War Must End. (Oct 1, 2023). Institute for the STUDY OF WAR (ISW). [https://understandingwar.org/backgrounder/weakness-lethal-why-putin-invaded-ukraine-and-how-war-must-end](https://understandingwar.org/backgrounder/weakness-lethal-why-putin-invaded-ukraine-and-how-war-must-end)
+  
+[^nato-threat-2]: Person & McFaul (2022 April) What Putin Fears Most.  Journal of Democracy, Volume 33, Issue 2, Page 18–27. [https://www.journalofdemocracy.org/articles/what-putin-fears-most/](https://www.journalofdemocracy.org/articles/what-putin-fears-most/)
+
+[^nato-threat-3]: Nicholas Lokker and Kate Johnston  (July 15, 2024) 
+For Putin, the EU Is a Bigger Threat Than NATO. Center for a New American Security
+[https://www.cnas.org/publications/commentary/for-putin-the-eu-is-a-bigger-threat-than-nato](https://www.cnas.org/publications/commentary/for-putin-the-eu-is-a-bigger-threat-than-nato)
