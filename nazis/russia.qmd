@@ -58,9 +58,59 @@ War crimes | yes |yes | yes |yes | yes | yes
 
 ## Ruscism!
 
+## Umberto Ecco's Criteria
+
+> If by totalitarianism one means a regime that subordinates every act of the individual to the state and to its ideology, then both Nazism and Stalinism were true totalitarian regimes. Italian fascism was certainly a dictatorship, but it was not totally totalitarian, not because of its mildness but rather because of the philosophical weakness of its ideology ... Mussolini did not have any philosophy: he had only rhetoric ... Italian fascism was the first to establish a military liturgy, a folklore, even a way of dressing ... Fascism was a fuzzy totalitarianism.[^nazis-russia-3]
+
+> There was only one Nazism. We cannot label Franco’s hyper-Catholic Falangism as Nazism, since Nazism is fundamentally pagan, polytheistic, and anti-Christian. But the fascist game can be played in many forms, and the name of the game does not change.[^nazis-russia-3]
+
+> Fascism became an all-purpose term because one can eliminate from a fascist regime one or more features, and it will still be recognizable as fascist. Take away imperialism from fascism and you still have Franco and Salazar. Take away colonialism and you still have the Balkan fascism of the Ustashes. [^nazis-russia-3]
+
+> But in spite of this fuzziness, I think it is possible to outline a list of features that are typical of what I would like to call Ur-Fascism, or Eternal Fascism. [^nazis-russia-3]
+
+
+
+> the opposition leaders ... were assassinated; the free press was abolished, the labor unions were dismantled, and political dissenters were confined on remote islands. Legislative power became a mere fiction and the executive power (which controlled the judiciary as well as the mass media) directly issued new laws[^nazis-russia-3]
+
+
+Nestor Barchuk has evaluated Ecco's criteria and came to conclude, that Russia is fascist:
+
+> Now the world is facing a new historical challenge — to «deruscify» Russia. Otherwise, ruscism will not disappear. No matter how much Ukrainians and the West want to end the war ASAP, ruscism requires a much more comprehensive solution than arms supplies, financial aid or a post-war reconstruction plan for Ukraine. Western support will undoubtedly help Ukrainians defeat Russia on the battlefield. However, if Russia's «deruscification» is not carried out, a countdown to Russia's next war of aggression to restore former greatness and punish enemies will start.[^nazis-russia-4]
+
+
+
+No.  | Keword | Fascism | Ruscism | Criterion
+-- | ----------- | ------- | ------- | -------
+1 | Tradition | yes | yes | The cult of tradition. “One has only to look at the syllabus of every fascist movement to find the major traditionalist thinkers. The Nazi gnosis was nourished by traditionalist, syncretistic, occult elements.”
+2 | Anti-Science | yes | yes | The rejection of modernism. “The Enlightenment, the Age of Reason, is seen as the beginning of modern depravity. In this sense Ur-Fascism can be defined as irrationalism.”
+3 | Action | yes | [yes](https://english.nv.ua/nation/russia-s-path-conflict-as-an-economic-imperative-says-putin-50475486.html) | The cult of action for action’s sake. “Action being beautiful in itself, it must be taken before, or without, any previous reflection. Thinking is a form of emasculation.”
+4 | Loyalty | yes | yes | Disagreement is treason. “The critical spirit makes distinctions, and to distinguish is a sign of modernism. In modern culture the scientific community praises disagreement as a way to improve knowledge.”
+5 | Homogeneity | yes | yes | Fear of difference. “The first appeal of a fascist or prematurely fascist movement is an appeal against the intruders. Thus Ur-Fascism is racist by definition.”
+6 | Frustration | yes | yes | Appeal to social frustration. “One of the most typical features of the historical fascism was the appeal to a frustrated middle class, a class suffering from an economic crisis or feelings of political humiliation, and frightened by the pressure of lower social groups.”
+7 | Plot | yes | yes | The obsession with a plot. “Thus at the root of the Ur-Fascist psychology there is the obsession with a plot, possibly an international one. The followers must feel besieged.”
+8 | ±Enemy | yes | yes | The enemy is both strong and weak. “By a continuous shifting of rhetorical focus, the enemies are at the same time too strong and too weak.”
+9 | Fight | yes | yes | Pacifism is trafficking with the enemy. “For Ur-Fascism there is no struggle for life but, rather, life is lived for struggle.”
+10 | Hate Weak | yes | yes | Contempt for the weak. “Elitism is a typical aspect of any reactionary ideology.”
+11 | Heroism | yes | yes | Everybody is educated to become a hero. “In Ur-Fascist ideology, heroism is the norm. This cult of heroism is strictly linked with the cult of death.”
+12 | Machismo | yes | yes | Machismo and weaponry. “Machismo implies both disdain for women and intolerance and condemnation of nonstandard sexual habits, from chastity to homosexuality.”
+13 | Selective Populism | yes | yes | Selective populism. “There is in our future a TV or Internet populism, in which the emotional response of a selected group of citizens can be presented and accepted as the Voice of the People.”
+14 | Newspeak | yes | yes | Ur-Fascism speaks Newspeak. “All the Nazi or Fascist schoolbooks made use of an impoverished vocabulary, and an elementary syntax, in order to limit the instruments for complex and critical reasoning.”
+
+
+https://aussenpolitik.piratenpartei.de/2022/05/29/ruschismus-sitzen-die-wahren-faschisten-in-moskau/
+
+https://www.nzz.ch/meinung/warum-wir-der-ukraine-dankbar-sein-muessen-ld.1728240
+
+
 
 [^nazis-russia-1]: @Theweleit:2020
 
 [^nazis-russia-2]: @Winter:2020
+
+
+[^nazis-russia-3]: Umberto Eco (1995) Ur-Fascism. [https://theanarchistlibrary.org/library/umberto-eco-ur-fascism](https://theanarchistlibrary.org/library/umberto-eco-ur-fascism)
+
+[^nazis-russia-4]: Nestor Barchuk (September 9, 2022) The most comprehensive answer to the question: is Russia a fascist state? The New Voice of Ukraine. [https://english.nv.ua/opinion/the-most-comprehensive-answer-to-the-question-is-russia-a-fascist-state-50268926.html](https://english.nv.ua/opinion/the-most-comprehensive-answer-to-the-question-is-russia-a-fascist-state-50268926.h)
+
 
 {{ reserved }}
