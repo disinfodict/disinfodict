@@ -1,0 +1,11 @@
+# Russian life {#sec-russia-life}
+
+::: {.callout-caution title="Myth"}
+[<br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Russian_soul)
+[<br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Russische_Seele)
+:::
+
+::: {.callout-tip title="Truth"}
+[<br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Russlandbild)
+:::
+
