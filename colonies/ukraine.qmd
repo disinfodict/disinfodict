@@ -1,32 +1,72 @@
-# Ukraine a colony? {#sec-colonies-ukraine}
+# Ukraine - a colony? {#sec-colonies-ukraine}
 
-::: {.callout-caution title="Myth"}
-- Ukraine is a proxy of the US.
-- Ukraine is a polish colony. 
-- Ukraine is a part of russia.
+::: {.callout-caution title=“Myth”}
+- Ukraine is a proxy of the USA[^colonies-ukraine-5]
+- Ukraine is a Polish colony
+- Ukraine is a part of Russia[^colonies-ukraine-8]
 [<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=colonies%20ukraine&sort=relevance)
 :::
 
-::: {.callout-tip title="Truth"}
-- Russia has already tried to colonize Ukraine several times. 
-- The large-scale invasion is the next attempt.
+::: {.callout-tip title=“Truth”}
+- Ukraine has long been a sovereign state
+- The West promoted reforms not only in Ukraine, but also in Russia
+- Ukraine wanted independence: and good relations with Russia and the West
+[<br>![[Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Ukraine)
 :::
 
-## Section 1
 
-{{< lipsum 1-2 >}}
+## Ukraine is a sovereign state
 
-## Section 2
+Ukraine has been an independent Soviet republic from Russia since 1919/1922 and has maintained diplomatic relations with several countries. Like Belarus - and unlike Russia - Ukraine is an independent founding member of the United Nations.[^colonies-ukraine-1] After the collapse of the Soviet Union in 1991, Ukraine became a completely sovereign state in accordance with the clear majority wishes of its inhabitants, see @sec-democracy-ukraine. In 1994, Russia committed itself in the [Budapest Memorandum](https://en.wikipedia.org/wiki/Budapest_Memorandum) to defending Ukraine as a sovereign state after giving up its nuclear weapons, see @sec-nukes-ukraine. 
 
-{{< lipsum 3-4 >}}
-
-## Section 3
-
-{{< lipsum 5-6 >}}
-
-## Section 4
-
-{{< lipsum 7-8 >}}
+Neither the West nor Ukraine have historically ever been particularly mutually fixated on each other. The more intensive mutual relationship is a consequence of Russia's imperialist influence.
 
 
-{{ reserved }}
+## The West supported Ukraine and Russia
+
+After the collapse of the Soviet Union, the West and the US intensified exchanges with both Ukraine and Russia and supported reform processes in _both_ countries.  While Ukraine civilized itself democratically, Russia preferred to deceive the West and secretly advance its imperialist agenda[^colonies-ukraine-4].
+
+A quick admission of Ukraine into NATO and the EU met with resistance in the West - out of consideration for Russia. Instead, preference was largely given to a neutral Ukraine. Today we know: that was a mistake.
+
+
+## Ukraine wanted good relations with Russia and the EU
+
+For a long time, Ukraine did not clearly favor ties with the West either. In fact, around the turn of the millennium, Ukraine pursued a seesaw course between Russia and the West. Ukraine's priority was _independence_ and not embedding itself in a power bloc, which would have run counter to the quest for independence.
+
+
+## Russia sabotaged Ukraine's neutrality
+
+Russia tried to prevent Ukraine from democratizing and opening up to the West. The attempt to falsify the Ukrainian presidential elections in 2004 and to eliminate the presidential candidate Viktor Yushchenko with poison led to the [Orange Revolution](https://en.wikipedia.org/wiki/Orange_Revolution).[^colonies-ukraine-3]
+
+Russia's attempt to thwart the EU Association Agreement with its stooge Viktor Yanukovych in 2013 led to the Revolution of Dignity, also known as the [Euromaidan](https://en.wikipedia.org/wiki/Euromaidan).[^colonies-ukraine-6] [^colonies-ukraine-7]
+
+
+## Russia enforced Ukraine's ties to the West
+
+After Viktor Yanukovych fled the country in the face of resistance from the Ukrainian people, Russia annexed Crimea (@sec-crimea-annexation) and invaded the Donbas (see @sec-donbas-seperatists). At this point, Ukraine was neutral according to its constitution, but increasingly had to ask for Western help against Russia's military to defend its sovereignty. The West granted the requested help so hesitantly and inconsistently that Putin felt emboldened to attack the whole of Ukraine in 2022.
+
+The West is slowly coming to the realization that defending Ukraine is also in its own defensive interests if it wants to prevent Russia from annexing Ukraine and attacking other neighbors as a result.
+
+
+## Independence of Ukraine emphasized
+
+The [UN Resolution-ES-11/1](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_ES-11/1), which was adopted by an overwhelming majority (only 5 votes against) after the Russian full-scale invasion, clearly showed that Ukraine is a sovereign state under international law. 
+
+[![Wikipedia: UN-Resolution-ES-11/1](UN-Resolution-ES-11-1.jpg){width=“50%”}](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_ES-11/1)
+
+
+[^colonies-ukraine-1]: Die Entwicklung der Mitgliedschaft in den Vereinten Nationen. (1945). UNRIC - Regionales Informationszentrum der Vereinten Nationen. [https://unric.org/de/entwicklung-mitgliedschaft/](https://unric.org/de/entwicklung-mitgliedschaft/)
+
+[^colonies-ukraine-2]: Eduard Klein (2005) Orange Revolution Ukraine 2004, Landeszentrale für politische Bildung Baden-Würtemberg. [https://osteuropa.lpb-bw.de/orange-revolution-ukraine](https://osteuropa.lpb-bw.de/orange-revolution-ukraine)
+
+[^colonies-ukraine-3]: Juri Durkot (2005) DER SCHWIERIGE BALANCEAKT ZWISCHEN EUROPA UND RUSSLAND - Europäische Perspektiven der Ukraine. DER BÜRGER IM STAAT 55. Jahrgang Heft 4, S. 186 - 190.  [https://www.buergerundstaat.de/4_05/bis04_05.pdf#page=28](https://www.buergerundstaat.de/4_05/bis04_05.pdf#page=28)
+
+[^colonies-ukraine-4]: Peter W. Schulze (2005) RUSSLAND UNTER PUTIN Good-bye Putin. DER BÜRGER IM STAAT 55. Jahrgang Heft 4, S. 208-215. [https://www.buergerundstaat.de/4_05/bis04_05.pdf#page=50](https://www.buergerundstaat.de/4_05/bis04_05.pdf#page=50)
+
+[^colonies-ukraine-5]:  Gerhard Simon (2023) Die Ukraine wird von Amerika gesteuert. In: N. Pryhornytska, K. Pavlova, ed. Ukraine im Fokus. Propaganda erkennen, Fakten verstehen. Berlin: CRISP.
+
+[^colonies-ukraine-6]:  Steffen Dobbert  (2022). Ukraine verstehen, Kapitel 14: "Der unbändige Wille einer Nation: Volksaufstand der Würde und Euromaidan-Revolution". Klett-Cotta.
+
+[^colonies-ukraine-7]:  Der Euromaidan und die Folgen. (2023) Bundeszentrale für politische Bildung.  [https://www.bpb.de/kurz-knapp/taegliche-dosis-politik/542894/der-euromaidan-und-die-folgen/](https://www.bpb.de/kurz-knapp/taegliche-dosis-politik/542894/der-euromaidan-und-die-folgen/)
+
+[^colonies-ukraine-8]: Nico Lange (2024) Aber die NATO! 10 populäre Mythen über Putins Krieg gegen die Ukraine, Kapitel 8. Münchener Sicherheitskonferenz, Zeitenwende on tour.  [https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=32](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=32)
