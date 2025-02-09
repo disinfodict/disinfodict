@@ -17,6 +17,8 @@ See also the chapter on russian values @sec-russia-values.
 
 ## TODO
 
+[^church-russia-7]
+
 {{< lipsum 1-2 >}}
 
 ## WWII and NKVD
