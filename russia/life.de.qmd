@@ -1,0 +1,87 @@
+# Russisches Leben {#sec-russia-life}
+
+::: {.callout-caution title=„Myth“}
+- Russland ist besser
+- Leben in Russland ist besser
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/?s=(Russia|Moscow)%20(better|superior|inferior)&type=database&sort=relevance)
+:::
+
+::: {.callout-tip title=„Truth“}
+Die meisten europäischen Länder Russland sind wesentlich besser als Russland - auf dem OECD Better Life Index
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/waiting-for-the-advent-of-the-fifth-stalin/)
+:::
+
+
+> Die OECD-Initiative für ein besseres Leben konzentriert sich auf die Entwicklung von Statistiken zur Erfassung von Lebensaspekten, die den Menschen wichtig sind und ihre Lebensqualität bestimmen.
+die den Menschen wichtig sind und die ihre Lebensqualität bestimmen. Dies ermöglicht ein besseres Verständnis dafür, was
+was das Wohlergehen von Menschen und Nationen bestimmt und was getan werden muss, um einen größeren Fortschritt
+für alle zu erreichen.
+
+> Gestützt auf die Empfehlungen der Kommission zur Messung der wirtschaftlichen Leistung und des sozialen Fortschritts
+Leistung und sozialem Fortschritt (zu der die OECD einen wichtigen Beitrag geleistet hat), hat die OECD
+hat die OECD 11 Dimensionen identifiziert, die für das Wohlergehen wesentlich sind, von Gesundheit und Bildung über die lokale
+Umwelt, persönliche Sicherheit und allgemeine Lebenszufriedenheit, sowie traditionellere Maßstäbe wie das Einkommen. 
+
+Russland schneidet auf dem [OECD Better Life Index](https://www.oecdbetterlifeindex.org/) deutlich schlechter ab als die meisten europäischen Länder.
+
+
+[![OECD Better Life Index](BetterLife.jpg)](https://www.oecdbetterlifeindex.org/)
+
+Im Folgenden sehen Sie Russland (farbig) im Vergleich zu Deutschland. Russland ist bei allen Kriterien viel schlechter, außer bei der Work-Life-Balance.  
+
+
+## Wohnen
+
+![OECD Better Life Index - Russland: Wohnen](BetterLifeRussiaHousing.png)
+
+
+## Einkommen
+
+![OECD Better Life Index - Russland: Einkommen](BetterLifeRussiaIncome.png)
+
+
+## Jobs
+
+![OECD Better Life Index - Russland: Jobs](BetterLifeRussiaJobs.png)
+
+
+## Gemeinschaft
+
+![OECD Better Life Index - Russland: Gemeinschaft](BetterLifeRussiaCommunity.png)
+
+
+## Erziehung
+
+![OECD Better Life Index - Russland: Erziehung](BetterLifeRussiaEducation.png)
+
+
+## Umwelt
+
+![OECD Better Life Index - Russland: Umwelt](BetterLifeRussiaEnvironment.png)
+
+
+## Bürgerliches Engagement
+
+![OECD Better Life Index - Russland: Bürgerliches Engagement](BetterLifeRussiaCivicEngagement.png)
+
+
+## Gesundheit 
+
+![OECD Better Life Index - Russland: Gesundheit](BetterLifeRussiaHealth.png)
+
+
+## Lebenszufriedenheit
+
+![OECD Better Life Index - Russland: Lebenszufriedenheit](BetterLifeRussiaLifeSatisfaction.png)
+
+
+## Sicherheit
+
+![OECD Better Life Index - Russland: Sicherheit](BetterLifeRussiaSafety.png)
+
+
+## Freizeit
+
+![OECD Better Life Index - Russland: Freizeit](BetterLifeRussiaWorkLifeBalance.png)
+
+<!-- cia-key="fb8dc7bd2d4e2e1a0fbe47e618980daf0150fc1b4987855489ba7f35106d3d9467910a7822e5a2ba9c39d9128135bc8c2e862439b072759eb55848cb7665e5fc" -->
