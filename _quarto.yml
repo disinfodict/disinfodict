@@ -12,6 +12,7 @@ book:
   date: "last-modified"
   site-url: http://127.0.0.1:4321
   #site-url: https://disinfodict.pages.dev
+  #site-url: https://disinfodict.org
   favicon: /all_common_img/DisinfoDict_logo_1x1_trans_small.png
   downloads: [pdf,epub]
   open-graph: true
@@ -32,6 +33,7 @@ book:
       - text: "![Home](/all_common_img/DisinfoDict_logo_1x1_trans.png){width=1in}"
         href: http://127.0.0.1:4321
         #href: https://disinfodict.pages.dev
+        #href: https://disinfodict.org
       - text: "Impressum"
         href: impressum.qmd
 
