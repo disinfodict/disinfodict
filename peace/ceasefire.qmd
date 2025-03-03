@@ -9,4 +9,4 @@ Ceasefire is peace
 Russia will use a ceasefire to prearm further and continue the genocide in the occupied territories
 :::
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}

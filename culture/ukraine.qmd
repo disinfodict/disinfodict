@@ -1,7 +1,7 @@
 # Ukrainian Culture {#sec-culture-ukraine}
 
 ::: {.callout-caution title="Myth"}
-Ukraine is home to uncultured farmers
+Ukraine has no own culture
 [<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Culture+Ukraine&sort=relevance)
 :::
 
@@ -9,10 +9,18 @@ Ukraine is home to uncultured farmers
 Ukraine has a rich culture that is again being murdered by Russia
 :::
 
+## Introduction
+
+{{< var todo >}}
+
 See also the chapters on Russian culture (@sec-culture-russia) on warcrimes against Ukrainan culture (@sec-warcrimes-culture), on Ukrainian language (@sec-language-russia) and on russian language (@sec-language-ukraine).
 
 [^culture-ukraine-5]
 
+
+https://www.art-territory.com/
+
+https://culture.pl/en/article/inventing-anti-imperial-poetic-discourse-adam-mickiewicz-and-taras-shevchenko-with-alexander-pushkin-in-the-tsars-shadow
 
 
 
@@ -20,15 +28,15 @@ See also [Culture of Ukraine at Wikipedia](https://en.wikipedia.org/wiki/Culture
 
 ## Architecture
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 ## Carpets
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 ## Costumes
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 ## Cooking
 
@@ -37,33 +45,38 @@ See also [Culture of Ukraine at Wikipedia](https://en.wikipedia.org/wiki/Culture
 Borscht is on [UNESCO’s List of Intangible Cultural Heritage]
 (https://www.unesco.org/en/articles/culture-ukrainian-borscht-cooking-inscribed-list-intangible-cultural-heritage-need-urgent)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 ## Religious arts
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 ### Pysanki
 
 [https://www.metmuseum.org/perspectives/pysanky](https://www.metmuseum.org/perspectives/pysanky)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 ### Pavuk
 
-{{< lipsum 2 >}}
+{{< var todo >}}
+
+## Illustrations
+
+https://www.supportukraine-pic.com/
+
 
 ## Fine arts
 
-{{< lipsum 9-10 >}}
+{{< var todo >}}
 
 ## Music
 
-{{< lipsum 11-12 >}}
+{{< var todo >}}
 
 ## Literature
 
-{{< lipsum 13-14 >}}
+{{< var todo >}}
 
 
 

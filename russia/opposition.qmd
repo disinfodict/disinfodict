@@ -19,7 +19,7 @@
 
 Russia has a tradition of "managed" opposition ...
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## is supporting russian imperialism
@@ -42,20 +42,20 @@ In fact is is hundreds of thousands Ordinary Russian Citizens (ORCs), who tortur
 
 [Kara Murza said, sanctions against Russia would be unfair](https://www.pravda.com.ua/eng/news/2024/08/3/7468716/)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## misleads the West
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## is teethless
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## steals support from Ukraine
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 

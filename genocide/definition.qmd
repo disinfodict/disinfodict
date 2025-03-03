@@ -11,17 +11,17 @@ A genocide committed by the Russians was the reason for the invention of the ter
 
 ## Lemkin I
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Holodomor
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Holocaust
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 ## UN Genocide Convention 1948
 
@@ -44,12 +44,12 @@ Punished are
 
 ## Stalin
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Lemkin II
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 ## Mace
 
@@ -61,18 +61,18 @@ Punished are
 
 @Kotkin:2014, @Kotkin:2017
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Applebaum
 
 @Applebaum:2017
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Etkind 2023
 
 @Etkind:2023
 
-{{< lipsum 2 >}}
+{{< var todo >}}

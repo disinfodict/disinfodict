@@ -1,12 +1,12 @@
 # Warcrimes – children {#sec-warcrimes-children}
 
 ::: {.callout-caution title="Myth"}
-TODO
+{{< var todo >}}
 [<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(crimes%7Ccriminals)%20(children)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-TODO
+{{< var todo >}}
 :::
 
 [^warcrimes-children-1]  

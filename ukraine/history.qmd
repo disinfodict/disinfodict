@@ -14,14 +14,14 @@ Ukraine has an older history than the Moscovites
 
 ## A
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 ## B
 
-{{< lipsum 3-4 >}}
+{{< var todo >}}
 
 ## C
 
-{{< lipsum 5-6 >}}
+{{< var todo >}}
 
 

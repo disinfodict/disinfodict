@@ -53,6 +53,9 @@ Und was hat das mit der russischen Seele zu tun? Die ist betäubt und passiv:
 >  Das "Anonyme Alkoholiker"-Programm verlange, an sich selbst zu arbeiten. Die Russen blieben jedoch lieber passiv[^russia-soul-10]. 
 
 
+
+
+
 ## Der Wolf, die Nacht, der Mond
 
 Die am meisten verklärte, angeblich melancholische, Seite der russischen Seele soll die Wahrheit über die Russen verbergen und offenbart sie zugleich:
@@ -61,7 +64,11 @@ Die am meisten verklärte, angeblich melancholische, Seite der russischen Seele 
 - die Nacht ist schwarz
 - der Wolf ist blutrünstig (und der Bär auch)
 
-In Wirklichkeit ist die russische Seele ein schwarzes Loch, welches alle Ideale, alle Hoffnung und alles Leben verschlingt, und in Angst, Hoffnungslosigkeit und Gewalt umwandelt. Die russische Seele ist gemein zu denen, die sich nicht wehren können, gegenüber Stärkeren aber jederzeit bereit, Melancholie zu heucheln und das Opfer zu spielen. Der Wahrheit der russischen Seele kommt man näher, wenn man historische Fakten betrachtet:
+In Wirklichkeit ist die russische Seele ein schwarzes Loch, welches alle Ideale, alle Hoffnung und alles Leben verschlingt, und in Angst, Hoffnungslosigkeit und Gewalt umwandelt. Die russische Seele ist gemein zu denen, die sich nicht wehren können, gegenüber Stärkeren aber jederzeit bereit, Melancholie zu heucheln und das Opfer zu spielen. 
+
+> Russische Kultur. Eine alte Dame rutscht aus und stürzt auf einem Zebrastreifen. Niemand, der vorbeikommt, hält an, um ihr zu helfen. Ein Auto überfährt die alte Dame. Und trotzdem rührt sich niemand, um zu helfen. Chabarowsk, Russland.[^russia-soul-21]
+
+Der Wahrheit der russischen Seele kommt man näher, wenn man historische Fakten betrachtet:
 
 - Peter der Große verwendete das Wort ‘Seele’, um über Steuereinheiten zu sprechen
 - In Nikolai Gogols Werk „Die toten Seelen” vom Jahr 1842 verwendet der Landbesitzer dieselbe Einheit, ‘Seelen’, um Leibeigenen zu zählen, die er kauft und verkauft
@@ -72,7 +79,7 @@ In Wirklichkeit ist die russische Seele ein schwarzes Loch, welches alle Ideale,
 > (2017 Einschätzung des Journalisten Thomas Franke)[^russia-soul-1]
 
 
-## Die faschistische Seele
+## Die faschistische Seele {#sec-russia-soul-fascist}
 
 Manche Wissenschaftler behaupten, wegen der mangelnden Begeisterung beim faschistischen Handeln, könne man in Russland nicht von Faschismus sprechen, siehe @sec-nazis-russia. Ja, die Deutschen sind mit "Hurra" in den ersten Weltkrieg gezogen, und haben mit Fackelmärschen den Hass gegen Juden und unliebsame Minderheiten befeuert, aber schon im den zweiten Weltkrieg ist man mit weniger Begeisterung gestorben. Das "Tausendjährige Reich" bestand nur zwölf Jahre, das totalitäre Russland aber ohne Unterbrechung 800 Jahre lang. Genug Zeit für das Abkühlen der Begeisterung, das Verlieren der Hoffnung, das sich Gewöhnen an das Böse, an das Mitmachen am Bösen. "Raschismus" bzw. demobilisierter, chronischer Faschismus ist nicht weniger böse als der begeisterte akute Faschismus. Ganz im Gegenteil. Menschen als "Steuereinheiten" oder als zum "Leiden" geborene "tote Seelen" zu betrachten, und gleichzeitg als "Übermenschen", ist jedenfalls faschistisch:
 
@@ -174,5 +181,5 @@ Im Jahr vor der Krim-Annexion, vereinnahmt der Autor Igor Chramow das Mitglied d
 
 <!-- gut oder schlecht gealtert? https://www.mdr.de/nachrichten/welt/panorama/russischer-schriftsteller-viktor-jerofejew-exil-portraet-100.html -->
 
-
+[^russia-soul-21]: Special Kherson Cat (25. Februar 2025) Bluesky. [https://bsky.app/profile/specialkhersoncat.bsky.social/post/3liyi4fmt7c2y](https://bsky.app/profile/specialkhersoncat.bsky.social/post/3liyi4fmt7c2y)
 

@@ -19,28 +19,28 @@ Every time Putin has started a war, his approval ratings have risen. For Putin, 
 
 This conquest is about land, because of the value of the land and because of the area for renewable energies when the fossil fuel business comes to an end.
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 
 ## Natural resources
 
 UKraine is rich in natural resources
 
-{{< lipsum 3-4 >}}
+{{< var todo >}}
 
 
 ## Capturing People
 
 Russia needs people to exploit and as canon fudder for its wars:
 
-{{< lipsum 3-4 >}}
+{{< var todo >}}
 
 
 ## Stategic value
 
 All of the above serve Russia's desire to expand its empire. 
 
-{{< lipsum 5-6 >}}
+{{< var todo >}}
 
 
 ## Genocidal goals
@@ -57,5 +57,5 @@ Russia has turned in a fascist society and pursues fascist goals, see the chapte
 
 [https://www.euronews.com/my-europe/2024/12/19/putins-2024-end-of-year-presser-when-everything-is-quiet-and-calm-we-are-getting-bored](https://www.euronews.com/my-europe/2024/12/19/putins-2024-end-of-year-presser-when-everything-is-quiet-and-calm-we-are-getting-bored)
 
-{{< lipsum 5-6 >}}
+{{< var todo >}}
 

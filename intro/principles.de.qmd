@@ -148,7 +148,7 @@ Wir wollen russische Lügen mit Wahrheiten kontern. Wir wollen nicht ausgewogen 
 - wir bevorzugen quadratische Bilder, und ziehen 3:4 bzw. 4:3 gegenüber 9:16 und 16:9 vor
 
 
-## Beitragen
+## Beitragen {#sec-intro-principles-contribute}
 
 Sie können Verbesserungsvorschläge im Klartext senden, Binärdateien akzeptieren wir aus Sicherheitsgründen nicht. Bitte nutzen sie das [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) .qmd Dateiformat und senden es an [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org).  Die Syntax für die Definition von Abschnittsüberschriften, Fußnoten und die Integration von Bildern ist einfach, siehe zum Beispiel den *Teil Brüder | Kapitel Russland* [im Wörterbuch](#sec-brothers-russia) und [auf github](https://github.com/disinfodict/disinfodict/blob/main/brothers/russia.de.qmd). Es gibt auch ein [Mini- Demo-Wörterbuch](https://github.com/disinfodict/disinfoquick) zum Lernen.  
 

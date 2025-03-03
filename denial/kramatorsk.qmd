@@ -21,11 +21,11 @@ a[^denial-kramatorsk-1]
 
 ## B
 
-{{< lipsum 3-4 >}}
+{{< var todo >}}
 
 ## C
 
-{{< lipsum 5-6 >}}
+{{< var todo >}}
 
 [^denial-kramatorsk-2]:  Death at the Station: Russian Cluster Munition Attack in Kramatorsk. (2023, February 21). Human Rights Watch. Retrieved May 1, 2024, from [https://www.hrw.org/video-photos/interactive/2023/02/21/death-at-the-station/russian-cluster-munition-attack-in-kramatorsk](https://www.hrw.org/video-photos/interactive/2023/02/21/death-at-the-station/russian-cluster-munition-attack-in-kramatorsk)
 

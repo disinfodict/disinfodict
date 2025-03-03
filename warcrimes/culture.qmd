@@ -10,7 +10,7 @@
 Russian bombing of Ukrainian cultural assets is an act of genocide
 :::
 
-TODO 
+{{< var todo >}} 
 [^warcrimes-culture-4]
 [^warcrimes-culture-5]
 [^warcrimes-culture-6]
@@ -39,17 +39,17 @@ On May 7, 2022, the Russian army shelled the Literary Memorial Museum of Hryhori
 
 ## Kindergardens
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Schools
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Universities
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Libraries
@@ -67,17 +67,17 @@ On May 7, 2022, the Russian army shelled the Literary Memorial Museum of Hryhori
 ## Theaters
 
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Operas
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Concert halls
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 [^warcrimes-culture-1]:  Holy Dormition Cathedral. (n.d.). Ukrainian Institute. Retrieved May 1, 2024, from [https://ui.org.ua/en/postcard/holy-dormition-cathedral/\#:\](https://ui.org.ua/en/postcard/holy-dormition-cathedral/\#:\)~:text=On%20March%202nd%2C%202022%2C%20the,stained%20glass%20windows%20were%20destroyed

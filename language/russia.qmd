@@ -1,18 +1,28 @@
 # Russian language {#sec-language-russia}
 
 ::: {.callout-caution title="Myth"}
-Russian language is forbidden in Ukraine
+- Russian speakers are russians
+- Russian language is forbidden in Ukraine
 [<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20language&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-- Modern Ukraine had russian and Ukrainian as official languages.
+- Russian speakers in Ukraine identify as Ukrainians
+- Russian speakers in Ukraine voted for Ukrainian independence
+- Modern Ukraine had russian and Ukrainian as official languages
 - after a history of Russian oppression and the full-scale Russian invasion, many Ukrainians turn away from the Russian language
 - Russian is still allowed
 :::
 
+## Russian speakers feel Ukrainian
 
-## Ukrainins spoke both: Ukrainian and Russian
+{{< var todo >}}
+
+## Russian speakers vote Ukrainian
+
+{{< var todo >}}
+
+## Ukrainians spoke both: Ukrainian and Russian
 
 Indeed, the Russian language used to be widely used in Ukraine, being the second most popular language in the country. Before the full-scale invasion, it was spoken in both private life and official settings.[^language-russia-1] However, this linguistic dominance was not a natural occurrence but rather a consequence of centuries-long Russian influence, marked by cultural imposition and political maneuvering.
 

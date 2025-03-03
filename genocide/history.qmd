@@ -13,66 +13,66 @@ Russia committed multiple genocides, particularly multiple against Ukraine.
 
 ## Siege of Kyiv 1240
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Sack of Baturyn 1708
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Pogromes 1918-20
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Berdychiv massacre 1920
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Famine 1921/22
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Holodomor 1932/33
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Vinnytsia massacre 1937/38
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Katyn massacre 1940
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## NKVD prisoner massacres 1941
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Massacres of Poles in Volhynia and Eastern Galicia 1943-44
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Holocaust 1941-1944
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Famine 1946/47
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Deportation of Tatars 1944
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 

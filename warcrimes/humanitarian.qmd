@@ -6,7 +6,7 @@
 :::
 
 ::: {.callout-tip title="Truth"}
-TODO
+{{< var todo >}}
 :::
 
 
@@ -15,15 +15,15 @@ TODO
 
 ## A
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 ## B
 
-{{< lipsum 3-4 >}}
+{{< var todo >}}
 
 ## C
 
-{{< lipsum 5-6 >}}
+{{< var todo >}}
 
 
 

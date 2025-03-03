@@ -10,4 +10,4 @@ Ukraine doesn't want peace
 - Russia prefers to continue its war
 :::
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}

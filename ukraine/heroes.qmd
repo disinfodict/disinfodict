@@ -12,27 +12,27 @@ Ukraine has lots of heroes, cossack heroes, tatar heroes, jewish heroes, a small
 
 ## Vladimir the Great (958 – 1015)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Yaroslav the Wise (978 – 1054)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Bohdan Khmelnytsky (1595 – 1657)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Ivan Mazepa (1639 – 1709)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Yevhen Konovalets (1891 – 1938)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Stepan Bandera (1909 – 1959)
@@ -65,28 +65,28 @@ Bandera plays a lesser role in the memory of Ukrainians than Russian propaganda 
 
 [https://en.wikipedia.org/wiki/Amet-khan_Sultan](https://en.wikipedia.org/wiki/Amet-khan_Sultan)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ### Abdraim Reshidov (1912 – 1984)
 
 [https://en.wikipedia.org/wiki/Abdraim_Reshidov](https://en.wikipedia.org/wiki/Abdraim_Reshidov)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ### Cevdet Dermenci (1918 – 1985)
 
 [https://en.wikipedia.org/wiki/Cevdet_Dermenci](https://en.wikipedia.org/wiki/Cevdet_Dermenci)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ### Seytnafe Seytveliyev ( 1919 – 1983)
 
 [https://en.wikipedia.org/wiki/Seytnafe_Seytveliyev](https://en.wikipedia.org/wiki/Seytnafe_Seytveliyev)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 
@@ -95,21 +95,21 @@ Bandera plays a lesser role in the memory of Ukrainians than Russian propaganda 
 [https://www.president.gov.ua/documents/612024-49681](https://www.president.gov.ua/documents/612024-49681)
 [https://www.ukrainianworldcongress.org/valerii-zaluzhnyi-13-facts-about-the-war-in-ukraine/](https://www.ukrainianworldcongress.org/valerii-zaluzhnyi-13-facts-about-the-war-in-ukraine/)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Oleksandr Matsievskyi (1980 – 2022)
 
 [https://www.president.gov.ua/documents/1462023-46089](https://www.president.gov.ua/documents/1462023-46089)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Kyrylo Budanov (born 1986)
 
 [https://www.president.gov.ua/documents/572024-49677](https://www.president.gov.ua/documents/572024-49677)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Roman Hrybov (born 1990)
@@ -118,12 +118,12 @@ Bandera plays a lesser role in the memory of Ukrainians than Russian propaganda 
 [https://www.courthousenews.com/eu-court-nixes-trademark-for-russian-warship-go-fk-yourself/](https://www.courthousenews.com/eu-court-nixes-trademark-for-russian-warship-go-fk-yourself/)
 [https://www.welt.de/wirtschaft/article254479722/Ukraine-Krieg-Bizarrer-Streit-um-Funkspruch-Go-fuck-yourself-zwischen-Ukraine-Held-und-EU.html](https://www.welt.de/wirtschaft/article254479722/Ukraine-Krieg-Bizarrer-Streit-um-Funkspruch-Go-fuck-yourself-zwischen-Ukraine-Held-und-EU.html)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Volodymyr Zelenskyy (born 1978)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 
@@ -131,7 +131,7 @@ Bandera plays a lesser role in the memory of Ukrainians than Russian propaganda 
 
 [https://www.nobelprize.org/events/nobel-prize-dialogue/brussels2024/panellists/oleksandra-matviichuk/](https://www.nobelprize.org/events/nobel-prize-dialogue/brussels2024/panellists/oleksandra-matviichuk/)
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Unknown Urainian Grandma

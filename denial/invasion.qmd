@@ -19,14 +19,14 @@ Russia prepared invasion long ago, invaded unprovoked to conquer Ukraine and com
 
 ## A
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 ## B
 
-{{< lipsum 3-4 >}}
+{{< var todo >}}
 
 ## C
 
-{{< lipsum 5-6 >}}
+{{< var todo >}}
 
 

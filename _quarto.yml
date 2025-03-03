@@ -22,12 +22,16 @@ book:
   sidebar: 
     style: "floating"
     collapse-level: 1
+  #body-header: | 
+  #  ::: {.callout-important title="BREAKING" appearance="default" collapse="false"}
+  #  These are breaking NEWS
+  #  :::
   page-footer:
     background: "grey"
     center:
       - text: "![Home](/all_common_img/DisinfoDict_logo_1x1_trans.png){width=1in}"
         href: http://127.0.0.1:4321
-      #  href: https://disinfodict.pages.dev
+        #href: https://disinfodict.pages.dev
       - text: "Impressum"
         href: impressum.qmd
 
@@ -125,6 +129,11 @@ book:
     - genocide/history.qmd
     - genocide/announced.qmd
     - genocide/ongoing.qmd
+  - part: "Germany"
+    part-de: "Deutschland"
+    chapters:
+    - germany/russia.qmd
+    - germany/ukraine.qmd
   - part: "Language"
     part-de: "Sprache"
     #part-ua: "Мова"
@@ -208,6 +217,11 @@ book:
     - ukraine/history.qmd
     - ukraine/kyiv.qmd
     - ukraine/nation.qmd
+  - part: "US"
+    part-de: "USA"
+    chapters:
+    - us/disinfodisorder.qmd
+    - us/ovaloffice.qmd
   - part: "War crimes"
     part-de: "Kriegsverbrechen"
     #part-ua: "Воєнні злочини"
@@ -246,6 +260,7 @@ bibliography:
   - intro/termstech.bib
   - intro/trueukraine.bib
   - intro/ualessons.bib
+  - culture/russia.bib
   - corruption/ukraine.bib
   - genocide/definition.bib
   - nazis/russia.bib
@@ -313,3 +328,4 @@ subtitle-de: Ein Wörterbuch der Mythen und Wahrheiten
 author-de: NAFO & Partner
 #author-ua: НАФО & Партнер
 lang: en
+

@@ -10,7 +10,7 @@
 
 ::: {.callout-tip title="Truth"}
 - Donbas is Ukraine
-- Russia started the war against Ukraine in Donbas
+- Russia started the war against Ukraine in Donbas[^donbas-genocide-27]
 - Ukraine defended its territory
 - Ukraine did not conduct genocide
 - Russia planned and conducts genocide in Ukraine
@@ -130,3 +130,5 @@ See @sec-warcrimes-urbicide.
 [^donbas-genocide-25]:  Russia Ukraine: Putin compares Donbas war zone to genocide. (2021, December 10). [https://www.bbc.com/news/world-europe-59599066](https://www.bbc.com/news/world-europe-59599066)
 
 [^donbas-genocide-26]:  Statement by the OSCE High Commissioner on National Minorities on her recent visits to Ukraine. (2014, April 4). OSCE. [https://www.osce.org/hcnm/117175](https://www.osce.org/hcnm/117175)
+
+[^donbas-genocide-27]:  Nico Lange (2024) Aber die NATO! 10 populäre Mythen über Putins Krieg gegen die Ukraine, Kapitel 3. Münchener Sicherheitskonferenz, Zeitenwende on tour.  [https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=12](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=12)

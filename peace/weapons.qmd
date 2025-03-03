@@ -11,16 +11,16 @@ Russia has aremd itself to the teeth to conduct an unprovoked war
 
 ## New weapons
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 
 ## Kaliningrad
 
-{{< lipsum 3-4 >}}
+{{< var todo >}}
 
 
 ## War economy
 
-{{< lipsum 5-6 >}}
+{{< var todo >}}
 
 

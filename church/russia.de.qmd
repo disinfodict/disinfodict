@@ -16,11 +16,11 @@ Siehe auch das Kapitel über russische Werte @sec-russia-values.
 
 ## TODO
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 ## WWII und NKVD
 
-{{< lipsum 3-4 >}}
+{{< var todo >}}
 
 ## Verfolgung unter Chruschtschow
 

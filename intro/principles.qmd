@@ -143,7 +143,7 @@ We want to counter Russian lies with truths. We don't want to be balanced. There
 -   we prefer square pictures, and prefer 3:4 resp. 4:3 over 9:16 and 16:9
 
 
-## Contribute
+## Contribute {#sec-intro-principles-contribute}
 
 You can send plaintext suggestions for improvements, we do not accept binary files for security reasons. Please use the [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) .qmd fileformat and send to [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). The qmd syntax for defining section headers, footnotes and integrate pictures is simple, see for example the *part brothers | chapter russia* [in the dictionary](#sec-brothers-russia) and [on github](https://github.com/disinfodict/disinfodict/blob/main/brothers/russia.qmd). There is also a [mini demo dictionary](https://github.com/disinfodict/disinfoquick) for learning.  
 

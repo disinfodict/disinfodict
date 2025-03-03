@@ -19,11 +19,11 @@ See also the chapter on russian values @sec-russia-values.
 
 [^church-russia-7]
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 ## WWII and NKVD
 
-{{< lipsum 3-4 >}}
+{{< var todo >}}
 
 ## Persecution under Khrushchev
 

@@ -1,0 +1,21 @@
+# German-Ukrainian relations  {#sec-germany-ukraine}
+
+::: {.callout-caution title="Myth"}
+- the war in Ukraine does not affect Germany[^germany-ukraine-1]
+- Ukraine is not important for Germany
+- Germany pays too much[^germany-ukraine-2]
+[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=ukrainian%20german&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Ukraine is Europe's the last bastion against Russia 
+- Ukraine has resources and Ukrainians are resilient
+- Per capita, many other countries support Ukraine with more money  
+:::
+
+{{< var todo >}}
+
+
+[^germany-ukraine-1]:  Nico Lange (2024) Aber die NATO! 10 populäre Mythen über Putins Krieg gegen die Ukraine, Kapitel 4. Münchener Sicherheitskonferenz, Zeitenwende on tour.  [https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=16](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=16)
+
+[^germany-ukraine-2]: Nico Lange (2024) Aber die NATO! 10 populäre Mythen über Putins Krieg gegen die Ukraine, Kapitel 6. Münchener Sicherheitskonferenz, Zeitenwende on tour.  [https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=24](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=24)

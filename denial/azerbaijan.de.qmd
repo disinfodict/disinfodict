@@ -1,0 +1,19 @@
+# Azerbaijan Airlines {#sec-denial-azerbaijan}
+
+::: {.callout-caution title=„Mythos“}
+Russland:
+- es waren Vögel
+- es ist nicht passiert
+- es waren nicht wir
+- es war die Ukraine
+- so ist Krieg halt
+:::
+
+::: {.callout-tip title=„Wahrheit“}
+Russland schoss auf das Flugzeug und verweigerte die Notlandung
+[<br>![Link zu Wikipedia: Azerbaijan Airlines Flug 8243](../all_common_img/Wikipedia.png){width=„66%“}](https://de.wikipedia.org/wiki/Azerbaijan-Airlines-Flug_8243)
+:::
+
+Der Flug 8243 der Aserbaidschan Airlines von Baku nach Grosny wurde nach Angaben der aserbaidschanischen Agentur AnewZ von einem russischen Pantsir-S1-Luftabwehrsystem abgeschossen. Russland lehnte eine Notlandung in Grosny ab, in der Hoffnung, dass das Flugzeug und die Beweismittel ins Meer stürzen.
+
+[https://de.euronews.com/2024/12/26/exklusiv-flugzeugabsturz-der-azerbaijan-airlines-durch-russische-rakete-verursacht](https://de.euronews.com/2024/12/26/exklusiv-flugzeugabsturz-der-azerbaijan-airlines-durch-russische-rakete-verursacht)

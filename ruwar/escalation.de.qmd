@@ -1,7 +1,7 @@
 # Escalation? {#sec-ruwar-escalation}
 
 ::: {.callout-caution title=„Myth“}
-Durch die Unterstützung der Ukraine eskaliert der Westen den russischen Krieg
+Durch die Unterstützung der Ukraine eskaliert der Westen den russischen Krieg[^ruwar-escalation-12]
 [<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(escalation%7Cescalate)&sort=relevance)
 :::
 
@@ -9,7 +9,7 @@ Durch die Unterstützung der Ukraine eskaliert der Westen den russischen Krieg
 - Hilfe für die Ukraine ist legitim und legal, sogar die Entsendung von Truppen wäre es
 - Hilfe für die Ukraine ist effektiv, die Ukraine hat überlebt
 - Russland eskaliert den Krieg, solange es nicht genug Unterstützung gibt
-- Russland blufft mit der Verbreitung von Angst und der Festlegung „roter Linien“, um die Unterstützung zu untergraben
+- Russland blufft mit der Verbreitung von Angst und der Festlegung „roter Linien“, um die Unterstützung zu untergraben[^ruwar-escalation-13]
 :::
 
 
@@ -101,5 +101,6 @@ Erst wenn der Westen die röteste aller roten Linien überschreitet und erklärt
 [^ruwar-escalation-11]: Mykola Bielieskov (September 17, 2024) Time to make Russia worry about the West’s red lines in Ukraine. Ukraine Alert, Atlantic Council. [https://www.atlanticcouncil.org/blogs/ukrainealert/time-to-make-russia-worry-about-the-wests-red-lines-in-ukraine/](https://www.atlanticcouncil.org/blogs/ukrainealert/time-to-make-russia-worry-about-the-wests-red-lines-in-ukraine/)
 
 
+[^ruwar-escalation-12]: Jörg Lau (26. Juni 2023) „Es droht eine Eskalation“ Internationale Politik. [https://internationalepolitik.de/de/es-droht-eine-eskalation](https://internationalepolitik.de/de/es-droht-eine-eskalation)
 
-
+[^ruwar-escalation-13]: Nico Lange (2024) Aber die NATO! 10 populäre Mythen über Putins Krieg gegen die Ukraine, Kapitel 8. Münchener Sicherheitskonferenz, Zeitenwende on tour.  [https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=32](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=20)

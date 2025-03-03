@@ -12,7 +12,7 @@ Russische Bombardierung ukrainischer Kulturgüter ist ein Akt des Völkermordes
 
 Nach Artikel 53 des Protokolls ist es *“verboten, feindselige Handlungen gegen geschichtliche Denkmäler, Kunstwerke oder Kultstätten, die zum kulturellen oder geistigen Erbe der Völker gehören, zu begehen”*. 
 
-TODO 
+{{< var todo >}} 
 [^warcrimes-culture-4]
 [^warcrimes-culture-5]
 [^warcrimes-culture-6]
@@ -38,17 +38,17 @@ Am 7\. Mai 2022 beschoss die russische Armee das Nationale Literarische Hryhorij
 
 ## Kindergardens
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Schools
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Universities
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Libraries
@@ -66,17 +66,17 @@ Am 7\. Mai 2022 beschoss die russische Armee das Nationale Literarische Hryhorij
 ## Theaters
 
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Operas
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 ## Concert halls
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 

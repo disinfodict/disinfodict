@@ -49,7 +49,7 @@ Nachdem die Ukraine unabhängig geworden war, erkannte Russland ihre Grenzen an.
 
 ## Kultur
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 [^crimea-history.de-1]:  Masiyenko, Y., Zahryvenko, K., Koval, N., & Tereshchenko, D. (2022). “The Russian flag will be flown wherever Russian is spoken”: “Russkiy Mir” Foundation. In Ukrainian Institute. Retrieved April 30, 2024, from [https://ui.org.ua/wp-content/uploads/2022/07/case-study\_russkiy-mir-foundation.pdf](https://ui.org.ua/wp-content/uploads/2022/07/case-study\_russkiy-mir-foundation.pdf)

@@ -61,7 +61,11 @@ The most transfigured, supposedly melancholic, side of the Russian soul is suppo
 - the night is black
 - the wolf is bloodthirsty (and so is the bear)
 
-In reality, the Russian soul is a black hole that devours all ideals, all hope and all life and transforms them into fear, hopelessness and violence. The Russian soul is mean to those who cannot defend themselves, but is always ready to feign melancholy and play the victim towards those who are stronger. We can get closer to the truth of the Russian soul by looking at historical facts:
+In reality, the Russian soul is a black hole that devours all ideals, all hope and all life and transforms them into fear, hopelessness and violence. The Russian soul is mean to those who cannot defend themselves, but is always ready to feign melancholy and play the victim towards those who are stronger. 
+
+> Russian culture. An old lady slips and falls on a crosswalk. No one passing by even stops to help. A car drives over the old lady. Even so, no one moves to help. Khabarovsk, Russia.[^russia-soul-21]
+
+We can get closer to the truth of the Russian soul by looking at historical facts:
 
 -  Peter the Great used the word ‘soul’ to talk about tax units
 - In Nikolai Gogol's 1842 work “The Dead Souls”, the landowner uses the same unit, ‘souls’, to count serfs he buys and sells
@@ -72,7 +76,7 @@ In reality, the Russian soul is a black hole that devours all ideals, all hope a
 > (2017 assessment by journalist Thomas Franke)[^russia-soul-1]
 
 
-## The fascist soul
+## The fascist soul {#sec-russia-soul-fascist}
 
 Some academics claim that because of the lack of enthusiasm in fascist actions, one cannot speak of fascism in Russia, see @sec-nazis-russia. Yes, the Germans went into the First World War with "Hurray" and fanned the flames of hatred against Jews and disagreeable minorities with torchlight marches, but they died with less enthusiasm in the Second World War. The "Thousand Year Reich" only existed for twelve years, while totalitarian Russia lasted for 800 years without interruption. Enough time for enthusiasm to cool, for hope to be lost, for people to become accustomed to evil, to participate in evil. "Ruscism" or demobilized, chronic fascism is no less evil than enthusiastic, acute fascism. Quite the opposite. Viewing people as "control units" or as "dead souls" born to "suffer", and at the same time as "superhumans", is in any case fascist:
 
@@ -175,4 +179,5 @@ In the year before the annexation of Crimea, the author Igor Chramow appropriate
 <!-- Aged well or badly? https://www.mdr.de/nachrichten/welt/panorama/russischer-schriftsteller-viktor-jerofejew-exil-portraet-100.html -->
 
 
+[^russia-soul-21]: Special Kherson Cat (25. Februar 2025) Bluesky. [https://bsky.app/profile/specialkhersoncat.bsky.social/post/3liyi4fmt7c2y](https://bsky.app/profile/specialkhersoncat.bsky.social/post/3liyi4fmt7c2y)
 

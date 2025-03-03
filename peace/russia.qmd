@@ -26,12 +26,12 @@ Khrushchev was overheard to say, "at the final reception" for the polish leader:
 >
 > Putin about Ukraine to Macron[^peace-russia-2]
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 
 ## Europe
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 
 ## US

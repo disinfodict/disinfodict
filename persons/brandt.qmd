@@ -15,20 +15,20 @@
 
 [https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-czechoslovakia-1948/](https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-czechoslovakia-1948/)
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 
 ## Speech against construction of the Wall in Berlin, 1961
 
 [https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-in-front-of-schoeneberg-town-hall-1961/](https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-in-front-of-schoeneberg-town-hall-1961/)
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 
 ## Speech at the Foreign Policy Asso­ciation in New York, 1964
 
 [https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-at-the-foreign-policy-association-in-new-york-15-may-1964/](https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-at-the-foreign-policy-association-in-new-york-15-may-1964/)
 
-{{< lipsum 5-6 >}}
+{{< var todo >}}
 
 

@@ -10,5 +10,5 @@
 - the West overerestimated the power of coward Vladimir Putin
 :::
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 

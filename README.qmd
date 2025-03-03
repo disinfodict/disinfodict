@@ -62,7 +62,7 @@ For regular contributions it is easier to work with a github account (see below)
 - preview changes (see below)
 - finally render
 - send us your chapter file .qmd (plus images or .bib for literature references)
-- to: TODO
+- to: contribute@disinfodict.org
 
 ## Multilingual rendering
 
@@ -262,7 +262,7 @@ enstatus <- sapply(en, function(i){
 destatus <- sapply(de, function(i){
   x <- paste(readLines(i), collapse=" ")
   y <- strsplit(x, "##")[[1]]
-  lipsum <- grep("\\{\\{< lipsum", y)
+  lipsum <- grep("lipsum|TODO", y, ignore.case = TRUE)
   n <- length(y)
   k <- n - length(lipsum)
   p <- k/n

@@ -1,21 +1,19 @@
 # Azerbaijan Airlines {#sec-denial-azerbaijan}
 
-
 ::: {.callout-caution title="Myth"}
 Russia:
 - it was birds
 - it didn't happen
 - it wasn't us
 - it was Ukraine
-- sorry, war
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Bucha&sort=relevance)
+- sorry, that's war
 :::
 
 ::: {.callout-tip title="Truth"}
-Russsia shot the airplane then denyied emergency landing 
+Russsia shot the airplane then denyied emergency landing
+[<br>![Link to Wikipedia: Azerbaijan Airlines Flight 8243](../all_common_img/Wikipedia.png){width="66%"}](https://en.wikipedia.org/wiki/Azerbaijan_Airlines_Flight_8243)
 :::
 
-The Azerbaijan Airlines flight 8243 Baku-Grozny was shot down by a Russian Pantsir-S1 air Defence system, the Azerbaijani agency AnewZ claims.
-Russia denied emergency landing in Grozny, hoping the plane and proofs drop into the sea.
+The Azerbaijan Airlines flight 8243 Baku-Grozny was shot down by a Russian Pantsir-S1 air Defence system, the Azerbaijani agency AnewZ claims. Russia denied emergency landing in Grozny, hoping the plane and proofs drop into the sea.
 
 [https://de.euronews.com/2024/12/26/exklusiv-flugzeugabsturz-der-azerbaijan-airlines-durch-russische-rakete-verursacht](https://de.euronews.com/2024/12/26/exklusiv-flugzeugabsturz-der-azerbaijan-airlines-durch-russische-rakete-verursacht)

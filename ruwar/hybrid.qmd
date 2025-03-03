@@ -17,23 +17,23 @@ Russia fights  a hybrid war against Europe
 
 ## Attacks in the Baltics
 
-todo baltic jammer
+{{< var todo >}} baltic jammer
 
-{{< lipsum 3-4 >}}
+{{< var todo >}}
 
 
 ## Attacks in Germany
 
-TODO give examples from [https://www.zeit.de/politik/ausland/2024-12/russische-sabotage-europa-spionage-pipelines-hackerangriffe](https://www.zeit.de/politik/ausland/2024-12/russische-sabotage-europa-spionage-pipelines-hackerangriffe) 
+{{< var todo >}} give examples from [https://www.zeit.de/politik/ausland/2024-12/russische-sabotage-europa-spionage-pipelines-hackerangriffe](https://www.zeit.de/politik/ausland/2024-12/russische-sabotage-europa-spionage-pipelines-hackerangriffe) 
 
 
 ## Attacks in Poland
 
-{{< lipsum 5-6 >}}
+{{< var todo >}}
 
 
 ## Attacks in France
 
-{{< lipsum 5-6 >}}
+{{< var todo >}}
 
 

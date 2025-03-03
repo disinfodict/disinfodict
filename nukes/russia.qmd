@@ -10,5 +10,5 @@ NATO deployed air defenses against Iranian medium-range missiles in Poland.
 Russia deployed short-range nuclear weapons in Kaliningrad. 
 :::
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 

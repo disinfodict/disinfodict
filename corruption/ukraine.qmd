@@ -1,7 +1,7 @@
 # Corruption in Ukraine? {#sec-corruption-ukraine}
 
 ::: {.callout-caution title="Myth"}
-Ukraine is a corrupt country
+Ukraine is a corrupt country[^corruption-ukraine-7]
 [<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(corrupt%7Ccorruption)%20(ukraine%7Ckiev%7Ckyiv)&sort=relevance)
 :::
 
@@ -54,10 +54,12 @@ Despite the war, the OECD recognised the implementation of Ukraine's anti-corrup
 
 [^corruption-ukraine-2]:  *National Anticorruption Directorate*. (n.d.). NABU Official Website. Retrieved May 2, 2024, from [https://nabu.gov.ua/en/tags/national-anticorruption-directorate/](https://nabu.gov.ua/en/tags/national-anticorruption-directorate/)
 
-[^corruption-ukraine-3]:  [https://prozorro.gov.ua/uk](https://prozorro.gov.ua/uk) 
+[^corruption-ukraine-3]:  Electronic procurement system. [https://prozorro.gov.ua/uk](https://prozorro.gov.ua/uk) 
 
 [^corruption-ukraine-4]:  Review of Anti-Corruption Reforms in Ukraine under the Fifth Round of Monitoring. (n.d.). [https://www.oecd-ilibrary.org/governance/review-of-anti-corruption-reforms-in-ukraine-under-the-fifth-round-of-monitoring\_9e03ebb6-en](https://www.oecd-ilibrary.org/governance/review-of-anti-corruption-reforms-in-ukraine-under-the-fifth-round-of-monitoring\_9e03ebb6-en)
 
 [^corruption-ukraine-5]:  *2022 Corruption Perceptions Index*. (n.d.). Transparency International. Retrieved May 2, 2024, from [https://www.transparency.org/en/cpi/2022/index/ukr](https://www.transparency.org/en/cpi/2022/index/ukr)
 
 [^corruption-ukraine-6]:  Mattia Nelles, 2023\. Die Ukraine ist ein korruptes Land In: N. Pryhornytska, K. Pavlova, ed. Ukraine im Fokus. Propaganda erkennen, Fakten verstehen. Berlin: CRISP, pp. 53-59.
+
+[^corruption-ukraine-7]: Nico Lange (2024) Aber die NATO! 10 populäre Mythen über Putins Krieg gegen die Ukraine, Kapitel 7. Münchener Sicherheitskonferenz, Zeitenwende on tour.  [https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=28](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=28)

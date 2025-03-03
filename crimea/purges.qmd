@@ -19,14 +19,14 @@ For the history of Crimea see @sec-crimea-history.
 
 # A 
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 # B 
 
-{{< lipsum 2 >}}
+{{< var todo >}}
 
 
 # C 
 
-{{< lipsum 2 >}}
+{{< var todo >}}

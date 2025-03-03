@@ -22,16 +22,16 @@ Russia was an oligarchy and now is a dictatorship.
 ## A
 
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 
 ## B
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 
 ## C
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 

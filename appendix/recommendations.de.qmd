@@ -8,7 +8,6 @@
 - Die Seite [Medienkompetenz stärken](https://www.bmfsfj.de/bmfsfj/themen/kinder-und-jugend/medienkompetenz/medienkompetenz-staerken-75350) des Bundesfamilienministeriums
 
 ## NGOs
-
 - [fellas4europe](https://fellas4europe.org/)
 - [EUvsDisinfo](https://euvsdisinfo.eu/ukraine/)
 - [StopFake](https://www.stopfake.org/de)
@@ -69,5 +68,4 @@ DRN bietet eine Plattform für Experten aus verschiedenen Bereichen wie Politikw
 
 Am 29. November 2024 trafen sich unter dem Titel [Foreign Interference, Subversion & Disinformation](https://www.disinforesilience.eu/2024/12/09/foreign-interference-and-disinformation-conference-in-vienna-analyzes-the-local-and-international-situation/) Experten, Diplomaten und Vertreter aus Politik und Zivilgesellschaft zu einem Meinungsaustausch.
 
-<!-- Die Linguistin [Dr. Annamária Fábián] (https://www.gl.uni-bayreuth.de/de/team/A-Fabian/) kennt sich mit Desinformation aus und hat ein interessantes Buch über politische Kommunikation geschrieben (siehe TODO) -->
 

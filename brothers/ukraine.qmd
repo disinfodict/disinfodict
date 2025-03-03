@@ -11,25 +11,28 @@ Ukraine belongs to the European family.
 
 ## Melting pot Europe 
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 See @sec-minorities-ukraine
 
 ## European Culture
 
-{{< lipsum 3-4 >}}
+{{< var todo >}}
 
 See @sec-culture-ukraine
 
 ## Ukrainian Language
 
-{{< lipsum 5-6 >}}
+{{< var todo >}}
 
 See @sec-language-ukraine
 
 ## Ukrainian People
 
-{{< lipsum 7-8 >}}
+{{< var todo >}}
 
 See @sec-democracy-ukraine
 
+## EU Accession
+
+{{< var todo >}}

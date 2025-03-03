@@ -12,14 +12,14 @@ Stalin was a great leader
 
 ## A
 
-{{< lipsum 1-2 >}}
+{{< var todo >}}
 
 ## B
 
-{{< lipsum 3-4 >}}
+{{< var todo >}}
 
 ## C
 
-{{< lipsum 5-6 >}}
+{{< var todo >}}
 
 
