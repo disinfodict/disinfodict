@@ -1,13 +1,15 @@
 # Welcome {.unnumbered}
 
-The Desinformation Dictionary provides ground-truths about topics that several fact-checking organisations detected in frequent disinformation narratives. Our focus is debunking russian disinformation in the context of the russian war against Ukraine.
+The **Disinfo Dictionary** is a well-organized, searchable and linkable online resource that debunks chronic Russian narratives with selected facts about Russia's war on Ukraine. Disinfo Dictionary is aimed at different target groups: It is a time-saver for journalists, fact-checkers, disinfo activists, social network users and all citizens seeking reliable information about Russia and Ukraine. Disinfo Dictionary is both a web dictionary for searching and reference and a structured book that can be read from start to finish. It can be read online, on a smartphone, or downloaded as a pdf or epub; with a screen reader, the epub serves as an audio book. Disinfo Dictionary is bilingual (German/English), free open source, expandable and fills a gap between the [EUvsDisinfo database](https://euvsdisinfo.eu/disinformation-cases/) of the EU diplomatic service and Wikipedia. 
+
+We hope that the Disinfo Dictionary will help to reduce Russia's rampant propaganda about its war in Ukraine and thus contribute to a more resilient societyand security in Europe.  **read. share. join.**
 
 ::: {.content-visible when-format="latex"}
-The Desinformation-Dictionary © 2024 by Fellas \& Partners is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [creativecommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+The Disinfo Dictionary © 2024 by Fellas \& Partners is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [creativecommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 :::
 
 ::: {.content-visible when-format="html"}
-For barrier-free reading and listening we recommend the e-book 'epub' downloads in [English]({{<meta book.site-url>}}/Disinformation-Dictionary.epub) and [German]({{<meta book.site-url>}}/de/Desinformations-Wörterbuch.epub) language.
+For barrier-free reading and listening we recommend the e-book 'epub' downloads in [English]({{<meta book.site-url>}}/Disinfor-Dictionary.epub) and [German]({{<meta book.site-url>}}/de/Desinfo-Lexikon.epub) language.
 
 This website is multi-lingual: for switching language click on the globe-icon 🌐 top-left. This page is multi-format: you can read online, or download pdf or epub by clicking on the download-icon ⤓ top left. Part and chapter navigation is on the left, section navigation is on the right. To make section navigation visible on the smartphone, simply use the smartphone in landscape mode. To start reading, click on 'Preface' right at the bottom navigation. 
 

@@ -1,35 +1,46 @@
 # Preface {.unnumbered #sec-intro-preface}
 
-## What
+## For whom?
 
-The *Desinformation Dictionary* provides ground-truths about topics that several fact-checking organisations detected in frequent disinformation narratives. Our focus is debunking russian disinformation in the context of the russian war against Ukraine.  
+The lexicon allows you to quickly search for and link to fakes that refute Russian narratives.
 
-It is available in English and German language. It can be read on the web or downloaded as PDF or as an e-book in EPUB format.  
+- Journalists
+- Fact checkers
+- Disinformation activists
+- users of social networks
+- all citizens looking for reliable information about Russia and Ukraine
 
-The dictionary is organized by topic parts with one ore more chapters with one or more sections.  
+
+## What?
+
+This lexicon consolidates chronic lie narratives that have been refuted by several fact-checking organizations.  
+
+It is available in English and German. It can be read on the internet or downloaded as a PDF or epub, the latter can be read aloud by a screen-reader.
+
+The encyclopedia is organized by subject area with one or more chapters with one or more sections.
 
 The quality of the content is monitored by our partners, see in the appendix under [Team & Partners](#sec-appendix-about).  
 
 
-## Why 
+## Why? 
 
-> A hallmark of propaganda is its ability to blur the lines between fact and fiction, confusing the distinction between truth and falsehood
+> A hallmark of propaganda is its ability to blur the lines between fact and fiction and confuse the distinction between truth and lies
 
-Quotation from @Dierickx:2024, who analyzed several challenges and contexts that fact checkers face. We have extended that also for citizens fighting disinfo:
+Quote from @Dierickx:2024 who have analyzed various challenges and contexts that fact checkers face. We have also extended this to citizens fighting disinformation:
 
-- knowing or finding the facts
-- knowing or recognizing sources and patterns of propaganda
-- disentangling the truth in each specific context
-- finding the truth fast
-- debunking the lies fast (late coming comments lack visibility)^[NAFO solves that by posting graphical memes, which is very fast, but can easier defamed as not-fact-based. Using memes tends to escalate and prolong discussions and bind capacity; providing facts tends to silence trolls]
-- scaling the work to the industrial scale of disinformation dissemination
-- scaling the work and reach against algorithmic biases or even censorship in social networks
-- scaling the work across different social networks despite proprietary content management
+- Knowing or finding the facts
+- Know or recognize sources and patterns of propaganda
+- decipher the truth in any specific context
+- find the truth quickly
+- quickly refute the lies (late arriving comments lack visibility)^[NAFO solves this by posting graphic memes, which is very quick but can be more easily defamed as non-fact-based. Using memes tends to escalate and prolong discussions and tie up capacity; providing facts tends to silence trolls]
+- Scaling rectification to the industrial scale of disinformation dissemination
+- Scaling rectification and outreach against algorithmic bias or even censorship on social networks
+- Scaling rectification across different social networks despite proprietary content management
 
 
-## How
+## How?
 
-The *Desinformation Dictionary*  addresses these challenges somewhat by
+The *Disinformation Dictionary*  addresses these challenges somewhat by
 
 - providing curated truths in the context of the russian war in Ukraine
 - teaching about propaganda patterns
@@ -41,7 +52,7 @@ The *Desinformation Dictionary*  addresses these challenges somewhat by
 - works uniformly in all social networks^[except for algorithmic dampening of reach when using external links]
 
 
-## Logo
+## Logo?
 
 If you are wondering about our logo, it is derived from this
 

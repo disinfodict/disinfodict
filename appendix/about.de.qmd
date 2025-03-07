@@ -4,16 +4,16 @@
 
 ### Nord Atlantic Fella Organization (NAFO)
 
-Macher und Nutzer des Wörterbuchs: [NAFO](https://nafo-ofan.org/pages/we-are-nafo) ist eine Graswurzelbewegung, die Desinformation bekämpft und Freiheit und Demokratie weltweit unterstützt, mit einem Schwerpunkt auf der Ukraine.
+Macher und Nutzer des Lexikons: [NAFO](https://nafo-ofan.org/pages/we-are-nafo) ist eine Graswurzelbewegung, die Desinformation bekämpft und Freiheit und Demokratie weltweit unterstützt, mit einem Schwerpunkt auf der Ukraine.
 
 ### fellas4europe
 
-Rechtliche und finanzielle Heimat des Wörterbuchs: [fellas4europe](https://fellas4europe.org/) ist ein deutscher gemeinnütziger Verein, der Freiheit und Demokratie in Europa mit einem Schwerpunkt auf der Ukraine durch humanitäre Hilfe und politisches Bewusstsein unterstützt.
+Rechtliche und finanzielle Heimat des Lexikons: [fellas4europe](https://fellas4europe.org/) ist ein deutscher gemeinnütziger Verein, der Freiheit und Demokratie in Europa mit einem Schwerpunkt auf der Ukraine durch humanitäre Hilfe und politisches Bewusstsein unterstützt.
 
 
 ### Ziviles Netzwerk OPORA
 
-Gründungspartner des Wörterbuchs: [Civil Network OPORA](https://oporaua.org/en) entwickelt in der Gesellschaft die Praxis verantwortungsbewusster Entscheidungen und Handlungen durch das Eintreten für faire Regeln, um Sicherheit und Demokratie in der Ukraine zu stärken.
+Gründungspartner des Lexikons: [Civil Network OPORA](https://oporaua.org/en) entwickelt in der Gesellschaft die Praxis verantwortungsbewusster Entscheidungen und Handlungen durch das Eintreten für faire Regeln, um Sicherheit und Demokratie in der Ukraine zu stärken.
 
 ### Ukrainisches Zentrum für Sicherheit und Zusammenarbeit (USCC)
 
@@ -62,7 +62,7 @@ Projektentwicklung und Anschubfinanzierung: [TechCamp](https://techcamp.america.
 
 ### Deepl
 
-Das mehrsprachige Desinformationswörterbuch profitiert stark von den Übersetzungsdiensten von [Deepl](https://www.deepl.com). Nach dem Einmarsch Russlands im Februar 2022 reagierte Deepl schnell auf Kundenwünsche, die ukrainische Sprache in sein Sprachenportfolio zu integrieren. Wir danken Deepl und empfehlen es als *die* beste Übersetzungsmaschine, die wir kennen.
+Das mehrsprachige Desinfo-Lexikon profitiert stark von den Übersetzungsdiensten von [Deepl](https://www.deepl.com). Nach dem Einmarsch Russlands im Februar 2022 reagierte Deepl schnell auf Kundenwünsche, die ukrainische Sprache in sein Sprachenportfolio zu integrieren. Wir danken Deepl und empfehlen es als *die* beste Übersetzungsmaschine, die wir kennen.
 
 ### GitHub
 

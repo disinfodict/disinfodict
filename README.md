@@ -7,7 +7,7 @@ execute:
 
 # Conribute
 
-You can contribute to the Desinformation Dictionary in multiple ways
+You can contribute to the Disinformation Dictionary in multiple ways
 
 - low tech approach: just modify a chapter file or write a new one
 - Rstudio: render Dictionary on your PC and preview your changes
@@ -161,7 +161,7 @@ We don't need more git details here and combine `git` in a workflow with *RStudi
 
 # Github code
 
-The Desinformation Dictionary is hosted on [github](https://github.com/disinfodict). 
+The Disinformation Dictionary is hosted on [github](https://github.com/disinfodict). 
 Github allows you clone the Dictionary, improve it, and suggest your improvements for inclusion. This can be done *with* or *without* a local copy on your PC, and *with* or *without* using RStudio. We recommend combining github, git and RStudio. 
 
 ## Github account
@@ -219,8 +219,8 @@ sudo apt install epubcheck
 ### basic check
 
 ```{}
-epubcheck _book/Disinformation-Dictionary.epub
-epubcheck _book/de/Desinformations-Wörterbuch.epub
+epubcheck _book/Disinfo-Dictionary.epub
+epubcheck _book/de/Desinfo-Lexikon.epub
 ```
 
 ### accessibility check at 

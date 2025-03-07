@@ -1,17 +1,28 @@
 # Vorwort {.unnumbered #sec-intro-preface}
 
-## Was
+## Für wen?
 
-Dieses Wörterbuch konsolidiert und widerlegt chronische Desinformationsnarrative, die von mehreren Fact-Checking-Organisationen aufgedeckt wurden.  
+Das Lexikon ermöglicht die schnelle Suche und das Verlinken von Faken, die russische Narrative widerlegen.
 
-Es ist in englischer und deutscher Sprache verfügbar. Es kann im Internet gelesen oder als PDF oder heruntergeladen werden.  
+- Journalisten
+- Faktenchecker
+- Desinformationsaktivisten
+- Nutzer sozialer Netzwerke
+- alle Bürger, die zuverlässige Informationen über Russland und die Ukraine suchen
 
-Das Wörterbuch ist nach Themenbereichen mit einem oder mehreren Kapiteln mit einem oder mehreren Abschnitten gegliedert.  
+
+## Was?
+
+Dieses Lexikon konsolidiert chronische Lügen-Narrative, die von mehreren Fact-Checking-Organisationen widerlegt wurden.  
+
+Es ist in englischer und deutscher Sprache verfügbar. Es kann im Internet gelesen oder als PDF oder epub heruntergeladen werden, letzeres kann man sich vom screen-reader vorlesen lassen.
+
+Das Lexikon ist nach Themenbereichen mit einem oder mehreren Kapiteln mit einem oder mehreren Abschnitten gegliedert.
 
 Die Qualität der Inhalte wird von unseren Partnern überwacht, siehe im Anhang unter [Team & Partner](#sec-appendix-about).  
 
 
-## Warum 
+## Warum? 
 
 > Ein Kennzeichen von Propaganda ist ihre Fähigkeit, die Grenzen zwischen Fakten und Fiktion zu verwischen und die Unterscheidung zwischen Wahrheit und Lüge zu verwirren
 
@@ -22,14 +33,14 @@ Zitat von @Dierickx:2024, die verschiedene Herausforderungen und Kontexte analys
 - die Wahrheit in jedem spezifischen Kontext zu entschlüsseln
 - die Wahrheit schnell zu finden
 - die Lügen schnell zu widerlegen (spät eintreffenden Kommentaren mangelt es an Sichtbarkeit)^[NAFO löst das, indem es grafische Memes postet, was sehr schnell geht, aber leichter als nicht-faktenbasiert diffamiert werden kann. Die Verwendung von Memen neigt dazu, Diskussionen zu eskalieren und zu verlängern und Kapazitäten zu binden; die Bereitstellung von Fakten neigt dazu, Trolle zum Schweigen zu bringen]
-- Skalierung der Arbeit auf das industrielle Ausmaß der Desinformationsverbreitung
-- Skalierung der Arbeit und der Reichweite gegen algorithmische Verzerrungen oder sogar Zensur in sozialen Netzwerken
-- Skalierung der Arbeit über verschiedene soziale Netzwerke hinweg trotz proprietärem Content Management
+- Skalierung der Richtigstellung auf das industrielle Ausmaß der Desinformationsverbreitung
+- Skalierung der Richtigstellung und der Reichweite gegen algorithmische Verzerrungen oder sogar Zensur in sozialen Netzwerken
+- Skalierung der Richtigstellung über verschiedene soziale Netzwerke hinweg trotz proprietärem Content Management
 
 
-## Wie
+## Wie?
 
-Das *Desinformations-Wörterbuch* geht auf diese Herausforderungen ein, durch
+Das *Desinfo-Lexikon* geht auf diese Herausforderungen ein, durch
 
 - bereitstellen kuratierter Wahrheiten im Kontext des russischen Krieges in der Ukraine
 - aufklären über die Muster der Propaganda
@@ -41,7 +52,7 @@ Das *Desinformations-Wörterbuch* geht auf diese Herausforderungen ein, durch
 - einheitliches Funktionieren in allen sozialen Netzwerken^[mit Ausnahme der algorithmischen Dämpfung der Reichweite bei Verwendung externer Links]
 
 
-## Logo
+## Logo?
 
 Wenn Sie sich nach unserem Logo fragen, es ist so hergeleitet
 
