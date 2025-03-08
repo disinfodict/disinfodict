@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Ukraine builds dirty nuclear bombs and strives for real nukes.
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Ukraine%7CKyiv%7CKiev)%20(dirty%20bomb%7C(nukes%7Cnuclear))&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Ukraine%7CKyiv%7CKiev)%20(dirty%20bomb%7C(nukes%7Cnuclear))&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

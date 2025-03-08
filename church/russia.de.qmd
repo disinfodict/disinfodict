@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Die russisch-orthodoxe Kirche verteidigt traditionelle Familienwerte.
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=church%20russia&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=church%20russia&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

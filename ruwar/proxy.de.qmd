@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Der Krieg in der Ukraine ist ein Stellvertreter-Krieg
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nato%20%20threatens%20russia&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nato%20%20threatens%20russia&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

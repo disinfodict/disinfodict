@@ -4,7 +4,7 @@
 - Russians and Ukrainians are brothers
 - Russians and Ukrainians have a common history[^brothers-russia.de-9]
 - Ukraine is part of the Russian Nation
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=brother%20nations&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=brother%20nations&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
@@ -64,7 +64,7 @@ universities[^brothers-russia-9], libraries[^brothers-russia-10], publishing hou
 
 [^brothers-russia-5]:  Himka, J-P. (n.d.). *Revolution of 1848–9 in the Habsburg monarchy*. Encyclopedia of Ukraine. Retrieved May 2, 2024, from [https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CR%5CE%5CRevolutionof1848hD79intheHabsburgmonarchy.htm](https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CR%5CE%5CRevolutionof1848hD79intheHabsburgmonarchy.htm) 
 
-[^brothers-russia-6]:  Zhukovsky,  A. (n.d.). *Ukrainian-Soviet War, 1917–21*. Encyclopedia of Ukraine. Retrieved May 2, 2024, from [https://www.encyclopediaofukraine.com/display.asp?linkPath=pages\\U\\K\\Ukrainian6SovietWar1917hD721.htm](https://www.encyclopediaofukraine.com/display.asp?linkPath=pages\\U\\K\\Ukrainian6SovietWar1917hD721.htm) 
+[^brothers-russia-6]:  Zhukovsky,  A. (n.d.). *Ukrainian-Soviet War, 1917–21*. Encyclopedia of Ukraine. Retrieved May 2, 2024, from [https://www.encyclopediaofukraine.com/display.asp?linkPath=pages/U/K/Ukrainian6SovietWar1917hD721.htm](https://www.encyclopediaofukraine.com/display.asp?linkPath=pages/U/K/Ukrainian6SovietWar1917hD721.htm) 
 
 [^brothers-russia-7]:  *Восьме загальнонаціональне опитування: Україна в умовах війни \[The Eighth National Poll: Ukraine During the War\]*. (2022, April 8). Rating Group. Retrieved May 2, 2024, from [https://ratinggroup.ua/en/research/ukraine/vosmoy_obschenacionalnyy_opros_ukraina_v_usloviyah_voyny_6_aprelya_2022.html](https://ratinggroup.ua/en/research/ukraine/vosmoy_obschenacionalnyy_opros_ukraina_v_usloviyah_voyny_6_aprelya_2022.html)
 

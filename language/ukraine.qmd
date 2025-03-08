@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 Ukrainian is not a separate language but rather a dialect of the Russian language
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=ukrainian%20language&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=ukrainian%20language&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

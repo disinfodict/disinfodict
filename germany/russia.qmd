@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 - Germany has historical responsibility for Russia
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20german&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20german&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

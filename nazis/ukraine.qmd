@@ -6,7 +6,7 @@
 ::: {.callout-caution title="Myth"}
 - Ukraine is full of Nazis
 - Germany owes Russia fighting against nazis
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nazis%20(ukraine%7Ckyiv%7Ckiev)&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nazis%20(ukraine%7Ckyiv%7Ckiev)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

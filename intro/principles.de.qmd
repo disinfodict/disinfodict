@@ -108,8 +108,8 @@ Die Kapitel sind in *Faktenabschnitte* gegliedert:
 
 - ein Kapitel kann zuerst in Englisch oder Deutsch geschrieben werden
 - wir bemühen uns, alle Kapitel in alle unterstützten Sprachen zu übersetzen (siehe den Globus 🌐 Sprachwähler in der oberen linken Ecke)
-- wir verwenden niemals maschinelle Übersetzungen ohne Überprüfung und Korrektur und wir verwenden den hochwertigen Übersetzer von [deepl](deepl.com)
-- wir übersetzen nur in Sprachen, die wir gut sprechen, und wenn wir keine Muttersprachler sind, nutzen wir [deepl](deepl.com) Rückübersetzungen zur Kontrolle der Bedeutung
+- wir verwenden niemals maschinelle Übersetzungen ohne Überprüfung und Korrektur und wir verwenden den hochwertigen Übersetzer von [deepl](https://deepl.com)
+- wir übersetzen nur in Sprachen, die wir gut sprechen, und wenn wir keine Muttersprachler sind, nutzen wir [deepl](https://deepl.com) Rückübersetzungen zur Kontrolle der Bedeutung
 - ohne Übersetzungen fällt unsere Technologie auf Englisch zurück
 
 
@@ -154,4 +154,4 @@ Sie können Verbesserungsvorschläge im Klartext senden, Binärdateien akzeptier
 
 Eine Übersicht, welche Kapitel noch bearbeitet werden müssen, finden Sie unter  [Status](#sec-status-status). Wenn Sie Inhalte einreichen, akzeptieren Sie die [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) Lizenz. Um doppelte Arbeit zu vermeiden, treten Sie unserer Signalgruppe bei und geben Sie an, an welchem Kapitel Sie arbeiten. Um der Gruppe beizutreten, senden Sie Ihr Signal-Handle (oder Ihre Mobil-Nummer) an [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). Der Beitritt zu dieser Gruppe ist nur auf Einladung möglich.  
 
-Für mehrfache Beiträge können Sie das [dictionary at github](https:/github.com/disinfodict/disinfodict) forken und einen Pull-Request erstellen (siehe die [README]((https:/github.com/disinfodict/disinfodict/README.qmd)).
+Für mehrfache Beiträge können Sie das [dictionary at github](https://github.com/disinfodict/disinfodict) forken und einen Pull-Request erstellen (siehe die [README](https://github.com/disinfodict/disinfodict/README.qmd).

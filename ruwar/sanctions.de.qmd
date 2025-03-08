@@ -4,7 +4,7 @@
 - Sanktionen treffen den globalen Süden
 - Sanktionen treffen nicht Russland
 - Sanktionen schaden dem Westen
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=sanctions&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=sanctions&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

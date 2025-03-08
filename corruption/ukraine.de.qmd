@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Die Ukraine ist ein korruptes Land[^corruption-ukraine-7]
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(corrupt%7Ccorruption)%20(ukraine%7Ckiev%7Ckyiv)&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(corrupt%7Ccorruption)%20(ukraine%7Ckiev%7Ckyiv)&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}
@@ -40,10 +40,10 @@ Trotz des Krieges würdigte die OECD im März 2024 die Umsetzung der Antikorrupt
 *Weitere Informationen über die Bemühungen der Ukraine zur Korruptionsbekämpfung finden Sie in @tdcenter:2023*
 
 ![* Ukraine und Trends im Korruptionswahrnehmungsindex. Source:  [https://www.transparency.org/en/countries/ukraine](https://www.transparency.org/en/countries/ukraine)* 
-<br>](CorruptionPerceptionIndex_Ukraine.jpg)
+<br></br>](CorruptionPerceptionIndex_Ukraine.jpg)
 
 ![*Russland und Trends im Korruptionswahrnehmungsindex. Source:  [https://www.transparency.org/en/countries/russia](https://www.transparency.org/en/countries/russia)* 
-<br>](CorruptionPerceptionIndex_Russia.jpg)
+<br></br>](CorruptionPerceptionIndex_Russia.jpg)
 
 
 [^corruption-ukraine.de-1]:  *Після втечі Януковича в скарбниці залишалося 108 тисяч 133 гривні 65 копійок \[After Yanukovych’s flight, the treasury had 108,133.65 hryvnia left\]*. (2017, March 11). LB.ua. Retrieved May 2, 2024, from [https://lb.ua/news/2017/03/11/360928\_posle\_begstva\_yanukovicha\_kazne.html](https://lb.ua/news/2017/03/11/360928\_posle\_begstva\_yanukovicha\_kazne.html)

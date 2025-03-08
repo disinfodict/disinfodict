@@ -1,0 +1,89 @@
+# Ukrainische Kultur {#sec-culture-ukraine}
+
+::: {.callout-caution title="Mythos"}
+Ukraine hat keine eigene Kultur
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Culture+Ukraine&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Ukraine hat eine reiche Kultur die  Moskau zum wiederholten Male zu ermorden versucht
+:::
+
+## Einführung
+
+{{< var todo >}}
+
+Siehe auch die Kapitel zur russischen Kultur (@sec-culture-russia), zu Kriegsverbrechen gegen die ukrainische Kultur (@sec-warcrimes-culture), zur ukrainischen Sprache (@sec-language-russia) und zur russischen Sprache (@sec-language-ukraine).
+[^culture-ukraine-5]
+
+
+https://www.art-territory.com/
+
+https://culture.pl/en/article/inventing-anti-imperial-poetic-discourse-adam-mickiewicz-and-taras-shevchenko-with-alexander-pushkin-in-the-tsars-shadow
+
+
+Siehe auch [Kultur der Ukraine bei Wikipedia](https://en.wikipedia.org/wiki/Culture_of_Ukraine)
+
+
+## Architektur
+
+{{< var todo >}}
+
+## Teppiche
+
+{{< var todo >}}
+
+## Kostüme
+
+{{< var todo >}}
+
+## Kochen
+
+## Borschtsch
+
+Borschtsch steht auf der [UNESCO-Liste des immateriellen Kulturerbes]
+(https://www.unesco.org/en/articles/culture-ukrainian-borscht-cooking-inscribed-list-intangible-cultural-heritage-need-urgent)
+
+{{< var todo >}}
+
+## Religiöse Kunst
+
+{{< var todo >}}
+
+### Pysanki
+
+[https://www.metmuseum.org/perspectives/pysanky](https://www.metmuseum.org/perspectives/pysanky)
+
+{{< var todo >}}
+
+### Pavuk
+
+{{< var todo >}}
+
+## Illustrationen
+
+https://www.supportukraine-pic.com/
+
+
+## Bildende Kunst
+
+{{< var todo >}}
+
+## Musik
+
+{{< var todo >}}
+
+## Literatur
+
+{{< var todo >}}
+
+
+
+
+
+## Siehe auch
+
+Die Kapitel über die „große russische“ Kultur (@sec-culture-russia), über die ukrainische Kultur (@sec-culture-ukraine), über Kriegsverbrechen gegen die ukrainische Kultur (@sec-warcrimes-culture), über die ukrainische Sprache (@sec-language-russia) und über die russische Sprache (@sec-language-ukraine).
+
+
+[^culture-ukraine-5]:  Oksana Shchur (2023) Die Ukraine hat keine eigenen Kultur. In: N. Pryhornytska, K. Pavlova, ed. Ukraine im Fokus. Propaganda erkennen, Fakten verstehen. Berlin: CRISP.

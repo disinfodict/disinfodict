@@ -4,7 +4,7 @@
 - Kyiv belongs to Russia
 - Capital of Ukraine is Lviv, not Kyiv
 - There is no Ukraine
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(kyiv%7Ckiev)%20history&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(kyiv%7Ckiev)%20history&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
@@ -20,7 +20,7 @@ It is *Kyiv Rus*, not *Moscow Rus*. And 'Rus' does not mean Russia, is derived f
 
 See @sec-russia-moscow and @sec-ukraine-history.
 
-[Kyiv and Moscow between 996 and 1108](KyivMoscow.jpeg)
+![Kyiv and Moscow between 996 and 1108](KyivMoscow.jpeg)
 
 
 
@@ -32,7 +32,7 @@ In order to claim Kyiv for Russia, the russian propganda - namely the historian 
 - if a Ukrainian nations exists, then only in western ukraine, and its capital is Lviv (Kyiv Rus was much bigger than Western Ukraine and its capital is, of course, Kyiv)
 - this Western Ukrainian nation (note the contradiction) did not exist before the Soviet Union (absolutely ridiculous, you just need to walk through history rich Lviv (German name Lemberg) and look at the Habsburg architecture, the old armenian church, the jewish culture, etc. etc.)
 - the dominant feature of western Ukraine would be Bandera Nazi inhabitants (in fact there were less than 3% for right wing parties, see @sec-nazis-ukraine)
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(kyiv%7Ckiev)%20history&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(kyiv%7Ckiev)%20history&sort=relevance)
 :::
 
 See also @sec-ukraine-nation.

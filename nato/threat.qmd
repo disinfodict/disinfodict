@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 NATO-Expansion threatened Russia, hence Russia had to protect itself by invading Ukraine
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nato%20%20threatens%20russia&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nato%20%20threatens%20russia&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

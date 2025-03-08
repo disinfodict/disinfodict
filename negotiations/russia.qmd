@@ -3,7 +3,7 @@
 ::: {.callout-caution title="Myth"}
 - Russia is ready to negotiate for peace
 - Te West wants weapons instead of negotiations
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(russia%7Cmoscow%7Cputin)%20(negotiate%7Cnegotiations)&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(russia%7Cmoscow%7Cputin)%20(negotiate%7Cnegotiations)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

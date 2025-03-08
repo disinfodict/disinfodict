@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 In Odesa Ukrainian authorities burned peaceful demonstrators
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=maidan%20ukraine%20(odesa%7Codessa)&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=maidan%20ukraine%20(odesa%7Codessa)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

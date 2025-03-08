@@ -5,7 +5,7 @@
 \index{Geschichte}
 
 ::: {.callout-caution title="Mythos"}
-Die Krim gehört historisch gesehen zu Russland. [<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Crimea+history&disinfo_language%5B%5D=German&sort=relevance)
+Die Krim gehört historisch gesehen zu Russland. [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Crimea+history&disinfo_language%5B%5D=German&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}

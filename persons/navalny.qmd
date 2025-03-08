@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 Navalny is an enemy of Putin, hence a friend of Ukraine  
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Alexei%20Navalny&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Alexei%20Navalny&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

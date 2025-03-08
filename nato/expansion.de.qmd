@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Die NATO erweiterte sich aggressiv nach Osten und Russland musste die Ukraine vor einem NATO-Beitritt schützen[^nato-expansion.de-9]
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nato%20(enlargement%7Cexpansion)&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nato%20(enlargement%7Cexpansion)&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 Rearming to make yourself defensible is warmongering
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(arming%7Carms%7Cweapons)&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(arming%7Carms%7Cweapons)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

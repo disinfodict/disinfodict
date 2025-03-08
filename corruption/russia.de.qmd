@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Russische Führer kümmern sich um ihr Volk, sind klüger und weniger korrupt als die im Westen
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(corrupt%7Ccorruption)%20russia&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(corrupt%7Ccorruption)%20russia&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}
@@ -22,10 +22,10 @@ Der Corruption Perceptions Index für den öffentlichen Sektor in Russland verze
 
 
 ![*Ukrain und Trends im Korruptionswahrnehmungsindex. Quelle:  [https://www.transparency.org/en/countries/ukraine](https://www.transparency.org/en/countries/ukraine)* 
-<br>](CorruptionPerceptionIndex_Ukraine.jpg)
+<br></br>](CorruptionPerceptionIndex_Ukraine.jpg)
 
 ![*Russland und Trends im Korruptionswahrnehmungsindex. Source:  [https://www.transparency.org/en/countries/russia](https://www.transparency.org/en/countries/russia)* 
-<br>](CorruptionPerceptionIndex_Russia.jpg)
+<br></br>](CorruptionPerceptionIndex_Russia.jpg)
 
 
 ## Mafia-Loyalität

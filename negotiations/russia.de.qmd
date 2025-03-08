@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Russland ist bereit, über den Frieden zu verhandeln.
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(russia%7Cmoscow%7Cputin)%20(negotiate%7Cnegotiations)&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(russia%7Cmoscow%7Cputin)%20(negotiate%7Cnegotiations)&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

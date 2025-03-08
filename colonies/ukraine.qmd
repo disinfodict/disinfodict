@@ -4,14 +4,14 @@
 - Ukraine is a proxy of the USA[^colonies-ukraine-5]
 - Ukraine is a Polish colony
 - Ukraine is a part of Russia[^colonies-ukraine-8]
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=colonies%20ukraine&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=colonies%20ukraine&sort=relevance)
 :::
 
 ::: {.callout-tip title=“Truth”}
 - Ukraine has long been a sovereign state
 - The West promoted reforms not only in Ukraine, but also in Russia
 - Ukraine wanted independence: and good relations with Russia and the West
-[<br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Ukraine)
+[<br></br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Ukraine)
 :::
 
 

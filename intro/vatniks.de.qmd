@@ -23,7 +23,7 @@ Die Serie bietet auch Einführungen und tiefere Einblicke in die Funktionsweise 
 
 Inzwischen gibt es Vatnik-Suppen auch außerhalb von Twitter als Buch [Vatnik Soup. The Ultimate Guide to Russian Disinformation](https://vatniksoup.com/en/books/) und als unabhängige Website.
 
-[Vatnik-Suppen-Logo](vatnik-soup.jpg)
+[![Vatnik-Suppen-Logo](vatnik-soup.jpg)
 Vatnik Soup-Website
 ](https://vatniksoup.com/)
 
@@ -51,6 +51,6 @@ The Germs of “Russian World” Version 2.0 ](https://texty.org.ua/d/2023/germs
 
 > TEXTY stellt das Projekt [The Atlas of Russian Lobby in Europe](https://texty.org.ua/d/2023/germs_v2/lobby/en/) vor, das einen Einblick in die Vertreter verschiedener Kreise bietet, die auf die eine oder andere Weise die Förderung russischer Geschäftsinteressen in der EU erleichtert haben oder erleichtern - von Regierungsbeamten bis zu PR-Experten und Anwälten, von „russischen Freundschaftsgruppen“ bis zu informellen Netzwerkforen. Trotz der Tatsache, dass viele dieser Initiativen auf Eis gelegt wurden, werden diese Personen und Einrichtungen nach dem Ende des Krieges oder sobald es zu einer vorübergehenden Deeskalation kommt, wahrscheinlich zu den lautstärksten Befürwortern einer Wiederherstellung der früheren Wirtschaftsbeziehungen zu Russland gehören. 
 
-[TEXT_Lobbying_Atlas_screenshot](TEXTY_Lobbying_Atlas.jpg)
+[![TEXT_Lobbying_Atlas_screenshot](TEXTY_Lobbying_Atlas.jpg)
 Der Lobbying-Atlas: 250+ Personen und Unternehmen, die mit Russlands Geschäftsinteressen in Europa verbunden sind ](https://texty.org.ua/d/2023/germs_v2/lobby/en/)
 

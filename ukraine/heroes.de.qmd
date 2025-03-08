@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 Ukrainian heroes are all nazis
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(ukraine%7Cukrainian)%20(hero%7Cheroes)&sort=relevance&_=1734812089161)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(ukraine%7Cukrainian)%20(hero%7Cheroes)&sort=relevance&_=1734812089161)
 :::
 
 ::: {.callout-tip title="Truth"}

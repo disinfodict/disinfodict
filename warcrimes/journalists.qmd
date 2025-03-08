@@ -3,7 +3,7 @@
 ::: {.callout-caution title="Myth"}
 - Journalists travel to Ukraine to perform crimes.
 - Ukraine kills journalists.
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(crimes%7Ccriminals)%20(civilian%7Ccivilians)&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(crimes%7Ccriminals)%20(civilian%7Ccivilians)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

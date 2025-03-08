@@ -3,7 +3,7 @@
 ::: {.callout-caution title="Myth"}
 - Ukraine passes on all the costs of war to the West
 - Ukraine is weak and has no chance of winning the war
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Ukraine%20war%20(costs%7Cresilience%7Cresilient)&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Ukraine%20war%20(costs%7Cresilience%7Cresilient)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

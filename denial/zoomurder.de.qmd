@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 Russland war nicht an der Ermordung des georgischen Staatsbürgers Selimchan Changoschwili in Berlin beteiligt
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=krasikov&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=krasikov&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
@@ -37,8 +37,7 @@ Zelimkhan Khangoshvili wurde von Vadim Krasikov im Berliner Tiergarten ermordet.
 
 ## 2024 Juni - Geld
 
-[Russland zahlte einen Promi-Anwalt für russischen Auftragsmörder in Berlin](
-[https://www.derstandard.de/story/3000000222387/russland-zahlte-promi-anwalt-fuer-russischen-auftragsmoerder-in-berlin](https://www.derstandard.de/story/3000000222387/russland-zahlte-promi-anwalt-fuer-russischen-auftragsmoerder-in-berlin))
+[Russland zahlte einen Promi-Anwalt für russischen Auftragsmörder in Berlin](https://www.derstandard.de/story/3000000222387/russland-zahlte-promi-anwalt-fuer-russischen-auftragsmoerder-in-berlin)
 
 
 

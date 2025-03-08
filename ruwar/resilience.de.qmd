@@ -3,7 +3,7 @@
 ::: {.callout-caution title=„Myth“}
 - Die Ukraine wälzt alle Kosten des Krieges auf den Westen ab
 - Die Ukraine ist schwach und hat keine Chance, den Krieg zu gewinnen
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Ukraine%20war%20(costs%7Cresilience%7Cresilient)&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Ukraine%20war%20(costs%7Cresilience%7Cresilient)&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

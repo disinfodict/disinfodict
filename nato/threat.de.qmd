@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 NATO-Erweiterung bedroht Russland, daher musste Russland sich durch Einmarsch in die Ukraine schützen
-[<br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nato%20%20threatens%20russia&sort=relevance)
+[<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nato%20%20threatens%20russia&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

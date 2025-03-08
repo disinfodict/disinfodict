@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 Russia does not plan to kill anyone.
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=denazification%20genocide&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=denazification%20genocide&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

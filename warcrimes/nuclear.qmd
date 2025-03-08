@@ -3,7 +3,7 @@
 ::: {.callout-caution title="Myth"}
 - Ukraine shelled their own nuclear power plants
 - Russian shelling was legitimate because Ukraine hided weapons in nuclear facilities
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20(nuclear%7Catom%7CZaporizhzhia%7CChernobyl)&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20(nuclear%7Catom%7CZaporizhzhia%7CChernobyl)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

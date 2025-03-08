@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Durch die Unterstützung der Ukraine eskaliert der Westen den russischen Krieg[^ruwar-escalation-12]
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(escalation%7Cescalate)&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(escalation%7Cescalate)&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

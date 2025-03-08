@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Russland schützt die Zivilbevölkerung.
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(crimes%7Ccriminals)%20(civilian%7Ccivilians)&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(crimes%7Ccriminals)%20(civilian%7Ccivilians)&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

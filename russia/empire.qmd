@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 Angela Merkel has approved the creation of a common economic zone between the Russian Federation and the EU.
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Vladivostok%20(Lisbon%7CDublin)&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Vladivostok%20(Lisbon%7CDublin)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

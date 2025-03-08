@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 Ukraine is a corrupt country[^corruption-ukraine-7]
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(corrupt%7Ccorruption)%20(ukraine%7Ckiev%7Ckyiv)&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(corrupt%7Ccorruption)%20(ukraine%7Ckiev%7Ckyiv)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
@@ -43,10 +43,10 @@ Despite the war, the OECD recognised the implementation of Ukraine's anti-corrup
 *You can learn more about Ukraine’s anti-corruption efforts in @tdcenter:2023*
 
 ![*Ukraine and trends in Corruption Perceptions Index. Source:  [https://www.transparency.org/en/countries/ukraine](https://www.transparency.org/en/countries/ukraine)* 
-<br>](CorruptionPerceptionIndex_Ukraine.jpg)
+<br></br>](CorruptionPerceptionIndex_Ukraine.jpg)
 
 ![*Russia and trends in Corruption Perceptions Index. Source:  [https://www.transparency.org/en/countries/russia](https://www.transparency.org/en/countries/russia)* 
-<br>](CorruptionPerceptionIndex_Russia.jpg)
+<br></br>](CorruptionPerceptionIndex_Russia.jpg)
 
 
 

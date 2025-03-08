@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Moskau hält sich peinlich genau an die Genfer Konventionen zur Behandlung von Kriegsgefangenen 
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20prisoners&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20prisoners&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

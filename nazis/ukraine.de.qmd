@@ -6,7 +6,7 @@
 ::: {.callout-caution title=„Myth“}
 - Die Ukraine ist voller Nazis
 - Deutschland schuldet Russland den Kampf gegen Nazis
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nazis%20(ukraine%7Ckyiv%7Ckiev)&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nazis%20(ukraine%7Ckyiv%7Ckiev)&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

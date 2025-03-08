@@ -4,7 +4,7 @@
 - Russia is better than the West
 - Russia stands for values and Putin ensures order
 - Russia is the last ‘last line of defense for traditional values’
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(russia%7Crussian)%20values&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(russia%7Crussian)%20values&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

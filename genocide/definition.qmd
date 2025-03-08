@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 What is Genocide? A Nazi thing!? 
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20holodomor&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20holodomor&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

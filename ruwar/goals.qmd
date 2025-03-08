@@ -3,7 +3,7 @@
 ::: {.callout-caution title="Myth"}
 - Russia has only defensive interests in Ukraine
 - The West wants to conquer russia
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Ukraine%20conquer&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Ukraine%20conquer&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

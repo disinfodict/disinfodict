@@ -7,7 +7,7 @@
 ::: {.callout-caution title="Myth"}
 - Ukraine is not a democracy
 - Ukrainians vote for russia  
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(referendum%7Celections%7Coligarchy)%20Ukraine&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(referendum%7Celections%7Coligarchy)%20Ukraine&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}

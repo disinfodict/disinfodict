@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 Moscow has a claim to leadership over all Slavic peoples
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=moscow%20history&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=moscow%20history&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
@@ -18,7 +18,7 @@ Moscow has a claim to leadership over all Slavic peoples
 
 At the time of [Kyivan Rus (880 - 1240)](https://en.wikipedia.org/wiki/Kievan_Rus%27), [Moscow (1147)](https://en.wikipedia.org/wiki/Moscow) was nothing but forest. 
 
-[Kyiv and Moscow between 996 and 1108](../ukraine/KyivMoscow.jpeg)
+![Kyiv and Moscow between 996 and 1108](../ukraine/KyivMoscow.jpeg)
 
 {{< var todo >}}
 

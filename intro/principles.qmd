@@ -104,8 +104,8 @@ Chapters are organized in *fact-sections*:
 
 - a chapter can be written in English or German first
 - we strive to off all chapters in all supported languages (see the globe 🌐 language selector in the upper left corner)
-- we never use machine translation without checking and correcting and we use the high-quality translator from [deepl](deepl.com)
-- we only translate into languages we speak well, and if we are not native speakers, we use [deepl](deepl.com) back-translations to check the meaning
+- we never use machine translation without checking and correcting and we use the high-quality translator from [deepl](https://deepl.com)
+- we only translate into languages we speak well, and if we are not native speakers, we use [deepl](https://deepl.com) back-translations to check the meaning
 - without translations our technology falls back to english
 
 
@@ -149,4 +149,4 @@ You can send plaintext suggestions for improvements, we do not accept binary fil
 
 For an overview which chapters still require work see [status](#sec-status-status). By submitting content, you accept the  [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. To avoid duplicate work, join our signal group and announce which chapter you are working on. To join, send your signal handle (or your mobile number) to [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). Joining the group is invitation-only.  
 
-For multiple contributions you can fork the [dictionary at github](https:/github.com/disinfodict/disinfodict) and create a pull-request (see the [README]((https:/github.com/disinfodict/disinfodict/README.qmd))).
+For multiple contributions you can fork the [dictionary at github](https://github.com/disinfodict/disinfodict) and create a pull-request (see the [README](https://github.com/disinfodict/disinfodict/README.qmd)).

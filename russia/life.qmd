@@ -3,12 +3,12 @@
 ::: {.callout-caution title="Myth"}
 - Russia is better
 - Life in russia is better
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/?s=(Russia|Moscow)%20(better|superior|inferior)&type=database&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/?s=(Russia|Moscow)%20(better|superior|inferior)&type=database&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
 Most Euroepan countries are clearly better than Russia  - on the OECD Better Life Index
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/waiting-for-the-advent-of-the-fifth-stalin/)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/waiting-for-the-advent-of-the-fifth-stalin/)
 :::
 
 > The OECD Better Life Initiative focuses on developing statistics to capture aspects of life that matter to people and that shape the quality of their lives. This allows for a better understanding of what drives the well-being of people and nations, and what needs to be done to achieve greater progress for all.

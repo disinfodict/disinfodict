@@ -3,7 +3,7 @@
 ::: {.callout-caution title=„Myth“}
 - Die Ukraine begeht Kriegsverbrechen in der Ukraine.
 - Die Ukraine ist dafür verantwortlich, dass Russland Kriegsverbrechen in der Ukraine begeht.
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title=„Myth“}
 Der Maidan war ein von den USA organisierter Putsch
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=maidan%20ukraine%20(kyiv%7Ckiev)&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=maidan%20ukraine%20(kyiv%7Ckiev)&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

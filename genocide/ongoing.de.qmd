@@ -7,7 +7,7 @@
 - Die Opfer haben es verdient
 - Die Opfer tun es selbst
 - Die Opfer tun es uns (Russen) an
-[<br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20ukraine&sort=relevance)
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20ukraine&sort=relevance)
 :::
 
 ::: {.callout-tip title=„Truth“}

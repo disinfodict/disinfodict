@@ -5,7 +5,7 @@
 
 ::: {.callout-caution title="Міф."}
 Крим історично належить Росії.
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Crimea+history&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Crimea+history&sort=relevance)
 :::
 
 ::: {.callout-tip title="Правду."}

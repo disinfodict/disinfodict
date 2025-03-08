@@ -2,7 +2,7 @@
 
 ::: {.callout-caution title="Myth"}
 Russia was not involved in the murder of Georgian citizen Zelimkhan Khangoshvili in Berlin
-[<br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=krasikov&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=krasikov&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
@@ -30,16 +30,14 @@ German Newspaper [Der Spiegel](https://www.spiegel.de/international/world/how-ru
 
 [Krasikov is convicted to life in prison](https://www.nytimes.com/2021/12/15/world/europe/germany-russia-berlin-murder.html).
 
-[Statement of Bellingcat with reference to the verdict](https://www.bellingcat.com/bellingcat-statement-on-verdict-of-berlin-kammergericht-tiergarten-murder/)
+[Statement of Bellingcat with reference to the verdict](https://www.bellingcat.com/bellingcat-statement-on-verdict-of-berlin-kammergericht-tiergarten-murder)
 
-[The Federal Foreign Office of Germany expells another two russian "diplomats"](
-[https://www.auswaertiges-amt.de/en/newsroom/news/baerbock-murder-tiergarten/2501940](https://www.auswaertiges-amt.de/en/newsroom/news/baerbock-murder-tiergarten/2501940))
+[The Federal Foreign Office of Germany expells another two russian "diplomats"](https://www.auswaertiges-amt.de/en/newsroom/news/baerbock-murder-tiergarten/2501940)
 
 
 ## 2024 Juni - Money
 
-[Russia paid a celebrity lawyer for Russian contract killer in Berlin](
-[https://www.kyivpost.com/post/33704](https://www.kyivpost.com/post/33704))
+[Russia paid a celebrity lawyer for Russian contract killer in Berlin](https://www.kyivpost.com/post/33704)
 
 
 ## 2024 August - Exchange
