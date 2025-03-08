@@ -10,8 +10,8 @@ book:
   #description: "This dictionary consolidates and debunks chronic disinformation narratives detected by several fact-checking organisations."
   author: "Fellas & Partners"
   date: "last-modified"
-  #site-url: http://127.0.0.1:4321
-  site-url: https://disinfodict.pages.dev
+  site-url: http://127.0.0.1:4321
+  #site-url: https://disinfodict.pages.dev
   #site-url: https://disinfodict.org
   favicon: /all_common_img/DisinfoDict_logo_1x1_trans_small.png
   downloads: [pdf,epub]
