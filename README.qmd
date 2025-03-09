@@ -202,7 +202,7 @@ To shield you from any complexities with using the git command line, we suggest 
 
 # Deployment
 
-  ## Render
+## Render
 
 ```{R}
 babelquarto::render_book()
