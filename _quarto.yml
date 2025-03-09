@@ -34,10 +34,6 @@ book:
     center:
       - text: "Impressum"
         href: impressum.qmd
-      #- text: "![Home](/all_common_img/DisinfoDict_logo_1x1_trans.png){width=1in}"
-      #  #href: http://127.0.0.1:4321
-      #  href: https://disinfodict.pages.dev
-      #  #href: https://disinfodict.org
 
   chapters:
   - index.qmd
