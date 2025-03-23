@@ -1,11 +1,11 @@
 # Tiergarten Mord {#sec-denial-zoomurder}
 
-::: {.callout-caution title="Myth"}
+::: {.callout-caution title="Mythos"}
 Russland war nicht an der Ermordung des georgischen Staatsbürgers Selimchan Changoschwili in Berlin beteiligt
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=krasikov&sort=relevance)
 :::
 
-::: {.callout-tip title="Truth"}
+::: {.callout-tip title="Wahrheit"}
 - Der Kreml hat den Mord in Auftrag gegeben.
 - Der Kreml bezahlte Krasikovs Anwalt. 
 - Russland hat mehrere Personen aus russischen Gefängnissen ausgetauscht, um den verurteilten FSB-Mörder Vadim Krasikov freizulassen.

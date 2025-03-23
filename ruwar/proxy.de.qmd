@@ -1,11 +1,11 @@
 # Stellvertreterkrieg? {#sec-nato-proxy}
 
-::: {.callout-caution title=„Myth“}
+::: {.callout-caution title=„Mythos“}
 Der Krieg in der Ukraine ist ein Stellvertreter-Krieg
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nato%20%20threatens%20russia&sort=relevance)
 :::
 
-::: {.callout-tip title=„Truth“}
+::: {.callout-tip title=„Wahrheit“}
 - Russland kämpft direkt in der Ukraine - kein Stellvertreter ist beteiligt.   
 - Die Ukraine ist kein Stellvertreter von jemand anderem - und verteidigt sich gegen eine willkürliche Invasion durch Russland
 :::

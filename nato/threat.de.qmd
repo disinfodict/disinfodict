@@ -1,11 +1,11 @@
 # NATO Bedrohung? {#sec-nato-threat}
 
-::: {.callout-caution title="Myth"}
+::: {.callout-caution title="Mythos"}
 NATO-Erweiterung bedroht Russland, daher musste Russland sich durch Einmarsch in die Ukraine schützen
 [<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nato%20%20threatens%20russia&sort=relevance)
 :::
 
-::: {.callout-tip title="Truth"}
+::: {.callout-tip title="Wahrheit"}
 - Die Ukraine hat ihre Atomwaffen aufgegeben
 - Die NATO hat sich nicht militärisch nach Osten ausgedehnt
 - Russland hat sich nicht bedroht gefühlt
@@ -55,6 +55,16 @@ Russland hat eine lange Tradition der Täuschung seiner Feinde und Opfer:
 > Russland versucht, die EU-Erweiterung zu verhindern und seine eigene Kontrolle über die Ukraine, Moldawien und Georgien durchzusetzen, um seine imperiale Idee in Europa zu bekräftigen[^nato-threat-3].
 
 
+## Russland hat seine Lügen zugegeben
+
+> Das Verteidigungsministerium versucht, die Öffentlichkeit und den Präsidenten zu täuschen und die Geschichte zu verbreiten, dass die ukrainische Seite ein wahnsinniges Ausmaß an Aggression an den Tag gelegt hat und uns zusammen mit dem gesamten Nato-Block angreifen will.  
+>  
+> Jewgeni Prigozhin ( Chef von Wagner)[^nato-threat-4]
+
+[Link zu youtube  
+![Screenshot des Reuters-Videos mit Prigozhin](nato-prigozhin.jpg){width=60%}](https://www.youtube.com/watch?v=V8thO6S5duE)
+
+
 [^nato-thread-1]: Weakness is Lethal: Why Putin Invaded Ukraine and How the War Must End. (Oct 1, 2023). Institute for the STUDY OF WAR (ISW). [https://understandingwar.org/backgrounder/weakness-lethal-why-putin-invaded-ukraine-and-how-war-must-end](https://understandingwar.org/backgrounder/weakness-lethal-why-putin-invaded-ukraine-and-how-war-must-end)
   
 [^nato-threat-2]: Person & McFaul (2022 April) What Putin Fears Most.  Journal of Democracy, Volume 33, Issue 2, Page 18–27. [https://www.journalofdemocracy.org/articles/what-putin-fears-most/](https://www.journalofdemocracy.org/articles/what-putin-fears-most/)
@@ -62,3 +72,5 @@ Russland hat eine lange Tradition der Täuschung seiner Feinde und Opfer:
 [^nato-threat-3]: Nicholas Lokker and Kate Johnston  (July 15, 2024) 
 For Putin, the EU Is a Bigger Threat Than NATO. Center for a New American Security
 [https://www.cnas.org/publications/commentary/for-putin-the-eu-is-a-bigger-threat-than-nato](https://www.cnas.org/publications/commentary/for-putin-the-eu-is-a-bigger-threat-than-nato)
+
+[^nato-threat-4]: Pjotr Sauer (23 Jun 2022) Wagner chief accuses Moscow of lying to public about Ukraine. Yevgeny Prigozhin dismisses justification for war that Kyiv was planning 2022 attack on Donbas and Crimea. The Guardian. [https://www.theguardian.com/world/2023/jun/23/wagner-chief-accuses-moscow-of-lying-to-public-about-ukraine-yevgeny-prigozhin](https://www.theguardian.com/world/2023/jun/23/wagner-chief-accuses-moscow-of-lying-to-public-about-ukraine-yevgeny-prigozhin)

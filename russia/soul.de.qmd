@@ -1,11 +1,11 @@
 # Russische Seele {#sec-russia-soul}
 
-::: {.callout-caution title="Myth"}
+::: {.callout-caution title="Mythos"}
 Die "russische Seele" sei geheimnisvoll, musikalisch, trinke Wodka und heule melancholisch den Mond an
 [<br></br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Russische_Seele)
 :::
 
-::: {.callout-tip title="Truth"}
+::: {.callout-tip title="Wahrheit"}
 Das Reden von der "russische Seele" ist gefährlicher Kitsch, wenn es sie gibt, ist sie schwarz, leer und blutrünstig
 [<br></br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Russlandbild)
 :::

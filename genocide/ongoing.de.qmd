@@ -1,6 +1,6 @@
 # Völkermord läuft {#sec-genocide-ongoing}
 
-::: {.callout-caution title=„Myth“}
+::: {.callout-caution title=„Mythos“}
 - Völkermord findet nicht statt
 - Es waren nicht die Russen
 - Es ist kein Völkermord
@@ -10,7 +10,7 @@
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20ukraine&sort=relevance)
 :::
 
-::: {.callout-tip title=„Truth“}
+::: {.callout-tip title=„Wahrheit“}
 Russland hat den Völkermord an allen und allem Ukrainischen angekündigt und begonnen.
 :::
 

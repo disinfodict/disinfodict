@@ -1,6 +1,6 @@
 # Leugnung Einleitung {#sec-denial-intro}
 
-::: {.callout-caution title=„Myth“}
+::: {.callout-caution title=„Mythos“}
 Russland:
 - es war inszeniert
 - es hat nicht stattgefunden
@@ -10,7 +10,7 @@ Russland:
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(alleged%7Cdenied%7Cconfessed)&sort=relevance)
 :::
 
-::: {.callout-tip title=„Truth“}
+::: {.callout-tip title=„Wahrheit“}
 Jede russische Anschuldigung ist ein Geständnis
 :::
 

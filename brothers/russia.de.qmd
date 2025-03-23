@@ -1,13 +1,13 @@
 # Brüder? von Russland {#sec-brothers-russia}
 
-::: {.callout-caution title=„Myth“}
+::: {.callout-caution title=„Mythos“}
 - Russen und Ukrainer sind Brüder
 - Russen und Ukrainer haben eine gemeinsame Geschichte[^brothers-russia.de-9]
 - Die Ukraine ist Teil der russischen Nation
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=brother%20nations&sort=relevance)
 :::
 
-::: {.callout-tip title=„Truth“}
+::: {.callout-tip title=„Wahrheit“}
 - Brüder vergewaltigen, foltern und töten sich nicht gegenseitig
 - Und Brüder nennen sich nicht „Khokhols“
 :::

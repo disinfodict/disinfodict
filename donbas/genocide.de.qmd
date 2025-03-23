@@ -1,13 +1,13 @@
 # Donbass Genozid? {#sec-donbas-genocide}
 
-::: {.callout-caution title="Myth"}
+::: {.callout-caution title="Mythos"}
 - Die Ukraine habe den Krieg im Donbass begonnen
 - Kiew plane einen Völkermord im Donbass
 - Ukraine beschieße Zivilisten im Donbass
 - Russische Truppen stoppten Völkermord im Donbass [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(donbas|donetsk|luhansk)%20genocide&sort=relevance)
 :::
 
-::: {.callout-tip title="Truth"}
+::: {.callout-tip title="Wahrheit"}
 - Donbas ist Ukraine
 - Russland begann den Krieg gegen die Ukraine im Donbass[^donbas-genocide.de-27]
 - Die Ukraine hat ihr Gebiet verteidigt
@@ -85,7 +85,7 @@ See @sec-warcrimes-urbicide.
 
 [^donbas-genocide.de-5]:  Panasiuk, S. (2022, December 22). How Russia Russified the east of Ukraine. Ukraїner. Retrieved April 30, 2024, from [https://www.ukrainer.net/russia-russified/](https://www.ukrainer.net/russia-russified/) 
 
-[^donbas-genocide.de-6]:  Zubchenko, Y. (2022, April 6). “Eight years”. Deconstructing the most popular myth of Russian propaganda. ms.detector.media. Retrieved April 30, 2024, from [https://ms.detector.media/in-english/post/29297/2022-04-06-eight-years-deconstructing-the-most-popular-myth-of-russian-propaganda/](https://ms.detector.media/in-english/post/29297/2022-04-06-eight-years-deconstructing-the-most-popular-myth-of-russian-propaganda/) 
+[^donbas-genocide.de-6]:  Zubchenko, Y. (2022, April 6). “Eight years”. Deconstructing the most popular Mythos of Russian propaganda. ms.detector.media. Retrieved April 30, 2024, from [https://ms.detector.media/in-english/post/29297/2022-04-06-eight-years-deconstructing-the-most-popular-Mythos-of-russian-propaganda/](https://ms.detector.media/in-english/post/29297/2022-04-06-eight-years-deconstructing-the-most-popular-Mythos-of-russian-propaganda/) 
 
 [^donbas-genocide.de-7]:  Dr. Franziska Davies, 2023\. In Donbas gab es einen Bürgerkrieg. In: N. Pryhornytska, K. Pavlova, ed. Ukraine im Fokus. Propaganda erkennen, Fakten verstehen. Berlin: CRISP, pp. 95-101
 

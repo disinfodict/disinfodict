@@ -1,11 +1,11 @@
 # Kriegsverbrechen – Zwangseinberufung {#sec-warcrimes-conscription}
 
-::: {.callout-caution title=„Myth“}
+::: {.callout-caution title=„Mythos“}
 Der Westen schickt Söldner gegen Russland
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russia%20(conscripting%7Cconscription%7Cconscripts%7Cconscript%7Cmercenary%7Cmercenaries)&sort=relevance)
 :::
   
-::: {.callout-tip title=„Truth“}
+::: {.callout-tip title=„Wahrheit“}
 Russland zwingt ukrainische Zivilisten zum Kampf gegen ihr Heimatland
 :::
   

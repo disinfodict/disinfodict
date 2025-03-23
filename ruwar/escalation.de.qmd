@@ -1,11 +1,11 @@
 # Escalation? {#sec-ruwar-escalation}
 
-::: {.callout-caution title=„Myth“}
+::: {.callout-caution title=„Mythos“}
 Durch die Unterstützung der Ukraine eskaliert der Westen den russischen Krieg[^ruwar-escalation-12]
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(escalation%7Cescalate)&sort=relevance)
 :::
 
-::: {.callout-tip title=„Truth“}
+::: {.callout-tip title=„Wahrheit“}
 - Hilfe für die Ukraine ist legitim und legal, sogar die Entsendung von Truppen wäre es
 - Hilfe für die Ukraine ist effektiv, die Ukraine hat überlebt
 - Russland eskaliert den Krieg, solange es nicht genug Unterstützung gibt

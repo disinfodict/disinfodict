@@ -1,33 +1,78 @@
 # Donbas separatists? {#sec-donbas-separatists}
 
 ::: {.callout-caution title="Myth"}
-- pro-russian fighters in Donbas are "seperatists"
-- the so-called separatists of Donbas are autonomists
+- Pro-russian fighters in Donbas are "seperatists"
+- The so-called separatists of Donbas are autonomists
 - Occupiers are a "People's Republic"
-- the Donetsk "People’s Republic" has been recognized by the US
+- The Donetsk "People’s Republic" has been recognized by the US
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=donetsk%20(separatists%7Cseparatist)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-- pro-russian fighters in Donbas are paid mercenaries trained in Moscow and russian soldiers
-- pro-russian fighters are equipped with heavy weapons from Russia 
-- Occupiers are a "Kremlin's Republic" not recognized by nobody
+- Pro-russian fighters in Donbas are paid mercenaries trained in Moscow and russian soldiers
+- Pro-russian fighters are equipped with heavy weapons from Russia 
+- The Occupiers are a "Kremlin's Republic" not recognized by nobody
+[<br></br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Russian_separatist_forces_in_Ukraine)
 :::
 
-For more information about the donbas see @sec-donbas-genocide.
+## The short version
 
-## A
+> Russian separatist forces in Ukraine, primarily the People's Militias of the Donetsk People's Republic (DPR) and the Luhansk People's Republic (LPR), were pro-Russian paramilitaries in the Donbas region of eastern Ukraine. They were under the overall control of the Russian Federation. They were also referred to as Russian proxy forces ... Although the Russian government often denied direct involvement, evidence suggested otherwise. The separatists admitted receiving weaponry and supplies from Russia, being trained there, and having thousands of Russian citizens in their ranks.[^sec-donbas-separatists-1]
 
-{{< var todo >}}
+## Who bombed the Donbas?
 
-## B
-
-{{< var todo >}}
-
-## C
-
-{{< var todo >}}
+During the full-scale war, probably every Ukrainian has heard accusations from Russia supporters saying: 
+“Where have you been for eight years when Ukraine bombed the Donbas?” This is one of the most disgusting, 
+but at the same time most popular Russian manipulations, because in fact it was Russia who did all this, see @sec-donbas-genocide.
 
 
-{{ reserved }}
+## Russia startet the conflict
 
+That the conflict was unleashed by Russia is evidenced by the chronology – Donetsk City Council, which at that moment was already controlled by the militants, started to talk about a referendum on “the fate of the Donbass” as early as March 1. Later, the seizures of administrative buildings and the beating and killing of pro-Ukrainian rally participants happened. However, the anti-terrorist operation had not been launched at that time – the Ukrainian government announced it only on April 12. Meanwhile, the so-called “Donetsk People’s Republic” was proclaimed on April 7, and on the same day Putin was asked to send in troops. This was done by the Russian special services’ agents and local collaborators who, with the armed support of the Russian special services, seized power in the region.
+
+
+## Russia invaded Donbas 2014
+
+Novoazovsk was openly captured by the Russian forces, as well as Ilovaisk where directly Russian, and not proxy, troops were deployed. 
+Malaysia Airlines Flight MH17 was downed by a missile launched from a Russian Buk air defense system by a Russian crew which was sent to Donetsk region 
+from the territory of Russia – this has been proved in court in the Netherlands, who found guilty [FSB officer Igor Girkin (alias Igor Strelkov)](https://en.wikipedia.org/wiki/Igor_Girkin), who played a key role in the Russian annexation of Crimea, and then in the Donbas War as an organizer of militant groups in the Donetsk People's Republic (DPR), see @sec-denial-mh17.
+
+
+## Russia sent in its troops
+
+What is more, Russia sent in its troops and despite the phrase “they are not there,” which is already a meme, it actually never bothered to conceal this fact. 
+For example, the mh17-terrorist Igor Girkin, said in 2014:
+
+> "I was the one who pulled the trigger of this war," Strelkov said in an interview published Thursday with Russia's Zavtra newspaper, which espouses imperialist views.  
+>  
+> "If our unit hadn't crossed the border, everything would have fizzled out — like in Kharkiv, like in Odessa. A few dozens of people would be killed, burned, or arrested. And that would be it,"[^sec-donbas-separatists-3]
+
+Even Vladimir Putin in fact confirmed this (note how "cw/wl" at DW have hidden this important confession from the German speaking audience): 
+
+> We never said there were no people there who were carrying out certain tasks including in the military sphere.[^sec-donbas-separatists-4] [^sec-donbas-separatists-5]
+
+
+## Russia sent in its weapons
+
+> Among the combatants from Russia in the separatist areas were an unknown number of cadre soldiers from the Russian armed forces and the Russian Interior Ministry. According to Nikolay Mitrokhin, 40-45 percent of the 20-25,000 combatants in August 2014 were of local origin, including conscripts ... A coordination center in Rostov, Russia, prepared the Russian “volunteers” for their missions in 2014-15, trained them and distributed them to units in the Donbas. Russian professional soldiers were sent to the Donbas on “business trips” or “on vacation” ... The leading officers of the siloviki in the “DNR” and “LNR” all come from Russia or are Russian citizens. Although the budget of the “siloviki” is not public, its financial maintenance is mainly covered by funds from the Russian state budget ...  The equipment of the armed forces in the “DNR” and “LNR” with heavy and light weapons, ammunition, spare parts, fuel and equipment comes mainly from the stocks of the Southern Military District of the Russian Federation [^sec-donbas-separatists-2]. 
+
+
+## Russia sent in its mafia
+
+> Abuse of authority and the intertwining of executive power with criminal self-enrichment are a systematic characteristic of rule in the Donbas (ibid.) 
+
+The mafia-like corruption and totalitarian despotism in Donbass is so bad that even the FSB officer Igor Girkin (alias Igor Strelkov) was upset about it:
+
+[Link to youtube  
+![Screenshot of 4TheRecord video with Girkin](donbas-girkin.jpg){width=60%}](https://www.youtube.com/watch?v=GLzXWNBwoIQ)
+
+
+[^sec-donbas-separatists-1]: Russian separatist forces in Ukraine. Wikipedia. [https://en.wikipedia.org/wiki/Russian_separatist_forces_in_Ukraine](https://en.wikipedia.org/wiki/Russian_separatist_forces_in_Ukraine)
+
+[^sec-donbas-separatists-2]: Andreas Heinemann-Grüder (14.02.2022) Analyse: Die Silowiki in den "Volksrepubliken" Donezk und Luhansk: Entstehung der bewaffneten Einheiten Ukraine-Analyse Nr. 261 Bundeszentrale für politische Bildung. [https://www.bpb.de/themen/europa/ukraine-analysen/nr-261/346847/analyse-die-silowiki-in-den-volksrepubliken-donezk-und-luhansk-entstehung-der-bewaffneten-einheiten](https://www.bpb.de/themen/europa/ukraine-analysen/nr-261/346847/analyse-die-silowiki-in-den-volksrepubliken-donezk-und-luhansk-entstehung-der-bewaffneten-einheiten)
+
+[^sec-donbas-separatists-3]: Anna Dolgov	(Nov. 21, 2014) Russia's Igor Strelkov: I Am Responsible for War in Eastern Ukraine. The Moscow Times. [https://www.themoscowtimes.com/2014/11/21/russias-igor-strelkov-i-am-responsible-for-war-in-eastern-ukraine-a41598](https://www.themoscowtimes.com/2014/11/21/russias-igor-strelkov-i-am-responsible-for-war-in-eastern-ukraine-a41598)
+
+[^sec-donbas-separatists-4]: Putin speaks his mind. Russian President Vladimir Putin has admitted that military personnel were active in east Ukraine, criticized Turkey's leadership and mused on the future of Syria. He did it in front of some 1,400 journalists. (12/17/2015) Deutsche Welle. [https://www.dw.com/en/putin-basks-in-the-limelight-of-global-media/a-18924143](https://www.dw.com/en/putin-basks-in-the-limelight-of-global-media/a-18924143)
+
+[^sec-donbas-separatists-5]: Putin: Keine Versöhnung mit der Türkei. Bei seiner Jahrespressekonferenz teilte der russische Präsident ordentlich aus: Er sehe keinen Raum für eine Einigung mit der Türkei, so Putin. Kritik übte der Kremlchef auch an der Ukraine. Auf die USA ging er aber zu. (17.12.2015).  [https://www.dw.com/de/putin-schlie%C3%9Ft-vers%C3%B6hnung-mit-der-t%C3%BCrkei-aus/a-18924907](https://www.dw.com/de/putin-schlie%C3%9Ft-vers%C3%B6hnung-mit-der-t%C3%BCrkei-aus/a-18924907)

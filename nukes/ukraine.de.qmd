@@ -1,11 +1,11 @@
 # Atomwaffen in der Ukraine? {#sec-nukes-ukraine}
 
-::: {.callout-caution title=„Myth“}
+::: {.callout-caution title=„Mythos“}
 Die Ukraine baut schmutzige Atombomben und strebt nach echten Atombomben.
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Ukraine%7CKyiv%7CKiev)%20(dirty%20bomb%7C(nukes%7Cnuclear))&sort=relevance)
 :::
 
-::: {.callout-tip title=„Truth“}
+::: {.callout-tip title=„Wahrheit“}
 - Die Ukraine gab ihre Atomwaffen auf, aber Russland verletzte das Budapester Memorandum
 - Die Ukraine strebt nicht nach Atomwaffen und hofft stattdessen auf den Schutz der NATO
 :::
