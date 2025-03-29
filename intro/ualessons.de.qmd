@@ -1,10 +1,10 @@
 # Lektionen aus der Ukraine {.unnumbered #sec-intro-ualessons}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 Es gibt nichts, was die EU von der Ukraine lernen kann
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Die EU kann eine Menge darüber lernen, wie sie der russischen hybriden Kriegsführung begegnen kann. Hier konzentrieren wir uns auf die Bekämpfung von Desinformation.
 :::
 

@@ -1,11 +1,11 @@
 # Oval Office Operation {#sec-us-ovaloffice}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 Zelenskij hat das Oval Office nicht respektiert und das Seltene-Erden-Abkommen nicht unterzeichnet, weil er keinen Frieden will.
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Trump%7CVance)%20(Zelenskyj%7CZelenskyi)&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Der demokratische Führer Zelenskyj eines Landes, das unter Krieg und Völkermord leidet, wurde von Donald Trump und J.D. Vance respektlos belästigt und weigerte sich mutig, einen Vertrag zu unterzeichnen, mit dem sich amerikanische Oligarchen schutzlos der ukrainischen Rohstoffe bemächtigen wollten.[^us-ovaloffice-1]
 :::
 

@@ -1,10 +1,17 @@
 # Recommendations {.unnumbered #sec-appendix-recommendations}
 
+## Other dictionaries
+
+- The [Disinformation Glossary](https://www.disinfo.eu/publications/disinformation-glossary-150-terms-to-understand-the-information-disorder/) of the [EU Disinfo Lab](https://www.disinfo.eu)
+- The [Lexicon of Lies](https://datasociety.net/library/lexicon-of-lies/) of [Data&Society](https://datasociety.net/)
+- Claire Wardle's [Information Disorder Glossary](https://journalistsresource.org/politics-and-government/information-disorder-glossary-fake-news/)
+
+
 ## Teaching materials
 
 - Guidelines for teachers and educators on tackling disinformation and promoting digital literacy through education and training (@ECDE:2022:en)
 - How to spot and fight disinformation - Toolkit for teachers (@ECDC:2024:en)
-
+- EU teaching materials for [pupils aged 9 and under](https://learning-corner.learning.europa.eu/learning-materials/tackling-disinformation-and-promoting-digital-literacy_en) and for [pupils aged 15 and over](https://learning-corner.learning.europa.eu/learning-materials/how-spot-and-fight-disinformation_en)   
 
 ## NGOs
 
@@ -22,6 +29,7 @@
 - [dpa fact checking](https://www.dpa.com/en/fact-checking-at-dpa)
 - [DW (Deutsche Welle)](https://www.dw.com/en/fact-check/t-56584214)
 - [BBC reality check](https://www.bbc.com/news/reality_check)
+- [BBC information disorder](https://www.bbc.co.uk/mediaaction/our-work/information-disorder)
 - [CNN facts first](https://edition.cnn.com/politics/fact-check)
 - [Arte politics an society](https://www.arte.tv/en/videos/politics-and-society/)
 

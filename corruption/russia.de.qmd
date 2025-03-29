@@ -1,11 +1,11 @@
 # Korruption in Russland {#sec-corruption-russia}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 Russische Führer kümmern sich um ihr Volk, sind klüger und weniger korrupt als die im Westen
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(corrupt%7Ccorruption)%20russia&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Russland ist ein Mafia-Staat, regiert von Oligarchen, Korruption und Tyrannei
 :::
 

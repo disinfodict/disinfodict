@@ -21,9 +21,14 @@ In order to understand a lie, we need to have it in our short-term memory for a 
 
 ## Desinformation
 
-*Misinformation* is  is incorrect or misleading information (see [Wikipedia](https://en.wikipedia.org/wiki/Misinformation)).
+*Misinformation* is incorrect or misleading information (see [Wikipedia](https://en.wikipedia.org/wiki/Misinformation)).
+
+*Malinformation* is correct information deliberately spread with malign intent (see [Wikipedia](https://en.wikipedia.org/wiki/Malinformation)).
 
 *Disinformation* is misinformation deliberately spread to deceive people (see [Wikipedia](https://en.wikipedia.org/wiki/Disinformation) and [German Government](https://www.bundesregierung.de/breg-de/schwerpunkte/umgang-mit-desinformation/was-ist-desinformation-1875148)).
+
+![Malinformation, Misinformation, Disinformation. Source: [Claire Wardle & Hossein Derakshan, 2017](https://edoc.coe.int/en/media/7495-information-disorder-toward-an-interdisciplinary-framework-for-research-and-policy-making.html)
+<br></br>](MisDisMalInformation.jpg)
 
 Disinformation can be information that is 
 
@@ -33,6 +38,7 @@ Disinformation can be information that is
 - __invented__: completely made up, e.g. prompted AI
 
 Arguably the longest lasting disinformation was likley planted by the Czarist secret service Ochrana: "The Protocols of the Elders of Zion" - a deeply antisemitc pamphlet that is very popular among the far-right, parts of the far-left and islamists until today.
+
 
 In Soviet times "Operation Denver" was launched in which the USSR spread the rumor that AIDS was an US-biological weapon. This should deflect attention from the use of chemical agents in Afghanistan and was partially successful in achieving the wanted outcome.
 

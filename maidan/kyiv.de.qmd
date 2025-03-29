@@ -1,11 +1,11 @@
 # Maidan Kyjiv {#sec-maidan-kyiv}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 Der Maidan war ein von den USA organisierter Putsch
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=maidan%20ukraine%20(kyiv%7Ckiev)&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Der Euro-Maidan war ein Volksaufstand gegen eine von Russland unterwanderte Regierung, welche die gewünschte Annäherung an die EU verhindern wollte.  
 :::
 

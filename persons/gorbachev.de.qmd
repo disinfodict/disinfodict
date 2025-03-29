@@ -1,6 +1,6 @@
 # Personen Gorbatschow {#sec-persons-gorbachev}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 - Gorbatschow war ein friedlicher Mensch 
 - Gorbatschow befreite Ost-Deutschland
 - Gorbatschow befreite die Ukraine
@@ -8,7 +8,7 @@
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Mikhail%20Gorbachev&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 - Gorbatschow hatte keine Wahl, denn die UdSSR war bankrott
 - Gorbatschow hat es mit Tschernobyl vermasselt 
 - Gorbatschow war ein weiterer russischer Führer, der Verbrechen gegen seine Nachbarn beging

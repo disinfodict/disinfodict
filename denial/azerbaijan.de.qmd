@@ -1,6 +1,6 @@
 # Azerbaijan Airlines {#sec-denial-azerbaijan}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 Russland:
 - es waren Vögel
 - es ist nicht passiert
@@ -9,7 +9,7 @@ Russland:
 - so ist Krieg halt
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Russland schoss auf das Flugzeug und verweigerte die Notlandung
 [<br></br>![Link zu Wikipedia: Azerbaijan Airlines Flug 8243](../all_common_img/Wikipedia.png){width=„66%“}](https://de.wikipedia.org/wiki/Azerbaijan-Airlines-Flug_8243)
 :::

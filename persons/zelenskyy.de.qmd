@@ -1,6 +1,6 @@
 # Personen Zelenskyj {#sec-persons-Zelenskyj}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 - Ethnischer Jude Zelenskyj vertuscht die Verherrlichung des Nazismus in der Ukraine
 - Zelenskyj ist der oberste Nazi in Kiew 
 - Das Neonazi-Bataillon Asow regiert die Ukraine, nicht Zelenskyj
@@ -9,7 +9,7 @@
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Volodymyr%20Zelenskyy&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Der jüdische Präsident Zelenskyj zog Munition einer Fahrt vor
 :::
 

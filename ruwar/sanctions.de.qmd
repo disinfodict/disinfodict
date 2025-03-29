@@ -1,13 +1,13 @@
 # Sanktionen {#sec-ruwar-sanctions}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 - Sanktionen treffen den globalen Süden
 - Sanktionen treffen nicht Russland
 - Sanktionen schaden dem Westen
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=sanctions&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Verzerrung, Ablenkung, Verunsicherung:
 - Russische Propagandisten diskreditieren Sanktionen
 - Die russische Wirtschaft leidet

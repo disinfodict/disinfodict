@@ -1,8 +1,8 @@
-# Disinformation Disorder {#sec-us-disinfodisorder}
+# (Dis)Information Disorder {#sec-us-disinfodisorder}
 
 ::: {.callout-caution title="Myth"}
 Lying is free speech
-[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=ukraine%20nation&sort=relevance)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/2021-disinfo-research-highlights/)
 :::
 
 ::: {.callout-tip title="Truth"}
@@ -10,82 +10,217 @@ Disinformation destroys the rule of law and democracy
 :::
 
 
+> What we’re witnessing in America is what happens when disordered discourse captures a political party, then the state itself. The Republican Party was the first to fall - abandoning truth for conspiracy, ideology for grievance, and policy for performative outrage. Now, with its grip on institutions, disordered discourse isn’t just shaping politics - it has overtaken those in power, who now govern as if manufactured narratives were reality, eroding the state and democracy itself from within. Disordered discourse doesn’t just govern through those who believe its manufactured narratives - it forces even those who don’t to submit. To stay in power, they must either bend the knee to the lies or become the next target of the machine they helped create.  
+> ...  
+> Eliot Higgins - Founder and creative director of Bellingcat and director of Bellingcat[^disinfodisorder-29]  
+
+
 ## Free speech
 
-{{< var todo >}}
+On the Munich Security Conference 2025, US Vice-President J.D. Vance attacked Europe allegedly threatening free speech:
 
-> In Britain and across Europe, free speech, I fear, is in retreat. ... sometimes the loudest voices for censorship have come not from within Europe, but from within my own country, where the prior administration threatened and bullied social media companies to censor so-called misinformation ... Now to many of us on the other side of the Atlantic, it looks more and more like old entrenched interests hiding behind ugly Soviet-era words like misinformation and disinformation who simply don’t like the idea that somebody with an alternative viewpoint might express a different opinion or, God forbid, vote a different way or even worse, win an election.
+> In Britain and across Europe, free speech, I fear, is in retreat. ... sometimes the loudest voices for censorship have come not from within Europe, but from within my own country, where the prior administration threatened and bullied social media companies to censor so-called misinformation ... Now to many of us on the other side of the Atlantic, it looks more and more like old entrenched interests hiding behind ugly Soviet-era words like misinformation and disinformation who simply don’t like the idea that somebody with an alternative viewpoint might express a different opinion or, God forbid, vote a different way or even worse, win an election.[^disinfodisorder-1]
 
-https://singjupost.com/full-transcript-vp-jd-vance-remarks-at-the-munich-security-conference/?singlepage=1
+However, there is no threat of free speech in Europe. But in the US. In the month following Trump's inauguration on January 20, 2025, his administration initiated a broad suppression of free expression. This included removing content from federal websites, disciplining media outlets that did not align with the president's rhetoric, and threatening critics of government actions. This approach equates protecting free speech with controlling it, prioritizing government-approved narratives over open discourse.[^disinfodisorder-2]
 
-
-> The discussion of misinformation and disinformation in OP 9 is an unequivocal redline for the United States. These terms are intentionally nebulous and ill-defined so that they can be wielded as tools of censorship ... Another concern we have about this text is its recalling and reframing of Agenda 2030 and the Sustainable Development Goals (SDGs). 
-
-https://usun.usmission.gov/remarks-at-the-general-assembly-58th-plenary-meeting-79th-session/
-
-
-## Bullying
-
-{{< var todo >}}
-
-
-## Threatening
-
-{{< var todo >}}
-
-
-## Double bind
-
-{{< var todo >}}
-
-> Building a mental structure also involves at least two general cognitive mechanisms: enhancement of relevant activation and suppression of irrelevant or inappropriate activation. We suggest that schizophrenics who exhibit verbose disordered discourse have inefficient suppression mechanisms, are impaired in laying a foundation, and tend to shift too often.
-
-Gernsbacher, Tallent And Bolliger (1999 August). Disordered discourse in schizophrenia described by the Structure Building Framework. Discourse Stud.; 1(3): 355–372. doi:10.1177/1461445699001003004. [https://pmc.ncbi.nlm.nih.gov/articles/PMC4255942/pdf/nihms-617691.pdf](http://web.archive.org/web/20241208120650/https://pmc.ncbi.nlm.nih.gov/articles/PMC4255942/pdf/nihms-617691.pdf)
-
-
-## Disinformation disorder
-
-{{< var todo >}}
+While the EU, to a minimum extent, tries to dampen the malign influence of disinformation, the US and particularly MAGA insists on free flow of malinformation under the guise of "free speech". Worse, the Trump administration tries to export (Dis)Information Disorder and tries to restrict the freedom of the EU to properly regulate disinformation and hate in Sillycon Valley social networks.[^disinfodisorder-3]
 
 
 
-## Disinformation traitors
+## Free Press
 
-{{< var todo >}}
+The US, and MAGA in particular, is creating chaos with regard to “free speech” and “free press”: they extend the individual protection to speak freely without fearing consequences (“free speech”) to the right of any useful idiot or foreign propagandist to publish lies to huge audience under the guise of “free press” while simultaneously restricting the freedom of professional journalists, even though they are bound by ethical professional standards. 
 
+The U.S. Constitution addresses the free press in the First Amendment, ratified in 1791 as part of the Bill of Rights. The relevant text states: "Congress shall make no law... abridging the freedom of speech, or of the press." This concise clause prohibits the federal government from enacting laws that restrict the press's ability to publish and disseminate information, ideas, and opinions. Journalistic standards like those from the Society of Professional Journalists encourage accuracy, verification, and fairness, but these are voluntary and not legally binding. 
 
-https://x.com/P_Kallioniemi/status/1895888845717074333
+The European Union, by contrast, does distinguish between "freedom of expression" and "freedom of the press" in its legal framework, though the two are closely linked. The EU Charter of Fundamental Rights (adopted in 2000) addresses them in Article 11: Paragraph 1 guarantees "freedom of expression" for everyone, encompassing the right to hold opinions and share information without interference, while Paragraph 2 specifically protects "freedom and pluralism of the media," emphasizing the press’s role in democracy and its institutional independence. This distinction reflects the EU’s focus on safeguarding media diversity and preventing monopolies or state control, alongside individual speech rights. The European Convention on Human Rights (ECHR), enforced by the European Court of Human Rights, similarly protects "freedom of expression" under Article 10 but often interprets press freedom as a heightened duty due to its public watchdog function (e.g., Sunday Times v. UK, 1979). Unlike the U.S., where obligations are minimal and liability-driven, the EU’s approach blends freedom with a patchwork of national rules and EU-wide rules (2022 Digital Services Act).
 
-Rachel Maddow (28.02.2025 ) 'Who's that good for?': Maddow connects the dots on Donald Trump's behavior toward Russia. MSNBC. [https://www.youtube.com/watch?v=Zn9BTALjtLY](https://www.youtube.com/watch?v=Zn9BTALjtLY)
-
-
-Claire Wardle (September 22, 2020) Understanding Information disorder. First Draft. 
-[https://firstdraftnews.org/long-form-article/understanding-information-disorder/](https://firstdraftnews.org/long-form-article/understanding-information-disorder/)
+The Trump administration excluded the free press - namely AP and Reuters — from the White House press pool[^disinfodisorder-4] and tried to shutdown Radio Free Europe (RFE) and Radio Liberty (RL).[^disinfodisorder-5]:  
 
 
+## Free Radio
 
-> America is in a crisis of trust and truth. Bad information has become as prevalent, persuasive, and persistent as good information, creating a chain reaction of harm. It makes any health crisis more deadly. It slows down response time on climate change. It undermines democracy. 
+Radio Free Europe (RFE) and Radio Liberty (RL), merged as RFE/RL in 1976, have been vital tools for the United States since their inception during the Cold War. Established to counter Soviet propaganda, they provided uncensored news and information to millions in Eastern Europe, the Soviet Union, and later other regions like Central Asia and the Middle East where free press was suppressed. By broadcasting in local languages, RFE/RL empowered dissidents, exposed regime abuses, and fostered resistance, significantly contributing to the collapse of communist regimes. For the U.S., they served as a soft power instrument, promoting democratic values and countering authoritarian narratives, thus enhancing national security and global influence.
 
-Commission on Information Disorder (November 2021). Final Report. Aspen Institute.
-[https://www.aspeninstitute.org/publications/commission-on-information-disorder-final-report/](https://www.aspeninstitute.org/publications/commission-on-information-disorder-final-report/)
-
-
-
-> The prize competition, announced in November, seeks to fund unique and innovative projects that make meaningful progress towards ending information disorder, in direct connection to one or more of the Aspen Institute’s Commission on Information Disorder’s 15 recommendations for government, industry, and civil society.
-
-Commission on Information Disorder (May 3, 2022). Information Disorder Prize Competition: Final Pitch Event. Aspen Institute. 
-[https://www.aspeninstitute.org/events/information-disorder-prize-competition-final-pitch-event/](https://www.aspeninstitute.org/events/information-disorder-prize-competition-final-pitch-event/)
+The attempt to shut down RFE/RL in March 2025, initiated by the Trump administration through funding cuts by the U.S. Agency for Global Media, reflects a shortsighted cost-cutting move, influenced by figures like Elon Musk who criticized it as wasteful. This effort, halted by a federal judge on March 26, 2025, risked abandoning a proven asset at a time when disinformation from adversaries like Russia and China is rampant. Critics argue it would weaken U.S. credibility and cede the information space to hostile powers, a view supported by RFE/RL’s ongoing relevance in reaching 47 million people weekly. The judicial block suggests a recognition of its statutory role and public value, though the underlying debate over its funding reveals tensions between fiscal priorities and strategic interests.
 
 
+## Free Science
+
+The MAGA movement has grown through disinformation and is therefore waging a cultural war against any attempt to name and sanction disinformation as such. This leads to serious damage for the US and absurdly comical ones. It seems that DOGE is acting against Truth and Science as such. [^disinfodisorder-21] [^disinfodisorder-30] [^disinfodisorder-31] [^disinfodisorder-22] [^disinfodisorder-23] 
+
+The USA was the only country in the United Nations to vote against UN Resolution A/79/L.54, which proposed an “International Day of Hope”.
+
+> The discussion of misinformation and disinformation in OP 9 is an unequivocal redline for the United States. These terms are intentionally nebulous and ill-defined so that they can be wielded as tools of censorship ... Another concern we have about this text is its recalling and reframing of Agenda 2030 and the Sustainable Development Goals (SDGs).[^disinfodisorder-32]
+
+![Results of UN Resolution on "International Day of Hope"](InternationalDayOfHope.jpeg)
 
 
-> Research is a generational task with uncertain outcomes
-
-To make a long story short: the US with its concept of "free speech" failed to counter Disinformation Disorder. 
-
-Jon Bateman & Dean Jackson (January 31, 2024). Countering Disinformation Effectively: An Evidence-Based Policy Guide. Carnegie Technology and International Affairs Program. [https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)
+All this suggestes, that the US is suffering from a severe episode of (Dis)Information-Disorder. 
 
 
-> What we’re witnessing in America is what happens when disordered discourse captures a political party, then the state itself. The Republican Party was the first to fall - abandoning truth for conspiracy, ideology for grievance, and policy for performative outrage. Now, with its grip on institutions, disordered discourse isn’t just shaping politics - it has overtaken those in power, who now govern as if manufactured narratives were reality, eroding the state and democracy itself from within. Disordered discourse doesn’t just govern through those who believe its manufactured narratives - it forces even those who don’t to submit. To stay in power, they must either bend the knee to the lies or become the next target of the machine they helped create.  
-> ... 
-> Democracies weren’t built around this. They depend on a shared reality, however contested, to function. When governance becomes a battle between competing fictions rather than policy and truth, institutions designed for debate and compromise become tools for enforcing narratives.The end result is what we’re seeing in the U.S. - a democracy struggling to function because its institutions are trapped in disordered discourse. Governance isn’t about solving problems; it’s about demonstrating loyalty to manufactured narratives. If you think this can’t happen outside the U.S., consider that we’re all subject to the same forces - social media-driven discourse, collapsing institutional trust, and the rise of narratives untethered from reality. It’s a systemic vulnerability in every democracy. We need to consider what this means for our democracies at the most fundamental level. If governance is shaped by engagement-driven narratives over reality, how do institutions survive? If truth is irrelevant to power, what stops disordered discourse from capturing the state everywhere? 
+## Disordered Discourse
+
+The term "Information Disorder" finds early conceptual roots in psychological studies of "disordered discourse", particularly linked to schizophrenia. Research published in 2014 explored how schizophrenic individuals exhibit fragmented communication patterns, often termed "disordered discourse," where coherence breaks down due to cognitive disruptions. This study suggested that such patterns reflect an overload or misprocessing of information, a precursor to broader discussions of Information Disorder. Schizophrenia, characterized by delusions and disorganized thinking, provided a clinical lens through which researchers began to frame information processing failures. While not explicitly labeled "Information Disorder" in this context, the parallels—confusion, mistrust, and inability to filter reality—laid groundwork for its later expansion into a societal and cognitive framework:
+
+> Building a mental structure also involves at least two general cognitive mechanisms: enhancement of relevant activation and suppression of irrelevant or inappropriate activation. We suggest that schizophrenics who exhibit verbose disordered discourse have inefficient suppression mechanisms, are impaired in laying a foundation, and tend to shift too often.[^disinfodisorder-8]
+
+
+## Cognitive Immunology
+
+"Cognitive immunology" is an emerging interdisciplinary field studying how mental processes in healthy individuals resist or succumb to misinformation.[^2] Drawing from psychology and neuroscience, it posits that the mind has "immune-like" mechanisms—such as critical thinking and source evaluation—that protect against false narratives. Research highlights that these defenses, while effective, can also overreact, leading to the dismissal of valid information when it conflicts with pre-existing beliefs.[^disinfodisorder-10] [^disinfodisorder-11] 
+
+So far this science is still nascent with limited empirical consensus. The website [cognitiveimmunology.net](cognitiveimmunology.net) tracks progress. The  [Mental Immunity Project](mentalimmunityproject.org) provides learning and teaching materials. 
+
+
+## Double Bind
+
+Gregory Bateson’s "Double Bind" theory, developed in the 1950s, describes a communication dilemma where conflicting messages trap individuals in no-win situations, severely impacting mental health, particularly if the sender has power over the receiver such that the receiver must try to fulfill the conflicting messages. For schizophrenic individuals, this dynamic—such as a parent demanding affection while rejecting it—exacerbates confusion and withdrawal, potentially triggering psychotic breaks. In mentally healthy people, repeated exposure to double binds (e.g., societal expectations clashing with reality) fosters anxiety, distrust, and cognitive exhaustion. Bateson argued that such contradictions, when inescapable, erode rational processing, a concept later tied to Information Disorder’s mental toll. The theory underscores how paradoxical messaging—prevalent in modern media—destabilizes both vulnerable and stable minds.[^disinfodisorder-12] 
+
+
+## Information Disorder
+
+"Information Disorder", as a societal issue, describes the rampant spread of misinformation, disinformation, and malinformation, undermining trust and civic cohesion.[^disinfodisorder-9] It gained prominence in the digital age, with roots in the 2010s when social media amplified fragmented narratives. Key drivers include the decline of traditional journalism, algorithmic bias, and geopolitical tensions. Claire Wardle frames it as a crisis of epistemology, where distinguishing truth becomes nearly impossible. Fuelled by technological advances and eroded gatekeeping, it has evolved into a "disorder" threatening democratic stability, with research highlighting its acceleration during events like the 2016 (and obviously 2024) U.S. election. [^disinfodisorder-13] [^disinfodisorder-14] [^disinfodisorder-15]
+
+> Information disorder is a crisis that exacerbates all other crises. When bad information becomes as prevalent, persuasive, and persistent as good information, it creates a chain reaction of harm ... It undermines democracy.[^disinfodisorder-16]
+
+
+## Affected Countries 
+
+(Dis)Information Disorder is a worldwide problem, but particularly in countries with high internet penetration and polarized societies—such as the United States, Brazil, India, and the Philippines—have been notably afflicted since the mid-2010s. The U.S. saw a surge post-2016, tied to election interference; Brazil faced similar issues during its 2018 election; India grapples with WhatsApp-driven rumors since 2017; and the Philippines has battled disinformation campaigns since Duterte’s 2016 rise. These nations, marked by rapid digital adoption and political division, became fertile ground for Information Disorder.
+
+> Demokratien wurden nicht dafür geschaffen. Sie sind auf eine gemeinsame, wenn auch umstrittene Realität angewiesen, um zu funktionieren. Wenn das Regieren zu einem Kampf zwischen konkurrierenden Fiktionen wird und nicht zwischen Politik und Wahrheit, werden Institutionen, die für Debatten und Kompromisse gedacht sind, zu Instrumenten zur Durchsetzung von Narrativen. Das Endergebnis ist das, was wir in den USA sehen - eine Demokratie, die um ihr Funktionieren kämpft, weil ihre Institutionen in einem Gestörten Diskurs gefangen sind. Beim Regieren geht es nicht um die Lösung von Problemen, sondern darum, Loyalität gegenüber fabrizierten Narrativen zu demonstrieren. Wenn Sie glauben, dass dies außerhalb der USA nicht passieren kann, sollten Sie bedenken, dass wir alle den gleichen Kräften ausgesetzt sind - dem von den sozialen Medien gesteuerten Diskurs, dem schwindenden Vertrauen in die Institutionen und dem Aufkommen von Erzählungen, die sich von der Realität abkoppeln. Das ist eine systemische Schwachstelle in jeder Demokratie. Wir müssen darüber nachdenken, was dies für unsere Demokratien auf der grundlegendsten Ebene bedeutet. Wie können Institutionen überleben, wenn die Regierungsführung durch engagierte Narrative und nicht durch die Realität bestimmt wird? Wenn die Wahrheit für die Macht irrelevant ist, was hält dann einen Gestörten Diskurs davon ab, den Staat überall zu erobern?  
+>  
+> Eliot Higgins - Gründer und kreativer Leiter von Bellingcat und Leiter von Bellingcat[^disinfodisorder-29]  
+
+
+## Akteure und Motive
+
+Die Akteure, die Informationsstörungen verursachen, reichen von staatlich geförderten Gruppen bis hin zu einzelnen Akteuren. Untersuchungen von osf.io zeigen, dass Russland, [^disinfodisorder-17] China und der Iran die Hauptakteure sind, die Desinformationen einsetzen, um Rivalen zu destabilisieren oder die öffentliche Meinung zu beeinflussen, um geopolitische Vorteile zu erzielen. Inländische Akteure, darunter politische Agenten und profitorientierte Inhaltsersteller, verstärken spaltende Darstellungen, um Macht oder Einnahmen zu erzielen. Die Motive sind unterschiedlich: Staaten versuchen, Einfluss zu nehmen, Extremisten wollen radikalisieren, und Betrüger nutzen Klicks aus. Aktuelle Diskussionen auf X deuten auch auf koordinierte Bemühungen von Bots und Troll-Farmen hin, obwohl dies aufgrund der mangelnden Transparenz der X-Algorithmen schwer zu beweisen ist.
+
+
+## Fighting (Dis)Info Disorder
+
+Measures against (Dis)Information Disorder are suggested, but remarks like "Psycho-social counseling may be necessary for every individual who is suffering from information disorder syndrome" prove that those measures don't scale to the size of the problem.[^disinfodisorder-18] 
+
+Measures like "increasing media literacy" are definitely needed, but fail to help in the short or medium term. This is too slow.  Waiting for scientific evidence before acting is even slower:[^disinfodisorder-22] [^disinfodisorder-23]
+
+> Research is a generational task with uncertain outcomes[^disinfodisorder-19]
+
+Even adults with media literacy today are susceptible to fall for the devastating incentive structure of social networks:
+
+> The biggest lie of all, which this crisis thrives on, and which the beneficiaries of mis- and disinformation feed on, is that the crisis itself is uncontainable ... In reality, merely elevating truthful content is not nearly enough to change our current course. There is an incentive system in
+place that manufactures information disorder ... If we want to reduce information disorder, there are structural changes that we can and must make to our information ecosystem, and there are rules that we can and must implement to better govern the decisions and behavior of information platforms and propagators. [^disinfodisorder-16]
+
+The small scale scope of the Information Disorder Prize Competition of the Aspen Institute[^disinfodisorder-20] proves one thing: that the US failed to implement the obviously neccessary regulations of social networks and penalizing lies of malicious actors in those networks. 
+
+
+## Lost fight in U.S.
+
+The re-election of the conviced criminal Donald Trump in November 2024 is strong evidence that the U.S. democracy lost the fight against (Dis)Information Disorder. Trump was re-elected although he was known to be a liar from his first presidency,[^disinfodisorder-28], although everybody knew he had tried overthrow the government with the Capitol insurrection on Jan 6[^disinfodisorder-6] [^disinfodisorder-7] and although MAGA had anounced with "project 2025" a detailed plan to dismantle the state and democracy:
+
+> Our goal is to assemble an army of aligned, vetted, trained, and prepared conservatives to go to work on Day One to deconstruct the Administrative State.[^disinfodisorder-24]
+
+The Heritage Fondation, who is behind Project 2025, was so kind to compile a list of more than 30 individuals that need to go to jail because of their participation in dismantling democracy.[^disinfodisorder-25] 
+
+Trump was even elected, although he - three times - promised that once he is elected, this would have been the last election in the US:
+
+> Christians, get out and vote! Just this time – you won’t have to do it any more.  
+>   
+> You know what? It’ll be fixed! It’ll be fine. You won’t have to vote any more, my beautiful Christians.
+>  
+> I love you. Get out – you gotta get out and vote. In four years, you don’t have to vote again. We’ll have it fixed so good, you’re not gonna have to vote.[^disinfodisorder-26] 
+
+The website [democracy2025.org](https://www.democracy2025.org) tracks attempts to stop or slow down Project 2025.
+
+
+## Double Bind in the Oval Office
+
+The Oval Office meeting involving Ukrainian President Volodymyr Zelenskyy, U.S. President Donald Trump, and Vice President J.D. Vance exemplifies a "Double Bind." Trump and Vance pressed Zelenskyy to align with U.S. interests while simultaneously questioning Ukraine’s reliability—creating a no-win scenario, see @sec-us-ovaloffice. Zelenskyy faced a bind: concede and lose autonomy or resist and risk aid cuts. This mirrors Bateson’s theory, where contradictory demands (support us, but we doubt you) foster confusion and weaken resolve, amplifying Information Disorder’s political impact.
+
+
+## Russia in the Oval Office
+
+For disinformation experts familiar with russian active measures it does not come as a surprise that Trump is alligning with Putin:[^disinfodisorder-27] 
+
+> - Trump has been pro-Russia since the 70s, and his sons said that they made a lot of money from Russia  
+> - Russians helped Trump win the presidency in 2016  
+> - Trump sucked up to Putin already back in 2018, and even gave classified information to Lavrov  
+> - Trump despises Zelenskyy because he didn't provide any dirt on the Bidens about the Burisma case in 2019  
+> - Trump lifted sanctions against Russian oligarchs and wanted to invite Russia back to G7 in 2019  
+> - Trump stalled 400 million aid and Javelin sales to Ukraine  
+> - Trump and Mike Johnson stalled Ukraine aid for 7 months in congress  
+> - Trump administration is full of pro-Kremlin actors who have blamed NATO and Ukraine for the war. These include Tulsi Gabbard, RFK Jr. and JD Vance  
+> - Trump has never criticized Putin yet he called Zelenskyy a 'dictator'  
+
+[![Rachel Maddow (28.02.2025) 'Who's that good for?': Maddow connects the dots on Donald Trump's behavior toward Russia. Screenshot from MSNBC-Video](Screnshot_Video_MaddowConnectsTheDots_MSNBC.jpg)](https://www.youtube.com/watch?v=Zn9BTALjtLY)
+
+
+
+
+[^disinfodisorder-1]: JD Vance`s Speech to the Munich Security Conference (14 February 2025) [https://www.brugesgroup.com/blog/jd-vance-s-speech-to-the-munich-security-conference](https://www.brugesgroup.com/blog/jd-vance-s-speech-to-the-munich-security-conference)
+
+[^disinfodisorder-2]: The Editorial board (2025, Feb. 28) The MAGA War on Speech, NYT. [https://www.nytimes.com/2025/02/28/opinion/free-speech-trump-maga.html](https://www.nytimes.com/2025/02/28/opinion/free-speech-trump-maga.html)
+
+[^disinfodisorder-3]: MAGA on a writing spree to protect tech from ‘censorship’ (Feb 28, 2025) Euractiv. [https://www.euractiv.com/section/tech/news/maga-on-a-writing-spree-to-protect-tech-from-censorship/](https://www.euractiv.com/section/tech/news/maga-on-a-writing-spree-to-protect-tech-from-censorship/)
+
+[^disinfodisorder-4]: How Trump’s press pool takeover harms public — including red states ( Feb. 27, 2025) Freedom of the Press Foundation. [https://freedom.press/issues/how-trumps-press-pool-takeover-harms-public-including-red-states/](https://freedom.press/issues/how-trumps-press-pool-takeover-harms-public-including-red-states/)
+
+[^disinfodisorder-5]: Judge freezes Trump plan to dismantle Radio Free Europe/Radio Liberty (2025, March 26) NPR. [https://www.npr.org/2025/03/26/nx-s1-5341321/trump-radio-free-europe-radio-liberty-restraining-order](https://www.npr.org/2025/03/26/nx-s1-5341321/trump-radio-free-europe-radio-liberty-restraining-order)
+
+[^disinfodisorder-6]: Michael Klarman (2021 Jan 28) Who was Responsible for January 6th?. Harvard Advanced Leadership Initiative - Social Impact Review. [https://www.sir.advancedleadership.harvard.edu/articles/who-was-responsible-for-january-6th](https://www.sir.advancedleadership.harvard.edu/articles/who-was-responsible-for-january-6th)
+
+[^disinfodisorder-7]: Trump ‘lit that fire’ of Capitol insurrection, Jan 6 Committee report says. (Dec 23, 2022) PBS News. [https://www.pbs.org/newshour/politics/trump-lit-that-fire-of-capitol-insurrection-jan-6-committee-report-says](https://www.pbs.org/newshour/politics/trump-lit-that-fire-of-capitol-insurrection-jan-6-committee-report-says)
+
+[^disinfodisorder-8]: Elvevåg, B., et al. (2014). "Quantifying Incoherence in Speech: An Automated Analysis of Schizophrenia." PMC4255942. [https://pmc.ncbi.nlm.nih.gov/articles/PMC4255942/pdf/nihms-617691.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC4255942/pdf/nihms-617691.pdf)
+
+[^disinfodisorder-9]: Psychology Today. (2021). "What Is Cognitive Immunology?" [https://www.psychologytoday.com/us/blog/mental-immunity/202104/what-is-cognitive-immunology](https://www.psychologytoday.com/us/blog/mental-immunity/202104/what-is-cognitive-immunology)
+
+[^disinfodisorder-10]: Kahan, Dan M., Misinformation and Identity-Protective Cognition (October 2, 2017). Yale Law & Economics Research Paper No. 587, Available at SSRN: [https://ssrn.com/abstract=3046603](https://ssrn.com/abstract=3046603)
+
+[^disinfodisorder-11]: Norman, A., Johnson, L. and van der Linden, S. (2024). "Cognitive Defenses and Their Limits." Journal of Theoretical and Philosophical Psychology. [https://psycnet.apa.org/fulltext/2025-55535-001.html](https://psycnet.apa.org/fulltext/2025-55535-001.html)
+
+[^disinfodisorder-12]: Padraic Gibson D. (February 20, 2024)  Speak Your Mind, but Not Like That: The Double Bind Theory. Bateson's theory shows communication affects mental health and relationships. Psychology Today. [https://www.psychologytoday.com/ca/blog/escaping-our-mental-traps/202402/speak-your-mind-but-not-like-that-the-double-bind-theory](https://www.psychologytoday.com/ca/blog/escaping-our-mental-traps/202402/speak-your-mind-but-not-like-that-the-double-bind-theory)
+
+[^disinfodisorder-13]: Claire Wardle (2020) "The Age of Information Disorder" [https://datajournalism.com/read/handbook/verification-3/investigating-disinformation-and-media-manipulation/the-age-of-information-disorder](https://datajournalism.com/read/handbook/verification-3/investigating-disinformation-and-media-manipulation/the-age-of-information-disorder)
+
+[^disinfodisorder-14]: Claire Wardle (September 22, 2020 ) "Understanding Information Disorder" [https://firstdraftnews.org/long-form-article/understanding-information-disorder/](https://firstdraftnews.org/long-form-article/understanding-information-disorder/)
+
+[^disinfodisorder-15]: Claire Wardle and Hossein Derakhshan (October 31, 2017). "Information Disorder: Toward an interdisciplinary framework for research and policymaking". Shorenstein Center [https://shorensteincenter.org/information-disorder-framework-for-research-and-policymaking](https://shorensteincenter.org/information-disorder-framework-for-research-and-policymaking)
+
+[^disinfodisorder-16]: Commission on Information Disorder (November 2021). "Final Report." Aspen Institute. [https://www.aspeninstitute.org/publications/commission-on-information-disorder-final-report/](https://www.aspeninstitute.org/publications/commission-on-information-disorder-final-report/)
+
+[^disinfodisorder-17]: Gustavo Adolfo Rivero-Ortiz, Felipe Valencia-Clavijo, and Andrés Peña-Galindo  (2024-11-09). "Russian Information Disorder in Colombia?   The Case of RT’s Inna Afinogenova on Twitter" [https://osf.io/preprints/socarxiv/hjexb_v1](https://osf.io/preprints/socarxiv/hjexb_v1)
+
+[^disinfodisorder-18]: Nirmal Kandel (2020 Apr 30). "Information Disorder Syndrome and its Management". JNMA J Nepal Med Assoc;58(224):280–285. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7580464/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7580464/)
+
+[^disinfodisorder-19]: Jon Bateman and Dean Jackson (January 31, 2024). "Countering Disinformation Effectively: An Evidence-Based Policy Guide" Carnegie Endowment for International Peace. [https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)
+
+[^disinfodisorder-20]: Information Disorder Prize Competition: Final Pitch Event. (May 3, 2022). Aspen Institute. [https://www.aspeninstitute.org/events/information-disorder-prize-competition-final-pitch-event/](https://www.aspeninstitute.org/events/information-disorder-prize-competition-final-pitch-event/)
+
+[^disinfodisorder-21]: Casey Newton and Zoë Schiffer (Jun 13, 2024) The Stanford Internet Observatory is being dismantled. Platformer. [https://www.platformer.news/stanford-internet-observatory-shutdown-stamos-diresta-sio/](https://www.platformer.news/stanford-internet-observatory-shutdown-stamos-diresta-sio/)
+
+[^disinfodisorder-22]: Kai Kupferschmidt (31 Oct 2024) A field’s dilemmas. Misinformation research has exploded. But scientists are still grappling with fundamental challenges. Science. [https://www.science.org/content/article/five-biggest-challenges-facing-misinformation-researchers](https://www.science.org/content/article/five-biggest-challenges-facing-misinformation-researchers)
+
+[^disinfodisorder-23]: Sarah Crespi and Kai Kupferschmidt (31 Oct 2024) The challenges of studying misinformation, and what Wikipedia can tell us about human curiosity. Science. [https://www.science.org/content/podcast/challenges-studying-misinformation-and-what-wikipedia-can-tell-us-about-human-curiosity](https://www.science.org/content/podcast/challenges-studying-misinformation-and-what-wikipedia-can-tell-us-about-human-curiosity)
+
+[^disinfodisorder-24]: Project 2025 - Policy Agenda (2023 April 20) [https://www.project2025.org/policy/](https://www.project2025.org/policy/)
+
+[^disinfodisorder-25]: Project 2025 Publishes Comprehensive Policy Guide, ‘Mandate for Leadership: The Conservative Promise’ (Apr 21, 2023) Heritage Foundation. [https://www.heritage.org/press/project-2025-publishes-comprehensive-policy-guide-mandate-leadership-the-conservative-promise](https://www.heritage.org/press/project-2025-publishes-comprehensive-policy-guide-mandate-leadership-the-conservative-promise)
+
+[^disinfodisorder-26]: Trump tells supporters they won’t have to vote in the future: ‘It’ll be fixed!’. Former president implores Christian supporters to vote ‘just this time ... in four years, you don’t have to vote again’. (27 Jul 2024). The Guardian. [https://www.theguardian.com/us-news/article/2024/jul/27/trump-speech-no-need-to-vote-future](https://www.theguardian.com/us-news/article/2024/jul/27/trump-speech-no-need-to-vote-future)
+
+[^disinfodisorder-27]: Pekka Kallioniemi (2025 March 1st)  I'm sorry, but the 'peace through strength' crowd expecting Trump to resist Putin was delusional from the start. [https://x.com/P_Kallioniemi/status/1895888845717074333](https://x.com/P_Kallioniemi/status/1895888845717074333)
+
+[^disinfodisorder-28]: Final tally of lies: Analysts say Trump told 30,000 mistruths – that’s 21 a day – during presidency (21 January 2021) Independent. [https://www.independent.co.uk/news/world/americas/us-election-2020/trump-lies-false-presidency-b1790285.html](https://www.independent.co.uk/news/world/americas/us-election-2020/trump-lies-false-presidency-b1790285.html)
+
+[^disinfodisorder-29]: Eliot Higgins (2025 February 28) Post on Blueksy [https://bsky.app/profile/eliothiggins.bsky.social/post/3ljbf5eosy22k](https://bsky.app/profile/eliothiggins.bsky.social/post/3ljbf5eosy22k)
+
+[^disinfodisorder-30]: Musk and Ramaswamy’s DOGE Strategy: Bully Federal Scientists (January 15, 2025). Union of Concerned Scientists. [https://blog.ucs.org/karen-perry-stillerman/musk-and-ramaswamys-doge-strategy-bully-federal-scientists/])(https://blog.ucs.org/karen-perry-stillerman/musk-and-ramaswamys-doge-strategy-bully-federal-scientists/)
+
+[^disinfodisorder-31]: CASC Condemns Mass Firing of Science Agency Employees, Urges Preservation of U.S. Scientific Leadership  (February 26, 2025) Coalition for Academic Scientific Computation (CASC). [https://casc.org/policy-publications/casc-condemns-mass-firing-of-science-agency-employees-urges-preservation-of-u-s-scientific-leadership/](https://casc.org/policy-publications/casc-condemns-mass-firing-of-science-agency-employees-urges-preservation-of-u-s-scientific-leadership/)
+
+[^disinfodisorder-32]: Remarks at the General Assembly: 58th plenary meeting, 79th session (March 4 2025). U.S. Mission to the United Nations (USUN). [https://usun.usmission.gov/remarks-at-the-general-assembly-58th-plenary-meeting-79th-session/](https://usun.usmission.gov/remarks-at-the-general-assembly-58th-plenary-meeting-79th-session/)
+
+
+

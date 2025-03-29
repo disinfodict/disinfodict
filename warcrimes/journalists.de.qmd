@@ -1,12 +1,12 @@
 # Kriegsverbrechen - Journalisten {#sec-kriegsverbrechen-journalisten}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 - Journalisten reisen in die Ukraine, um Verbrechen zu begehen.
 - Die Ukraine tötet Journalisten.
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(crimes%7Ccriminals)%20(civilian%7Ccivilians)&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Russland ermordete mehr als 100 Journalisten in der Ukraine.
 :::
 

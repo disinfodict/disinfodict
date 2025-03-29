@@ -1,13 +1,13 @@
 # Russische Werte {#sec-russia-values}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 - Russland ist besser als der Westen
 - Russland steht für Werte und Putin sorgt für Ordnung
 - Russland ist die letzte 'Verteidigungslinie für traditionelle Werte'
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(russia%7Crussian)%20values&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Russland ist beschissen ... sogar in Moskau
 :::
 

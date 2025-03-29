@@ -4,13 +4,13 @@
 \index{Wahlen}
 \index{Demokratie}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 - Die Ukraine ist keine Demokratie
 - Ukrainer stimmen für Russland  
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(referendum%7Celections%7Coligarchy)%20Ukraine&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 - In allen Regionen der Ukraine stimmte eine Mehrheit für die Unabhängigkeit 
 - Bis zur russischen Invasion gab es in der Ukraine freie Wahlen und friedliche Regierungswechsel
 - Die Ukrainer wollen volle Demokratie als EU-Mitgliedstaat

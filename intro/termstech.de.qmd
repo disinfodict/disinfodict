@@ -1,10 +1,10 @@
 # Begriffe & Techniken {.unnumbered #sec-intro-termstech}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 So etwas wie Wahrheit gibt es nicht.
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Die Propaganda versucht, unseren Sinn für Wahrheit zu zerstören und uns im Interesse anderer in die Irre zu führen.
 :::
 
@@ -22,7 +22,13 @@ Um eine Lüge zu verstehen, müssen wir sie für einen Moment in unserem Kurzzei
 
 *Fehlinformation* ist eine falsche oder irreführende Information (siehe [Wikipedia](https://en.wikipedia.org/wiki/Misinformation)).
 
+*Bösinformation* (Malinformation) ist eine korrekte Information, die absichtlich in böser Absicht verbreitet wird (siehe [Wikipedia](https://en.wikipedia.org/wiki/Malinformation)).
+
 *Desinformation* ist eine Fehlinformation, die absichtlich verbreitet wird, um Menschen zu täuschen (siehe [Wikipedia](https://de.wikipedia.org/wiki/Desinformation) und [Deutsche Regierung](https://www.bundesregierung.de/breg-de/schwerpunkte/umgang-mit-desinformation/was-ist-desinformation-1875148)).
+
+![Malinformation, Misinformation, Disinformation. Source: [Claire Wardle & Hossein Derakshan, 2017](https://edoc.coe.int/en/media/7495-information-disorder-toward-an-interdisciplinary-framework-for-research-and-policy-making.html)
+<br></br>](MisDisMalInformation.jpg)
+
 
 Desinformation kann eine Information sein, die 
 

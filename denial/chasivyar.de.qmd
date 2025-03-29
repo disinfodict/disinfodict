@@ -1,11 +1,11 @@
 # Tschasiw Jar Raketenangriff {#sec-denial-chasivyar}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 Russland: Wir haben einen "temporären Aufmarschpunkt" einer ukrainischen Territorialverteidigungseinheit getroffen
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Bucha&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Russland tötete 34 Zivilisten, darunter ein Kind
 [<br></br>![Link to Wikipedia: Chasiv Yar missile strike](../all_common_img/Wikipedia.png){width=„66%“}](https://en.wikipedia.org/wiki/July_2022_Chasiv_Yar_missile_strike)
 :::

@@ -1,12 +1,12 @@
 # Kriegsverbrechen – nuklear {#sec-warcrimes-nuclear}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 - Die Ukraine hat ihre eigenen Atomkraftwerke beschossen
 - Russisches Bombardement war legitim, weil die Ukraine Waffen in Atomanlagen versteckt hat
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20(nuclear%7Catom%7CZaporizhzhia%7CChernobyl)&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Russland hat ukrainische Atomkraftwerke illegal beschossen und besetzt
 :::
 

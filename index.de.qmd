@@ -1,5 +1,8 @@
 # Willkommen {.unnumbered}
 
+> Eine feine Linie trennt in der Vergangenheit die Lüge von der Wahrheit, aber in der Zukunft gibt es keine Linie mehr.  
+> — Lesja Ukrainka, Cassandra (1907)
+
 Das **Desinfo-Lexikon** ist eine gut organisierte, durchsuchbare und verlinkbare Online-Ressource, die chronische russische Narrative mit ausgewählten Fakten über Russlands Krieg gegen die Ukraine widerlegt. Desinfo-Lexikon richtet sich an verschiedene Zielgruppen: Es ist eine **Zeitersparnis für Journalisten, Faktenchecker, Desinformationsaktivisten, Nutzer sozialer Netzwerke und alle Bürger, die zuverlässige Informationen über Russland und die Ukraine suchen**. Desinfo-Lexikon ist sowohl ein Web-Lexikon zum Suchen und Nachschlagen als auch ein strukturiertes Buch, das von Anfang bis Ende gelesen werden kann. Es kann online gelesen werden, auf dem Smartphone, oder als pdf oder epub heruntergeladen werden; mit einem Screenreader dient das epub als Hörbuch. Desinfo-Lexikon ist zweisprachig (deutsch/englisch), kostenlos, quelloffen und erweiterbar und füllt eine Lücke zwischen der riesigen [EUvsDisinfo-Datenbank](https://euvsdisinfo.eu/disinformation-cases/) des diplomatischen Dienstes der EU und Wikipedia. 
 
 Wir hoffen dass Desinfo-Lexikon dazu beiträgt, die grassierende Propaganda Russlands zu seinem Krieg in der Ukraine zu reduzieren, und damit zu einer resilienteren Gesellschaft und zur Sicherheit in Europa beizutragen. **read. share. join.**

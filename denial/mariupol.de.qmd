@@ -1,13 +1,13 @@
 # Theater in Mariupol {#sec-denial-mariupol}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 - Die Bombardierung war inszeniert
 - Russland greift niemals zivile Ziele an
 - Ukrainische Nazis haben es getan
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=mariupol&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Die Bombardierung des Theaters war Teil des beabsichtigen russischen Genozids an der Zivilbevölkerung von Mariupol.
 [<br></br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Luftangriff_auf_das_Theater_von_Mariupol)
 :::

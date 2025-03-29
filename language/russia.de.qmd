@@ -1,11 +1,11 @@
 # Russische Sprache {#sec-language-russia}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 Russische Sprache ist in der Ukraine verboten
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20language&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 - In der modernen Ukraine waren Russisch und Ukrainisch die offiziellen Sprachen.
 - Nach einer Geschichte der russischen Unterdrückung und der vollständigen russischen Invasion wenden sich viele Ukrainer von der russischen Sprache ab.
 - Russisch ist immer noch erlaubt

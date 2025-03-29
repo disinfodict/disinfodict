@@ -3,13 +3,13 @@
 \index{Nazis}
 \index{Nazis!Ukraine}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 - Die Ukraine ist voller Nazis
 - Deutschland schuldet Russland den Kampf gegen Nazis
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nazis%20(ukraine%7Ckyiv%7Ckiev)&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 - Russland diffamiert Nationalisten als Nazis: Rechtsextreme Parteien spielen in der Ukraine keine Rolle
 - Deutschland schuldet vor allem der Ukraine den Kampf gegen Völkermord
 :::

@@ -1,11 +1,19 @@
 # Empfehlungen {.unnumbered #sec-appendix-recommendations}
 
+## Andere Lexika
+
+- Das [Desinformations-Glossar](https://www.disinfo.eu/publications/disinformation-glossary-150-terms-to-understand-the-information-disorder/) des [EU Disinfo Lab](https://www.disinfo.eu)
+- Das [Lügenlexikon](https://datasociety.net/library/lexicon-of-lies/) der [Data&Society](https://datasociety.net/)
+- Claire Wardles [Information Disorder Glossary](https://journalistsresource.org/politics-and-government/information-disorder-glossary-fake-news/)
+
+
 ## Lehrmaterialien
 
 - Leitlinien für Lehrkräfte und pädagogische Fachkräfte zur Bekämpfung von Desinformation und zur Förderung der digitalen Kompetenz durch allgemeine und berufliche Bildung (@ECDE:2022:de)
 - Desinformation entlarven und bekämpfen : Toolkit für Lehrkräfte (@ECDC:2024:de)
 - Das Projekt [Framing](https://www.teachtoday.de/Themen/Digitale_Gesellschaft/Desinformation/3795_Projektidee_Framing.htm) ist eines der Projekte von [teachtoday](https://www.teachtoday.de/) von der Telekom zur Entwicklung von Medienkompetenz, weiterhin gibt es eine [Toolbox](https://www.teachtoday.de/2920_Toolbox.htm) und das Medienmagazin [Scroller](https://www.scroller.de/Dein_Magazin/3784_Fakt_oder_Fake.htm) für Kinder und Jugendliche.
 - Die Seite [Medienkompetenz stärken](https://www.bmfsfj.de/bmfsfj/themen/kinder-und-jugend/medienkompetenz/medienkompetenz-staerken-75350) des Bundesfamilienministeriums
+- Lehrmaterialien der EU für [Schüler bis zu 9 Jahren](https://learning-corner.learning.europa.eu/learning-materials/tackling-disinformation-and-promoting-digital-literacy_de) und für [Schüler von 15 Jahren und älter](https://learning-corner.learning.europa.eu/learning-materials/how-spot-and-fight-disinformation_de)   
 
 ## NGOs
 - [fellas4europe](https://fellas4europe.org/)
@@ -23,6 +31,9 @@
 - [ZDF investigativ](https://www.zdf.de/nachrichten/thema/zdf-investigativ-100.html)
 - [Correctiv Faktencheck](https://correctiv.org/faktencheck/)
 - [Arte Fake news](https://www.arte.tv/de/videos/RC-022858/fake-news/) und [Aktuelles und Gesellschaft](https://www.arte.tv/de/videos/aktuelles-und-gesellschaft/)
+- [BBC reality check](https://www.bbc.com/news/reality_check)
+- [BBC information disorder](https://www.bbc.co.uk/mediaaction/our-work/information-disorder)
+- [CNN facts first](https://edition.cnn.com/politics/fact-check)
 
 
 ## Ukraine War Archive (UWA)

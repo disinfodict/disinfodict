@@ -1,11 +1,11 @@
 # Kriegsverbrechen – Kriegsgefangene {#sec-warcrimes-prisoners}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 Moskau hält sich peinlich genau an die Genfer Konventionen zur Behandlung von Kriegsgefangenen 
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20prisoners&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Russland begeht Kriegsverbrechen an ukrainischen Kriegsgefangenen, auch an illegal inhaftiertem medizinischem und seelsorgerischem Personal
 :::
 

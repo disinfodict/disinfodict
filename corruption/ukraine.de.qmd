@@ -1,11 +1,11 @@
 # Korruption in der Ukraine? {#sec-corruption-ukraine}
 
-::: {.callout-caution title=„Mythos“}
+::: {.callout-caution title="Mythos"}
 Die Ukraine ist ein korruptes Land[^corruption-ukraine-7]
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(corrupt%7Ccorruption)%20(ukraine%7Ckiev%7Ckyiv)&sort=relevance)
 :::
 
-::: {.callout-tip title=„Wahrheit“}
+::: {.callout-tip title="Wahrheit"}
 Während Russland eine korrupte Ukraine bevorzugt, will das ukrainische Volk die Korruption loswerden und die Ukraine ist jetzt ein viel weniger korruptes Land als Russland
 :::
 
