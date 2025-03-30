@@ -12,7 +12,7 @@ Crimea historically belongs to Russia.
 :::
 
 ::: {.callout-tip title="Truth"}
-- Crimea has tatarian and ukrainian roots. 
+- Crimea has tatarian and ukrainian roots.^[Aliev:2023]
 - The russian empire tried multiple times to invade and russify Crimea against the will of Crimeans.
 :::
 
@@ -34,12 +34,18 @@ Accordingly, Crimean citizens could freely apply Russian not only as their daily
 
 In 2001, 90.7% of Crimean students in schools were educated in Russian and 99.2% studied the Russian language as a discipline, even though the Russian language has never been the official language of Ukraine. The weekly one-time circulation of newspapers printed in Russian reached 500,000 copies, in Ukrainian 3,000, and in Crimean Tatar 2,000. All television and radio companies in Crimea broadcasted in Russian. Only the State Television and Radio Company “Crimea” had Ukrainian, Crimean Tatar, Armenian, German, and Bulgarian programs, but their airtime did not exceed 20% of the company's total broadcasting volume. Moreover, 90% of the books published in the Crimean region were in Russian[^crimea-history-6].
 
+See also @sec-language-russia.
+
 ## History
 
 
 ### Crimea belonged to Russia only briefly
 
 Throughout its millennia-long history, Crimea has been part of Russia only for 171 years (1783–1954). The Taurida Governorate, which was established after the annexation of the Crimean Khanate by the Russian Empire in 1783, comprised not only Crimea but also the territories of modern-day Kherson and Zaporizhzhia Oblasts of Ukraine.
+
+> The Russian population on the Krym only became numerically significant after 1783, when the Russian Tsarina Catherine Il annexed the peninsula. This means that for the entire three-thousand-year history of the Krym, the presence of Russians there accounts for only 8%. For example, in the first quarter of the 18th century on the Krym, 95% of the total ethnic composition of the population were Krymtatars (today it is only 13%), the other 5% were Greeks, Armenians, Karaites and Krymchaks.[^uif-6] The annexation by Catherine I., which resulted in a mass migration of the local population to the Ottoman Empire (mainly to Turkey), was preceded by the destruction of the Krym Khanate - an independent state of the Krymtatars that had been founded in 1441.^[Aliev:2023]
+
+> In the 18th and 19th centuries, Russia undertook extensive efforts to Russify the Krym. The Russian language was made official, Russian Orthodoxy was introduced as the predominant religion and the Muslim population was discriminated against. After the defeat in the Krym War (1853-1856), Russia intensified its repressive policy towards the Krymtatars and triggered a massive wave of forced migration. By the end of the 19th century, fewer than 200,000 Krymtatars lived on the Krym.[^uif-7] 
 
 During the Ukrainian Revolution in 1917, the Ukrainian Central Council declared the establishment of the Ukrainian People’s Republic (UNR), the territory of which included the Taurida Governorate without Crimea. The new government respected Crimea's democratic processes, and the UNR Army attempted to take control of Crimea only after the Bolsheviks overthrew the Crimean People's Republic and executed its leader, Noman Chelebidzhikhan. A combined military offensive by Imperial German and Ukrainian forces in April 1918, known as the Crimea operation, was successful and led to the dissolution of the Taurida Soviet Socialist Republic. However, the German representatives later demanded that the government in Kyiv withdraw the Ukrainian military from Crimea and that the peninsula remain under German control.[^crimea-history-7]
 
@@ -76,6 +82,9 @@ After Ukraine became independent, Russia recognized its borders. The Budapest Me
 
 [^crimea-history-11]:  Wolczuk, K., & Pr. Dragneva, R. (2022, August 24). Russia’s longstanding problem with Ukraine’s borders. Chatham House. Retrieved April 30, 2024, from [https://www.chathamhouse.org/2022/08/russias-longstanding-problem-ukraines-borders](https://www.chathamhouse.org/2022/08/russias-longstanding-problem-ukraines-borders) 
 
+[^uif-6]: Tunman, Johann, Crimean Khanate, 1784
+
+[^uif-7]: Shurchalo, Dmytro, 240. Jahrestag der ersten Annexion. Wie haben sie versucht, die Krym russisch zu machen? In: Radio Svoboda, 19.04.2023, [https://www.radiosvoboda.org/a/krym-aneksiya-1783-rik/32370090.html](https://www.radiosvoboda.org/a/krym-aneksiya-1783-rik/32370090.html) (Zugriffsdatum: 20.11.2023).
 
 
 

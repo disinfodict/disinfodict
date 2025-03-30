@@ -9,7 +9,7 @@ Die Krim gehört historisch gesehen zu Russland. [<br></br>![Suche nach Stichwor
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Die Krim hat tatarische und ukrainische Wurzeln. 
+- Die Krim hat tatarische und ukrainische Wurzeln.^[Aliev:2023] 
 - Das russische Reich hat mehrfach versucht, die Krim gegen den Willen der Krimbewohner zu erobern und zu russifizieren.
 :::
 
@@ -31,12 +31,19 @@ Dementsprechend konnten die Bürger der Krim Russisch nicht nur als Alltagssprac
 
 Im Jahr 2001 wurden 90,7 % der Schüler auf der Krim in den Schulen in Russisch unterrichtet und 99,2 % lernten Russisch als Fach, obwohl die russische Sprache nie die offizielle Sprache der Ukraine war. Die wöchentliche Auflage von Zeitungen in russischer Sprache erreichte 500.000 Exemplare, in ukrainischer Sprache 3.000 und in krimtatarischer Sprache 2.000. Alle Fernseh- und Rundfunkanstalten auf der Krim sendeten auf Russisch. Nur die staatliche Fernseh- und Rundfunkgesellschaft "Krim" hatte ukrainische, krimtatarische, armenische, deutsche und bulgarische Programme, deren Sendezeit jedoch nicht mehr als 20 % des gesamten Sendevolumens der Gesellschaft ausmachte. Außerdem waren 90 % der in der Krim-Region veröffentlichten Bücher in russischer Sprache.[^crimea-history.de-6]
 
+Siehe auch @sec-language-russia.
+
+
 ## Geschichte
 
 
 ### Die Krim gehörte nur kurz zu Russland
 
 In ihrer jahrtausendelangen Geschichte war die Krim nur 171 Jahre lang (1783–1954) Teil Russlands. Das Gouvernement Taurien, das nach der Annexion des Krim-Khanats durch das Russische Kaiserreich im Jahr 1783 eingerichtet wurde, umfasste nicht nur die Krim, sondern auch die Gebiete der heutigen ukrainischen Regionen Cherson und Saporischschja.
+
+> Die russische Bevölkerung auf der Krym gewann erst nach 1783 zahlenmäßig an Bedeutung, als die russische Zarin Katharina Il. die Halbinsel annektiert hatte. Das heißt, für die gesamte dreitausendjährige Geschichte der Krym macht die Anwesenheit von Russen dort nur 8% aus. So waren zum Beispiel im ersten Viertel des 18. Jahrhunderts auf der Krym 95% der gesamten ethnischen Zusammensetzung der Bevölkerung Krymtataren (heute sind es nur noch 13%), die anderen 5% waren Griechen, Armenier, Karäer und Krymtschaken.[^uif-6] Der Annexion durch Katharina I., die eine Massenmigration der lokalen Bevölkerung in das Osmanische Reich (hauptsächlich in die Türkei) zur Folge hatte, war die Zerstörung des Krym-Khanats vorausgegangen - eines unabhängigen Staates der Krymtataren, der 1441 gegründet worden war.^[Aliev:2023]
+
+> Im 18. und 19. Jahrhundert unternahm Russland umfassende Anstrengungen zur Russifizierung der Krym. Die russische Sprache wurde offiziell, die russische Orthodoxie als vorherrschende Religion eingeführt und die muslimische Bevölkerung diskriminiert. Nach der Niederlage im Krymkrieg (1853-1856) verschärfte Russland seine repressive Politik gegenüber den Krymtataren und löste eine massive Welle erzwungener Migration aus. Ende des 19. Jahrhunderts lebten weniger als 200000 Krymtataren auf der Krym.[^uif-7] 
 
 Während der ukrainischen Revolution im Jahr 1917 rief der ukrainische Zentralrat die Ukrainische Volksrepublik (UNR) aus, zu deren Gebiet das Gouvernement Taurien ohne die Krim gehörte. Die neue Regierung respektierte die demokratischen Prozesse auf der Krim, und die UNR-Armee versuchte erst dann, die Kontrolle über die Krim zu übernehmen, als die Bolschewiki die Volksrepublik Krim stürzten und ihren Präsidenten Noman Çelebicihan hinrichteten. Eine gemeinsame Militäroffensive kaiserlicher deutscher und ukrainischer Truppen im April 1918, die als Krim-Operation bekannt wurde, war erfolgreich und führte zur Auflösung der Taurischen Sozialistischen Sowjetrepublik. Die deutschen Vertreter forderten jedoch später von der Regierung in Kyjiw den Abzug des ukrainischen Militärs von der Krim und den Verbleib der Halbinsel unter deutscher Kontrolle.[^crimea-history.de-7]
 
@@ -73,4 +80,8 @@ Nachdem die Ukraine unabhängig geworden war, erkannte Russland ihre Grenzen an.
 [^crimea-history.de-10]:  Lytsevych, O.: ‘Crimea was always Russian.’ (2021, May 11). Chatham House – International Affairs Think Tank. [https://www.chathamhouse.org/2021/05/myths-and-misconceptions-debate-russia/Mythos-12-crimea-was-always-russian](https://www.chathamhouse.org/2021/05/myths-and-misconceptions-debate-russia/Mythos-12-crimea-was-always-russian)
 
 [^crimea-history.de-11]:  Wolczuk, K., & Pr. Dragneva, R. (2022, August 24). Russia’s longstanding problem with Ukraine’s borders. Chatham House. Retrieved April 30, 2024, from [https://www.chathamhouse.org/2022/08/russias-longstanding-problem-ukraines-borders](https://www.chathamhouse.org/2022/08/russias-longstanding-problem-ukraines-borders) 
+
+[^uif-6]: Tunman, Johann, Crimean Khanate, 1784
+
+[^uif-7]: Shurchalo, Dmytro, 240. Jahrestag der ersten Annexion. Wie haben sie versucht, die Krym russisch zu machen? In: Radio Svoboda, 19.04.2023, [https://www.radiosvoboda.org/a/krym-aneksiya-1783-rik/32370090.html](https://www.radiosvoboda.org/a/krym-aneksiya-1783-rik/32370090.html) (Zugriffsdatum: 20.11.2023).
 

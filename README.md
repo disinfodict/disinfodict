@@ -62,7 +62,7 @@ For regular contributions it is easier to work with a github account (see below)
 - preview changes (see below)
 - finally render
 - send us your chapter file .qmd (plus images or .bib for literature references)
-- to: TODO
+- to: contribute@disinfodict.org
 
 ## Multilingual rendering
 
@@ -243,7 +243,7 @@ npm install @daisy/ace -g
 ## Measuring dictionary status
 
 ```{R}
-en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), "README.qmd")
+en <-  setdiff(setdiff(dir(pattern="[.]qmd$", recursive=T), "README.qmd"), "status/status.qmd")
 en <- en[grep("/", en)] 
 de <- en[grep("[.]de[.]qmd$", en)]
 ua <- en[grep("[.]ua[.]qmd$", en)]
@@ -262,18 +262,30 @@ enstatus <- sapply(en, function(i){
 destatus <- sapply(de, function(i){
   x <- paste(readLines(i), collapse=" ")
   y <- strsplit(x, "##")[[1]]
-  lipsum <- grep("\\{\\{< lipsum", y)
+  lipsum <- grep("lipsum|TODO", y, ignore.case = TRUE)
   n <- length(y)
   k <- n - length(lipsum)
   p <- k/n
   p
+})
+enreserved <- sapply(en, function(i){
+  x <- paste(readLines(i), collapse=" ")
+  length(grep("\\{\\{ reserved \\}\\}", x, ignore.case = TRUE))>0
+})
+dereserved <- sapply(de, function(i){
+  x <- paste(readLines(i), collapse=" ")
+  length(grep("\\{\\{ reserved \\}\\}", x, ignore.case = TRUE))>0
 })
 d <- cbind(en=100*enstatus, ".de"=rep(0, length(enstatus)))
 d[,2] <- 0
 rownames(d) <- names(enstatus)
 if (length(destatus))
   d[sub("\\.de","",names(destatus)),2] <- 100*destatus
-round(d)
+d <- as.data.frame(round(d))
+dereserved <- names(dereserved)[dereserved]
+if (length(dereserved))
+  enreserved[sub("\\.de","",names(dereserved))] <- TRUE
+d$reserved <- ifelse(enreserved, 'reserved', '')
 save(d, file = "status.RData")
 ```
 
@@ -283,7 +295,6 @@ save(d, file = "status.RData")
 en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), "README.qmd")
 en <- en[-grep("[.][a-z][a-z][.]", en)]
 de <- dir(pattern="[.]de[.]qmd$", recursive=T)
-
 names(en) <- en
 names(de) <- de
 

@@ -34,10 +34,12 @@ Tatsächlich werden Ukrainisch und Russisch jedoch nur zu 62 % als lexikalisch �
 
 Es gibt auch einen wesentlichen Grund dafür, dass das Ukrainische bis vor kurzem weniger beliebt war, als es eigentlich sein sollte. Es handelt sich um eine konsequente Politik der Russifizierung, die sich auf einen historischen Prozess der kulturellen, sprachlichen und politischen Assimilierung bezieht, der vom Russischen Reich aufgezwungen und später von der Sowjetunion fortgesetzt wurde. Kurz gesagt, es geht um eine 300-jährige Geschichte[^language-ukraine.de-2] des Verbots und der Unterdrückung der ukrainischen Sprache in der Ukraine unter verschiedenen russischen Herrschern. 
 
+> Dazu nur ein Beispiel: die ukrainische Sprache war im Zarenreich ab 1876 fast drei Jahrzehnte lang faktisch verboten. In der Sowjetunion wurde sie die meiste Zeit ebenfalls unterdrückt. Russischkenntnisse waren Grundvoraussetzung für die Teilnahme am offentlichen Leben und für eine berufliche Tätigkeit. Dass auch heute noch in der Ukraine sehr viele Menschen Russisch sprechen, ist unter anderem Folge dieser Politik.^[Christ:2023a]
+
 
 ## Siehe auch
 
-Die Kapitel über die „großrussische“ Kultur (@sec-culture-russia), über die ukrainische Kultur (@sec-culture-ukraine), über Kriegsverbrechen gegen die ukrainische Kultur (@sec-warcrimes-culture), über die ukrainische Sprache (@sec-language-russia) und über die russische Sprache (@sec-language-ukraine).
+Die Kapitel über die russische Sprache in der Ukraine (@sec-language-russia), über die „großrussische“ Kultur (@sec-culture-russia), über die ukrainische Kultur (@sec-culture-ukraine), über Kriegsverbrechen gegen die ukrainische Kultur (@sec-warcrimes-culture).
 
 
 [^language-ukraine.de-1]:  A Colorful Map Visualizes the Lexical Distances Between Europe’s Languages: 54 Languages Spoken by 670 Million People. (2017, August 28). Open Culture. Retrieved May 2, 2024, from [https://www.openculture.com/2017/08/a-colorful-map-visualizes-the-lexical-distances-between-europes-languages.html](https://www.openculture.com/2017/08/a-colorful-map-visualizes-the-lexical-distances-between-europes-languages.html)

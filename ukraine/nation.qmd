@@ -1,35 +1,97 @@
 # Ukraine nation {#sec-ukraine-nation}
 
 ::: {.callout-caution title="Myth"}
+- Ukraine does not exist
+- Ukraine is a divided country
 - Ukraine is part of the Russian Nation
-- Ukrainian nation did not exist until after the Bolshevik Revolution
-- Ukrainian nation only exists in western Ukraine with capital Lviv
+- Ukrainian nation did only exist after the Bolshevik Revolution
+- Ukrainian nation only exists in western Ukraine
 - Ukrainian nation is underdeveloped
-- Ukrainian nationalists are nazis
+- Ukrainian nationalists are Nazis
 - Ukrainian nation failed
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=ukraine%20nation&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-- Urainian nation is older than Russia
-- Urainian capital is Kyiv (and that's older than Moscow)
-- Urainian citizens fight for their nation's values - Russians have no values to fight for
+- Ukraine is the center of East Slavic civilization
+- The Ukrainian capital is Kyiv (and it is older than Moscow)
+- Ukraine is ONE nation^[@Christ:2023b]
+- Russia has been trying to take over or destroy Ukraine for centuries
+- Ukrainian citizens are fighting for the values of their nation - Russians have no values to fight for
 :::
 
+> Mit der gleichen Bestimmtheit, mit der der ukrainischen Nation eine historische Existenz abgesprochen wird, kann man auch sagen, dass es keine deutsche, britische oder spanische Nation gäbe ... Die Prozesse der europäischen Nationsbildung vollzogen sich in der Regel im Verlauf des 19. Jahrhunderts; im ukrainischen Fall geschah das unter enorm repressiven Bedingungen, vor allem im russländischen Reich.[^ukraine-nation-1] 
 
-## Ukraine is ONE Nation
 
-{{< var todo >}}
+## Kyiv Rus'
 
-See @sec-ukraine-history.
+Ukraine is the heart of Eastern Slavic civilization and Kyiv its capital, see @sec-ukraine-kyiv.
 
-## Ukraine is one NATION
 
-{{< var todo >}}
+## Ukrainian nation
 
-## Ukraine is not an evil EMPIRE
+The term “nationalism” has negative connotations in Germany. The reasons for this lie in the era of Nazism ("National Socialism") and the history of the German nation state. The situation is different for nations that were the target of their neighbors' colonial aspirations. Here, nationalism is a means of self-assertion. Without the defense of their cultural independence, the Ukrainians would have been assimilated in the Tsarist Empire and the Soviet Union:
 
-{{< var todo >}}
+> Since the publication of the “Kyiv Synopsis” in 1674 at the latest, the theory of the “triune Russian people” had become firmly established in Russia. According to this theory, there were no Belarusians or Ukrainians, they were actually part of the Russian people, which in turn had emerged from the medieval Kyiv Rus'. Ukrainians were referred to as “Little Russians” in the Tsarist Empire and their language was often pitifully regarded as a “dialect” of Russian. Ukrainian peasants lived in de facto slavery to their Russian feudal lords. The Ukrainian national movement in the 19th century rebelled against this yoke. The historian Mychajlo Hruschewskyj published his “History of Ukraine-Rus” in 1898, which became a milestone in the self-perception of the Ukrainian people. **In it, Hrushevsky argued that Kyiv Rus' was the nucleus of the Ukrainian people and that the latter had developed independently of Russia before and after it**. Although the work was also published in German, it was hardly noticed in Germany ^[Christ:2023c].
 
-See @sec-russia-empire
+Russian propaganda, especially in Germany, tries to discredit the Ukrainian defenders as “Nazis”, see @sec-nazis-ukraine and @sec-nazis-russia.
+
+
+### Nation building
+
+In the 19th century, a Ukrainian national movement formed, which was active both in the Habsburg Monarchy and in the Russian Tsarist Empire. The first modern Ukrainian state came into being in 1917, when Lviv was just as much a Ukrainian city as Kyiv, Sevastopol or Donetsk. The Ukrainian Soviet Socialist Republic was formed in 1919. In 1925, the cities of Shakhty and Taganrog were annexed to the Russian Soviet Federative Socialist Republic.[^uif-52] Since then, the Ukrainian eastern border has remained within its current borders under international law.
+
+
+### Independence
+
+On August 24, 1991, Ukraine declared its independence from the Soviet Union. In a referendum on December 1, 1991, Ukrainian voters confirmed this step[^uif-53], see @sec-democracy-ukraine. In Kharkiv oblast 76 percent voted in favor of an independent Ukrainian state, in Donetsk 77 percent, in Odesa 85 percent and in Krym 54 percent. So it was never the case that the east and south of the country were incorporated into independent Ukraine against their will. A large majority of people were committed to the Ukrainian state. In 2014, the majority of people in the south and east of Ukraine turned against the separatists controlled and equipped by the Russian secret service GRU, see @sec-donbas-separatists.
+
+
+## Color revolutions
+
+When hundreds of thousands of people joined the Euro-Maidan movement in the winter of 2013/14 (see also @sec-maidan-kyiv), Russia spread the imperialist legend that the pursuit of democratization and Western integration was primarily a need of Western Ukraine. The east and south of the country are “pro-Russian” and belong to Russia's “sphere of interest”. The Ukrainians see things differently:
+
+
+## One will
+
+The Kyiv International Institute of Sociology (KIIS) surveyed over 3,200 people in the eastern and southern oblasts of Ukraine in April 2014. 52 percent of people in the Donetsk and Luhansk oblasts were against secession from Ukraine, in the Odesa oblast it was 79 percent.[^uif-54] 72 percent of people in Donetsk and 58 percent in Luhansk rejected the actions of the pro-Russian militias. The Russian invasion from February 24, 2022 has led people in Ukraine to identify even more strongly as Ukrainians. According to a KIIS survey from July 2022[^uif-55], almost 85 percent of Ukrainians see themselves as citizens of Ukraine.
+
+
+## One language area
+
+There is no “language border” in Ukraine. Many Ukrainians grew up bilingual. Ukraine is a multilingual country and is more similar to countries such as Luxembourg or Canada than a state divided into linguistic regions such as Belgium. In addition to Russian and Ukrainian, there are numerous minority languages. The Krymtatars are a Turkic-speaking people, and many people in the Carpathian region speak Hungarian. There is also a mixed language of Ukrainian and Russian: “Surshyk”. Russian was dominant for a long time because it was the administrative language of the Tsarist Empire and the Soviet Union. Native Russian speakers made fun of Ukrainian and anyone who wanted to make a career in the Russian empire had to speak Russian. Ukrainian only regained popularity after Ukraine's independence.
+
+Since February 24, 2022, many people in Ukraine have distanced themselves from the language of the aggressor. At the end of 2022[^uif-56], KIIS asked 2,000 people in Ukraine which language they use in everyday life. The proportion of those who speak only or mainly Ukrainian rose to 58 percent. 24 percent use both languages, and 15 percent speak mainly or exclusively Russian. Researchers from the Rating Sociology Institute found that 76 percent of Ukrainians describe Ukrainian as their mother tongue[^uif-57].
+
+> Serhiy Zhadan, Ukraine's best-known writer, was born in the east of the country - in Starobilsk in Luhansk Oblast. Nevertheless, he publishes in Ukrainian.^[@Christ:2023b]
+
+
+## A political space
+
+Russian propaganda likes to claim that Ukrainians in the east vote pro-Russian, while only Ukrainians in the west vote pro-western. In fact, there is no such dividing line between eastern and western Ukraine. election results differ regionally for various reasons,[^uif-58] [^uif-59] and Zelenskyi defending the country was elected with more support in the east than in the west in 2019, see @sec-democracy-ukraine.
+
+
+## Ukrainian values
+
+Ukraine is not an evil empire like russia, see @sec-russia-empire. Ukrainians are not faking orthodox values with rotten values underneath, see @sec-russia-values. Ukrainians are not passive subjects like most russians, see @sec-russia-soul. Ukrainian citizens are fighting for freedom and their — European — values, see @sec-ukraine-heroes.
+
+
+[^ukraine-nation-1]:  Sven Jaros (1. Juni 2022) Russlands Krieg gegen die Ukraine. Ostblog Spezial. [https://ukraine2022.ios-regensburg.de/metageschichten01/](https://ukraine2022.ios-regensburg.de/metageschichten01/)
+
+[^uif-52]: Beschluss über die Regulierung der Grenzen der Ukrainischen Sowjetrepublik mit der Russischen Sowjetrepublik und der Belarusischen Sowjetrepublik (Zentralpräsidium des Exekutivkomitees der UdSSR), 16.10.1925, [https://www.consultant.ru/cons/cgi/online.cgi?req=doc;base=ESU;n=16497#c3lH4oTk1mtNixwt](https://www.consultant.ru/cons/cgi/online.cgi?req=doc;base=ESU;n=16497#c3lH4oTk1mtNixwt)
+
+[^uif-53]: Lapychak, Chrystyna, Independence, in: The Ukrainian Weekly, 8.12.1991, [https://web.archive.org/web/20250122145902/https://www.ukrweekly.com/archive/1991/The_Ukrainian_Weekly_1991-49.pdf](https://web.archive.org/web/20250122145902/https://www.ukrweekly.com/archive/1991/The_Ukrainian_Weekly_1991-49.pdf)
+
+[^uif-54]: Ansichten und Positionen der Bürger der Südöstlichen Regionen der Ukraine, in: Kyiv International Institute of Sociology, 20.04.2014, [https://www.kiis.com.ua/?lang=eng&cat=reports&id=302&page=7](https://www.kiis.com.ua/?lang=eng&cat=reports&id=302&page=7)
+
+[^uif-55]: Dembitskyi, Serhii, Indikatoren der national-gesellschaftlichen ukrainische Identität, in: Kyiv International Institute of Sociology, 16.08.2022, [https://www.kiis.com.ua/?lang=eng&cat=reports&id=1131&page=1](https://www.kiis.com.ua/?lang=eng&cat=reports&id=1131&page=1)
+
+[^uif-56]: Kulyk, Volodymyr, Sprache und Identität in der Ukraine Ende 2022, in: ZBRUC, 07.01.2023, [https://zbruc.eu/node/114247](https://zbruc.eu/node/114247) (Zugriffsdatum: 20.11.2023)
+
+[^uif-57]: Die sechste nationale Umfrage: Die Sprachenfrage in der Ukraine (19. März 2022), in: Sociological Group Rating, 25.03.2022, [https://ratinggroup.ua/en/research/ukraine/language_issue_in_ukraine_march_19th_2022.html](https://ratinggroup.ua/en/research/ukraine/language_issue_in_ukraine_march_19th_2022.html) (Zugriffsdatum: 20.11.2023)
+
+[^uif-58]: Plokhy, Serhii, Der Angriff. Russlands Krieg gegen die Ukraine und seine Folgen für die Welt, Hamburg 2023, S. 107
+
+[^uif-59]: Veser, Reinhard, Zum Tod von Leonid Krawtschuk. Der erste Präsident der Ukraine ist gestorben, in: Frankfurter Allgemeine Zeitung, 1 1.05.2022, [https://www.faz.net/aktuell/politik/ausland/leonid-krawtschuk-der-erste-praesident-der-ukraine-ist-gestorben-18022003.html](https://www.faz.net/aktuell/politik/ausland/leonid-krawtschuk-der-erste-praesident-der-ukraine-ist-gestorben-18022003.html) (Zugriffsdatum: 20.11.2023)
+
 

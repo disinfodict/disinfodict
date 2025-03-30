@@ -14,17 +14,12 @@
 - Russian is still allowed
 :::
 
-## Russian speakers feel Ukrainian
+> The image of the “ethnic Russian” is also frequently used in Germany. Those who speak Russian as their mother tongue would belong to the Russian people “Ethnic Russians” would be oppressed in Ukraine and hope for help from Moscow. The origins of such positions lie in Ukraine's history, which was shaped by Russian foreign rule, and in an imperial external view of the country ... No one would accuse the German-speaking Swiss of preferring to share German rather than Swiss positions at home. No one would think that the German-speaking community in Belgium needed help from Berlin to assert their rights as a minority in Belgium.^[Christ:2023a]
 
-{{< var todo >}}
-
-## Russian speakers vote Ukrainian
-
-{{< var todo >}}
 
 ## Ukrainians spoke both: Ukrainian and Russian
 
-Indeed, the Russian language used to be widely used in Ukraine, being the second most popular language in the country. Before the full-scale invasion, it was spoken in both private life and official settings.[^language-russia-1] However, this linguistic dominance was not a natural occurrence but rather a consequence of centuries-long Russian influence, marked by cultural imposition and political maneuvering.
+Indeed, the Russian language used to be widely used in Ukraine, being the second most popular language in the country. Before the full-scale invasion, it was spoken in both private life and official settings.[^language-russia-1] However, this linguistic dominance was not a natural occurrence but rather a consequence of centuries-long Russian influence, marked by cultural imposition and political maneuvering. Russia claims Ukraine is divided ethnically, linguistically or otherwise into two parts, this is false, see @sec-ukraine-nation.
 
 ## Russification
 
@@ -63,8 +58,7 @@ Under Russian rule, in different forms,[^language-russia-5] a range of coercive 
 
 ## See also
 
-The chapters on "Great Russian" culture (@sec-culture-russia), on Ukrainan culture (@sec-culture-ukraine), on warcrimes against Ukrainan culture (@sec-warcrimes-culture), on Ukrainian language (@sec-language-russia) and on russian language (@sec-language-ukraine).
-
+The chapters on Ukrainian language  (@sec-language-ukraine), on Ukrainan culture (@sec-culture-ukraine), on warcrimes against Ukrainan culture (@sec-warcrimes-culture), on "Great Russian" culture (@sec-culture-russia), and on Ukrainian nation (@sec-ukraine-nation).
 
 
 [^language-russia-5]:  Danylenko, A., & Naienko, N. (2022, January). *Linguistic russification in Russian Ukraine: Languages, imperial models, and policies*. ResearchGate. Retrieved May 2, 2024, from [https://www.researchgate.net/publication/362729882\_Linguistic\_russification\_in\_Russian\_Ukraine\_Languages\_imperial\_models\_and\_policies](https://www.researchgate.net/publication/362729882_Linguistic_russification_in_Russian_Ukraine_Languages_imperial_models_and_policies) 

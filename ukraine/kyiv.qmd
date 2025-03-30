@@ -1,38 +1,51 @@
 # Ukraine Kyiv {#sec-ukraine-kyiv}
 
 ::: {.callout-caution title="Myth"}
-- Kyiv belongs to Russia
-- Capital of Ukraine is Lviv, not Kyiv
 - There is no Ukraine
-[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(kyiv%7Ckiev)%20history&sort=relevance)
+- Capital of Ukraine is Lviv, not Kyiv
+- Kyiv belongs to Russia
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(kyiv%7Ckiev)%20capital&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
 - Kyiv was founded by Europeans
 - Kyiv ruled "russian" territory long before Moscow existed
 - Kyiv is Ukraine
+[<br></br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Kyiv)
 :::
 
+## Kyiv
 
-## Kyiv Rus
-
-It is *Kyiv Rus*, not *Moscow Rus*. And 'Rus' does not mean Russia, is derived from an Old Norse term for 'men who row' and hence has North-European, not russian or mongolian heritage. 
-
-See @sec-russia-moscow and @sec-ukraine-history.
+Kyiv was the historical cultural center of East Slavic civilization and the cradle of the Christianization of Kyiv Rus'. The Principality of Vladimir-Suzdal, located on the edge of Kyiv Rus', in the southwest of which Moscow was established, appropriated the title of ruler over Kyiv Rus' by force, the leadership of the Orthodox Church followed, and finally European values and culture were replaced by Mongolian-influenced tyranny, which has been trying to bring European Kyiv under Russian control ever since. Kyiv is still the center of East Slavic civilization, while Moscow only pretends and perverts European values and culture, see @sec-culture-russia and @sec-russia-values.
 
 ![Kyiv and Moscow between 996 and 1108](KyivMoscow.jpeg)
 
 
 
+## Kyiv Rus'
+
+It is *Kyiv Rus'*, not *Moscow Rus'*. And "Rus" does not mean Russia, is derived from an Old Norse term for "men who row" and hence has North-European, not russian or mongolian heritage. 
+
+The following map shows the Kyiv Rus' with its main regions:  
+
+[![Map of Kyiv Rus' 882-1240 (Source: https://commons.wikimedia.org/wiki/File:Kyiv_Rus_T.png)](Kyiv_Rus_882-1240_770x1028.jpg){width=66%}](https://commons.wikimedia.org/wiki/File:Kyiv_Rus_T.png)
+
+Note that the “Little Rus'” region is the core region of Kyiv Rus', not the little brother of Russia. The Principality of Vladimir-Suzdal does not even belong to the four main regions of Kyiv Rus', and where Moscow later appears on the map: nothing. 
+
+[![Map of Kyiv Rus' 1054-1132 (Source: https://commons.wikimedia.org/wiki/File:Principalities_of_Kievan_Rus%27_(1054-1132).jpg)](Kyiv_Rus_1054-1132_770x1028.jpg){width=66%}](https://commons.wikimedia.org/wiki/File:Principalities_of_Kievan_Rus%27_(1054-1132).jpg)
+
+If, like Putin, you throw international law overboard and argue with historical claims, then Moscow finds itself in the backyard of Kyiv Rus', whose capital is of course Kyiv. 
+
+
 ## The Lviv story
 
-In order to claim Kyiv for Russia, the russian propganda - namely the historian and propagandist Tarik Cyril Amar - constructed the following absurd story (in order to deceive us about the absurdness, he calls it academically pompous "paradox" and blends us with 500 pages nonsense from russian archives):
+In order to claim Kyiv, the center of East Slavic civilization, for Russia, Russian propaganda - namely the historian and propagandist Tarik Cyril Amar - has constructed the following absurd story (in order to deceive us about its absurdity, he calls it an academically pompous “paradox” and tries to dazzle us with 500 pages of nonsense from Russian archives):
 
 ::: {.callout-caution title="Propaganda (debunked)"}
-- if a Ukrainian nations exists, then only in western ukraine, and its capital is Lviv (Kyiv Rus was much bigger than Western Ukraine and its capital is, of course, Kyiv)
-- this Western Ukrainian nation (note the contradiction) did not exist before the Soviet Union (absolutely ridiculous, you just need to walk through history rich Lviv (German name Lemberg) and look at the Habsburg architecture, the old armenian church, the jewish culture, etc. etc.)
-- the dominant feature of western Ukraine would be Bandera Nazi inhabitants (in fact there were less than 3% for right wing parties, see @sec-nazis-ukraine)
-[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(kyiv%7Ckiev)%20history&sort=relevance)
+- if a Ukrainian nations exists, then only in western ukraine, and its capital is Lviv (**Kyiv Rus' was much bigger than Western Ukraine and its capital is, of course, Kyiv**)
+- this Western Ukrainian nation (note the contradiction) did not exist before the Soviet Union (**absolutely ridiculous, you just need to walk through history rich Lviv (German name Lemberg) and look at the Habsburg architecture, the old armenian church, the jewish culture, etc. etc.**)
+- the dominant feature of western Ukraine would be "Bandera Nazi" inhabitants (**in fact there were less than 3% for right wing parties, see @sec-nazis-ukraine**)
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Lemberg%7CLviv)%20capital&sort=relevance)
 :::
 
 See also @sec-ukraine-nation.
@@ -40,15 +53,57 @@ See also @sec-ukraine-nation.
 
 ## Kyiv history
 
-{{< var todo >}}
+### Ancient beginnings 
 
+The origins of Kyiv, the capital of modern Ukraine, date back to ancient times. Archaeological finds document settlements dating back to the late Paleolithic period (40,000-15,000 years ago). In the 5th century AD, Slavic tribes settled along the Dnieper and laid the foundations for a trading center. According to legend, Kyiv was founded by three brothers - Kyi, Shchek and Khoryv - and their sister Lybid. 
+
+### Rise of Kyiv Rus'
+
+> Kyiv had a strategic location on the trade route from the Baltic to the Black Sea, the route from the Varangians to the Greeks. In the middle of the 9th century, the Varangian princes Askold and Dir ruled it before they were killed by Rurik's commander Oleg of Novgorod in 882. He united the entire territory of the Varangians (Rus') along the trade route and made Kyiv the princely residence of the Rus'. In 988, Grand Duke Vladimir I initiated the conversion of the previously pagan Rus' to Byzantine Orthodox Christianity. This act was characterized by a mass baptism of the Kyiv population in the Dnipro and the fall of the old idols into the river. Under Vladimir's son Yaroslav the Wise, Kyiv was greatly expanded. In addition to numerous new churches and monasteries, the first East Slavic library was founded. The active marriage policy and the expansion of the city made it famous throughout Europe. As a result, Kyiv reached the peak of its development in the 11th and 12th centuries and became one of the largest cities in Europe [^ukraine-kyiv-1].
+ 
+
+### Decline of Kyiv Rus'
+
+> After the death of Yaroslav, succession struggles began, which had a negative impact on the city and led to repeated conquests and destruction. In 1169, Kyiv was conquered by Prince Andrei Bogolyubsky of Vladimir-Suzdal. [^ukraine-kyiv-2]
+
+Bogolyubsky burned Kyiv to the ground, but obviously did not have the power to rule the vast Kyiv Rus' itself. Instead, he resorted to a psy-ops measure: he took the title of Grand Duke, which had until then been tied to Kyiv, north to his residence near Vladimir, thus further disintegrating Kyiv Rus'. In 1240, Kyiv was conquered by Batu Khan's troops in the course of the Mongol invasion of Rus' after a siege lasting almost ten weeks. Almost all the inhabitants were killed and almost all the buildings burned down. The successors of Bogoljubski submitted to Mongol rule. After another destruction of Kyiv, the Orthodox metropolitan left Kyiv in 1299 and moved to Vladimir. Vladimir-Suzdal fragmented, in 1325 the Orthodox metropolitan moved to Moscow, in 1331 the Prince of Moscow took over the title of Grand Duke and in 1389 the title of Prince of Vladimir-Suzdal was dissolved into the title of Grand Duke of Moscow, and with it European culture: 
+
+> The invasion of Batu Khan and the subsequent domination of the lands of Rus' by the Golden Horde was also a turning point in the history of Russian culture and statehood. Mongol rule imposed its principles of state on the north-eastern principalities of Rus', which differed greatly from those of Western Europe. In particular, Russia adopted the principle of universal subordination and undivided authority.[^ukraine-kyiv-3]
+
+For more details, see @sec-ukraine-history and @sec-russia-moscow.
+
+
+### Changing powers
+
+In the 14th century, Kyiv fell to the Grand Duchy of Lithuania, then to the Polish-Lithuanian Commonwealth in 1569 and became a center of Orthodox resistance against Catholic influence. The 17th century brought a radical change with the Cossack uprising led by Bohdan Khmelnytsky, who triumphantly entered Kyiv in 1649. 
+
+### Resurgence and Russification
+
+After the Khmelnytsky Uprising, which began in 1648, Kyiv became the capital of the hetmanate of the Zaporozhian Cossacks. In 1654, they submitted to the Moscow Tsar in the enforced Treaty of Pereyaslav. Under the rule of the Cossack hetman Ivan Masepa, numerous important buildings were renovated and schools founded. The Kyiv Cave Monastery, St. Sophia Cathedral and St. Michael's Monastery were given their current appearance in the Ukrainian Baroque style. 
+
+The baroque St. Andrew's Church and St. Mary's Palace were built under Empress Elisabeth. The city's development suffered a setback during the great fire in the Kyiv district of Podil in 1811. Emperor Nicholas I, who affectionately called Kyiv the Jerusalem of Russian soil, did much to develop Kyiv into an important commercial, transport and industrial center of the Russian Empire. Among other things, he had the St. Vladimir University founded and initiated the construction of the massive Nicholas Chain Bridge over the Dnipro. In 1888, the city celebrated the 900th anniversary of the Christianization of Rus' with great pomp. The construction of the Byzantine-style Vladimir Cathedral was dedicated to this anniversary. 
+
+After the February Revolution of 1917, the Central Rada was formed in Kyiv, which proclaimed the independence and sovereignty of Ukraine on January 25, 1918. The Bolsheviks conquered the city on February 8, 1918, but it was occupied by German troops on March 3, 1918 as part of Operation Faustschlag. 
+
+
+### Soviet era
+
+From 1920, Kyiv was under Soviet rule. On January 19, 1934, the city replaced Kharkov as the capital of the Ukrainian Soviet Socialist Republic (SSR). During the 1930s, many historical buildings in Kyiv were destroyed by the Soviet authorities. In Bykiwnja, a forest area in the east of the city, around 130,000 people were murdered during Stalinism. During the German occupation in the German-Soviet War, from September 19, 1941 to November 6, 1943, 120,000 to 160,000 Soviet prisoners of war and civilians (mainly Jews) were murdered by the occupying forces in Kyiv. More than 33,000 Jews alone fell victim to the massacre of Babyn Yar near Kyiv on September 29 and 30, 1941. Shortly after the Battle of Kyiv, the city was severely damaged by a devastating fire caused by remotely detonated Soviet explosives on September 24, 1941.
+
+### Independence
+
+The collapse of the Soviet Union in 1991 marked the rebirth of Kyiv as the capital of an independent Ukraine and cemented its status as a major European city. After independence, numerous buildings destroyed during the Stalinist period were rebuilt, for example St. Michael's Monastery and the Church of the Nativity of Christ in the Podil district.
+
+After the Orange Revolution and Euro-Maidan, Kyiv is a symbol of the resilience of the city and Ukraine as a whole, which has overcome challenges such as the Russian invasion in 2022 while preserving its rich historical heritage.
 
 ## Kyiv highlights
 
 {{< var todo >}}
 
 
+[^ukraine-kyiv-1]: Kyiv - Medieval heyday (2025 March 29) German Wikipedia. [https://de.wikipedia.org/wiki/Kiew#Mittelalterliche_Bl%C3%BCtezeit](https://de.wikipedia.org/wiki/Kiew#Mittelalterliche_Bl%C3%BCtezeit)
 
-[^ukraine-history-1]:  Sven Jaros (1. Juni 2022) Russlands Krieg gegen die Ukraine. Ostblog Spezial. [https://ukraine2022.ios-regensburg.de/metageschichten01/](https://ukraine2022.ios-regensburg.de/metageschichten01/)
+[^ukraine-kyiv-2]: Kyiv - Decline (2025 March 29) German Wikipedia. [https://de.wikipedia.org/wiki/Kiew#Niedergang](https://de.wikipedia.org/wiki/Kiew#Niedergang)
 
-[^ukraine-history-2]: Martina Winkler (26. Februar 2022) Vom Nutzen und Nachteil der Geschichte im Krieg … [https://zeitgeschichte-online.de/kommentar/vom-nutzen-und-nachteil-der-geschichte-im-krieg](https://zeitgeschichte-online.de/kommentar/vom-nutzen-und-nachteil-der-geschichte-im-krieg) 
+[^ukraine-kyiv-3]: Vladimir-Suzdal (2025 March 29) English Wikipedia. [https://en.wikipedia.org/wiki/Vladimir-Suzdal](https://en.wikipedia.org/wiki/Vladimir-Suzdal)
+

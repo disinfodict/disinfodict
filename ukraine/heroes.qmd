@@ -30,6 +30,16 @@ Ukraine has lots of heroes, cossack heroes, tatar heroes, jewish heroes, a small
 {{< var todo >}}
 
 
+## Mykola Michnowskyj (1873 – 1924)
+
+Mykola Mikhnovsky founded the Ukrainian People's Party in 1902, the first political party to call for the establishment of a Ukrainian nation state in its program
+
+> After the February Revolution in Russia in 1917 and the convening of the Ukrainian Central Rada, a provisional political representation of the Ukrainian people in Kiev, Mikhnovsky joined other Ukrainian officers in developing the combat-capable Ukrainian armed forces, which he believed should defend the young state. His demands for a Ukrainian Republic independent of Moscow and attempts to develop a resilient army **failed due to the pacifism of the Ukrainian Social Democrats** and the Central Rada's initial adherence to the concept of a federal Russia with Ukrainian autonomy.[^ukraine-heroes-Mikhnovsky-1]
+
+> On 3 May 1924, Mikhnovsky was found hanged in a garden belonging to his long-time political ally Volodymyr Shemet. Officially his death was ruled a suicide, however, there were rumours of Soviet secret services' involvement ... During the era of Soviet rule in Ukraine, public mention of Mikhnovsky was forbidden, as he was considered a Ukrainian bourgeois nationalist.[^ukraine-heroes-Mikhnovsky-2]
+
+
+
 ## Yevhen Konovalets (1891 – 1938)
 
 {{< var todo >}}
@@ -141,5 +151,9 @@ Bandera plays a lesser role in the memory of Ukrainians than Russian propaganda 
 
 
 [^ukraine-heroes-bandera-1]: Kai Struve (2022) . Analyse: Stepan Bandera: Geschichte, Erinnerung und Propaganda Ukraine-Analyse. Bundeszentrale für politische Bildung, Ukraine-Analyse Nr. 270. [https://www.bpb.de/themen/europa/ukraine-analysen/nr-270/509748/analyse-stepan-bandera-geschichte-erinnerung-und-propaganda/](https://www.bpb.de/themen/europa/ukraine-analysen/nr-270/509748/analyse-stepan-bandera-geschichte-erinnerung-und-propaganda/)
+
+[^ukraine-heroes-Mikhnovsky-1]: Mykola Michnowskyj (2025 Mar 30) German Wikipedia [https://de.wikipedia.org/wiki/Mykola_Michnowskyj](https://de.wikipedia.org/wiki/Mykola_Michnowskyj)
+
+[^ukraine-heroes-Mikhnovsky-2]: Mykola Mikhnovsky (2025 Mar 30) English Wikipedia [https://en.wikipedia.org/wiki/Mykola_Mikhnovsky](https://en.wikipedia.org/wiki/Mykola_Mikhnovsky)
 
 

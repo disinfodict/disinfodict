@@ -1,5 +1,5 @@
 ---
-title: "Disinformation Dictionary"
+title: "Disinfo Dictionary"
 format: html
 execute: 
   enabled: false
@@ -7,7 +7,7 @@ execute:
 
 # Conribute
 
-You can contribute to the Disinformation Dictionary in multiple ways
+You can contribute to the Disinfo Dictionary in multiple ways
 
 - low tech approach: just modify a chapter file or write a new one
 - Rstudio: render Dictionary on your PC and preview your changes
@@ -109,17 +109,17 @@ This will monitor the English chapters for saved changes, update and show the re
 quarto::quarto_preview("example_part")
 ```
 
-This will monitor the English chapters in folder `example_part` for saved changes, update and show the result.
+This will monitor the English chapters in folder `examplepart` for saved changes, update and show the result.
 
 ### preview single file
 
 This is like checking *Render on Save* in RStudio.
 
 ```{R}
-quarto::quarto_preview("example_part/my_chapter.de.qmd")
+quarto::quarto_preview("examplepart/mychapter.de.qmd")
 ```
 
-It will monitor the file  `example_part/my_chapter` for saved changes, update and show the result.
+It will monitor the file  `examplepart/mychapter` for saved changes, update and show the result.
 
 ### stop the preview server
 ```{R}

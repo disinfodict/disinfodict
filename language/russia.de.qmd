@@ -11,20 +11,12 @@ Russische Sprache ist in der Ukraine verboten
 - Russisch ist immer noch erlaubt
 :::
 
-
-## Russischsprachige fühlen sich ukrainisch
-
-{{< var todo >}}
-
-
-## Russischsprachige wählen Ukrainisch
-
-{{< var todo >}}
+> Auch das Bild vom "ethnischen Russen" wird in Deutschland oft bemüht. Wer Russisch als Muttersprache spricht, gehöre dem russischen Volk an "Ethnische Russen" würden in der Ukraine unterdrückt und hofften darauf, Hilfe aus Moskau zu bekommen. Die Ursprünge für solche Positionen liegen in der durch die russische Fremdherrschaft geprägten Geschichte der Ukraine und in einer imperialen Außensicht auf das Land ... Niemand wűrde den Deutschschweizern zuschreiben, dass sie eher bundesdeutsche als innerschweizerische Positionen teilen würden. Kein Mensch käme auf die Idee, dass die deutschsprachige Gemeinschaft in Belgien Hilfe aus Berlin benötigen würde, um als Minderheit in Belgien zu ihrem Recht zu kommen.^[Christ:2023a]
 
 
 ## Ukrainer sprachen beides: Ukrainisch und Russisch
 
-Die russische Sprache war früher in der Ukraine tatsächlich sehr verbreitet und stellte die zweitbeliebteste Sprache im Lande dar. Vor der großangelegten Invasion wurde sie sowohl im Privatleben als auch in offiziellen Kreisen gesprochen.[^language-russia.de-1] Diese linguistische Dominanz war jedoch kein natürliches Phänomen, sondern eher eine Folge des jahrhundertelangen russischen Einflusses, der durch kulturelle Auferlegung und politische Manöver gekennzeichnet war.
+Die russische Sprache war früher in der Ukraine tatsächlich sehr verbreitet und stellte die zweitbeliebteste Sprache im Lande dar. Vor der großangelegten Invasion wurde sie sowohl im Privatleben als auch in offiziellen Kreisen gesprochen.[^language-russia.de-1] Diese linguistische Dominanz war jedoch kein natürliches Phänomen, sondern eher eine Folge des jahrhundertelangen russischen Einflusses, der durch kulturelle Auferlegung und politische Manöver gekennzeichnet war. Russland behauptet, die Ukraine sei ethnisch, linguistisch oder sonstwie in zwei Teile geteilt, das ist falsch, siehe @sec-ukraine-nation.
 
 
 ## Russifizierung
@@ -67,7 +59,7 @@ Unter russischer Herrschaft in unterschiedlicher Form[^language-russia.de-5] wur
 
 ## Siehe auch
 
-Die Kapitel zur „großrussischen“ Kultur (@sec-culture-russia), zur ukrainischen Kultur (@sec-culture-ukraine), zu Kriegsverbrechen gegen die ukrainische Kultur (@sec-warcrimes-culture), zur ukrainischen Sprache (@sec-language-russia) und zur russischen Sprache (@sec-language-ukraine).
+Die Kapitel zur ukrainischen Sprache (@sec-language-ukraine), zur ukrainischen Kultur (@sec-culture-ukraine), zu Kriegsverbrechen gegen die ukrainische Kultur (@sec-warcrimes-culture), zur „großrussischen“ Kultur (@sec-culture-russia) und zur ukrainischen Nation (@sec-ukraine-nation).
 
 
 [^language-russia.de-5]:  Danylenko, A., & Naienko, N. (2022, January). Linguistic russification in Russian Ukraine: Languages, imperial models, and policies. ResearchGate. Retrieved May 2, 2024, from [https://www.researchgate.net/publication/362729882\_Linguistic\_russification\_in\_Russian\_Ukraine\_Languages\_imperial\_models\_and\_policies](https://www.researchgate.net/publication/362729882_Linguistic_russification_in_Russian_Ukraine_Languages_imperial_models_and_policies) 
