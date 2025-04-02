@@ -1,11 +1,15 @@
+---
+abstract: > 
+  Have you ever lived in a skyscraper? Asked yourself what if fire? When the rockets hit? How Russky Mir brings peace to civilians. In Dnipro.
+---
+
 # Dnipro strike {#sec-denial-dnipro}
 
 
 ::: {.callout-caution title="Myth"}
-Russia:
 - it was staged
 - it didn't happen
-- it wasn't us
+- it wasn't us (Russia)
 - it was Ukraine
 - they deserved it
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Bucha&sort=relevance)

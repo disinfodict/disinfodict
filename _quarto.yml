@@ -14,6 +14,8 @@ book:
   #site-url: https://disinfodict.pages.dev
   #site-url: https://disinfodict.org
   favicon: /all_common_img/DisinfoDict_logo_1x1_trans_small.png
+  image: /all_common_img/DisinfoDict_logo_1x1_trans.png
+  image-alt: "Logo of Disinfo Dictionary"
   downloads: [pdf,epub]
   open-graph: true
   #https://www.opengraph.xyz/
@@ -24,7 +26,7 @@ book:
     style: "floating"
     collapse-level: 1
     logo: all_common_img/DisinfoDict_logo_1x1_trans.png
-    title: "read. share. join."
+    title: "search. read. share."
   #body-header: | 
   #  ::: {.callout-important title="BREAKING" appearance="default" collapse="false"}
   #  These are breaking NEWS
@@ -43,7 +45,6 @@ book:
     - status/status.qmd
   - part: "Intro" 
     part-de: "Intro" 
-    #part-ua: "Вступ"
     chapters:
     - intro/preface.qmd
     - intro/principles.qmd
@@ -74,7 +75,6 @@ book:
     - corruption/ukraine.qmd
   - part: "Crimea"
     part-de: "Krim"
-    #part-ua: "Крим"
     chapters:
     - crimea/history.qmd
     - crimea/annexation.qmd
@@ -111,7 +111,6 @@ book:
     - denial/zoomurder.qmd
   - part: "Donbas"
     part-de: "Donbass"
-    #part-ua: "Донбас"
     chapters:
     - donbas/genocide.qmd
     - donbas/separatists.qmd
@@ -123,7 +122,6 @@ book:
     - economy/russia.qmd
   - part: "Genocide"
     part-de: "Genozid"
-    #part-ua: "Геноцид"
     chapters:
     - genocide/definition.qmd
     - genocide/history.qmd
@@ -136,12 +134,10 @@ book:
     - germany/ukraine.qmd
   - part: "Language"
     part-de: "Sprache"
-    #part-ua: "Мова"
     chapters:
     - language/russia.qmd
     - language/ukraine.qmd
   - part: "Maidan"
-    #part-ua: "Майдан"
     chapters:
     - maidan/kyiv.qmd
     - maidan/odesa.qmd
@@ -155,20 +151,17 @@ book:
     - nato/expansion.qmd
     - nato/threat.qmd
   - part: "Nazis"
-    #part-ua: "Нацисти"
     chapters:
     - nazis/ukraine.qmd
     - nazis/russia.qmd
   - part: "Negotiations"
     part-de: "Verhandlungen"
-    #part-ua: "переговори"
     chapters:
     - negotiations/endwar.qmd
     - negotiations/russia.qmd
     - negotiations/ukraine.qmd
   - part: "Nukes"
     part-de: "Nuklearwaffen"
-    #part-ua: "Ядерна зброя"
     chapters:
     - nukes/ukraine.qmd
     - nukes/russia.qmd
@@ -191,7 +184,6 @@ book:
     - persons/zelenskyy.qmd
   - part: "Russia"
     part-de: "Russland"
-    #part-ua: "Росія"
     chapters:
     - russia/history.qmd
     - russia/moscow.qmd
@@ -202,7 +194,6 @@ book:
     - russia/values.qmd
   - part: "Russia's War"
     part-de: "Russland's Krieg"
-    #part-ua: "Війна Росії"
     chapters:
     - ruwar/escalation.qmd
     - ruwar/goals.qmd
@@ -211,7 +202,6 @@ book:
     - ruwar/resilience.qmd
     - ruwar/sanctions.qmd
   - part: "Ukraine"
-    #part-ua: "Україна"
     chapters:
     - ukraine/heroes.qmd
     - ukraine/history.qmd
@@ -224,7 +214,6 @@ book:
     - us/ovaloffice.qmd
   - part: "War crimes"
     part-de: "Kriegsverbrechen"
-    #part-ua: "Воєнні злочини"
     chapters:
     - warcrimes/intro.qmd
     - warcrimes/children.qmd
@@ -245,7 +234,6 @@ book:
     - warcrimes/urbicide.qmd
   - part: "World War II"
     part-de: "II. Weltkrieg"
-    #part-ua: "Друга світова війна"
     chapters:
     - wwii/responsibility.qmd
     - wwii/liberation.qmd
@@ -280,6 +268,8 @@ format:
     link-external-icon: false
     link-external-newwindow: false
     license: CC BY-NC-ND
+    include-in-header: 
+      - file: in_header.html
   pdf:
     latex-auto-mk: true
     latex-tinytex: false
@@ -314,19 +304,13 @@ babelquarto:
   languagecodes:
   - name: de
     text: "🇩🇪 Deutsch"
-  #- name: ua
-  #  text: "🇺🇦 Український"
   - name: en
     text: "🇺🇸 English"
   mainlanguage: 'en'
   languages: ['de']
 title-de: Desinfo-Lexikon
-#title-ua: Словник-дезінформації
 subtitle-de: Ein Lexikon der Mythen und Wahrheiten
-#subtitle-ua: Словник міфів і правд
 #description-de: Dieses Lexikon konsolidiert und entkräftet chronische Desinformations-Narrative, die von verschiedenen Fact-Checking-Organisationen festgestellt wurden.
-#description-ua: Цей словник об'єднує та розвінчує хронічні дезінформаційні наративи, виявлені кількома фактчекінговими організаціями
 author-de: NAFO & Partner
-#author-ua: НАФО & Партнер
 lang: en
 

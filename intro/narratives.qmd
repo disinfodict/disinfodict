@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Recognize the pattern: learn to detect known russian narratives in propaganda texts that look harmless
+---
+
 # Narratives {.unnumbered #sec-intro-narratives}
 
 The concept of “narratives” often comes up in the context of Russian and pro-Kremlin disinformation and influence efforts.
@@ -17,11 +22,11 @@ Narratives can be combined and modified based on current events and prevailing a
 
 The idea of an elite disconnected from the hard-working people runs strongly in political history. Several - often rich - politicians and political movements have claimed to represent the voice of the common man, the little guy, the silent majority, against a corrupt and smug clique comprising of the representatives of political parties, corporations and the media. This narrative is not the Kremlin’s invention, but pro-Kremlin disinformation outlets exploit it frequently. See [![EUvsDisinfo: Part 1: the Elites v the People](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/key-narratives-in-pro-kremlin-disinformation-part-1-the-elites-v-the-people/)
 
-## Narrative 2: The ‘Threatened Values
+## Narrative 2: The ‘Threatened Values’
 
 The narrative about ‘Threatened Values’ is adapted to a wide range of topics and typically used to challenge Western attitudes about the rights of women, ethnic and religious minorities, and LGBTQI+ groups, among others. Pro-Kremlin commentators ridicule alleged Western ‘moral decay’ or ‘depraved attitudes’. By contrast, Russia and Orthodox Christianity stand out as the true defenders of traditional values, as by this official Russian promotional video(opens in a new tab) illustrates. See [![EUvsDisinfo: Part 2: The ‘Threatened Values’](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/key-narratives-in-pro-kremlin-disinformation-part-2-the-threatened-values/)
 
-## Narrative 3: ‘Lost Sovereignty
+## Narrative 3: ‘Lost Sovereignty’
 
 Russian and pro-Kremlin disinformation sources like to claim that certain countries are no longer truly sovereign. Back in 2015, a cartoonist for the Russian state news agency RIA Novosti illustrated this idea with an image: Uncle Sam is turning up the flame on a gas stove, forcing Europeans to jump up and down while crying for sanctions against Russia. See [![EUvsDisinfo: Part 3: ‘Lost Sovereignty’](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/key-narratives-in-pro-kremlin-disinformation-part-3-lost-sovereignty/)
 

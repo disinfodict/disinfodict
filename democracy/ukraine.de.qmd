@@ -1,8 +1,22 @@
+---
+abstract: > 
+  Wussten Sie, dass Hetmans gewählt wurden? Erfahren Sie mehr über die Demokratie in der Ukraine und ihre vielen friedlichen Regierungswechsel.
+Stichworte: 
+  - Referendum
+  - Unabhängigkeit
+  - freie Wahlen
+  - Demokratie
+  - Ukraine
+  - Zelenskyj
+---
+
+
 # Demokratie in der Ukraine {#sec-democracy-ukraine}
 
 \index{Referendum}
 \index{Wahlen}
 \index{Demokratie}
+\index{Ukraine}
 
 ::: {.callout-caution title="Mythos"}
 - Die Ukraine ist keine Demokratie

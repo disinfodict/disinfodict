@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Lass Dich nicht foppen: Russia greift an um Ukraine zu einer Kolonie zu machen. Ukraine verteidigt sich. USA wollen nicht helfen. Das ist Stellvertreter-Krieg?
+---
+
 # Die Ukraine - eine Kolonie? {#sec-colonies-ukraine}
 
 ::: {.callout-caution title="Mythos"}
@@ -17,7 +22,7 @@
 
 ## Ukraine ist souveräner Staat
 
-Die Ukraine war bereits seit 1919/1922 eine von Russland eigenständige Sowjetrepublik und unterhielt zu mehreren Ländern diplomatische Beziehungen. Die Ukraine ist wie Belarus - und anders als Russland - ein eigenständiges Gründungsmitglied der Vereinten Nationen.[^colonies-ukraine-1]  Nach dem Zerfall der Sowjetunion 1991 wurde die Ukraine entsprechend dem deutlichen Mehrheitswunsch seiner Einwohner ein komplett souveräner Staat, siehe @sec-democracy-ukraine. 1994 verpflichtete sich Russland im [Budapester Memorandum](https://de.wikipedia.org/wiki/Budapester_Memorandum) die Ukraine nach der Abgabe ihrer Nuklearwaffen als souveränen Staat zu verteidigen, siehe @sec-nukes-ukraine. 
+Die Ukraine war bereits seit 1919/1922 eine von Russland eigenständige Sowjetrepublik und unterhielt zu mehreren Ländern diplomatische Beziehungen. Die Ukraine ist wie Belarus - und anders als Russland - ein eigenständiges Gründungsmitglied der Vereinten Nationen.[^colonies-ukraine-1]  Nach dem Zerfall der Sowjetunion 1991 wurde die Ukraine entsprechend dem deutlichen Mehrheitswunsch seiner Einwohner ein komplett souveräner Staat, siehe @sec-democracy-ukraine und @sec-ukraine-nation. 1994 verpflichtete sich Russland im [Budapester Memorandum](https://de.wikipedia.org/wiki/Budapester_Memorandum) die Ukraine nach der Abgabe ihrer Nuklearwaffen als souveränen Staat zu verteidigen, siehe @sec-nukes-ukraine. 
 
 Weder der Westen noch die Ukraine waren historisch je besonders wechselseitig aufeinander fixiert. Die intensivere wechselseitige Beziehung ist eine Folge von Russlands imperialistischer Einflussnahme.
 

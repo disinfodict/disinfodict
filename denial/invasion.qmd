@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Help us write: How Russia prepared the invasion long ago, invaded unprovoked to conquer Ukraine and commits genocide to everything ukrainian
+---
+
 # Full invasion {#sec-denial-invasion}
 
 ::: {.callout-caution title="Myth"}

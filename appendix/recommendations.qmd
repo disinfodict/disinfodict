@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Find more: links to recommended sources related to teaching media literacy and debunking russian narratives.
+---
+
 # Recommendations {.unnumbered #sec-appendix-recommendations}
 
 ## Other dictionaries

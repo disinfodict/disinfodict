@@ -1,3 +1,15 @@
+---
+abstract: > 
+  Knew that Hetmans were elected? Learn about the democracy in Ukraine and its many peaceful government transitions.
+keywords: 
+  - Referendum
+  - Independence
+  - Elections
+  - Democracy
+  - Ukraine
+  - Zelenskyy
+---
+
 # Democracy in Ukraine {#sec-democracy-ukraine}
 
 \index{Referendum}

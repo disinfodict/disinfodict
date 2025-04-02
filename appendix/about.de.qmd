@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Entdecken Sie unser Netzwerk: Wer sind wir und unsere Partner?
+---
+
 # Team & Partner {.unnumbered #sec-appendix-about}
 
 ## Kernteam
@@ -41,10 +46,6 @@ Betreiber einer Datenbank und eines Newsletters über Desinformation: [EUvsDisin
 ### Internationales Netzwerk zur Faktenüberprüfung (IFCN)
 
 Wir bekennen uns zum [IFCN-Prinzipienkodex](https://ifcncodeofprinciples.poynter.org/the-commitments), haben aber noch keinen Unterzeichnerstatus beantragt: Das [International Fact-Checking Network (IFCN) at Poynter](https://www.poynter.org/ifcn/) hat sich der Förderung von Spitzenleistungen bei der Faktenüberprüfung verschrieben. Das IFCN ist der Ansicht, dass unparteiische und transparente Faktenüberprüfung ein wirksames Instrument des verantwortungsvollen Journalismus sein kann. Umgekehrt kann eine nicht fundierte oder voreingenommene Faktenüberprüfung das Misstrauen gegenüber den Medien und Experten erhöhen und das öffentliche Verständnis beeinträchtigen.
-
-### Deutsch-Ukrainische Gesellschaft 
-
-Die *Deutsch-Ukrainische Gesellschaft - für unsere und Eure Freiheit* ist an der Kuratierung der Inhalte beteiligt.
 
 
 ## Start-up-Partner

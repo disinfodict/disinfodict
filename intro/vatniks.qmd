@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Know the bad guys: about infiltration of our society by russian influence agents
+---
+
 # Agents & Vatniks {.unnumbered #sec-intro-vatniks}
 
 [Vatnik](https://en.wikipedia.org/wiki/Vatnik) is a political pejorative used in Russia and other post-Soviet states for steadfast jingoistic followers of propaganda from the Russian government.  In the wider sense the word 'Vatnik' is also used for influence agents, who disseminate russian propaganda.

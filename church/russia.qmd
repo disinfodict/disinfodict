@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Save us from evil: why the Russian church lies to us when it tells us about values
+---
+
 # Church in Russia? {#sec-church-russia}
 
 ::: {.callout-caution title="Myth"}

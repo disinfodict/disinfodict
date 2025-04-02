@@ -1,4 +1,9 @@
-# Green men? {#sec-denial-crimea}
+---
+abstract: > 
+  How to turn brutal red killers to little green men? How to recognize hybrid warfare? Read on.
+---
+
+# Little green men? {#sec-denial-crimea}
 
 ::: {.callout-caution title="Myth"}
 - Crimea never was ukrainian
@@ -11,20 +16,9 @@
 :::
 
 ::: {.callout-tip title="Truth"}
-{{< var todo >}}
+Of course little green men were brutal russian soldiers.
 :::
 
-
-## A
-
-{{< var todo >}}
-
-## B
-
-{{< var todo >}}
-
-## C
-
-{{< var todo >}}
+Hybrid warefare uses deception. See @sec-crimea-annexation. 
 
 

@@ -1,7 +1,12 @@
+---
+abstract: > 
+  Schon mal im Flugzeug gesessen? Bischen Angst gehabt? Als die russische Rakete einschlug? Azerbaijan Airlines Flug 8243.
+---
+
 # Azerbaijan Airlines {#sec-denial-azerbaijan}
 
 ::: {.callout-caution title="Mythos"}
-Russland:
+Russland:  
 - es waren Vögel
 - es ist nicht passiert
 - es waren nicht wir
@@ -11,7 +16,7 @@ Russland:
 
 ::: {.callout-tip title="Wahrheit"}
 Russland schoss auf das Flugzeug und verweigerte die Notlandung
-[<br></br>![Link zu Wikipedia: Azerbaijan Airlines Flug 8243](../all_common_img/Wikipedia.png){width=„66%“}](https://de.wikipedia.org/wiki/Azerbaijan-Airlines-Flug_8243)
+[<br></br>![Link zu Wikipedia: Azerbaijan Airlines Flug 8243](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Azerbaijan-Airlines-Flug_8243)
 :::
 
 Der Flug 8243 der Aserbaidschan Airlines von Baku nach Grosny wurde nach Angaben der aserbaidschanischen Agentur AnewZ von einem russischen Pantsir-S1-Luftabwehrsystem abgeschossen. Russland lehnte eine Notlandung in Grosny ab, in der Hoffnung, dass das Flugzeug und die Beweismittel ins Meer stürzen.

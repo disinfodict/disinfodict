@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Read more: literature that is important and not listed as online links in chapters of the Disinfo Dictionary
+---
+
 # References {.unnumbered #sec-appendix-references}
 
 ::: {#refs}

@@ -1,8 +1,0 @@
-# Список літератури {.unnumbered}
-
-::: {#refs}
-:::
-
-\clearpage
-\addcontentsline{toc}{chapter}{Індекс}
-\printindex

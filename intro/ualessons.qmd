@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Learn from Ukraine: resilience against hybrid warfare from people with many years experience
+---
+
 # Lessons from Ukraine {.unnumbered #sec-intro-ualessons}
 
 ::: {.callout-caution title="Myth"}

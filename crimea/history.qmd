@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Heard of Atlantis? How a land disappeared, a people vanished and who is responsible: the history of Crimea.
+---
+
 # Crimea history {#sec-crimea-history}
 
 \index{Crimea} 

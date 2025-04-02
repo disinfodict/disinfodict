@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Finde mehr: links zu empfohlenen Quellen im Zusammenhang mit der Vermittlung von Medienkompetenz und der Entlarvung russischer Narrative.
+---
+
 # Empfehlungen {.unnumbered #sec-appendix-recommendations}
 
 ## Andere Lexika

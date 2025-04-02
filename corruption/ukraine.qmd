@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Know about corruption? Learn how Russian mafia wants to turn ukraine corrupt ... against the will of the Ukrainians
+---
+
 # Corruption in Ukraine? {#sec-corruption-ukraine}
 
 ::: {.callout-caution title="Myth"}

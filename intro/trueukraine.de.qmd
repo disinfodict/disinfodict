@@ -1,6 +1,11 @@
+---
+abstract: > 
+  Was Sie nicht wussten: Erfahren Sie mehr über die Ukraine, den Ursprung Europas und über russische Lügen
+---
+
 # Ukraine kennenlernen {.unnumbered #sec-intro-trueukraine}
 
-## Wahrheiten über die Ukraine
+## Wissenwertes über die Ukraine
 
 The [Kyiv Independent](https://kyivindependent.com) ist das am schnellsten wachsende englischsprachige Medienportal in der Ukraine. Es wurde im November 2021 gegründet, nur drei Monate vor der russischen Invasion in der Ukraine. Kyiv Independent hat zwei Rubriken, die der Ukraine gewidmet sind:
 

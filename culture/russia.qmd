@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Be warned: it is a culture of deception that steals or murders the cultures of its neighbors to make itself greater. On the “Great Russian Culture”.
+---
+
 # "Great Russian culture" {#sec-culture-russia}
 
 ::: {.callout-caution title="Myth"}

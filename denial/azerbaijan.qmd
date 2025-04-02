@@ -1,17 +1,21 @@
+---
+abstract: > 
+  Ever been on an airplane? Been a bit scared? When the Russian missile hit? Azerbaijan Airlines flight 8243.
+---
+
 # Azerbaijan Airlines {#sec-denial-azerbaijan}
 
 ::: {.callout-caution title="Myth"}
-Russia:
 - it was birds
 - it didn't happen
-- it wasn't us
+- it wasn't us (Russia)
 - it was Ukraine
 - sorry, that's war
 :::
 
 ::: {.callout-tip title="Truth"}
 Russsia shot the airplane then denyied emergency landing
-[<br></br>![Link to Wikipedia: Azerbaijan Airlines Flight 8243](../all_common_img/Wikipedia.png){width="66%"}](https://en.wikipedia.org/wiki/Azerbaijan_Airlines_Flight_8243)
+[<br></br>![Link to Wikipedia: Azerbaijan Airlines Flight 8243](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Azerbaijan_Airlines_Flight_8243)
 :::
 
 The Azerbaijan Airlines flight 8243 Baku-Grozny was shot down by a Russian Pantsir-S1 air Defence system, the Azerbaijani agency AnewZ claims. Russia denied emergency landing in Grozny, hoping the plane and proofs drop into the sea.

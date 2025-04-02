@@ -1,14 +1,19 @@
+---
+abstract: > 
+  Have you ever had to flee? Live in a hostel? When the rockets hit? Read how social Russia is.
+---
+
+
 # Chasiv Yar strike {#sec-denial-chasivyar}
 
 ::: {.callout-caution title="Myth"}
-Russia:
-We hit a "temporary deployment point” of a Ukrainian territorial defence unit
+We, Russia, hit a "temporary deployment point” of a Ukrainian territorial defence unit
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Bucha&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
 Russsia killed 34 civilians including one child
-[<br></br>![Link to Wikipedia: Chasiv Yar missile strike](../all_common_img/Wikipedia.png){width="66%"}](https://en.wikipedia.org/wiki/July_2022_Chasiv_Yar_missile_strike)
+[<br></br>![Link to Wikipedia: Chasiv Yar missile strike](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/July_2022_Chasiv_Yar_missile_strike)
 :::
 
 On July 9, 2022, Russian ballistic missiles hit the town of Chasiv Yar, Donetsk region. 48 people were murdered, including a 9-year-old child.[^denial-chasivyar-1]

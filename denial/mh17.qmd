@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Help us write: how Russia shot down the civilian aircraft MH17, killed 298 people and why Girkin is sentenced but still free.
+---
+
 # Flight mh17 {#sec-denial-mh17}
 
 ::: {.callout-caution title="Myth"}

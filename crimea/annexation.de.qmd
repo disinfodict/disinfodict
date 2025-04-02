@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Grüne Männchen sind öko? Soldaten ohne Abzeichen führen nichts Gutes im Schilde! Warum die Krim-Annexion eine Krim-Invasion war.
+---
+
 # Krim-Annexion {#sec-crimea-annexation}
 
 \index{Crimea}

@@ -1,11 +1,15 @@
+---
+abstract: > 
+  Help us write: Have you ever been to a theater? Listened to silence? Afer the rockets hit? How Russia honors culture. In Chernihiv.
+---
+
 # Chernihiv strike {#sec-denial-chernihiv}
 
 
 ::: {.callout-caution title="Myth"}
-Russia:
 - it was staged
 - it didn't happen
-- it wasn't us
+- it wasn't us (Russia)
 - it was Ukraine
 - they deserved it
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Bucha&sort=relevance)

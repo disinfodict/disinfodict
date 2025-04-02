@@ -1,10 +1,15 @@
+---
+abstract: > 
+  Wie kann man vor aller Augen Verbrechen begehen? Viele Verbrechen? Und schamlos lügen man sei es nicht gewesen? Wenn man Russland ist. In Butcha.
+---
+
 # Butcha massacre {#sec-denial-bucha}
 
 \index{Butcha}
 \index{Irpin}
 
 ::: {.callout-caution title="Mythos"}
-Russland:
+Russland:  
 - es war inszeniert
 - es hat nicht stattgefunden
 - es waren nicht wir

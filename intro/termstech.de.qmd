@@ -1,3 +1,25 @@
+---
+abstract: > 
+  Werde Experte: (Des)Informations-Terminologie und Propaganda-Techniken
+keywords: 
+  - Wahrheit
+  - Misinformation 
+  - Desinformation 
+  - Malinformation 
+  - Propaganda 
+  - Psy-Ops 
+  - psychologische Kriegsführung 
+  - aktive Maßnahmen 
+  - reflexive Kontrolle 
+  - hybride Kriegsführung 
+  - Feuerschlauch der Unwahrheiten 
+  - waffenartige Narrative 
+  - FIMI 
+  - Prebunking 
+  - Debunking 
+  - NAFO 
+---
+  
 # Begriffe & Techniken {.unnumbered #sec-intro-termstech}
 
 ::: {.callout-caution title="Mythos"}
@@ -20,7 +42,7 @@ Um eine Lüge zu verstehen, müssen wir sie für einen Moment in unserem Kurzzei
 
 ## Desinformation
 
-*Fehlinformation* ist eine falsche oder irreführende Information (siehe [Wikipedia](https://en.wikipedia.org/wiki/Misinformation)).
+*Fehlinformation* (Misinformation) ist eine falsche oder irreführende Information (siehe [Wikipedia](https://en.wikipedia.org/wiki/Misinformation)).
 
 *Bösinformation* (Malinformation) ist eine korrekte Information, die absichtlich in böser Absicht verbreitet wird (siehe [Wikipedia](https://en.wikipedia.org/wiki/Malinformation)).
 

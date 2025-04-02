@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Auswandern nach Russland? Lerne erst mal wie im mafiösen Russland Korruption und Tyrannei sich die Klinke in die Hand geben.
+---
+
 # Korruption in Russland {#sec-corruption-russia}
 
 ::: {.callout-caution title="Mythos"}

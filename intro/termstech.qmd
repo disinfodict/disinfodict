@@ -1,3 +1,25 @@
+---
+abstract: > 
+  Become an expert: (Dis)Information Terminology and Propaganda Techniques
+keywords: 
+  - truth
+  - misinformation
+  - disinformation
+  - malinformation
+  - propaganda
+  - psy-ops
+  - psychological warfare
+  - active measures
+  - reflexive control
+  - hybrid warfare
+  - firehose of falsehoods
+  - weaponized narratives
+  - FIMI
+  - prebunking
+  - debunking
+  - NAFO
+---
+
 # Terms & Techniques {.unnumbered #sec-intro-termstech}
 
 ::: {.callout-caution title="Myth"}

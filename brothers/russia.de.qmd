@@ -1,4 +1,9 @@
-# Brüder? von Russland {#sec-brothers-russia}
+---
+abstract: > 
+  Schlimmer als Kain zu Abel: warum Russland kein Bruder ist - weder von der Ukraine noch von uns
+---
+
+# Brüder? von Russland? {#sec-brothers-russia}
 
 ::: {.callout-caution title="Mythos"}
 - Russen und Ukrainer sind Brüder

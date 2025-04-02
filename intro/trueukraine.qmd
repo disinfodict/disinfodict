@@ -1,6 +1,11 @@
+---
+abstract: > 
+  What you didn't know: Find out more about Ukraine, about the origins of Europe and about Russian lies
+---
+
 # Learning Ukraine {.unnumbered #sec-intro-trueukraine}
 
-## Truths about Ukraine
+## Worth knowing about Ukraine
 
 The [Kyiv Independent](https://kyivindependent.com) is Ukraine’s fastest-growing English-language media outlet, created in November 2021, just three months before the full-scale Russian invasion of Ukraine. Kyiv Independent has two sections dedicated to Ukraine:
 

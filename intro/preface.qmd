@@ -1,3 +1,8 @@
+---
+abstract: > 
+  It could be you: who benefits from quick search, easy read and simple links to the Disinfo Dictionary
+---
+
 # Preface {.unnumbered #sec-intro-preface}
 
 ## For whom?

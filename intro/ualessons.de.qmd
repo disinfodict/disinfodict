@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Von der Ukraine lernen: Resilienz gegen hybride Kriegsführung durch Menschen mit langjähriger Erfahrung
+---
+
 # Lektionen aus der Ukraine {.unnumbered #sec-intro-ualessons}
 
 ::: {.callout-caution title="Mythos"}

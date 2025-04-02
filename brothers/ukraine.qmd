@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Help us: explaining why Ukraine belongs to the European family and how the EU benefits from Ukraine
+---
+
 # Family of Ukraine {#sec-brothers-ukraine}
 
 ::: {.callout-caution title="Myth"}
@@ -6,7 +11,8 @@ Ukrainians belong to the Russian family.
 :::
 
 ::: {.callout-tip title="Truth"}
-Ukraine belongs to the European family.
+Ukraine belongs to the European family
+The EU will benefit from Ukraine
 :::
 
 ## Melting pot Europe 

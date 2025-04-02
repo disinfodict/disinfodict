@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Lies mehr: wichtige Literatur die nicht als Online-Links in den einzelnen Kapiteln des Desinfo-Lexikons aufgeführt ist
+---
+
 # Referenzen {.unnumbered #sec-appendix-references}
 
 ::: {#refs}

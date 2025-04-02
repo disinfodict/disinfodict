@@ -1,3 +1,15 @@
+---
+abstract: > 
+  Help us write: how russia fakes elections, how Putin grew from mafia boss in St. Petersburg to boss of mafia Russia
+keywords: 
+  - Elections
+  - Democracy
+  - Oligarchy
+  - Dictatorship
+  - Russia
+  - Putin
+---
+
 # Democracy in Russia? {#sec-democracy-russia}
 
 \index{Elections}

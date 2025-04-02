@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Von Atlantis gehört? Wie ein Land verschwand, ein Volk verschwand und wer veranwortlich ist: die Geschichte der Krim.
+---
+
 # Krim Geschichte {#sec-crimea-history}
 
 \index{Krim} 

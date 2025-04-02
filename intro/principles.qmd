@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Trust us, help us and help you: values and principles, mission and vision, learn good writing!
+---
+
 # Values & Principles {.unnumbered #sec-intro-principles}
 
 ::: {.callout-caution title="Myth"}

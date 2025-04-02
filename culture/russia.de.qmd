@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Sei gewarnt: es ist eine Kultur der Täuschung, welche die Kulturen der Nachbarn raubt oder ermordet um sich größer zu machen. Zur "Großen russichen Kultur".
+---
+
 # „Große Russische Kultur“ {#sec-culture-russia}
 
 ::: {.callout-caution title="Mythos"}

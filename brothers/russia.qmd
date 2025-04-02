@@ -1,4 +1,9 @@
-# Brothers? of Russia {#sec-brothers-russia}
+---
+abstract: > 
+  Worse than Cain to Abel: why Russia is no brother - neither of Ukraine nor of us
+---
+
+# Brothers? of Russia? {#sec-brothers-russia}
 
 ::: {.callout-caution title="Myth"}
 - Russians and Ukrainians are brothers
@@ -30,9 +35,11 @@ In Imperial Russia, this notion transformed into the idea of an *All-Russian nat
 
 In reality, it is hard to find any plausible arguments that could convincingly back this idea. Since the two nations started to take shape after the fall of Kyivan Rus' (around 1240), they went their separate ways, experiencing different influences and forming different political cultures. Ukrainian national identity finally emerged in the 19th century (which was the case for most European nations),[^brothers-russia-5] when Ukraine was divided between the Russian Empire in the east and the Austro-Hungarian Empire in the west. 
 
+
 ## Soviet Union
 
 Interestingly, the formation of the Soviet Union is often seen solely as a treaty between the Russian, Ukrainian, and Belorussian Soviet Socialist Republics, and the preceding events mostly remain out of the spotlight. However, the Bolsheviks did not receive support in Ukraine, and the Ukrainian Soviet Socialist Republic was forcefully formed as a result of the Ukrainian-Soviet War in 1917–1921.[^brothers-russia-6]
+
 
 ## Red Terror
 
@@ -40,9 +47,11 @@ Finally, taking into account the disasters and tragedies Ukraine experienced thr
 
 ![Victims of USSR in Ukraine in numbers, from Transatlantic Dialogue Center](tdcenter_RedTerror.jpg)
 
+
 ## Russia's war
 
 Thus, naming this war “Putin’s war”, as often witnessed particularly in German media outlets, is rather inaccurate, as the current hostilities are historically speaking just another stage of centuries-long Russian aggression against the Ukrainian people, whether in the form of direct fights or more intricate ways of extermination. So, the history of “brotherly nations” — the idea that 91% of Ukrainians[^brothers-russia-7] do not support nowadays — is instead the history of mass destruction, murder, invasion, deportations, deception, and degradation. Ukrainian-Russian relations are now perceived as less fraternal at the political and social levels compared to the past, exemplified by the Bundestag's recognition of the Holodomor as genocide in Ukraine in November 2022.[^brothers-russia-8]
+
 
 ## Russia's genocide
 

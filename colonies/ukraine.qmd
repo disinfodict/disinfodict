@@ -1,3 +1,9 @@
+---
+abstract: > 
+  Don't be fooled: Russia is attacking to turn Ukraine into a colony. Ukraine defends itself. USA does not want to help. This is proxy war?
+---
+
+
 # Ukraine - a colony? {#sec-colonies-ukraine}
 
 ::: {.callout-caution title=“Myth”}
@@ -17,7 +23,7 @@
 
 ## Ukraine is a sovereign state
 
-Ukraine has been an independent Soviet republic from Russia since 1919/1922 and has maintained diplomatic relations with several countries. Like Belarus - and unlike Russia - Ukraine is an independent founding member of the United Nations.[^colonies-ukraine-1] After the collapse of the Soviet Union in 1991, Ukraine became a completely sovereign state in accordance with the clear majority wishes of its inhabitants, see @sec-democracy-ukraine. In 1994, Russia committed itself in the [Budapest Memorandum](https://en.wikipedia.org/wiki/Budapest_Memorandum) to defending Ukraine as a sovereign state after giving up its nuclear weapons, see @sec-nukes-ukraine. 
+Ukraine has been an independent Soviet republic from Russia since 1919/1922 and has maintained diplomatic relations with several countries. Like Belarus - and unlike Russia - Ukraine is an independent founding member of the United Nations.[^colonies-ukraine-1] After the collapse of the Soviet Union in 1991, Ukraine became a completely sovereign state in accordance with the clear majority wishes of its inhabitants, see @sec-democracy-ukraine and @sec-ukraine-nation. In 1994, Russia committed itself in the [Budapest Memorandum](https://en.wikipedia.org/wiki/Budapest_Memorandum) to defending Ukraine as a sovereign state after giving up its nuclear weapons, see @sec-nukes-ukraine. 
 
 Neither the West nor Ukraine have historically ever been particularly mutually fixated on each other. The more intensive mutual relationship is a consequence of Russia's imperialist influence.
 

@@ -1,8 +1,13 @@
+---
+abstract: > 
+  Sie könnten es sein: der von der schnellen Suche, der leichten Lesbarkeit und den einfachen Links zum Disinfo-Lexikon profitiert
+---
+
 # Vorwort {.unnumbered #sec-intro-preface}
 
 ## Für wen?
 
-Das Lexikon ermöglicht die schnelle Suche und das Verlinken von Faken, die russische Narrative widerlegen.
+Das **Desinfo-Lexikon** ermöglicht die schnelle Suche und das Verlinken von Fakten, die russische Narrative widerlegen.
 
 - Journalisten
 - Faktenchecker

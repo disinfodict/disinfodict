@@ -1,0 +1,23 @@
+---
+abstract: > 
+  Wie werden aus brutalen roten Killern kleine grüne Männchen? Wie erkennt man hybride Kriegsführung? Lies weiter.
+---
+
+# Kleine grüne Männchen? {#sec-denial-crimea}
+
+::: {.callout-caution title="Mythos"}
+- Die Krim war nie ukrainisch
+- Die Krim ist nicht annektiert
+- Die Krim hat ihr Schicksal selbst bestimmt
+- Die „grünen Männer“ sind keine russischen Soldaten
+- Russland hat die Krim gerettet
+- Die europäischen Führer haben den Verlust der Krim akzeptiert
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=crimea&date=01.01.2014%20-%2001.01.2018&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Natürlich waren die kleinen grünen Männchen brutale russische Soldaten.
+:::
+
+Hybride Kriegsführung nutzt Täuschung. Siehe @sec-crimea-annexation. 
+

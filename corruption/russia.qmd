@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Emigrating to Russia? First learn how corruption and tyranny go hand in hand in mafia-like Russia.
+---
+
 # Corruption in Russia {#sec-corruption-russia}
 
 ::: {.callout-caution title="Myth"}

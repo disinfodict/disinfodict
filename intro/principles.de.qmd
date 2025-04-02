@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Vertraue uns, hilf uns und hilf Dir selbst: Werte und Prinzipien, Mission und Vision, lerne gut zu schreiben!
+---
+
 # Werte & Prinzipien {.unnumbered #sec-intro-principles}
 
 ::: {.callout-caution title="Mythos"}

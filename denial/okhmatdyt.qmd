@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Help us write: how Russia bombed Okhmatdyt children hospital and denied it and blamed Ukraine for it
+---
+
 # Okhmatdyt hospital {#sec-denial-okhmatdyt}
 
 ::: {.callout-caution title="Myth"}

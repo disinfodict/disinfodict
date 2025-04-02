@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Mussten Sie schon einmal flüchten? In einem Wohnheim wohnen? Als die Raketen einschlugen? Lies wie sozial Russland ist.
+---
+
 # Tschasiw Jar Raketenangriff {#sec-denial-chasivyar}
 
 ::: {.callout-caution title="Mythos"}

@@ -1,7 +1,12 @@
+---
+abstract: > 
+  Glauben Sie dem Kreml nicht, bis er es leugnet. Erfahren Sie, wie Russland lügt. Mit einer langen Liste von schamlosen russischen Lügen. 
+---
+
 # Leugnung Einleitung {#sec-denial-intro}
 
 ::: {.callout-caution title="Mythos"}
-Russland:
+Russland:  
 - es war inszeniert
 - es hat nicht stattgefunden
 - es waren nicht wir

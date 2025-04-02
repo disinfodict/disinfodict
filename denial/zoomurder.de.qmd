@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Mörder im Zoo: Wie der Kreml-Attentäter Vadim Krasikov einen Kritiker im Berliner Zoo ermordete und von Putin umarmt wurde
+---
+
 # Tiergarten Mord {#sec-denial-zoomurder}
 
 ::: {.callout-caution title="Mythos"}

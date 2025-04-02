@@ -1,6 +1,6 @@
 ---
 abstract: > 
-  Wanna go shopping? Stay far from Russia! How Russian fired missiles at the “Amstor” shopping center in Kremenchuk.
+  Willst einkaufen gehen? Bleib weit weg von Russland! Wie die Russen Raketen auf das Einkaufszentrum „Amstor“ in Krementschuk abfeuerten.
 ---
 
 # Kremenchuk Shopping {#sec-denial-kremenchuk}

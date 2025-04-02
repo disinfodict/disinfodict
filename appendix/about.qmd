@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Discover our network: who are we and our partners?
+---
+
 # Team & Partners {.unnumbered #sec-appendix-about}
 
 ## Core team
@@ -40,10 +45,6 @@ Maintainer of a database and provider of a newsletter on desinformation: [EUvsDi
 ### International Fact-Checking Network (IFCN)
 
 We commit to the [IFCN code of Principles](https://ifcncodeofprinciples.poynter.org/the-commitments) but have not applied for signatory status yet: the [International Fact-Checking Network (IFCN) at Poynter](https://www.poynter.org/ifcn/) is committed to promoting excellence in fact-checking. IFCN believes nonpartisan and transparent fact-checking can be a powerful instrument of accountability journalism. Conversely, unsourced or biased fact-checking can increase distrust in the media and experts while polluting public understanding.
-
-### German-Ukrainian Association 
-
-The *German-Ukrainian Association - for our and your freedom*, is involved in curating the content.
 
 
 ## Start-up partners

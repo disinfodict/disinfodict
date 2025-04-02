@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Kenne die Schurken: die Unterwanderung unserer Gesellschaft durch russische Einflussagenten
+---
+
 # Agenten & Vatniks {.unnumbered #sec-intro-vatniks}
 
 [Vatnik](https://de.wikipedia.org/wiki/Watnik) ist ein politisches Pejorativum, das in Russland und anderen postsowjetischen Staaten für unerschütterliche, chauvinistische Anhänger der Propaganda der russischen Regierung verwendet wird.  Im weiteren Sinne wird das Wort 'Vatnik' auch für Einflussagenten verwendet, die die russische Propaganda verbreiten.
