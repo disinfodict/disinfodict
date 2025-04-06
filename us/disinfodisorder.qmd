@@ -70,7 +70,7 @@ The term "Information Disorder" finds early conceptual roots in psychological st
 
 "Cognitive immunology" is an emerging interdisciplinary field studying how mental processes in healthy individuals resist or succumb to misinformation.[^2] Drawing from psychology and neuroscience, it posits that the mind has "immune-like" mechanisms—such as critical thinking and source evaluation—that protect against false narratives. Research highlights that these defenses, while effective, can also overreact, leading to the dismissal of valid information when it conflicts with pre-existing beliefs.[^disinfodisorder-10] [^disinfodisorder-11] 
 
-So far this science is still nascent with limited empirical consensus. The website [cognitiveimmunology.net](cognitiveimmunology.net) tracks progress. The  [Mental Immunity Project](mentalimmunityproject.org) provides learning and teaching materials. 
+So far this science is still nascent with limited empirical consensus. The website [https://cognitiveimmunology.net](https://cognitiveimmunology.net) tracks progress. The  [Mental Immunity Project](https://mentalimmunityproject.org) provides learning and teaching materials. 
 
 
 ## Double Bind
