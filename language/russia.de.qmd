@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Die armen verfolgten Russen in der Ukraine? Unfug. Lerne, wie Russischsprachige in der Ukraine Ukrainer sind und Russland hassen.
+---
+
 # Russische Sprache {#sec-language-russia}
 
 ::: {.callout-caution title="Mythos"}

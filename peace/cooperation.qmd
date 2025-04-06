@@ -1,3 +1,8 @@
+---
+abstract: >
+  Peace through cooperation? Not if the aggressor only feigns cooperation and relies on raw materials and a war economy.
+---
+
 # Peace by Cooperation? {#sec-peace-cooperation}
 
 ::: {.callout-caution title="Myth"}

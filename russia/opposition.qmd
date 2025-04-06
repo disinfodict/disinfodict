@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Help us write: The russian opposition: who manages it and whom they serve. Still think they improve something?
+---
+
 # Russian opposition {#sec-russia-opposition}
 
 ::: {.callout-caution title="Myth"}

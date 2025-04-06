@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Consider Navalny democratic opposition? Pro-peace? Anti-imperialistic? Learn something about russian opposition.
+---
+
 # Persons Navalny {#sec-persons-navalny}
 
 ::: {.callout-caution title="Myth"}
@@ -6,9 +11,9 @@ Navalny is an enemy of Putin, hence a friend of Ukraine
 :::
 
 ::: {.callout-tip title="Truth"}
-- the enemy of our enemy is not our friend
+- The enemy of our enemy is not our friend
 - Navalny and his group are pursuing russian imperialistic goals
-- the russian "opposition" is not helpful
+- The russian "opposition" is not helpful
 :::
 
 ## I will not return Crimea to Kyiv

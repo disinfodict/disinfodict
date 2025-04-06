@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Der Angreifer eskaliert, nicht der Verteidiger. Putin eskaliert, ob wir seine roten Linien beachten oder nicht.  
+---
+
 # Escalation? {#sec-ruwar-escalation}
 
 ::: {.callout-caution title="Mythos"}

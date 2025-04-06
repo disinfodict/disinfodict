@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Know the trick to end wars? Not by appeasing the aggressor. By defeating the aggressor. Then negotiate.
+---
+
 # Negotiations end war? {#sec-negotiations-endwar}
 
 ::: {.callout-caution title="Myth"}

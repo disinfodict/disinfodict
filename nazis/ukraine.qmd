@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Did you know that there are far fewer Nazis in Ukraine than in Germany? There is nothing to denazify in Ukraine.
+---
+
 # Nazis in Ukraine? {#sec-nazis-ukraine}
 
 \index{Nazis}

@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Think Russia is defending traditional values? By contrast. Read about family, religion, law and murder in russia.
+---
+
 # Russian values {#sec-russia-values}
 
 ::: {.callout-caution title="Myth"}

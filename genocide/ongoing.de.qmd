@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Keine lustige Einleitung: Wie Russland in der Ukraine Völkermord begeht und wie Trump ein Komplize ist. Wisse es. Tu etwas dagegen.
+---
+
 # Völkermord läuft {#sec-genocide-ongoing}
 
 ::: {.callout-caution title="Mythos"}
@@ -15,14 +20,17 @@ Russland hat den Völkermord an allen und allem Ukrainischen angekündigt und be
 :::
 
 
-## Säuberungen auf der Krim, im Donbass und in Luhansk seit 2014
+> Genocide Watch gibt einen Notfallalarm zu den Äußerungen von US-Präsident Donald Trump über den Krieg in der Ukraine heraus ... Die russische Aggression und der Völkermord werden sich verschlimmern, wenn die USA die Ukraine im Stich lassen. Russland ist in jeder Phase des Völkermordes in der Ukraine tätig. Genocide Watch betrachtet die Aussagen der Trump-Administration als Beihilfe zum Völkermord. Sie sind ein Beweis für Stufe 4: Entmenschlichung, Stufe 5: Organisation und Stufe 6: Polarisierung. Trumps Rhetorik spiegelt russische Desinformation wider.[^genocide-ongoing-1]
+
+
+## Säuberungen auf der Krim, im Donbas und in Luhansk seit 2014
 
 ### Krim
 
 Siehe @sec-crimea-purges
 
 
-### Donbass
+### Donbas
 
 Siehe @sec-donbas-genocide
 
@@ -72,3 +80,8 @@ Siehe systematische sexualisierte Gewalt @sec-warcrimes-sexual gegen Kriegsgefan
 ### Zwangsweise Überführung von Kindern der Gruppe in eine andere Gruppe
 
 Siehe @sec-warcrimes-children
+
+
+[^genocide-ongoing-1]: Ukraine Advocacy Task Force (Feb. 26, 2025). Genocide Watch. [https://www.genocidewatch.com/single-post/ukraine-genocide-emergency](https://www.genocidewatch.com/single-post/ukraine-genocide-emergency)
+
+

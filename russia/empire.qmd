@@ -1,3 +1,8 @@
+---
+abstract: > 
+  How the evil empire plans to expand by spreading fear, torture, murder and famine. Spoiler: Muscovite Russia.
+---
+
 # Russian empire {#sec-russia-empire}
 
 ::: {.callout-caution title="Myth"}
@@ -7,36 +12,61 @@ Angela Merkel has approved the creation of a common economic zone between the Ru
 
 ::: {.callout-tip title="Truth"}
 Russia plans to expanded its evil empire from Vladivostok to Dublin/Lisbon.
+[<br></br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Eurasianism)
 :::
+
+For the history of the russian empire see @sec-russia-history.
 
 ## Dugin
 
-> Dugin soon began publishing his own journal entitled Elementy, which initially began by praising Franco-Belgian Jean-François Thiriart, belatedly a supporter of a "Euro-Soviet empire which would stretch from Dublin to Vladivostok and would also need to expand to the south, since it require(s) a port on the Indian Ocean."
-> [Alexandr Dugin 1997](https://en.m.wikipedia.org/wiki/Aleksandr_Dugin)
+The Russian fascist Dugin is considered the inventor of modern “Eurasianism”
+
+> Dugin soon began publishing his own journal entitled Elementy, which initially began by praising Franco-Belgian Jean-François Thiriart, belatedly a supporter of a "Euro-Soviet empire which would stretch from Dublin to Vladivostok and would also need to expand to the south, since it require(s) a port on the Indian Ocean."  
+> Alexandr Dugin (1997)[^russia-empire-1]
 
 
 ## Putin
 
-In a speech in Berlin Putin (2010) called for the geopolitical unification of “Greater
-Europe” from Lisbon to Vladivostok (@Sakwa:2021).
+In a speech in Berlin Putin (2010) called for the geopolitical unification of “Greater Europe” from Lisbon to Vladivostok (@Sakwa:2021).
 
-> die Gestaltung einer harmonischen Wirtschaftsgemeinschaft von Lissabon bis Wladiwostok. In Zukunft kämen eventuell auch eine Freihandelszone, __gar noch fortgeschrittenere wirtschaftliche Integrationsformen__ in Frage
-> [Putin November 25th 2010](https://www.sueddeutsche.de/wirtschaft/putin-plaedoyer-fuer-wirtschaftsgemeinschaft-von-lissabon-bis-wladiwostok-1.1027908)
-
-> the creation of a harmonious economic community from Lisbon to Vladivostok. In the future, a free trade zone and __even more advanced forms of economic integration__ could also be considered
-> (our translation, our emphasis)
+> the creation of a harmonious economic community from Lisbon to Vladivostok. In the future, a free trade zone and **even more advanced forms of economic integration** could also be considered  
+> Vladimir Putin (2010)[^russia-empire-2] (our translation, our emphasis)
 
 
 ## Medvedev
 
-Russia's Deputy Chairman of the Security Council, Dmitry Medvedev, April 5th 2022, continues to call the atrocities committed by of Russians in Bucha and Mariupol fake, adding that Russia's goal is to change the minds of Ukrainians and create an ["open Eurasia from Lisbon to Vladivostok"](https://www.pravda.com.ua/eng/news/2022/04/5/7337275/)
+Russia's Deputy Chairman of the Security Council, Dmitry Medvedev, April 5th 2022, continues to call the atrocities committed by of Russians in Bucha and Mariupol fake, adding that Russia's goal is to change the minds of Ukrainians and create an "open Eurasia from Lisbon to Vladivostok".[^russia-empire-3]
 
 
 ## Lavrov
 
-Lavrov wants to "denazify" "more and more European countries": 
+Foreign Minister Sergey Lavrov wants to "denazify" "more and more European countries": 
 
-> We are not just seeing neo-Nazism, we are seeing direct nazism, which is covering more and more European countries
-> [Sergei Lavrov, March 28th 2023](https://www.theguardian.com/world/2023/mar/28/putin-prepares-russia-for-forever-war-with-west-as-ukraine-invasion-stalls) 
+> We are not just seeing neo-Nazism, we are seeing direct nazism, which is covering more and more European countries  
+> Sergei Lavrov (2023)[^russia-empire-4]
+
+
+## Sourkov
+
+Vladislav Sourkov explains, what russian imperialism really means: "For Russia, **permanent expansion**
+ is not just another idea, it **is the existential condition of our historical existence**": 
+
+> The Russian world has no borders. The Russian world is everywhere there is Russian influence, in one form or another: cultural, informational, military, economic, ideological or humanitarian... In other words, it is everywhere. The extent of our influence varies greatly from region to region, but it is never zero. So we will spread out in all directions, as far as God wills and as strong as we are. The important thing is not to get carried away and not to take on too big a piece.  
+> Vladislav Sourkov (2025)[^russia-empire-5]
+
+
+
+[^russia-empire-1]: Alexandr Dugin, Wikipedia [https://en.m.wikipedia.org/wiki/Aleksandr_Dugin](https://en.m.wikipedia.org/wiki/Aleksandr_Dugin)
+
+[^russia-empire-2]: Putin: Plädoyer für Wirtschaftsgemeinschaft:Von Lissabon bis Wladiwostok (25. November 2010) Süddeutsche. [https://www.sueddeutsche.de/wirtschaft/putin-plaedoyer-fuer-wirtschaftsgemeinschaft-von-lissabon-bis-wladiwostok-1.1027908](https://www.sueddeutsche.de/wirtschaft/putin-plaedoyer-fuer-wirtschaftsgemeinschaft-von-lissabon-bis-wladiwostok-1.1027908)
+
+[^russia-empire-3]: Putin said his goal was to "change the minds of Ukrainians" and "open Eurasia from Lisbon to Vladivostok" (5 April 2022) UKrainska Prawda [https://www.pravda.com.ua/eng/news/2022/04/5/7337275/](https://www.pravda.com.ua/eng/news/2022/04/5/7337275/)
+
+[^russia-empire-4]: Putin prepares Russia for ‘forever war’ with west as Ukraine invasion stalls (28 Mar 2023) The Guardian. [https://www.theguardian.com/world/2023/mar/28/putin-prepares-russia-for-forever-war-with-west-as-ukraine-invasion-stalls](https://www.theguardian.com/world/2023/mar/28/putin-prepares-russia-for-forever-war-with-west-as-ukraine-invasion-stalls)
+
+[^russia-empire-5]: EXCLUSIVE. Vladislav Sourkov, the wizard of the Kremlin : "Russia will expand in all directions, as far as God wills" (2025-03-19). L'Express. [https://www.lexpress.fr/monde/europe/exclusive-vladislav-sourkov-the-kremlins-wizard-russia-will-expand-in-all-directions-as-far-as-god-WWIE5OJMPVHJ5KTTAHNLE4WPME/](https://www.lexpress.fr/monde/europe/exclusive-vladislav-sourkov-the-kremlins-wizard-russia-will-expand-in-all-directions-as-far-as-god-WWIE5OJMPVHJ5KTTAHNLE4WPME/)
+
+
+
 
 

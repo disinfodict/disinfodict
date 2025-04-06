@@ -1,0 +1,73 @@
+---
+abstract: > 
+  Wie das böse Imperium plant, durch die Verbreitung von Angst, Folter, Mord und Hungersnot zu expandieren. Spoiler: Moskowiter Russland.
+---
+
+# Russisches Imperium {#sec-russia-empire}
+
+::: {.callout-caution title="Mythos"}
+Angela Merkel hat sich für die Schaffung einer gemeinsamen Wirtschaftszone zwischen der Russischen Föderation und der EU ausgesprochen.Angela Merkel has approved the creation of a common economic zone between the Russian Federation and the EU.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Vladivostok%20(Lisbon%7CDublin)&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Russland plant, sein böses Imperium von Wladiwostok bis Dublin/Lissabon auszudehnen.
+[<br></br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Eurasismus)
+:::
+
+Für die Geschichte des russischen Imperiums siehe @sec-russia-history.
+
+
+## Dugin
+
+Der russische Faschist Dugin gilt als Erfinder des  modernen "Eurasismus"
+
+> Dugin begann bald, seine eigene Zeitschrift mit dem Titel Elementy herauszugeben, in der er zunächst den französisch-belgischen Jean-François Thiriart lobte, einen verspäteten Befürworter eines „europäisch-sowjetischen Imperiums, das sich von Dublin bis Wladiwostok erstrecken würde und sich auch nach Süden ausdehnen müsste, da es einen Hafen am Indischen Ozean benötigt“.  
+> Alexandr Dugin (1997)[^russia-empire-1]
+
+
+## Putin
+
+In einer Rede in Berlin forderte Putin (2010) die geopolitische Einigung des „Großraums Europa“ von Lissabon bis Wladiwostok (@Sakwa:2021).
+
+> die Gestaltung einer harmonischen Wirtschaftsgemeinschaft von Lissabon bis Wladiwostok. In Zukunft kämen eventuell auch eine Freihandelszone, **gar noch fortgeschrittenere wirtschaftliche Integrationsformen** in Frage  
+> Vladimir Putin (2010)[^russia-empire-2] (unsere Hervorhebung)
+
+
+## Medvedev
+
+Der stellvertretende Vorsitzende des russischen Sicherheitsrates, Dmitri Medwedew, bezeichnete am 5. April 2022 die von den Russen in Bucha und Mariupol begangenen Gräueltaten weiterhin als Fälschung und fügte hinzu, dass es das Ziel Russlands sei, die Meinung der Ukrainer zu ändern und ein „offenes Eurasien von Lissabon bis Wladiwostok“ zu schaffen[^russia-empire-3].
+
+
+## Lavrov
+
+Außenminister Sergej Lawrow will „immer mehr europäische Länder“ „entnazifizieren“: 
+
+> Wir sehen nicht nur Neonazismus, wir sehen direkten Nazismus, der immer mehr europäische Länder erfasst  
+> Sergej Lawrow (2023)[^russia-empire-4]
+
+
+## Sourkov
+
+Vladislav Sourkov erklärt, was russischer Imperialismus wirklich bedeutet: „Für Russland ist die **ständige Expansion**
+ nicht nur eine Idee, sondern **die existenzielle Bedingung unserer historischen Existenz**": 
+
+> Die russische Welt hat keine Grenzen. Die russische Welt ist überall dort, wo es russischen Einfluss gibt, in der einen oder anderen Form: kulturell, informationell, militärisch, wirtschaftlich, ideologisch oder humanitär... Mit anderen Worten, sie ist überall. Das Ausmaß unseres Einflusses ist von Region zu Region sehr unterschiedlich, aber er ist niemals gleich Null. Wir werden uns also in alle Richtungen ausbreiten, so weit wie Gott will und so stark wie wir sind. Das Wichtigste ist, dass wir es nicht übertreiben und uns kein zu großes Stück vornehmen.  
+> Vladislav Sourkov (2025)[^russia-empire-5]
+
+
+
+[^russia-empire-1]: Alexandr Dugin, Wikipedia [https://de.wikipedia.org/wiki/Alexander_Geljewitsch_Dugin](https://de.wikipedia.org/wiki/Alexander_Geljewitsch_Dugin)
+
+[^russia-empire-2]: Putin: Plädoyer für Wirtschaftsgemeinschaft:Von Lissabon bis Wladiwostok (25. November 2010) Süddeutsche. [https://www.sueddeutsche.de/wirtschaft/putin-plaedoyer-fuer-wirtschaftsgemeinschaft-von-lissabon-bis-wladiwostok-1.1027908](https://www.sueddeutsche.de/wirtschaft/putin-plaedoyer-fuer-wirtschaftsgemeinschaft-von-lissabon-bis-wladiwostok-1.1027908)
+
+[^russia-empire-3]: Putin said his goal was to "change the minds of Ukrainians" and "open Eurasia from Lisbon to Vladivostok" (5 April 2022) UKrainska Prawda [https://www.pravda.com.ua/eng/news/2022/04/5/7337275/](https://www.pravda.com.ua/eng/news/2022/04/5/7337275/)
+
+[^russia-empire-4]: Putin prepares Russia for ‘forever war’ with west as Ukraine invasion stalls (28 Mar 2023) The Guardian. [https://www.theguardian.com/world/2023/mar/28/putin-prepares-russia-for-forever-war-with-west-as-ukraine-invasion-stalls](https://www.theguardian.com/world/2023/mar/28/putin-prepares-russia-for-forever-war-with-west-as-ukraine-invasion-stalls)
+
+[^russia-empire-5]: EXKLUSIV. Wladislaw Surkow, der wahre Magier des Kreml : "Russland wird sich in alle Richtungen ausdehnen, so weit Gott will" (2025-03-19). L'Express. [https://www.lexpress.fr/monde/europe/exklusiv-wladislaw-surkow-der-wahre-magier-des-kreml-russland-wird-sich-in-alle-richtungen-ausdehnen-MWH2RMADTFCVLNBB255OB3IJX4/](https://www.lexpress.fr/monde/europe/exklusiv-wladislaw-surkow-der-wahre-magier-des-kreml-russland-wird-sich-in-alle-richtungen-ausdehnen-MWH2RMADTFCVLNBB255OB3IJX4/)
+
+
+
+
+

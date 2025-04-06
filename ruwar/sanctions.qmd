@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Russia claims that the sanctions are harming Europe, not Russia. And Russia is campaigning for an end to the sanctions!?
+---
+
 # Sanctions {#sec-ruwar-sanctions}
 
 ::: {.callout-caution title="Myth"}

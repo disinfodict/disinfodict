@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Help us write: Think Stalin was a great leader? Learn about the guy who is responsible for wars and mass-murder.
+---
+
 # Persons Stalin {#sec-persons-stalin}
 
 ::: {.callout-caution title="Myth"}

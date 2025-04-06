@@ -1,3 +1,14 @@
+---
+abstract: > 
+  Just a nice civil war? No. Russia trained people as terrorists, termed them "seperatists", send soldiers and weapons to Donbas. Learn about hybrid invasion.
+keywords: 
+  - Girkin 
+  - Mafia
+  - MH17
+  - DPR
+  - LPR
+---
+
 # Donbas separatists? {#sec-donbas-separatists}
 
 ::: {.callout-caution title="Myth"}
@@ -28,7 +39,7 @@ but at the same time most popular Russian manipulations, because in fact it was 
 
 ## Russia's war
 
-That the conflict was unleashed by Russia is evidenced by the chronology – Donetsk City Council, which at that moment was already controlled by the militants, started to talk about a referendum on “the fate of the Donbass” as early as March 1. Later, the seizures of administrative buildings and the beating and killing of pro-Ukrainian rally participants happened. However, the anti-terrorist operation had not been launched at that time – the Ukrainian government announced it only on April 12. Meanwhile, the so-called “Donetsk People’s Republic” was proclaimed on April 7, and on the same day Putin was asked to send in troops. This was done by the Russian special services’ agents and local collaborators who, with the armed support of the Russian special services, seized power in the region.
+That the conflict was unleashed by Russia is evidenced by the chronology – Donetsk City Council, which at that moment was already controlled by the militants, started to talk about a referendum on “the fate of the Donbas” as early as March 1. Later, the seizures of administrative buildings and the beating and killing of pro-Ukrainian rally participants happened. However, the anti-terrorist operation had not been launched at that time – the Ukrainian government announced it only on April 12. Meanwhile, the so-called “Donetsk People’s Republic” was proclaimed on April 7, and on the same day Putin was asked to send in troops. This was done by the Russian special services’ agents and local collaborators who, with the armed support of the Russian special services, seized power in the region.
 
 
 ## Russia invaded 2014
@@ -61,7 +72,7 @@ Even Vladimir Putin in fact confirmed this (note how "cw/wl" at DW have hidden t
 
 > Abuse of authority and the intertwining of executive power with criminal self-enrichment are a systematic characteristic of rule in the Donbas (ibid.) 
 
-The mafia-like corruption and totalitarian despotism in Donbass is so bad that even the FSB officer Igor Girkin (alias Igor Strelkov) was upset about it:
+The mafia-like corruption and totalitarian despotism in Donbas is so bad that even the FSB officer Igor Girkin (alias Igor Strelkov) was upset about it:
 
 [Link to youtube  
 ![Screenshot of 4TheRecord video with Girkin](donbas-girkin.jpg){width=60%}](https://www.youtube.com/watch?v=GLzXWNBwoIQ)

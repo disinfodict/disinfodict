@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Wussten Sie, dass die NATO sich nie erweitert hat? Die Länder traten der NATO nur bei. Aus Angst vor Russland. 
+---
+
 # NATO membership {#sec-nato-expansion}
 
 ::: {.callout-caution title="Mythos"}

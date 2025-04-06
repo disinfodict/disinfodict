@@ -1,3 +1,8 @@
+---
+abstract: > 
+    Did you know that NATO has never expanded? The countries only joined NATO. Out of fear of Russia.  
+---
+
 # NATO membership  {#sec-nato-expansion}
 
 ::: {.callout-caution title="Myth"}

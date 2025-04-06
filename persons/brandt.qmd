@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Do you think it would be a good idea to name Will Brandt as a witness for appeasement? Then read on.
+---
+
 # Persons Brandt {#sec-persons-brandt}
 
 ::: {.callout-caution title="Myth"}

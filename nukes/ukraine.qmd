@@ -1,3 +1,8 @@
+---
+abstract: > 
+  It is a bad idea to defame Ukraine with dirty bombs: Ukraine has given up its nukes and Russia has broken the Budapest Memorandum.
+---
+
 # Nukes in Ukraine? {#sec-nukes-ukraine}
 
 ::: {.callout-caution title=„Myth“}

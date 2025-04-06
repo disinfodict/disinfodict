@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Did you know that there are far more Nazis in Russia than in Ukraine? There is a lot to denazify in Russia.
+---
+
 # Nazis in Russia! {#sec-nazis-russia}
 
 <!-- This is a comment -->

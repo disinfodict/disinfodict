@@ -1,3 +1,9 @@
+---
+abstract: > 
+   Help us write: Nobody wants peace more than Ukrainians. Russia can stop its war at any minute. But Russia prefers war.
+---
+
+
 # Peace Ukraine {#sec-peace-ukraine}
 
 ::: {.callout-caution title="Myth"}

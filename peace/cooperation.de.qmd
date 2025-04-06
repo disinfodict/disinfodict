@@ -1,3 +1,8 @@
+---
+abstract: >
+  Frieden durch Zusammenarbeit? Nicht wenn der Aggressor Kooperation nur vortäuscht und auf Rohstoffe und Kriegswirtschaft setzt.
+---
+
 # Frieden durch Zusammenarbeit? {#sec-peace-cooperation}
 
 ::: {.callout-caution title="Mythos"}

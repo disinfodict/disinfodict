@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Glaubst Du, Russland verteidigt traditionelle Werte? Im Gegenteil. Lies über Familie, Religion, Recht und Mord in Russland.
+---
+
 # Russische Werte {#sec-russia-values}
 
 ::: {.callout-caution title="Mythos"}

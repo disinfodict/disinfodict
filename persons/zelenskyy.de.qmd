@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Überraschung: Die russische Propaganda mag Präsident Zelenskyj nicht, der die Ukraine seit mehr als drei Jahren erfolgreich verteidigt. Lesen Sie mehr.
+---
+
 # Personen Zelenskyj {#sec-persons-Zelenskyj}
 
 ::: {.callout-caution title="Mythos"}

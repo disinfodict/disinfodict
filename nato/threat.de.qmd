@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Russland tötet und vergewaltigt aus Angst? Niemand wollte das Russland angreifen, schon gar nicht die Ukraine. Aber Russland will nicht, dass die Ukraine der EU beitritt.
+---
+
 # NATO Bedrohung? {#sec-nato-threat}
 
 ::: {.callout-caution title="Mythos"}

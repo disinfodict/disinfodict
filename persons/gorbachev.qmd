@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Think Gorbachev was a nice guy who faught the Soviet Union? Ask people from the Baltics or from Chornobyl or from Crimea.
+---
+
 # Persons Gorbachev {#sec-persons-gorbachev}
 
 ::: {.callout-caution title="Myth"}

@@ -1,3 +1,10 @@
+---
+abstract: > 
+  Help us write: the long russian tradition of commiting genocide and the long history of Ukraine in suffering genocide.
+---
+
+
+
 # Genocide history {#sec-genocide-history}
 
 ::: {.callout-caution title="Myth"}
@@ -16,7 +23,17 @@ Russia committed multiple genocides, particularly multiple against Ukraine.
 {{< var todo >}}
 
 
+## Genocides in Siberia 1581–1778
+
+{{< var todo >}}
+
+
 ## Sack of Baturyn 1708
+
+{{< var todo >}}
+
+
+## Circassian genocide 1799 - 1864
 
 {{< var todo >}}
 
@@ -75,4 +92,8 @@ Russia committed multiple genocides, particularly multiple against Ukraine.
 
 {{< var todo >}}
 
+
+[^genocide-history-1]: Ethan Walton (Jan 25, 2023) Country Report: Russia. Genocide Watch. [https://www.genocidewatch.com/single-post/country-report-russia](https://www.genocidewatch.com/single-post/country-report-russia)
+
+[^genocide-history-2]: Nathaniel Hill (Oct 25, 2021) Conquering Siberia: The Case for Genocide Recognition. [https://www.genocidewatchblog.com/post/conquering-siberia-the-case-for-genocide-recognition](https://www.genocidewatchblog.com/post/conquering-siberia-the-case-for-genocide-recognition)
 

@@ -1,23 +1,34 @@
-# Donbass Genozid? {#sec-donbas-genocide}
+---
+abstract: > 
+  Völkermord im Donbas? Nicht von der Ukraine, stellte die OSZE-Sonderbeobachtungsmission in der Ukraine (SMM) fest. Verantwortlich ist Russland mit Kriegsverbrechen wie MH17.
+keywords: 
+  - Girkin 
+  - Milchakov
+  - DPR
+  - LPR
+  - MH17
+---
+
+# Donbas Genozid? {#sec-donbas-genocide}
 
 ::: {.callout-caution title="Mythos"}
-- Die Ukraine habe den Krieg im Donbass begonnen
-- Kiew plane einen Völkermord im Donbass
-- Ukraine beschieße Zivilisten im Donbass
-- Russische Truppen stoppten Völkermord im Donbass [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(donbas|donetsk|luhansk)%20genocide&sort=relevance)
+- Die Ukraine habe den Krieg im Donbas begonnen
+- Kiew plane einen Völkermord im Donbas
+- Ukraine beschieße Zivilisten im Donbas
+- Russische Truppen stoppten Völkermord im Donbas [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(donbas|donetsk|luhansk)%20genocide&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
 - Donbas ist Ukraine
-- Russland begann den Krieg gegen die Ukraine im Donbass[^donbas-genocide.de-27]
+- Russland begann den Krieg gegen die Ukraine im Donbas[^donbas-genocide.de-27]
 - Die Ukraine hat ihr Gebiet verteidigt
 - Die Ukraine hat keinen Völkermord begangen
 - Russland plante und führt Völkermord in der Ukraine durch
-- Russland beschießt Zivilisten im Donbass
-- Russland zerstört ganze Städte im Donbass
+- Russland beschießt Zivilisten im Donbas
+- Russland zerstört ganze Städte im Donbas
 :::
 
-## Donbass ist Ukraine
+## Donbas ist Ukraine
 
 Die Regionen Luhansk und Donezk sind Teile der Ukraine, auf deren Gebiet seit langem ethnische Ukrainer und Minderheiten lebten. Nach den Ergebnissen des gesamtukrainischen Referendums stimmten im Jahr 1991 83,9 % der Wähler in der Region Donezk für die Unabhängigkeitserklärung[^donbas-genocide.de-2] und in Luhansk 83,8 %. 
 
@@ -29,7 +40,7 @@ Trotz des wirtschaftlichen Wohlstands stellte Russland die ukrainische Regierung
 
 ## Russland begann den Krieg
 
-Russland bildete in Moskau Söldner aus und schickte sie in den Donbass, maskierte sie als „Separatisten“ und schickte dann schwere Waffen[^donbas-genocide.de-1].
+Russland bildete in Moskau Söldner aus und schickte sie in den Donbas, maskierte sie als „Separatisten“ und schickte dann schwere Waffen[^donbas-genocide.de-1].
 
 Der prorussische Separatismus wurde von russischen politischen Technologen angestachelt, die immer wieder behaupteten, dass der “Donbas[^donbas-genocide.de-4] die ganze Ukraine ernährt”.[^donbas-genocide.de-5] Die prorussische Interpretation der Geschichte von “Noworossija”[^donbas-genocide.de-6] wurde gefördert. Die lokalen Separatisten wurden jedoch nicht von der Mehrheit der lokalen Bevölkerung unterstützt. Bei Umfragen im März 2014 sprachen sich 16,6 % der Befragten in den Regionen Luhansk und Donezk für die Abspaltung als autonome Region und 26,8 % für den Anschluss an die Russische Föderation aus. Gleichzeitig gaben fast 90 % an, dass sie die Ukraine als ihre Heimat betrachten.[^donbas-genocide.de-7] Russland intensivierte seine Informationskampagne, um den ukrainischen Euromaidan und die Revolution der Würde zu diskreditieren. Die Öffentlichkeit werde durch den “faschistischen Aufstand” in der Ukraine eingeschüchtert, und die neu eingesetzte ukrainische Regierung wurde als “Militärjunta” bezeichnet.[^donbas-genocide.de-8] 
 
@@ -66,12 +77,12 @@ Massentötungen von Zivilisten sind eine Voraussetzung dafür, dass Ereignisse a
 Russia planned @sec-genocide-announced and conducts @sec-genocide-ongoing genocide in Ukraine.
 
 
-## Russland beschießt Zivilisten im Donbass
+## Russland beschießt Zivilisten im Donbas
 
 See @sec-warcrimes-civilians.
 
 
-## Russland zerstört ganze Städte im Donbass
+## Russland zerstört ganze Städte im Donbas
 
 See @sec-warcrimes-urbicide.
 
@@ -121,7 +132,7 @@ See @sec-warcrimes-urbicide.
 
 [^donbas-genocide.de-23]:  Закон України “Про особливості державної політики із забезпечення державного суверенітету України на тимчасово окупованих територіях у Донецькій та Луганській областях” \[Law of Ukraine “On the peculiarities of State policy on ensuring Ukraine’s State sovereignty over temporarily occupied territories in Donetsk and Luhansk regions”\]. (n.d.). Official Website of the Parliament of Ukraine. Retrieved May 1, 2024, from [https://zakon.rada.gov.ua/laws/show/2268-19\#Text](https://zakon.rada.gov.ua/laws/show/2268-19\#Text)
 
-[^donbas-genocide.de-24]:  Osborn, A., & Nikolskaya, P. (2022, February 24). Russia’s Putin authorises “special military operation” against Ukraine. [https://www.reuters.com/world/europe/russias-putin-authorises-military-operations-donbass-domestic-media-2022-02-24/](https://www.reuters.com/world/europe/russias-putin-authorises-military-operations-donbass-domestic-media-2022-02-24/) 
+[^donbas-genocide.de-24]:  Osborn, A., & Nikolskaya, P. (2022, February 24). Russia’s Putin authorises “special military operation” against Ukraine. [https://www.reuters.com/world/europe/russias-putin-authorises-military-operations-Donbas-domestic-media-2022-02-24/](https://www.reuters.com/world/europe/russias-putin-authorises-military-operations-Donbas-domestic-media-2022-02-24/) 
 
 [^donbas-genocide.de-25]:  Russia Ukraine: Putin compares Donbas war zone to genocide. (2021, December 10). [https://www.bbc.com/news/world-europe-59599066](https://www.bbc.com/news/world-europe-59599066)
 

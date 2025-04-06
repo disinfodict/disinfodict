@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Die Ukrainer hatten von der russischen Korruption die Schnauze voll: was der Euro-Maidan in Kyjiv wirklich war.
+---
+
 # Maidan Kyjiw {#sec-maidan-kyiv}
 
 ::: {.callout-caution title="Mythos"}
@@ -23,7 +28,7 @@ Es gibt jedoch Hinweise darauf, dass es sich um geplante Provokationen der russi
 
 Dies beweist, dass die ukrainische Regierung in der Lage gewesen wäre, mit den lokalen Separatistenbewegungen fertig zu werden, wenn nicht ständig Waffen aus Russland unter dem Deckmantel der humanitären Hilfe geliefert und “Freiwillige” aus Russland in den Regionen Luhansk und Donezk eingesetzt worden wären.
 
-Siehe auch das Kapitel über angebliche „Separatisten“ (@sec-donbas-separatists) und einen angeblichen Völkermord (@sec-donbas-genocide) im Donbass und über die Ereignisse nach dem Maidan in Odesa (@sec-maidan-odesa).
+Siehe auch das Kapitel über angebliche „Separatisten“ (@sec-donbas-separatists) und einen angeblichen Völkermord (@sec-donbas-genocide) im Donbas und über die Ereignisse nach dem Maidan in Odesa (@sec-maidan-odesa).
 
 
 [^maidan-kyiv.de-1]:  On Self-Removal of the President of Ukraine from his Constitutional Authority and Early Elections of the President of Ukraine. (2014, February 22). Official Website of the Parliament of Ukraine. Retrieved May 1, 2024, from [https://zakon.rada.gov.ua/laws/show/757-18?lang=en\#Text](https://zakon.rada.gov.ua/laws/show/757-18?lang=en\#Text)

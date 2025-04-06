@@ -1,3 +1,14 @@
+---
+abstract: > 
+  Genocide in Donbas? Not by Ukraine, established the OSCE Special Monitoring Mission to Ukraine (SMM). Responsible is Russia with war crimes like MH17.
+keywords: 
+  - Girkin 
+  - Milchakov
+  - DPR
+  - LPR
+  - MH17
+---
+
 # Donbas genocide? {#sec-donbas-genocide}
 
 ::: {.callout-caution title="Myth"}
@@ -125,7 +136,7 @@ See @sec-warcrimes-urbicide.
 
 [^donbas-genocide-23]:  Закон України “Про особливості державної політики із забезпечення державного суверенітету України на тимчасово окупованих територіях у Донецькій та Луганській областях” \[Law of Ukraine “On the peculiarities of State policy on ensuring Ukraine’s State sovereignty over temporarily occupied territories in Donetsk and Luhansk regions”\]. (n.d.). Official Website of the Parliament of Ukraine. Retrieved May 1, 2024, from [https://zakon.rada.gov.ua/laws/show/2268-19\#Text](https://zakon.rada.gov.ua/laws/show/2268-19\#Text)
 
-[^donbas-genocide-24]:  Osborn, A.,  & Nikolskaya, P. (2022, February 24). Russia’s Putin authorises “special military operation” against Ukraine. [https://www.reuters.com/world/europe/russias-putin-authorises-military-operations-donbass-domestic-media-2022-02-24/](https://www.reuters.com/world/europe/russias-putin-authorises-military-operations-donbass-domestic-media-2022-02-24/) 
+[^donbas-genocide-24]:  Osborn, A.,  & Nikolskaya, P. (2022, February 24). Russia’s Putin authorises “special military operation” against Ukraine. [https://www.reuters.com/world/europe/russias-putin-authorises-military-operations-Donbas-domestic-media-2022-02-24/](https://www.reuters.com/world/europe/russias-putin-authorises-military-operations-Donbas-domestic-media-2022-02-24/) 
 
 [^donbas-genocide-25]:  Russia Ukraine: Putin compares Donbas war zone to genocide. (2021, December 10). [https://www.bbc.com/news/world-europe-59599066](https://www.bbc.com/news/world-europe-59599066)
 

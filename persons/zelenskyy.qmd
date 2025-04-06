@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Surprise, surprise: Russian propaganda dislikes President Zelenskyy, who defends Ukraine successfully for more than three years. Read more. 
+---
+
 # Persons Zelenskyy {#sec-persons-zelenskyy}
 
 ::: {.callout-caution title="Myth"}

@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Immer noch Zweifel? Das ganze Töten aus Versehen? Kenne die Russischen Absichtserklärungen zum Völkermord in der Ukraine.
+---
+
 # Völkermord angekündigt {#sec-genocide-announced}
 
 ::: {.callout-caution title="Mythos"}

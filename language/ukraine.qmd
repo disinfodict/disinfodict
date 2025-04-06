@@ -1,3 +1,8 @@
+---
+abstract: > 
+  French equals Portuguese? Learn how Ukrainian is closer to Polish than to Russian and how Russia tried to eradicate the Ukrainian language.
+---
+
 # Ukrainian language {#sec-language-ukraine}
 
 ::: {.callout-caution title="Myth"}
@@ -24,7 +29,7 @@ However, in fact, Ukrainian and Russian are considered only 62% lexically simila
 
 > In general, Ukrainian and Belarusian are also closer to other Western European languages, especially to German (via Polish). At the same time Russian was being heavily influenced by Church Slavonic (South Slavic language), but also by the Turkic and Uralic languages.
 >
-> [Wikipdia, east-slavic languages](https://en.wikipedia.org/wiki/East_Slavic_languages)
+> [Wikipedia, east-slavic languages](https://en.wikipedia.org/wiki/East_Slavic_languages)
 
 [![Development of the East Slavic languages](Ostslawische_Sprachen.jpg)](https://en.wikipedia.org/wiki/Old_East_Slavic)
 

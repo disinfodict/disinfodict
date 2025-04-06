@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Still in doubt? All that killing by mistake? Know the Russian declarations of intent on genocide in Ukraine.
+---
+
 # Genocide announced {#sec-genocide-announced}
 
 ::: {.callout-caution title="Myth"}

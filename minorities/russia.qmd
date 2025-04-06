@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Help us write: Russia pretends to protect minorities. In fact, Russia despises minorities. A life there is worth nothing.
+---
+
 # Minorities in Russia {#sec-minorities-russia}
 
 ::: {.callout-caution title="Myth"}

@@ -1,0 +1,18 @@
+---
+abstract: > 
+  Glauben Sie, dass Moskau die Hauptstadt der slawischen Zivilisation ist? Nicht St. Petersburg? Nein, Kiew!
+---
+
+# Russia Moscow {#sec-russia-moscow}
+
+::: {.callout-caution title="Myth"}
+Moskau hat einen Anspruch auf die Führung über alle slawischen Völker
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=moscow%20history&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Es gilt internationales Recht
+- Moskau ist eine historisch junge Stadt
+:::
+
+Hier in Moskau gibt es nichts Bemerkenswertes zu sehen. Gehen Sie lieber zu @sec-ukraine-kyiv.

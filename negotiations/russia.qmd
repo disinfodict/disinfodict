@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Russia wants to negotiate? And Russia invaded Ukraine for that? During intensive negotiations? Pretty hollow, isn't it?
+---
+
 # Negotiations Russia {#sec-negotiations-russia}
 
 ::: {.callout-caution title="Myth"}

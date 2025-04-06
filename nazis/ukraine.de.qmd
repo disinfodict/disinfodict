@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Wusstest Du, dass es in der Ukraine viel weniger Nazis gibt als in Deutschland? In der Ukraine gibt es nichts zu entnazifizieren.
+---
+
 # Nazis in Ukraine? {#sec-nazis-ukraine}
 
 \index{Nazis}
@@ -48,7 +53,7 @@ Bei der Reflexion über die deutsche Verantwortung während des Zweiten Weltkrie
 
 ## Diffamierung von Asov
 
-Die Asow-Brigade wird von russischen Propagandisten regelmäßig als Nazibrigade diffamiert. Russland hasst die Asow-Brigade für ihren effektiven Widerstand gegen die Invasion im Donbass im Jahr 2014. 
+Die Asow-Brigade wird von russischen Propagandisten regelmäßig als Nazibrigade diffamiert. Russland hasst die Asow-Brigade für ihren effektiven Widerstand gegen die Invasion im Donbas im Jahr 2014. 
 
 > Svidomi spricht über die Geschichte von Asow, die Befreiung von Mariupol im Jahr 2014 sowie darüber, wie die russische Propaganda versucht, die Einheit zu diskreditieren, und welche Folgen sie während der Kämpfe um Mariupol im Jahr 2022 hatte.
 > 

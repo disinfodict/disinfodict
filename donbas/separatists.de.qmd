@@ -1,8 +1,19 @@
+--- 
+abstract: > 
+  Nur ein netter Bürgerkrieg? Nein. Russland hat Menschen als Terroristen ausgebildet, sie als „Separatisten“ bezeichnet und Soldaten und Waffen in den Donbas geschickt. Erfahren Sie mehr über die hybride Invasion.
+keywords: 
+  - Girkin 
+  - Mafia
+  - MH17
+  - DPR
+  - LPR
+---
+
 # Donbas-Separatisten? {#sec-donbas-separatists}
 
 ::: {.callout-caution title="Mythos"}
-- Pro-russische Kämpfer im Donbass sind „Separatisten“
-- Die sogenannten Separatisten im Donbass sind Autonomisten
+- Pro-russische Kämpfer im Donbas sind „Separatisten“
+- Die sogenannten Separatisten im Donbas sind Autonomisten
 - Die Besatzer sind eine „Volksrepublik“
 - Die Donezker „Volksrepublik“ wurde von den USA anerkannt
 [<br></br>![Suche nach Thema in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=donetsk%20(separatists%7Cseparatist)&sort=relevance)
@@ -26,13 +37,13 @@ aber gleichzeitig auch eine der beliebtesten russischen Manipulationen, denn in 
 
 ## Russland begann den Krieg
 
-Dass der Krieg von Russland entfesselt wurde zeigt die Chronologie: Der Stadtrat von Donezk, der zu diesem Zeitpunkt bereits von den Militanten kontrolliert wurde, begann bereits am 1. März, über ein Referendum über „das Schicksal des Donbass“ zu sprechen. Später fanden die Beschlagnahmung von Verwaltungsgebäuden und die Verprügelung und Ermordung von Teilnehmern an pro-ukrainischen Kundgebungen statt. Die Anti-Terror-Operation war zu diesem Zeitpunkt jedoch noch nicht eingeleitet worden - die ukrainische Regierung kündigte sie erst am 12. April an. In der Zwischenzeit wurde am 7. April die so genannte „Donezker Volksrepublik“ ausgerufen, und noch am selben Tag wurde Putin gebeten, Truppen zu entsenden. Dies geschah durch Agenten des russischen Sonderdienstes und lokale Kollaborateure, die mit bewaffneter Unterstützung des russischen Sonderdienstes, die Macht in der Region übernahmen.
+Dass der Krieg von Russland entfesselt wurde zeigt die Chronologie: Der Stadtrat von Donezk, der zu diesem Zeitpunkt bereits von den Militanten kontrolliert wurde, begann bereits am 1. März, über ein Referendum über „das Schicksal des Donbas“ zu sprechen. Später fanden die Beschlagnahmung von Verwaltungsgebäuden und die Verprügelung und Ermordung von Teilnehmern an pro-ukrainischen Kundgebungen statt. Die Anti-Terror-Operation war zu diesem Zeitpunkt jedoch noch nicht eingeleitet worden - die ukrainische Regierung kündigte sie erst am 12. April an. In der Zwischenzeit wurde am 7. April die so genannte „Donezker Volksrepublik“ ausgerufen, und noch am selben Tag wurde Putin gebeten, Truppen zu entsenden. Dies geschah durch Agenten des russischen Sonderdienstes und lokale Kollaborateure, die mit bewaffneter Unterstützung des russischen Sonderdienstes, die Macht in der Region übernahmen.
 
 
 ## Russland marschierte ein
 
 Novoazovsk wurde offen von den russischen Streitkräften erobert, ebenso wie Ilovaisk, wo direkt russische und nicht Separatisten-Truppen stationiert waren. 
-Der Flug MH17 der Malaysia Airlines wurde durch eine Rakete abgeschossen, die von einem russischen Buk-Luftabwehrsystem abgefeuert wurde, das von einer russischen Besatzung in die Region Donezk geschickt wurde. Dies wurde vor einem niederländischen Gericht bewiesen, das den [FSB-Offizier Igor Girkin (alias Igor Strelkov)](https://de.wikipedia.org/wiki/Igor_Wsewolodowitsch_Girkin) für schuldig befand, der eine Schlüsselrolle bei der russischen Annexion der Krim und dann im Donbass-Krieg als Organisator militanter Gruppen in der Donezker Volksrepublik (DVR) spielte, siehe @sec-denial-mh17.
+Der Flug MH17 der Malaysia Airlines wurde durch eine Rakete abgeschossen, die von einem russischen Buk-Luftabwehrsystem abgefeuert wurde, das von einer russischen Besatzung in die Region Donezk geschickt wurde. Dies wurde vor einem niederländischen Gericht bewiesen, das den [FSB-Offizier Igor Girkin (alias Igor Strelkov)](https://de.wikipedia.org/wiki/Igor_Wsewolodowitsch_Girkin) für schuldig befand, der eine Schlüsselrolle bei der russischen Annexion der Krim und dann im Donbas-Krieg als Organisator militanter Gruppen in der Donezker Volksrepublik (DVR) spielte, siehe @sec-denial-mh17.
 
 
 ## Russland schickte Truppen
@@ -57,7 +68,7 @@ Sogar Wladimir Putin hat dies bestätigt (man beachte, wie „cw/wl“ bei der D
 
 > Amtsmissbrauch und die Verquickung von Vollzugsgewalt mit krimineller Selbstbereicherung sind ein systematisches Charakteristikum der Herrschaft im Donbas (ebenda) 
 
-Die mafiöse Korruption und totalitäe Willkür im Donbass ist so schlimm, dass sich sogar der FSB-Offizier Igor Girkin (alias Igor Strelkov) darüber aufgeregt hat:
+Die mafiöse Korruption und totalitäe Willkür im Donbas ist so schlimm, dass sich sogar der FSB-Offizier Igor Girkin (alias Igor Strelkov) darüber aufgeregt hat:
 
 [Link zu youtube  
 ![Screenshot des 4TheRecord-Videos mit Girkin](donbas-girkin.jpg){width=60%}](https://www.youtube.com/watch?v=GLzXWNBwoIQ)

@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Gefroren im Winter 2022/23? Trotz fehlendem russischen Gas? Je mehr regenerative Energien wir haben, desto schwächer wird Russland.
+---
+
 # Wirtschaft in Europa {#sec-economy-europe}
 
 ::: {.callout-caution title="Mythos"}

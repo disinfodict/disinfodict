@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Help us write: Russia broke all contracts and silently deployed nuclear missiles in Kaliningrad (historically Königsberg belongs to Europe, not the evil empire)
+---
+
 # Nukes in Russia {#sec-nukes-russia}
 
 ::: {.callout-caution title="Myth"}

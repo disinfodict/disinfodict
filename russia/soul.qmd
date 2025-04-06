@@ -1,3 +1,8 @@
+---
+abstract: > 
+  You believe in the “mysterious Russian soul”? It is black, hollow and bloodthirsty. And fascist for centuries.
+---
+
 # Russian soul {#sec-russia-soul}
 
 ::: {.callout-caution title="Myth"}
@@ -6,7 +11,7 @@ The “Russian soul” is mysterious, musical, drinks vodka and howls melancholi
 :::
 
 ::: {.callout-tip title="Truth"}
-Talk of the “Russian soul” is dangerous kitsch; if it exists, it is black, empty and bloodthirsty
+Talk of the “Russian soul” is dangerous kitsch; if it exists, it is black, hollow and bloodthirsty
 [<br></br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Russlandbild)
 :::
 

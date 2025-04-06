@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Help us write: Not our war? If Ukraine falls, Germany is in reach of russian Kamikaze drones. What would "denazification" mean for Germans?!
+---
+
 # German-Ukrainian relations  {#sec-germany-ukraine}
 
 ::: {.callout-caution title="Myth"}

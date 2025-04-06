@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Du glaubst and die "geheimnisvolle russische Seele"? Sie ist schwarz, hohl und blutrünstig. Und seit Jahrhunderten faschistisch.
+---
+
 # Russische Seele {#sec-russia-soul}
 
 ::: {.callout-caution title="Mythos"}
@@ -6,7 +11,7 @@ Die "russische Seele" sei geheimnisvoll, musikalisch, trinke Wodka und heule mel
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Das Reden von der "russische Seele" ist gefährlicher Kitsch, wenn es sie gibt, ist sie schwarz, leer und blutrünstig
+Das Reden von der "russische Seele" ist gefährlicher Kitsch, wenn es sie gibt, ist sie schwarz, hohl und blutrünstig
 [<br></br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Russlandbild)
 :::
 

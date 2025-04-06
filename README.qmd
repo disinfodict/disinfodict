@@ -254,8 +254,9 @@ enstatus <- sapply(en, function(i){
   x <- paste(readLines(i), collapse=" ")
   y <- strsplit(x, "##")[[1]]
   lipsum <- grep("lipsum|TODO", y, ignore.case = TRUE)
-  n <- length(y)
-  k <- n - length(lipsum)
+  abstract <- length(grep("abstract: >", y)) == 0
+  n <- length(y) + 1
+  k <- n - length(lipsum) - abstract
   p <- k/n
   p
 })
@@ -263,8 +264,9 @@ destatus <- sapply(de, function(i){
   x <- paste(readLines(i), collapse=" ")
   y <- strsplit(x, "##")[[1]]
   lipsum <- grep("lipsum|TODO", y, ignore.case = TRUE)
-  n <- length(y)
-  k <- n - length(lipsum)
+  abstract <- length(grep("abstract: >", y)) == 0
+  n <- length(y) + 1
+  k <- n - length(lipsum) - abstract
   p <- k/n
   p
 })

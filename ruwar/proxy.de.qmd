@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Stellvertreterkrieg? Wer stellvertritt wen? Russland sich selbst? Amerika will nicht. Ukraine verteidigt sich.
+---
+
 # Stellvertreterkrieg? {#sec-nato-proxy}
 
 ::: {.callout-caution title="Mythos"}

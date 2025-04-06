@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Du träumst vom Auswandern nach Russland? Dem Gulag wo Milch und Honig fließen? Dieses Leben erwartet dich:
+---
+
 # Russisches Leben {#sec-russia-life}
 
 ::: {.callout-caution title="Mythos"}

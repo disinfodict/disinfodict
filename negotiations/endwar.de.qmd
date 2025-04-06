@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Kennen Sie den Trick, um Kriege zu beenden? Nicht durch Beschwichtigung des Aggressors. Indem man den Aggressor besiegt. Dann verhandeln.
+---
+
 # Verhandlungen beenden den Krieg? {#sec-negotiations-endwar}
 
 ::: {.callout-caution title="Mythos"}

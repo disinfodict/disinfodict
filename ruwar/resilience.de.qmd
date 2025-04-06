@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Wollen Sie ein widerstandsfähiges Land sehen? Von der Ukraine können wir eine Menge lernen. Wie man die Freiheit verteidigt.
+---
+
 # Ukrainische Resilienz {#sec-ruwar-resilience}
 
 ::: {.callout-caution title="Mythos"}

@@ -1,3 +1,8 @@
+---
+abstract: > 
+  No funny intro: how Russia commits genocide in Ukraine and how Trump is an accomplice. Know it. Act against it.
+---
+
 # Genocide ongoing {#sec-genocide-ongoing}
 
 ::: {.callout-caution title="Myth"}
@@ -15,7 +20,10 @@ Russia has announced and started Genocide of everyone and everything Ukrainian.
 :::
 
 
-## Purges of Crimea, Donbass and Luhansk since 2014
+> Genocide Watch is issuing an emergency alert regarding statements made by US President Donald Trump about the war in Ukraine ... Russian aggression and genocide will worsen if the US abandons Ukraine. Russia is engaged in every stage of genocide in Ukraine. Genocide Watch considers the statements made by the Trump administration to be aiding and abetting genocide. They are evidence of Stage 4: Dehumanization, Stage 5: Organization and Stage 6: Polarization. Trump’s rhetoric reflects Russian disinformation.[^genocide-ongoing-1]
+
+
+## Purges of Crimea, Donbas and Luhansk since 2014
 
 ### Crimea
 
@@ -72,4 +80,9 @@ See systematic sexualized violence @sec-warcrimes-sexual against prisoners of wa
 ### Forcibly transferring children of the group to another group
 
 See @sec-warcrimes-children
+
+
+
+
+[^genocide-ongoing-1]: Ukraine Advocacy Task Force (Feb. 26, 2025). Genocide Watch. [https://www.genocidewatch.com/single-post/ukraine-genocide-emergency](https://www.genocidewatch.com/single-post/ukraine-genocide-emergency)
 

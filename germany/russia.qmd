@@ -1,3 +1,11 @@
+---
+abstract: > 
+  Help us write: Not our war? How Germany and Russia have repeatedly colluded to divide up Poland and Ukraine, most infamous in the Hitler-Stalin-Pact
+keywords:
+  - Molotow   
+  - Ribbentrop
+---
+
 # German-Russian relations  {#sec-germany-russia}
 
 ::: {.callout-caution title="Myth"}
@@ -9,4 +17,19 @@
 - Germany colluded several time with Russia to harm Ukraine 
 :::
 
+
+## Pre-sowiet
+
 {{< var todo >}}
+
+
+## Hitler-Stalin
+
+{{< var todo >}}
+
+
+## Nordstream
+
+{{< var todo >}}
+
+

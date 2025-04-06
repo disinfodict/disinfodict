@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Ukrainians were fed up with Russian corruption: what the Euro-Maidan in Kyiv really was.
+---
+
 # Maidan Kyiv {#sec-maidan-kyiv}
 
 ::: {.callout-caution title="Myth"}
@@ -25,7 +30,7 @@ However, there is evidence that these were planned provocations by the Russian a
 
 This proves that the Ukrainian government would have been able to handle local separatist movements if not for the continuous flow of weapons from Russia under the disguise of humanitarian aid and the deployment of “volunteers” from Russia in the Luhansk and Donetsk regions.
 
-See also the chapter on alleged "separatists" (@sec-donbas-separatists) and an alleged genocide (@sec-donbas-genocide) in the Donbass and about post-maidan events in Odesa (@sec-maidan-odesa).
+See also the chapter on alleged "separatists" (@sec-donbas-separatists) and an alleged genocide (@sec-donbas-genocide) in the Donbas and about post-maidan events in Odesa (@sec-maidan-odesa).
 
 
 [^maidan-kyiv-1]:  On Self-Removal of the President of Ukraine from his Constitutional Authority and Early Elections of the President of Ukraine. (2014, February 22). Official Website of the Parliament of Ukraine. Retrieved May 1, 2024, from [https://zakon.rada.gov.ua/laws/show/757-18?lang=en\#Text](https://zakon.rada.gov.ua/laws/show/757-18?lang=en\#Text)

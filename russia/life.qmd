@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Do you dream of emigrating to Russia? The gulag of milk and honey? This life awaits you:
+---
+
 # Russian life {#sec-russia-life}
 
 ::: {.callout-caution title="Myth"}

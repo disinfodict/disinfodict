@@ -1,3 +1,9 @@
+---
+abstract: > 
+  Help us write: Knew that the inventor of genocide was russian? Learn what genocidce is and about the ten stages of genocide.
+---
+
+
 # Genocide definition {#sec-genocide-definition}
 
 ::: {.callout-caution title="Myth"}
@@ -76,3 +82,11 @@ Punished are
 @Etkind:2023
 
 {{< var todo >}}
+
+## Ten stages
+
+
+
+[^genocide-definition-1]: Gregory H. Stanton (1996) The Ten Stages of Genocide. Genocide Watch. [https://www.genocidewatch.com/tenstages](https://www.genocidewatch.com/tenstages)
+
+

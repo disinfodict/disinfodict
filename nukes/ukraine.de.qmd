@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Es ist eine schlechte Idee, die Ukraine mit schmutzigen Bomben zu diffamieren: Die Ukraine hat ihre Atombomben abgegeben und Russland hat das Budapester Memorandum gebrochen.
+---
+
 # Atomwaffen in der Ukraine? {#sec-nukes-ukraine}
 
 ::: {.callout-caution title="Mythos"}

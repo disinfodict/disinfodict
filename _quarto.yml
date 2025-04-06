@@ -17,11 +17,13 @@ book:
   image: /all_common_img/DisinfoDict_logo_1x1_trans.png
   image-alt: "Logo of Disinfo Dictionary"
   downloads: [pdf,epub]
-  open-graph: true
   #https://www.opengraph.xyz/
+  open-graph: 
+    image: /all_common_img/DisinfoDict_opengraph_1200x627.png
   twitter-card:
     creator: "disinfodict"
     site: "disinfodict"
+    image: /all_common_img/DisinfoDict_twittercard_800x418.png
   sidebar: 
     style: "floating"
     collapse-level: 1
@@ -110,7 +112,7 @@ book:
     - denial/zaporizhzhia.qmd
     - denial/zoomurder.qmd
   - part: "Donbas"
-    part-de: "Donbass"
+    part-de: "Donbas"
     chapters:
     - donbas/genocide.qmd
     - donbas/separatists.qmd
