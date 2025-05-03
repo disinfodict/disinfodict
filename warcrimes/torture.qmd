@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Thou shalt not kill. Thou shalt not torture. Russia kills and tortures systematically. 
+---
+
 # Warcrimes – torture {#sec-warcrimes-torture}
 
 ::: {.callout-caution title="Myth"}

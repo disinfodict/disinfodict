@@ -1,3 +1,8 @@
+---
+abstract: > 
+  In the beginning God created the heaven and the earth. And russians destroy it. Russians love to rape Mother Nature.
+---
+
 # Warcrimes – nature {#sec-warcrimes-nature}
 
 ::: {.callout-caution title="Myth"}
@@ -9,6 +14,7 @@
 {{< var todo >}}
 :::
 
+See also @sec-warcrimes-sexual.
 
 ## A
 
@@ -21,5 +27,6 @@
 ## C
 
 {{< var todo >}}
+
 
 

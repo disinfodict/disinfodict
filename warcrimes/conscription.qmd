@@ -1,3 +1,8 @@
+---
+abstract: > 
+  You get upset when a country sends soldiers to the front to defend itself? You'd rather get upset when a country lets its neighbor's children fight its neighbor. 
+---
+
 # Warcrimes – conscription {#sec-warcrimes-conscription}
 
 ::: {.callout-caution title="Myth"}

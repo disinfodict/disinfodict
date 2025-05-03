@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Who is committing war crimes against Ukrainians in Ukraine? The Ukrainians against themselves or the Russian aggressors? Wasn't that difficult now, was it? Learn more.
+---
+
 # Warcrimes – intro {#sec-warcrimes-intro}
 
 ::: {.callout-caution title="Myth"}

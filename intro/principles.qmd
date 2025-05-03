@@ -90,7 +90,9 @@ A part consists of chapter `*.qmd` files, chapter titles are shown second-level 
 - file names must not be changed (they are part of permanent references)
 - but chapter titles can be changed improving appearance and navigation, e.g. `# Values & Principles`
 - and the sequence of the chapters in the navigation can be changed in `_quarto.yml`
-- a chapter begins with one-sentence disinformation only in a callout-caution ('Myth'). If possible, we list contradictory propaganda lies. -   immediately followed by a one- or two-sentence callout-tip ('Truth')
+- a chapter begins with a short abstract (metadata “description” relevant for display in Google and in social networks)
+- then follows a short disinformation in a callout note ("Myth"). If possible, we list contradictory propaganda lies
+- immediately followed by a one- or two-sentence callout-tip ("Truth")
 - The EUvsDisinfo icon [![EUvsDisinfo icon](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/?text=lies&disinfo_language%5B%5D=English&sort=relevance) links to a keyword search on [euvsdisinfo.eu](https://euvsdisinfo.eu/)
 
 

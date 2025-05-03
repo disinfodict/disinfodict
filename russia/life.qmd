@@ -20,7 +20,7 @@ Most Euroepan countries are clearly better than Russia  - on the OECD Better Lif
 
 > Drawing upon the recommendations of the Commission on the Measurement of Economic Performance and Social Progress (to which the OECD has been an important contributor), the OECD has identified 11 dimensions as being essential to well-being, from health and education to local environment, personal security and overall satisfaction with life, as well as more traditional measures such as income. 
 
-Russia is clearly worse than most Euroepan countries on the [OECD Better Life Index](https://www.oecdbetterlifeindex.org/).
+Russia is clearly worse than most European countries on the [OECD Better Life Index](https://www.oecdbetterlifeindex.org/).
 
 [![OECD Better Life Index](BetterLife.jpg)](https://www.oecdbetterlifeindex.org/)
 

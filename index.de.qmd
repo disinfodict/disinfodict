@@ -16,7 +16,7 @@ Das Desinfo-Lexikon © 2024 von Fellas & Partnern ist lizensiert unter CC BY-NC-
 :::
 
 ::: {.content-visible when-format="html"}
-Zum barrierefreien Lesen und Hören empfehlen wir die e-book 'epub' downloads in den Sprachen [Deutsch]({{<meta book.site-url>}}/de/Desinfo-Lexikon.epub) und [Englisch]({{<meta book.site-url>}}/Disinfo-Dictionary.epub).
+Zum barrierefreien Lesen und Hören empfehlen wir die e-book 'epub' downloads in den Sprachen [Deutsch]({{<meta book.site-url>}}/de/Desinfo-Lexikon.epub) und [Englisch]({{<meta book.site-url>}}/Disinfo-Dictionary.epub). 'pdf' downloads sind ebenfalls verfügbar in [Deutsch]({{<meta book.site-url>}}/de/Desinfo-Lexikon.pdf) und [Englisch]({{<meta book.site-url>}}/Disinfo-Dictionary.pdf).
 
 Diese Webseite ist mehrsprachig: Um die Sprache zu wechseln, klicken Sie auf das Globus-Icon 🌐 oben links. Diese Seite hat mehrere Formate: Sie können sie online lesen oder als pdf, epub oder docx herunterladen, indem Sie auf das Download-Icon ⤓ oben links klicken. Die Teil- und Kapitelnavigation befindet sich auf der linken Seite, die Abschnittsnavigation auf der rechten Seite. Um die Abschnittsnavigation auf dem Smartphone sichtbar zu machen, verwenden Sie das Smartphone einfach im Querformat. Um mit dem Lesen zu beginnen, klicken Sie auf „Vorwort“ rechts in der unteren Navigation.
 

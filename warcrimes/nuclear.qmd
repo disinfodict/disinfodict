@@ -1,3 +1,8 @@
+---
+abstract: > 
+  You can argue about whether you should have nuclear power stations. You can't argue about whether you should bomb them. Not even the Ukrainian ones!
+---
+
 # Warcrimes – nuclear {#sec-warcrimes-nuclear}
 
 ::: {.callout-caution title="Myth"}

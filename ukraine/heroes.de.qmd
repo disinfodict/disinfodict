@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Jede echte Nation hat Helden. Anders als Russland hat Ukraine ziemlich viele. Lerne einige kennen.
+---
+
 # Ukraine heroes {#sec-ukraine-heroes}
 
 ::: {.callout-caution title="Mythos"}

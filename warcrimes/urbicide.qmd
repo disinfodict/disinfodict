@@ -1,25 +1,95 @@
+---
+abstract: > 
+  Do you remember Kathargo? Learn about Urbicide: which towns serial killer Russia destroyed.
+---
+
 # Warcrimes – urbicide {#sec-warcrimes-urbicide}
 
 ::: {.callout-caution title="Myth"}
-{{< var todo >}}
+Ukraine is shelling its own towns
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(urbicide%7CMariupol%7CVolnovakha%7CSievierodonetsk%7CMaryinka%7CSoledar%7CBakhmut)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-{{< var todo >}}
+Russia is a serial killer of towns in Ukraine and elsewhere
 :::
 
 
-## A
+*Urbicide* is the deliberate destruction or annihilation of a city, its infrastructure, or its urban fabric, often as a strategy in warfare or conflict to undermine the social, cultural, or economic life of its inhabitants. The term combines "urban" and "-cide" (from Latin, meaning killing) and is used to describe acts like targeted bombings, sieges, or systematic dismantling of urban spaces, typically with political or ethnic motives. 
 
-{{< var todo >}}
 
-## B
+**Russia has a long history of destroying towns and killing civilians:**
 
-{{< var todo >}}
 
-## C
+## Kyiv, Kyivan Rus’ (now Ukraine) (1169)
+  Vladimir-Suzdal forces under Andrey Bogolyubsky sacked Kyiv, burning churches (e.g., Saint Sophia) and civilian areas to diminish its status as the Rus’ capital. [Wikipedia](https://en.wikipedia.org/wiki/Kyiv)
 
-{{< var todo >}}
+## Kyiv, Kyivan Rus’ (now Ukraine) (1203)
+  Rurik Rostislavich (Vruchiy) and Olgovichi (Chernihiv), with Cumans, sacked Kyiv, destroying churches and markets to weaken its political role. [Wikipedia](https://en.wikipedia.org/wiki/Kyiv)
 
+## Tver, Grand Duchy of Tver (now Russia) (1327)  
+  Muscovite forces under Ivan I, with Mongols, sacked Tver, burning homes and churches to cripple its rival status. [Wikipedia](https://en.wikipedia.org/wiki/Tver)
+
+## Novgorod, Novgorod Republic (now Russia) (1478)  
+  Muscovite forces under Ivan III targeted Novgorod’s markets and cultural sites to erase its autonomy. [Wikipedia](https://en.wikipedia.org/wiki/Novgorod_Republic)
+
+## Kazan, Khanate of Kazan (now Russia) (1487)  
+  Muscovite forces under Ivan III burned Kazan’s mosques and civilian quarters to weaken its Tatar political center. [Wikipedia](https://en.wikipedia.org/wiki/Kazan)
+
+## Baturyn, Cossack Hetmanate (now Ukraine) (1708)  
+  Muscovite forces under Alexander Menshikov, ordered by Peter I, razed Baturyn, burning churches and homes, massacring 9,000–15,000 inhabitants to crush Ukrainian autonomy. [Wikipedia](https://en.wikipedia.org/wiki/Baturyn)
+
+## Tashkent, Khanate of Kokand (now Uzbekistan) (1865)  
+  Russian Empire forces stormed Tashkent, destroying mosques and homes to dismantle its regional hub status. [Wikipedia](https://en.wikipedia.org/wiki/Tashkent)
+
+## Samarkand, Emirate of Bukhara (now Uzbekistan) (1868)  
+  Russian forces bombarded Samarkand, targeting Registan Square to assert imperial control. [Wikipedia](https://en.wikipedia.org/wiki/Samarkand)
+
+## Bukhara, Emirate of Bukhara (now Uzbekistan) (1868)  
+  Russian forces bombarded Bukhara, damaging ~70% of the old city to subjugate it. [Wikipedia](https://en.wikipedia.org/wiki/Bukhara)
+
+## Baku, Azerbaijan (1918)  
+  Bolshevik forces bombarded Baku, targeting civilian and cultural sites to secure control. [Wikipedia](https://en.wikipedia.org/wiki/Baku)
+
+## Warsaw, Poland (1944)  
+  Soviet inaction enabled Nazi destruction of 85–90% of Warsaw to weaken Polish resistance. [Wikipedia](https://en.wikipedia.org/wiki/Warsaw)
+
+## Budapest, Hungary (1944–1945)  
+  Soviet forces besieged Budapest, destroying ~80% of buildings to dislodge defenders. [Wikipedia](https://en.wikipedia.org/wiki/Budapest)
+
+## Königsberg, Germany (now Kaliningrad, Russia) (1945)  
+  Soviet forces bombarded Königsberg, destroying the historic center to eliminate German resistance. [Wikipedia](https://en.wikipedia.org/wiki/Kaliningrad)
+
+## Kabul, Afghanistan (1979–1989)  
+  Soviet airstrikes targeted Kabul’s neighborhoods to suppress mujahideen. [Wikipedia](https://en.wikipedia.org/wiki/Kabul)
+
+## Herat, Afghanistan (1979–1989)  
+  Soviet forces bombed Herat, targeting historic sites to counter uprisings. [Wikipedia](https://en.wikipedia.org/wiki/Herat)
+
+## Grozny, Chechnya (1994–1996)  
+  Russian forces bombarded Grozny, leveling civilian infrastructure to suppress separatists. [Wikipedia](https://en.wikipedia.org/wiki/Grozny)
+
+## Grozny, Chechnya (1999–2000)  
+  Russian carpet bombing reduced Grozny to rubble, targeting civilian areas. [Wikipedia](https://en.wikipedia.org/wiki/Grozny)
+
+## Aleppo, Syria (2015–2016)  
+  Russian airstrikes destroyed eastern Aleppo’s infrastructure to force rebel surrender. [Wikipedia](https://en.wikipedia.org/wiki/Aleppo)
+
+## Volnovakha, Ukraine (2022)  
+  Russian forces indiscriminately shelled Volnovakha, destroying 90% of the city, including homes and schools, to disrupt its social fabric despite low strategic value. [Wikipedia](https://en.wikipedia.org/wiki/Volnovakha)
+
+## Sievierodonetsk, Ukraine (2022)  
+  Russian forces bombarded Sievierodonetsk, destroying over 80% of the city, including homes and cultural sites, to eliminate its role as a Ukrainian administrative hub. [Wikipedia](https://en.wikipedia.org/wiki/Sievierodonetsk)
+
+## Mariupol, Ukraine (2022)  
+  Russian forces besieged and bombarded Mariupol, destroying homes, hospitals, and cultural sites, rendering the city largely uninhabitable. [Wikipedia](https://en.wikipedia.org/wiki/Mariupol)
+
+## Maryinka, Ukraine (2022–2023)  
+  Russian forces reduced Maryinka to ruins through artillery and airstrikes, destroying all civilian infrastructure to break Ukraine’s defensive line. [Wikipedia](https://en.wikipedia.org/wiki/Maryinka)
+
+## Soledar, Ukraine (2022–2023)  
+  Russian and Wagner forces destroyed Soledar’s residential and industrial areas, leaving rubble and disrupting its social and economic functions. [Wikipedia](https://en.wikipedia.org/wiki/Soledar)
+
+## Bakhmut, Ukraine (2022–2023)  
+  Russian forces destroyed over 80% of Bakhmut’s infrastructure, targeting civilian areas to capture it. [Wikipedia](https://en.wikipedia.org/wiki/Bakhmut)
 

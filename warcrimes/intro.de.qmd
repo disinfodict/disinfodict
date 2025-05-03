@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Wer begeht wohl Kriegsverbrechen an Ukrainern in der Ukraine? Die Ukrainer an sich selbst oder die russischen Angreifer? War jetzt nicht so schwer oder? Lerne mehr.
+---
+
 # Kriegsverbrechen – Einführung {#sec-warcrimes-intro}
 
 ::: {.callout-caution title="Mythos"}

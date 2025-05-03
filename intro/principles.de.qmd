@@ -95,8 +95,9 @@ Ein Teil besteht aus Kapitel-„*.qmd“-Dateien, Kapiteltitel werden in der zwe
 - Dateinamen dürfen nicht geändert werden (sie sind Teil der permanenten Verweise)
 - aber die Kapitelüberschriften können geändert werden, um das Erscheinungsbild und die Navigation zu verbessern, z.B. `# Values & Principles`
 - und die Reihenfolge der Kapitel in der Navigation kann in `_quarto.yml` geändert werden
-- ein Kapitel beginnt mit einer einsilbigen Desinformation nur in einem Callout-Hinweis („Mythos“). Wenn möglich listen wir widersprüchliche Propagandalügen.
-- unmittelbar gefolgt von einem ein- oder zweisilbigen Hinweis ('Wahrheit')
+- ein Kapitel beginnt mit einer kurzen Zusammenfassung (Metadaten "description" relevant für Anzeige in Google und in sozialen Netzwerken)
+- dann folgt eine kurzen Desinformation in einem Callout-Hinweis ("Mythos"). Wenn möglich listen wir widersprüchliche Propagandalügen
+- unmittelbar gefolgt von einem ein- oder zweisilbigen Hinweis ("Wahrheit")
 - Das EUvsDisinfo-Symbol [![EUvsDisinfo-Symbol](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/de/disinformation-cases/?text=lies&disinfo_language%5B%5D=English&sort=relevance) bringt Sie in eine Stichwortsuche auf [euvsdisinfo.eu](https://euvsdisinfo.eu/)
 
 ### Abschnitte

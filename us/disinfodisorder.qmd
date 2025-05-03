@@ -1,3 +1,8 @@
+---
+abstract: > 
+  The USA has been corroded by severe (dis)information disorder. We should understand this so that the same thing doesn't happen to us. Urgently.  
+---
+
 # (Dis)Information Disorder {#sec-us-disinfodisorder}
 
 ::: {.callout-caution title="Myth"}
@@ -134,6 +139,19 @@ Trump was even elected, although he - three times - promised that once he is ele
 The website [democracy2025.org](https://www.democracy2025.org) tracks attempts to stop or slow down Project 2025.
 
 
+## National Science Foundation (NSF)
+
+On April 18th, Trump's new Director of the National Science Foundation (NSF) informed the public that ongoing grants researching misinformation/disinformation were terminated:
+
+> Hundreds of grants, fellowships, and awards were terminated because they are no longer “aligned with NSF priorities” ... including but not limited to those on diversity, equity, and inclusion (DEI) and misinformation/disinformation.”[^disinfodisorder-32]
+
+Under the Trump administration, science in the US is no longer free, and the National Science Foundation (NSF) is no longer to fund research on misinformation/disinformation
+
+> NSF will not support research with the goal of combating "misinformation," "disinformation," and "malinformation" that could be used to infringe on the constitutionally protected speech rights of American citizens across the United States in a manner that **advances a preferred narrative** about significant matters of public debate.[^disinfodisorder-33]
+
+In other words: the NSF must no longer prefer truth over lies. This is a coordinated effort of the White House against the truth. For example the Disinfo Dictionary received a termination notice about its funding US Embassy TechCamp funding on Feb. 27 2025.
+
+
 ## Double Bind in the Oval Office
 
 The Oval Office meeting involving Ukrainian President Volodymyr Zelenskyy, U.S. President Donald Trump, and Vice President J.D. Vance exemplifies a "Double Bind." Trump and Vance pressed Zelenskyy to align with U.S. interests while simultaneously questioning Ukraine’s reliability—creating a no-win scenario, see @sec-us-ovaloffice. Zelenskyy faced a bind: concede and lose autonomy or resist and risk aid cuts. This mirrors Bateson’s theory, where contradictory demands (support us, but we doubt you) foster confusion and weaken resolve, amplifying Information Disorder’s political impact.
@@ -153,10 +171,8 @@ For disinformation experts familiar with russian active measures it does not com
 > - Trump administration is full of pro-Kremlin actors who have blamed NATO and Ukraine for the war. These include Tulsi Gabbard, RFK Jr. and JD Vance  
 > - Trump has never criticized Putin yet he called Zelenskyy a 'dictator'  
 
-[![Rachel Maddow (28.02.2025) 'Who's that good for?': Maddow connects the dots on Donald Trump's behavior toward Russia. Screenshot from MSNBC-Video](Screnshot_Video_MaddowConnectsTheDots_MSNBC.jpg)](https://www.youtube.com/watch?v=Zn9BTALjtLY)
-
-
-
+[![Rachel Maddow (28.02.2025) 'Who's that good for?': Maddow connects the dots on Donald Trump's behavior toward Russia. Screenshot from MSNBC-Video](Screenshot_Video_MaddowConnectsTheDots_MSNBC.jpg)](https://www.youtube.com/watch?v=Zn9BTALjtLY)
+             
 
 [^disinfodisorder-1]: JD Vance`s Speech to the Munich Security Conference (14 February 2025) [https://www.brugesgroup.com/blog/jd-vance-s-speech-to-the-munich-security-conference](https://www.brugesgroup.com/blog/jd-vance-s-speech-to-the-munich-security-conference)
 
@@ -222,5 +238,7 @@ For disinformation experts familiar with russian active measures it does not com
 
 [^disinfodisorder-32]: Remarks at the General Assembly: 58th plenary meeting, 79th session (March 4 2025). U.S. Mission to the United Nations (USUN). [https://usun.usmission.gov/remarks-at-the-general-assembly-58th-plenary-meeting-79th-session/](https://usun.usmission.gov/remarks-at-the-general-assembly-58th-plenary-meeting-79th-session/)
 
+[^disinfodisorder-33]: Sarah Scire (April 21, 2025)  National Science Foundation cancels research grants related to misinformation and disinformation. NiemanLab.  [https://www.niemanlab.org/2025/04/national-science-foundation-cancels-research-grants-related-to-misinformation-and-disinformation/](https://www.niemanlab.org/2025/04/national-science-foundation-cancels-research-grants-related-to-misinformation-and-disinformation/)
 
+[^disinfodisorder-34]: Sethuraman Panchanathan (April 18, 2025) Updates on NSF Priorities.  [https://www.nsf.gov/updates-on-priorities#statement-of-nsf-priorities-09d](https://www.nsf.gov/updates-on-priorities#statement-of-nsf-priorities-09d)
 

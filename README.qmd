@@ -237,6 +237,56 @@ sudo apt install nodejs
 npm install @daisy/ace -g
 -->
 
+### join all sitemaps
+
+As of 2025-05-03 there were bugs in the sitemap setup of babelquarto (secondary language-files had wrong paths, there where multiple sitemap.xml but only one mentioned in robots.txt). The following replaces all those sitemap.xml with versions that list all available languages for each file. 
+
+```{R}
+#install.packages("xml2")
+require(xml2)
+ccs <- c("en","de")
+sitemap <- read_xml("_book/sitemap.xml")
+#xml_attr(sitemap, 'xmlns:xsi') <- "http://www.w3.org/2001/XMLSchema-instance"
+#xml_attr(sitemap, 'xsi:schemaLocation') <- "http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.w3.org/1999/xhtml http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"
+xml_attr(sitemap, 'xmlns:xhtml') <- "http://www.w3.org/1999/xhtml"
+files <- xml_children(sitemap)
+for (f in files){
+  nodes <- xml_children(f)
+  loc <- nodes[[1]]
+  stopifnot(xml_name(loc) == "loc")
+  def <- xml_text(loc)
+  defcom <- url_parse(def)
+  for (l in rev(seq_along(ccs))) {
+    nn <- read_xml('<xhtml:link rel="alternate"/>', options="NOWARNING")  # suppresing the warnings "Namespace prefix xhtml on link is not defined" doesn't work
+    cc <- ccs[l]
+    xml_attr(nn, "hreflang") <- cc
+    if (l == 1){
+      xml_attr(nn, "href") <- def 
+    } else {
+      url <- paste0("https://", defcom$server, if (!is.na(defcom$port)) ":", defcom$port, "/", cc, sub("[.]", paste0(".", cc, "."), defcom$path))
+      xml_attr(nn, "href") <- url 
+    }
+    xml_add_sibling(loc, nn)
+  }
+  tmp <- tempfile()
+  for (l in rev(seq_along(ccs)[-1])){
+    cc <- ccs[l]
+    write_xml(f, tmp)
+    fi <- read_xml(tmp)
+    nodes <- xml_children(fi)
+    loc <- nodes[[1]]
+    url <- paste0("https://", defcom$server, if (!is.na(defcom$port)) ":", defcom$port, "/", cc, sub("[.]", paste0(".", cc, "."), defcom$path))
+    xml_text(loc) <- url
+    xml_add_sibling(f, fi)
+  }
+  file.remove(tmp)
+}
+for (l in seq_along(ccs)){
+  write_xml(sitemap, (file.path(if (l==1) "_book" else file.path("_book", ccs[l]), "sitemap.xml")))
+}
+```
+
+
 
 # Expert use only
 
@@ -519,3 +569,4 @@ for (i in grep("/", dir(pattern="[.]qmd", recursive=T), value=TRUE)){
 close(fi)
 #gsub("(^|[^[\\[\\(\\`)]]?)((http://|https://)[[:alpha:]0-9./#?=_&\\\\-]+)", "\\1[\\2](\\2)", x)
 ```
+

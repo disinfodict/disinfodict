@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Sind Kriegsgefangene Menschen? Dann gelten für sie auch Menschenrechte. Russland behandelt kriegsgefangene Ukrainer schlimmer als Tiere.  
+---
+
 # Kriegsverbrechen – Kriegsgefangene {#sec-warcrimes-prisoners}
 
 ::: {.callout-caution title="Mythos"}

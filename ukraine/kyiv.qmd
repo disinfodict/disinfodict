@@ -1,3 +1,9 @@
+---
+abstract: > 
+  Why is Kyiv the cradle of Eastern Slavic civilization? Because Moscow did not exist at that time and uncivilized criminals still rule there today.  
+---
+
+
 # Ukraine Kyiv {#sec-ukraine-kyiv}
 
 ::: {.callout-caution title="Myth"}

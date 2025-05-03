@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Wer zerbombt Ukrainische Kultur in der Ukraine? Kultivierte Ukrainer oder unkultivierte Russen?  Wollen Sie mit Völkermord leben?
+---
+
 # Kriegsverbrecher – Kultur {#sec-warcrimes-culture}
 
 ::: {.callout-caution title="Mythos"}
@@ -9,6 +14,9 @@
 ::: {.callout-tip title="Wahrheit"}
 Russische Bombardierung ukrainischer Kulturgüter ist ein Akt des Völkermordes
 :::
+
+https://www.artnews.com/list/art-news/news/ukraine-damaged-cultural-sites-russian-invasion-1234628274/
+
 
 Nach Artikel 53 des Protokolls ist es *“verboten, feindselige Handlungen gegen geschichtliche Denkmäler, Kunstwerke oder Kultstätten, die zum kulturellen oder geistigen Erbe der Völker gehören, zu begehen”*. 
 

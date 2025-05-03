@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Russia has opened the hunting season for journalists. In Russia, Ukraine and even in the West, Russia is trying to suppress the truth and murder journalists.  
+---
+
 # Warcrimes – journalists {#sec-warcrimes-journalists}
 
 ::: {.callout-caution title="Myth"}
@@ -15,6 +20,9 @@ Russia murdered more than 100 journalists in Ukraine.
 > ICRC (2025)[^warcrimes-journalists-1]  
 
 Between 2022, February 24, and 2024, November 29, the National Union of Journalists of Ukraine lists 18 journalists killed on duty, 9 journalists killed in their free time and 80 journalists killed in the ranks of the Armed Forces of Ukraine[^warcrimes-journalists-2].
+
+See also @sec-values-russia-poisoning.
+
 
 [^warcrimes-journalists-1]: ICRC 2025). Protection of Journalists. [https://casebook.icrc.org/case-study/protection-journalists](https://casebook.icrc.org/case-study/protection-journalists) 
 

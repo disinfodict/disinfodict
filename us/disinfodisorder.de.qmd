@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Die USA sind durch schwere (Dis)Information-Disorder zersetzt. Das sollten wir verstehen, damit uns nicht dasselbe passiert. Dringend.  
+---
+
 # (Dis)Information Disorder {#sec-us-disinfodisorder}
 
 ::: {.callout-caution title="Mythos"}
@@ -133,6 +138,18 @@ Trump wurde sogar gewählt, obwohl er - dreimal - versprochen hat, dass dies nac
 Die Website [democracy2025.org] (https://www.democracy2025.org) dokumentiert Versuche, das Projekt 2025 zu stoppen oder zu verlangsamen.
 
 
+## National Science Foundation
+
+Am 18. April informierte Trumps neuer Direktor der National Science Foundation (NSF) die Öffentlichkeit darüber, dass laufende Zuschüsse zur Erforschung von Fehlinformation/Desinformation gestrichen wurden:
+
+> Hunderte von Zuschüssen, Stipendien und Auszeichnungen wurden gestrichen, weil sie nicht mehr mit den Prioritäten der NSF übereinstimmen, einschließlich, aber nicht beschränkt auf die Bereiche Vielfalt, Gleichberechtigung und Inklusion (DEI) und Desinformation/Desinformation."[^disinfodisorder-32]
+
+Unter der Trump-Regierung ist die Wissenschaft in den USA nicht mehr frei, und die National Science Foundation (NSF) soll keine Forschung zu Fehlinformationen/Desinformation mehr finanzieren
+
+> Die NSF wird keine Forschung unterstützen, die darauf abzielt, "Fehlinformationen", "Desinformationen" und "Falschinformationen" zu bekämpfen, die dazu verwendet werden könnten, die verfassungsmäßig geschützten Meinungsäußerungsrechte amerikanischer Bürger in den Vereinigten Staaten in einer Weise zu verletzen, die **eine bevorzugte Darstellung** über wichtige Themen der öffentlichen Debatte fördert.[^disinfodisorder-33]
+
+Mit anderen Worten: Die NSF darf nicht länger die Wahrheit der Lüge vorziehen. Es handelt sich um eine koordinierte Aktion des Weißen Hauses gegen die Wahrheit. So erhielt das Disinfo-Lexikon am 27. Februar 2025 eine Kündigungsmitteilung über die Finanzierung des TechCamps der US-Botschaft.
+
 
 ## Double Bind im Oval Office
 
@@ -153,7 +170,7 @@ Für Desinformationsexperten, die mit den Activ Measures Russlands vertraut sind
 > - Die Trump-Administration ist voll von kremlfreundlichen Akteuren, die die NATO und die Ukraine für den Krieg verantwortlich gemacht haben. Dazu gehören Tulsi Gabbard, RFK Jr. und JD Vance  
 > - Trump hat Putin nie kritisiert, nannte Zelenskyy jedoch einen „Diktator“.  
 
-[Rachel Maddow (28.02.2025) 'Für wen ist das gut?': Maddow geht Donald Trumps Verhalten gegenüber Russland auf den Grund. Screenshot von MSNBC-Video](Screnshot_Video_MaddowConnectsTheDots_MSNBC.jpg)](https://www.youtube.com/watch?v=Zn9BTALjtLY)
+[![Rachel Maddow (28.02.2025) 'Für wen ist das gut?': Maddow geht Donald Trumps Verhalten gegenüber Russland auf den Grund. Screenshot von MSNBC-Video](Screenshot_Video_MaddowConnectsTheDots_MSNBC.jpg)](https://www.youtube.com/watch?v=Zn9BTALjtLY)
 
 
 [^disinfodisorder-1]: JD Vance`s Speech to the Munich Security Conference (14 February 2025) [https://www.brugesgroup.com/blog/jd-vance-s-speech-to-the-munich-security-conference](https://www.brugesgroup.com/blog/jd-vance-s-speech-to-the-munich-security-conference)
@@ -220,5 +237,6 @@ Für Desinformationsexperten, die mit den Activ Measures Russlands vertraut sind
 
 [^disinfodisorder-32]: Remarks at the General Assembly: 58th plenary meeting, 79th session (March 4 2025). U.S. Mission to the United Nations (USUN). [https://usun.usmission.gov/remarks-at-the-general-assembly-58th-plenary-meeting-79th-session/](https://usun.usmission.gov/remarks-at-the-general-assembly-58th-plenary-meeting-79th-session/)
 
+[^disinfodisorder-33]: Sarah Scire (April 21, 2025)  National Science Foundation cancels research grants related to misinformation and disinformation. NiemanLab.  [https://www.niemanlab.org/2025/04/national-science-foundation-cancels-research-grants-related-to-misinformation-and-disinformation/](https://www.niemanlab.org/2025/04/national-science-foundation-cancels-research-grants-related-to-misinformation-and-disinformation/)
 
-
+[^disinfodisorder-34]: Sethuraman Panchanathan (April 18, 2025) Updates on NSF Priorities.  [https://www.nsf.gov/updates-on-priorities#statement-of-nsf-priorities-09d](https://www.nsf.gov/updates-on-priorities#statement-of-nsf-priorities-09d)

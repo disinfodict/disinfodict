@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Are prisoners of war human beings? Then human rights also apply to them. Russia treats Ukrainian prisoners of war worse than animals.  
+---
+
 # War crimes – POWs {#sec-warcrimes-prisoners}
 
 ::: {.callout-caution title="Myth"}

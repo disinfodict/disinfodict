@@ -1,8 +1,13 @@
+---
+abstract: > 
+  Russland zerbombt zivile Objekte in der Ukraine. Ungezielt Privathäuser und gezielt Infrastruktur: Energie-, Einkaufs-, Gesundheits-, Bildungs und Kultur-Infratruktur. 
+---
+
 # Kriegsverbrechen – Infrastruktur {#sec-warcrimes-infrastructure}
 
 ::: {.callout-caution title="Mythos"}
 - Die Ukraine zerstört ihre eigene zivile Infrastruktur, um den Russen zu schaden
-- Russland greift nur militärische und infrastrukturelle Einrichtungen in der Ukraine an
+- Russland greift nur militärische Einrichtungen in der Ukraine an
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20(infrastructure|electricity|energy|dam|bridge)&sort=relevance)
 :::
 

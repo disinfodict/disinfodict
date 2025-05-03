@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Wie würden Sie sich fühlen, wenn jemand behauptet, dass Ihr Land nicht existiert oder gescheitert ist und er Sie deshalb erobern will? Das gefällt den Ukrainern auch nicht.
+---
+
 # Ukrainische Nation {#sec-ukraine-nation}
 
 ::: {.callout-caution title="Mythos"}

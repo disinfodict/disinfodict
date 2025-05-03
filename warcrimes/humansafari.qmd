@@ -1,3 +1,9 @@
+---
+abstract: > 
+  Isn't it fun to chase and kill kids with drones and grenades? Russians think so and enjoy human safari in Cherson.
+---
+
+
 # Warcrimes – safari {#sec-warcrimes-humansafari}
 
 ::: {.callout-caution title="Myth"}

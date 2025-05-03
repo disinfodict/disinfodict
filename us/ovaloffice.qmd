@@ -1,3 +1,8 @@
+---
+abstract: > 
+  When your best friend treats you the way your worst enemy wishes you would. What happened to Zelenskyi in the Oval Office.
+---
+
 # Oval Office operation {#sec-us-ovaloffice}
 
 ::: {.callout-caution title="Myth"}

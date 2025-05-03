@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Man kann darüber streiten, ob man Atomkraftwerke haben sollte. Man kann nicht darüber streiten, ob man sie beschießen soll. Auch nicht die ukrainischen!
+---
+
 # Kriegsverbrechen – nuklear {#sec-warcrimes-nuclear}
 
 ::: {.callout-caution title="Mythos"}

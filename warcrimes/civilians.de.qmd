@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Russland ermordet ukrainische Zivilisten ... zur Verteidigung? Lerne mehr über den gezielten russischen Terror gegen die ukrainischen Männer, Frauen und Kinder.
+---
+
 # Kriegsverbrechen – Zivilisten {#sec-warcrimes-civilians}
 
 ::: {.callout-caution title="Mythos"}

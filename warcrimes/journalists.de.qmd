@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Russland hat die Jagdsaison auf Journalisten eröffnet. In Russland, in der Ukraine und sogar im Westen versucht Russland die Wahrheit zu unterdrücken und Journalisten zu ermorden.  
+---
+
 # Kriegsverbrechen - Journalisten {#sec-kriegsverbrechen-journalisten}
 
 ::: {.callout-caution title="Mythos"}
@@ -15,6 +20,9 @@ Russland ermordete mehr als 100 Journalisten in der Ukraine.
 > ICRC (2025)[^warcrimes-journalists.de-1]  
 
 Zwischen 2022, dem 24. Februar, und 2024, dem 29. November, listet der Nationale Journalistenverband der Ukraine 18 im Dienst getötete Journalisten, 9 in ihrer Freizeit getötete Journalisten und 80 getötete Journalisten in den Reihen der Streitkräfte der Ukraine auf[^warcrimes-journalists.de-2].
+
+Siehe auch @sec-values-russia-poisoning.
+
 
 [^warcrimes-journalists.de-1]: ICRC 2025). Protection of Journalists. [https://casebook.icrc.org/case-study/protection-journalists](https://casebook.icrc.org/case-study/protection-journalists) 
 

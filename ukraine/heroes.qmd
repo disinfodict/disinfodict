@@ -1,3 +1,8 @@
+---
+abstract: > 
+  Every real nation has heroes. Unlike Russia, Ukraine has quite a few. Get to know some of them.
+---
+
 # Ukraine heroes {#sec-ukraine-heroes}
 
 ::: {.callout-caution title="Myth"}
