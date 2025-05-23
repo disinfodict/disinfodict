@@ -43,6 +43,27 @@ See also [Culture of Ukraine at Wikipedia](https://en.wikipedia.org/wiki/Culture
 
 {{< var todo >}}
 
+
+## Agriculture
+
+### Honey
+
+Few people know it, but this story has changed the world of beekeeping! 🐝
+
+[![Link to Petro Prokopovych on Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Petro_Prokopovych)
+
+Until 1814, beekeepers were destroying hives and killing bees until the Ukrainian Petro Prokopovich invented a revolutionary collapsible beehive![^culture-ukraine-1] 
+It was a real breakthrough, but unfortunately his name has been forgotten. But we remember and are proud!
+
+[![Screenshot of Videa on X](PetroProkopovych.jpg)
+Story of Petro Prokopovich, inventor in beekeeping](https://x.com/i/status/1924525342728896624)
+
+Listen to Traditional Ukrainian Songs at Petro Prokopovich Institute of Beekeeping, Kyiv, Ukraine:
+
+[![Screenshot of Youtube video](PetroProkopovychFolksongs.jpg)
+Traditional Ukrainian Songs. Meeting at Petro Prokopovich Institute of Beekeeping. Kyiv, Ukraine. ](https://youtu.be/8FYs4eVi64M?t=9)
+
+
 ## Cooking
 
 ### Borscht
@@ -90,6 +111,8 @@ https://www.supportukraine-pic.com/
 ## See also
 
 The chapters on "Great Russian" culture (@sec-culture-russia), on Ukrainan culture (@sec-culture-ukraine), on warcrimes against Ukrainan culture (@sec-warcrimes-culture), on Ukrainian language (@sec-language-russia) and on russian language (@sec-language-ukraine).
+
+[^culture-ukraine-1]: John Gordon Sennett (November 20, 2023) Petro Prokopovych. Bee Culture.  [https://beeculture.com/petro-prokopovych/](https://beeculture.com/petro-prokopovych/)
 
 [^culture-ukraine-5]:  Oksana Shchur (2023) Die Ukraine hat keine eigenen Kultur. In: N. Pryhornytska, K. Pavlova, ed. Ukraine im Fokus. Propaganda erkennen, Fakten verstehen. Berlin: CRISP.
 

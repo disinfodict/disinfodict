@@ -20,6 +20,8 @@ keywords:
 :::
 
 ::: {.callout-tip title="Truth"}
+- The uprising in the Donbas was directed against Moscow (1989)
+- Moscow gains control of the Donbas and twists history into its opposite
 - Pro-russian fighters in Donbas are paid mercenaries trained in Moscow and russian soldiers
 - Pro-russian fighters are equipped with heavy weapons from Russia 
 - The Occupiers are a "Kremlin's Republic" not recognized by nobody
@@ -28,18 +30,30 @@ keywords:
 
 ## The short version
 
+After an uprising in the Donbas in 1989 that threatened Moscow's rule at its core, Moscow took revenge, brought the Donbas under violent control and twisted history against Kyiv.
+
 > Russian separatist forces in Ukraine, primarily the People's Militias of the Donetsk People's Republic (DPR) and the Luhansk People's Republic (LPR), were pro-Russian paramilitaries in the Donbas region of eastern Ukraine. They were under the overall control of the Russian Federation. They were also referred to as Russian proxy forces ... Although the Russian government often denied direct involvement, evidence suggested otherwise. The separatists admitted receiving weaponry and supplies from Russia, being trained there, and having thousands of Russian citizens in their ranks.[^sec-donbas-separatists-1]
 
-## Who bombed Donbas?
+## Resistance against Moscow
 
-During the full-scale war, probably every Ukrainian has heard accusations from Russia supporters saying: 
-“Where have you been for eight years when Ukraine bombed the Donbas?” This is one of the most disgusting, 
-but at the same time most popular Russian manipulations, because in fact it was Russia who did all this, see @sec-donbas-genocide.
+> The protest of the Soviet miners in the summer of 1989 was also a referendum on Mikhail Gorbachev [^sec-donbas-separatists-6].
+
+> The qualitatively new aspect of this - temporally and spatially limited - workers' unrest consisted of  
+... the scale and well-functioning coordination of the strikes  
+... the solidarity demonstrated by the regional population with the strikers  
+... the self-confident appearance of the strike committees  
+... the harmonious coordination between the committees and the deputies of the affected regions in the Supreme Soviet, who adopted the strike demands as their own  
+and used the Moscow plenum with its publicity effectively in the interests of the miners  
+... the unvarnished reporting in the Soviet media, in some cases with unabashed sympathy  
+... the moderate reaction of the state leadership to the challenge, where for the first time a violent end to the conflict was refrained from and instead a fundamental recognition of the grievances raised and a shift of the dispute to the level of arbitration commissions was introduced  
+... as a legislative consequence, the drafting of a special strike law with binding rules for labor disputes[^sec-donbas-separatists-7]
+
+In other words, the insurgent Donbass region threatened the core of Moscow's centralized totalitarian system of rule, and Moscow set to work to bring this region under control, willingly with violence and destruction. Moscow's propaganda began to rewrite the history of the Donbas in the opposite direction: the protests were against Kyiv. 
 
 
 ## Russia's war
 
-That the conflict was unleashed by Russia is evidenced by the chronology – Donetsk City Council, which at that moment was already controlled by the militants, started to talk about a referendum on “the fate of the Donbas” as early as March 1. Later, the seizures of administrative buildings and the beating and killing of pro-Ukrainian rally participants happened. However, the anti-terrorist operation had not been launched at that time – the Ukrainian government announced it only on April 12. Meanwhile, the so-called “Donetsk People’s Republic” was proclaimed on April 7, and on the same day Putin was asked to send in troops. This was done by the Russian special services’ agents and local collaborators who, with the armed support of the Russian special services, seized power in the region.
+That the war in Donbas was unleashed by Russia is evidenced by the chronology – Donetsk City Council, which at that moment was already controlled by the militants, started to talk about a referendum on “the fate of the Donbas” as early as March 1. Later, the seizures of administrative buildings and the beating and killing of pro-Ukrainian rally participants happened. However, the anti-terrorist operation had not been launched at that time – the Ukrainian government announced it only on April 12. Meanwhile, the so-called “Donetsk People’s Republic” was proclaimed on April 7, and on the same day Putin was asked to send in troops. This was done by the Russian special services’ agents and local collaborators who, with the armed support of the Russian special services, seized power in the region.
 
 
 ## Russia invaded 2014
@@ -76,6 +90,14 @@ The mafia-like corruption and totalitarian despotism in Donbas is so bad that ev
 
 [Link to youtube  
 ![Screenshot of 4TheRecord video with Girkin](donbas-girkin.jpg){width=60%}](https://www.youtube.com/watch?v=GLzXWNBwoIQ)
+
+
+## Who bombed Donbas?
+
+During the full-scale war, probably every Ukrainian has heard accusations from Russia supporters saying: 
+“Where have you been for eight years when Ukraine bombed the Donbas?” This is one of the most disgusting, 
+but at the same time most popular Russian manipulations, because in fact it was Russia who did all this, see @sec-donbas-genocide.
+
 
 
 [^sec-donbas-separatists-1]: Russian separatist forces in Ukraine. Wikipedia. [https://en.wikipedia.org/wiki/Russian_separatist_forces_in_Ukraine](https://en.wikipedia.org/wiki/Russian_separatist_forces_in_Ukraine)

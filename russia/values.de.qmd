@@ -16,8 +16,7 @@ abstract: >
 Russland ist beschissen ... sogar in Moskau
 :::
 
-
-Obwohl Putin Russland als eine Bastion traditioneller Werte anpreist, sieht die Realität ganz anders aus. 
+Obwohl Putin Russland als eine Bastion traditioneller Werte anpreist,[^russia-values-15] sieht die Realität ganz anders aus. 
 
 ## Familienwerte?
 
@@ -102,3 +101,4 @@ Weitere Informationen über russische Fäkalkultur finden Sie unter @sec-culture
 
 [^russia-values.de-14]: Moskaus Todesfalle schnappt auch im Ausland zu (19.08.2023). t-online. [https://www.t-online.de/nachrichten/ukraine/id_100226554/putins-todesfall-versuchte-giftmorde-mitten-in-europa-auch-in-muenchen.html](https://www.t-online.de/nachrichten/ukraine/id_100226554/putins-todesfall-versuchte-giftmorde-mitten-in-europa-auch-in-muenchen.html).  
 
+[^russia-values-15]: Sergei Naryshkin (2025-05-16) Naryshkin: today "both strength and truth" are more than ever on the side of the Russian Federation. TASS. [https://tass.ru/politika/23959897](https://tass.ru/politika/23959897)

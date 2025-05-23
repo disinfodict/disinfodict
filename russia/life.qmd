@@ -6,15 +6,39 @@ abstract: >
 # Russian life {#sec-russia-life}
 
 ::: {.callout-caution title="Myth"}
-- Russia is better
-- Life in russia is better
-[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/?s=(Russia|Moscow)%20(better|superior|inferior)&type=database&sort=relevance)
+- Russia is better [![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/?s=(Russia|Moscow)%20(better|superior|inferior)&type=database&sort=relevance)
+- Life in russia is better [![Article on EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/reverse-russophobia/)
 :::
 
 ::: {.callout-tip title="Truth"}
-Most Euroepan countries are clearly better than Russia  - on the OECD Better Life Index
-[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/waiting-for-the-advent-of-the-fifth-stalin/)
+Most Euroepan countries are clearly better than Russia  - on the OECD Better Life Index [![Article on  EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/waiting-for-the-advent-of-the-fifth-stalin/)
 :::
+
+
+## Ordinary Russian Citizens (ORCs)
+
+The standard of living of the average Russian is pathetic, both in comparison to the average European and even more so in comparison to the Russian "elite". The following graffiti is symptomatic:
+
+> Who allowed you to live beautifully?[^russia-life-1]
+
+[![Graffity: Who allowed you to live beautifully? Source: VoxUkraine](Life_Who_allowed_you_to_live_beautifully.jpg)](https://voxukraine.org/en/fake-the-inscription-who-allowed-you-to-live-beautifully-was-made-by-the-occupiers-in-the-kyiv-region/)
+
+The Ordinary Russian Citizen (ORC) prefers to steal, loot or destroy wealth of others rather than work for his/her own wealth:
+
+> There is the old Soviet joke about Ivan and Vladimir. Ivan is a successful farmer with a cow. The cow produces milk and butter that Ivan sells at the free market. Ivan’s house is clean, the children go to school and have nice clothes, the furniture is nice … Vladimir has sold off the cow and drinks morning till night. The house is a pigsty, the children are little barbarians, he beats up his wife and so on. When the kolkhoz president asks him what they can do for him he replies: kill Ivan’s cow.[^russia-life-26]
+
+Russians mean this serious until today:
+
+> You live too well. We don't like it. Soon you will live like us.[^russia-life-3]
+
+Russians have proven this with looting, raping and other war crimes in Ukraine (see also @sec-warcrimes-intro):
+
+> Many of the soldiers are dirt-poor and badly educated, with many growing up without access to modern amenities. Many joined the armed forces because they have no future in their backwater towns ... When occupying areas, many drank heavily, turning their quarters into shambles, or went around looting anything barely valuable they could get their hands on.[^russia-life-3]
+
+
+## OECD Better Life Index
+
+So how is life for Ordinary Russian Citizens (ORCs)? 
 
 > The OECD Better Life Initiative focuses on developing statistics to capture aspects of life that matter to people and that shape the quality of their lives. This allows for a better understanding of what drives the well-being of people and nations, and what needs to be done to achieve greater progress for all.
 
@@ -82,4 +106,14 @@ In the following you see Russia (colored) compared to Germany. Russia is much wo
 ![OECD Better Life Index - Russia: Work-Life Balance](BetterLifeRussiaWorkLifeBalance.png)
 
 <!-- cia-key="4e5aa26216016d6d1beab7b99f8b0e4b2dc8371afc76cb25a6428addf3e97bbba21362e56cae3b34cf46ef6a33f823df0f32fab3d715d6b42901d68b05171cce" -->
+
+
+
+[^russia-life-1]: VoxCheck Team (12 April 2022) FAKE: The inscription “Who allowed you to live beautifully?” was made by the occupiers in the Kyiv region. Vox Ukraine. [https://voxukraine.org/en/fake-the-inscription-who-allowed-you-to-live-beautifully-was-made-by-the-occupiers-in-the-kyiv-region](https://voxukraine.org/en/fake-the-inscription-who-allowed-you-to-live-beautifully-was-made-by-the-occupiers-in-the-kyiv-region)
+
+[^russia-life-2]: Roberto De Propris (Apr 18, 2022) Kill Ivans's cow. Twitter. [https://x.com/propris/status/1515989910410477571](https://x.com/propris/status/1515989910410477571)
+
+[^russia-life-3]: Oleksandra Matviichuk (Apr 18, 2022) "You live too well. We don't like it. Soon you will live like us". Report on X. [https://x.com/avalaina/status/1515964928691261445](https://x.com/avalaina/status/1515964928691261445)
+
+[^russia-life-4]:  Igor Kossov (June 7, 2022) Portrait of the invader: Understanding the Russian soldier.  Kyiv Independent. [https://kyivindependent.com/portrait-of-the-invader-understanding-the-russian-soldier/](https://kyivindependent.com/portrait-of-the-invader-understanding-the-russian-soldier/)
 

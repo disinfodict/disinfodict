@@ -1,0 +1,143 @@
+---
+abstract: > 
+  Did you know that "russki mir" is a imperialistic, even fascist, ideology? Listen to Grok:
+---
+
+# Russki mir {#sec-nazis-russkimir}
+
+\index{Umberto Eco}
+\index{Nazis}
+\index{Nazis!Russia}
+\index{Fascism}
+\index{Russki Mir}
+
+::: {.callout-caution title="Myth"}
+*russki mir* brings peace to the world [![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Russian_world)
+:::
+
+::: {.callout-tip title="Truth"}
+- *russki mir* is about conquering or destroying the world[^nazis-russkimir-2]
+- *russki mir* has a strong fit with Umberto Eco's criteria for fascism (says Elon Musk's Grok)
+:::
+
+We asked Grok-3 to evaluate the name "russki mir" in the context of Umberto Eco's 14 criteria of fascism.[^nazis-russkimir-1-en]
+Due to a misinterpretation of the modernism criterion, we asked Grok to revise his analysis taking into account, that Umberto Eco said that also the Nazis where embracing technical and industrial modernism, e.g. gas chambers (like Russia is embracing cluster ammunition and nuclear bombs).
+
+## Conclusion
+
+This analysis, accounting for Eco’s clarification that fascism can embrace technical modernism (e.g., Nazi gas chambers, Russia’s cluster munitions and nuclear capabilities), shows a high alignment of "Russki Mir" with Eco’s 14 criteria. 
+The concept exhibits strong alignment in 13 of the 14 criteria, with only the appeal to a frustrated middle class rated as moderate due to its broader national focus. "Russki Mir" combines a rejection of Enlightenment values with enthusiastic use of modern technology for ideological ends, mirroring fascist patterns like Nazism’s industrial advancements. Its glorification of a mythical past, militarism, xenophobia, suppression of dissent, and propagandistic language, all amplified by advanced tools, make it a proto-fascist or fascist-adjacent ideology. While adapted to modern geopolitics, its core traits align closely with Eco’s framework, marking it as a concerning phenomenon with authoritarian and expansionist aims.
+
+## Summary of Alignment
+
+Criterion | Alignment
+--------- | ---------
+1. Cult of Tradition | Strong
+2. Rejection of Modernism | Strong
+3. Cult of Action | Strong
+4. Disagreement Is Treason | Strong
+5. Fear of Difference | Strong
+6. Frustrated Middle Class | Moderate
+7. Obsession with a Plot | Strong
+8. Enemy Strong and Weak | Strong
+9. Pacifism Is Weakness | Strong
+10. Contempt for the Weak | Strong
+11. Cult of Heroism | Strong
+12. Machismo | Strong
+13. Selective Populism | Strong
+14. Newspeak | Strong
+
+
+## Detailed Analysis
+
+This evaluation incorporates Umberto Eco’s clarification that fascist ideologies, such as Nazism, can embrace technical and industrial modernism (e.g., gas chambers) while rejecting Enlightenment values, as seen in Russia’s use of advanced weaponry like cluster munitions and nuclear rhetoric. The term "Russki Mir" (Russian World) refers to a state-promoted ideology emphasizing Russian cultural, spiritual, and political unity, often tied to nationalism and imperial ambitions. Below, I assess its alignment with Eco’s 14 criteria from Ur-Fascism, reflecting this nuanced understanding of fascist modernism:
+
+1. The Cult of Tradition:
+
+   - Eco’s Definition: Fascism glorifies a mythical past, blending selective historical narratives into an eternal truth.
+   - Russki Mir Context: "Russki Mir" romanticizes a unified Russian civilization, invoking the Russian Empire, Soviet Union, and Orthodox Christianity as a timeless ideal. It positions Russia as the guardian of traditional values against Western liberalism.
+   - Alignment: Strong. The concept heavily relies on a glorified historical narrative to justify cultural and geopolitical dominance.  
+
+2. The Rejection of Modernism
+
+   - Eco’s Definition: Fascism rejects Enlightenment rationalism and progress, favoring irrationalism, but can embrace technical modernism (e.g., Nazi gas chambers) for ideological goals.
+   - Russki Mir Context: "Russki Mir" opposes Western liberal values like secularism and individualism, promoting a "spiritual" Russian identity rooted in Orthodoxy and collectivism. However, it embraces modern technology, such as cluster munitions, hypersonic missiles, and nuclear capabilities, to assert power and intimidate adversaries. This mirrors Nazi use of industrial advancements for fascist aims, as Russia’s advanced weaponry serves the ideological goal of expanding the "Russian World."
+   - Alignment: Strong. The concept rejects Enlightenment modernism while fully leveraging technical advancements, aligning with Eco’s nuanced view of fascist modernism.
+
+3. The Cult of Action for Action’s Sake
+
+   - Eco’s Definition: Fascism prioritizes action over reflection, viewing intellectualism as weakness and glorifying decisive, often violent, action.
+   - Russki Mir Context: "Russki Mir" justifies aggressive actions, such as Russia’s annexation of Crimea (2014) and invasion of Ukraine (2022), as necessary to protect Russian speakers or restore historical unity. These actions, often executed with advanced weaponry, prioritize geopolitical assertiveness over diplomatic or reflective approaches.
+   - Alignment: Strong. The concept glorifies militarized action, supported by advanced weaponry, as a core expression of Russian power.
+
+4. Disagreement Is Treason
+
+   - Eco’s Definition: Fascism equates dissent with betrayal, suppressing critical voices to enforce conformity.
+   - Russki Mir Context: Critics of "Russki Mir" or its policies (e.g., Ukraine conflict) are labeled traitors, "foreign agents," or "Russophobes" in Russia. Dissent is stifled through censorship, arrests, and propaganda, framing opposition as anti-Russian.
+   - Alignment: Strong. The concept fosters a binary worldview where questioning its narrative is betrayal.
+
+5. Fear of Difference
+
+   - Eco’s Definition: Fascism thrives on xenophobia, portraying outsiders or minorities as threats.
+   - Russki Mir Context: "Russki Mir" promotes a homogeneous Russian identity, marginalizing non-Russian ethnic groups or cultures within its sphere. It frames the West (NATO, EU) and resistant neighbors like Ukraine as existential threats, justifying hostility toward "different" identities.
+   - Alignment: Strong. The concept fuels fear of external and internal "others" who challenge Russian unity.
+
+6. Appeal to a Frustrated Middle Class
+
+   - Eco’s Definition: Fascism exploits economic or social frustrations of the middle class, channeling discontent into nationalism.
+   - Russki Mir Context: "Russki Mir" taps into post-Soviet humiliation, economic sanctions, and perceived Western encirclement, offering Russians restored pride through cultural and geopolitical dominance. While not class-specific, it resonates with broad national frustration.
+   - Alignment: Moderate. The concept leverages national, rather than strictly class-based, grievances, but still fuels nationalist fervor.
+
+7. Obsession with a Plot
+
+   - Eco’s Definition: Fascism relies on narratives of constant threat from conspiring enemies.
+   - Russki Mir Context: "Russki Mir" portrays Western conspiracies (e.g., NATO expansion, "color revolutions") as aimed at weakening Russia. Domestic opposition is framed as foreign-orchestrated, reinforcing a siege mentality.
+   - Alignment: Strong. The concept thrives on a narrative of perpetual external and internal threats.
+
+8. The Enemy Is Both Strong and Weak
+
+   - Eco’s Definition: Fascism depicts enemies as formidable yet inferior, both fearsome and defeatable.
+   - Russki Mir Context: The West is portrayed as a powerful, decadent threat to Russian sovereignty, yet morally weak and divisible. Ukraine is depicted as a significant challenge (due to Western support) but also as a "failed state" or "puppet" easily subdued by Russia’s advanced military, including cluster munitions and nuclear threats.
+   - Alignment: Strong. This paradoxical framing is central to "Russki Mir" propaganda.
+
+9. Pacifism Is Trafficking with the Enemy
+
+   - Eco’s Definition: Fascism views life as permanent warfare, where peace is weakness and conflict is glorified.
+   - Russki Mir Context: "Russki Mir" frames militarism, backed by advanced weaponry like cluster munitions and nuclear capabilities, as defending Russian civilization. Peace negotiations (e.g., in Ukraine) are often portrayed as capitulation to Western aggression.
+   - Alignment: Strong. The concept glorifies perpetual struggle, leveraging modern military technology.
+
+10. Contempt for the Weak
+
+    - Eco’s Definition: Fascism glorifies strength and despises perceived weakness in individuals or nations.
+    - Russki Mir Context: "Russki Mir" exalts Russian power, often mocking weaker neighbors (e.g., Ukraine, Baltic states) or dissenters as inferior or foreign puppets. Strength, backed by advanced weaponry, is equated with loyalty to Russia.
+    - Alignment: Strong. The concept prioritizes dominance, dismissing those unable to resist Russian influence.
+
+11. Cult of Heroism and Death
+
+    - Eco’s Definition: Fascism romanticizes heroic sacrifice and death for the cause, idealizing martyrdom.
+    - Russki Mir Context: Russian propaganda tied to "Russki Mir" glorifies soldiers dying for the motherland, especially in Ukraine, framing them as heroes of the "Russian World." The Orthodox Church and state media elevate sacrifice as a cultural ideal.
+    - Alignment: Strong. The concept celebrates martyrdom and heroism as central to Russian identity.
+
+12. Machismo
+
+    - Eco’s Definition: Fascism emphasizes hyper-masculinity, aggression, and disdain for non-conformist gender roles.
+    - Russki Mir Context: "Russki Mir" promotes traditional gender roles, tying Russian masculinity to militarism and strength, often showcased through advanced military displays. Women are cast as cultural bearers, while LGBTQ+ identities are vilified as Western imports.
+    - Alignment: Strong. The concept reinforces patriarchal norms and aggressive masculinity.
+
+13. Selective Populism
+
+    - Eco’s Definition: Fascism claims to represent the "true people," with leaders interpreting the popular will, sidelining democracy.
+    - Russki Mir Context: "Russki Mir" portrays the Russian state as the voice of all "true" Russians, dismissing dissent as unrepresentative. The state’s narrative, backed by technological propaganda, overrides democratic processes.
+    - Alignment: Strong. The concept aligns with a top-down vision of the "people’s will."
+
+14. Newspeak
+
+    - Eco’s Definition: Fascism simplifies language to limit critical thinking, using slogans and euphemisms.
+    - Russki Mir Context: "Russki Mir" uses vague, emotionally charged terms like "Russian World," "spiritual unity," or "historical justice" to mask imperialist aims. Euphemisms like "special military operation" (for the Ukraine invasion) and state-controlled media, amplified by modern technology, restrict alternative narratives.
+    - Alignment: Strong. The concept relies on simplified, propagandistic language to shape public perception.
+
+
+
+[^nazis-russkimir-1-en]: Umberto Eco (1995) Ur-Fascism. [https://theanarchistlibrary.org/library/umberto-eco-ur-fascism](https://theanarchistlibrary.org/library/umberto-eco-ur-fascism)
+
+[^nazis-russkimir-2]: Oleksandr Zabirko (15.06.2023) Russkij mir: Vom kulturellen Konzept zur geopolitischen Ersatzideologie. Bundeszentrale für politische Bildung. [https://www.bpb.de/themen/europa/russland/522375/russkij-mir/](https://www.bpb.de/themen/europa/russland/522375/russkij-mir/)

@@ -20,6 +20,8 @@ keywords:
 :::
 
 ::: {.callout-tip title="Wahrheit"}
+- Der Aufstand im Donbas richtete sich gegen Moskau (1989)
+- Moskau erkämpft Kontrolle über den Donbas und verdreht die Geschichte ins Gegenteil
 - Pro-russische Kämpfer im Donbas sind bezahlte, in Moskau ausgebildete Söldner und russische Soldaten
 - Pro-russische Kämpfer sind mit schweren Waffen aus Russland ausgerüstet 
 - Die Besatzer sind eine „Kreml-Republik“ die von niemandem anerkannt wird
@@ -28,16 +30,30 @@ keywords:
 
 ## Die Kurzfassung
 
+Nach einem Moskaus Herrschaft im Kern bedrohenden Aufstand im Donbass 1989 nimmt Moskau Rache, bringt den Donbas gewaltsam unter Kontrolle und verdreht die Geschichte gegen Kyiv.
+
 > Russische Separatisten in der Ukraine, vor allem die Volksmilizen der Donezker Volksrepublik (DVR) und der Luhansker Volksrepublik (LPR), waren prorussische Paramilitärs in der Region Donbas in der Ostukraine. Sie standen unter der Gesamtkontrolle der Russischen Föderation. Sie wurden auch als russische Vertretungskräfte bezeichnet ... Obwohl die russische Regierung häufig eine direkte Beteiligung bestritt, deutete einiges auf das Gegenteil hin. Die Separatisten gaben zu, Waffen und Nachschub aus Russland zu erhalten, dort ausgebildet zu werden und Tausende russischer Staatsbürger in ihren Reihen zu haben.[^sec-donbas-separatists-1]
 
-## Wer bombardiert den Donbas?
+## Widerstand gegen Moskau
 
-Während des gesamten Krieges hat wahrscheinlich jeder Ukrainer Anschuldigungen von Russland-Anhängern gehört: „Wo seid ihr acht Jahre lang gewesen, als die Ukraine den Donbas bombardiert hat?“ Das ist eine der ekelhaftesten Aussagen, 
-aber gleichzeitig auch eine der beliebtesten russischen Manipulationen, denn in Wirklichkeit war es Russland, das all dies getan hat, siehe @sec-donbas-genocide.
+> Der Protest der sowjetischen Bergleute im Sommer 1989 war auch ein Referendum über Michail Gorbatschow.[^sec-donbas-separatists-6]
+
+> Das qualitativ Neue dieser - zeitlich und räumlich eingegrenzten - Arbeiterunruhen bestand  
+... Größenordnung und die gut funktionierende Koordination der Streiks  
+... die demonstrierte Solidarität der regionalen Bevölkerung mit den Streikenden  
+... das selbstbewußte Auftreten der Streikkomitees  
+... die harmonische Abstimmung zwischen den Komitees und den Abgeordneten der betroffenen Gebiete im Obersten Sowjet, die sich die Streikforderungen zu eigen
+machten und das Moskauer Plenum mit seiner Öffentlichkeitswirkung effektiv im Interesse der Bergarbeiter nutzten  
+... die ungeschminkte, teils mit unverholener Sympathie verbundene Berichterstattung in den sowjetischen Medien  
+... die moderate Reaktion der staatlichen Führung auf die Herausforderung, wo erstmals auf eine gewaltsame Beendigung des Konfliktes verzichtet wurde und stattdessen durch eine grundsätzliche Anerkennung der vorgebrachten Klagen und die Verlagerung der Auseinandersetzung auf die Ebene von Schlichtungskommissionen eingelenkt wurde  
+... als legislative Konsequenz die Ausarbeitung eines speziellen Streikgesetzes mit verbindlichen Regeln für Arbeitskonflikte[^sec-donbas-separatists-7]
+
+Mit anderen Worten: die aufständische Donbass Region bedrohte das zentralistische totalitäre Herrschaftssystem Moskaus im Kern, und Moskau machte sich an die Arbeit, diese Region unter Kontrolle zu bringen, gerne mit Gewalt und Zerstörung. Die Moskauer Propaganda begann, die Geschichte des Donbas ins Gegenteil umzuschreiben: die Proteste seien gegen Kyiv. 
+
 
 ## Russland begann den Krieg
 
-Dass der Krieg von Russland entfesselt wurde zeigt die Chronologie: Der Stadtrat von Donezk, der zu diesem Zeitpunkt bereits von den Militanten kontrolliert wurde, begann bereits am 1. März, über ein Referendum über „das Schicksal des Donbas“ zu sprechen. Später fanden die Beschlagnahmung von Verwaltungsgebäuden und die Verprügelung und Ermordung von Teilnehmern an pro-ukrainischen Kundgebungen statt. Die Anti-Terror-Operation war zu diesem Zeitpunkt jedoch noch nicht eingeleitet worden - die ukrainische Regierung kündigte sie erst am 12. April an. In der Zwischenzeit wurde am 7. April die so genannte „Donezker Volksrepublik“ ausgerufen, und noch am selben Tag wurde Putin gebeten, Truppen zu entsenden. Dies geschah durch Agenten des russischen Sonderdienstes und lokale Kollaborateure, die mit bewaffneter Unterstützung des russischen Sonderdienstes, die Macht in der Region übernahmen.
+Dass der Krieg im Donbass von Russland entfesselt wurde zeigt die Chronologie: Der Stadtrat von Donezk, der zu diesem Zeitpunkt bereits von den Militanten kontrolliert wurde, begann bereits am 1. März, über ein Referendum über „das Schicksal des Donbas“ zu sprechen. Später fanden die Beschlagnahmung von Verwaltungsgebäuden und die Verprügelung und Ermordung von Teilnehmern an pro-ukrainischen Kundgebungen statt. Die Anti-Terror-Operation war zu diesem Zeitpunkt jedoch noch nicht eingeleitet worden - die ukrainische Regierung kündigte sie erst am 12. April an. In der Zwischenzeit wurde am 7. April die so genannte „Donezker Volksrepublik“ ausgerufen, und noch am selben Tag wurde Putin gebeten, Truppen zu entsenden. Dies geschah durch Agenten des russischen Sonderdienstes und lokale Kollaborateure, die mit bewaffneter Unterstützung des russischen Sonderdienstes, die Macht in der Region übernahmen.
 
 
 ## Russland marschierte ein
@@ -73,6 +89,10 @@ Die mafiöse Korruption und totalitäe Willkür im Donbas ist so schlimm, dass s
 [Link zu youtube  
 ![Screenshot des 4TheRecord-Videos mit Girkin](donbas-girkin.jpg){width=60%}](https://www.youtube.com/watch?v=GLzXWNBwoIQ)
 
+## Wer bombardiert den Donbas?
+
+Während des gesamten Krieges hat wahrscheinlich jeder Ukrainer Anschuldigungen von Russland-Anhängern gehört: „Wo seid ihr acht Jahre lang gewesen, als die Ukraine den Donbas bombardiert hat?“ Das ist eine der ekelhaftesten Aussagen, 
+aber gleichzeitig auch eine der beliebtesten russischen Manipulationen, denn in Wirklichkeit war es Russland, das all dies getan hat, siehe @sec-donbas-genocide.
 
 
 [^sec-donbas-separatists-1]: Russian separatist forces in Ukraine. Wikipedia. [https://en.wikipedia.org/wiki/Russian_separatist_forces_in_Ukraine](https://en.wikipedia.org/wiki/Russian_separatist_forces_in_Ukraine)
@@ -85,3 +105,6 @@ Die mafiöse Korruption und totalitäe Willkür im Donbas ist so schlimm, dass s
 
 [^sec-donbas-separatists-5]: Putin: Keine Versöhnung mit der Türkei. Bei seiner Jahrespressekonferenz teilte der russische Präsident ordentlich aus: Er sehe keinen Raum für eine Einigung mit der Türkei, so Putin. Kritik übte der Kremlchef auch an der Ukraine. Auf die USA ging er aber zu. (17.12.2015).  [https://www.dw.com/de/putin-schlie%C3%9Ft-vers%C3%B6hnung-mit-der-t%C3%BCrkei-aus/a-18924907](https://www.dw.com/de/putin-schlie%C3%9Ft-vers%C3%B6hnung-mit-der-t%C3%BCrkei-aus/a-18924907)
 
+[^sec-donbas-separatists-6]: Peter Schille (5.11.1989) »Perestroika - nur noch Gerede«. Der Spiegel.  [https://www.spiegel.de/politik/perestroika-nur-noch-gerede-a-ee5bb2fd-0002-0001-0000-000013496600](https://www.spiegel.de/politik/perestroika-nur-noch-gerede-a-ee5bb2fd-0002-0001-0000-000013496600)
+
+[^sec-donbas-separatists-7]: Gabriele Gorzka (1989) Arbeiterunruhen in der Sowjetunion -und wo stehen die Gewerkschaften? Gewerkschaftliche Monatshefte 40, 12, 797-807.   [https://library.fes.de/gmh/main/pdf-files/gmh/1989/1989-12-a-797.pdf](https://library.fes.de/gmh/main/pdf-files/gmh/1989/1989-12-a-797.pdf)

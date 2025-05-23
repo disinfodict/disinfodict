@@ -1,0 +1,135 @@
+---
+abstract: > 
+  Wussten Sie, dass „truth social“ eine faschistische Plattform ist? Hören Sie Grok zu:
+---
+
+# Truth Social {#sec-nazis-truthsocial}
+
+\index{Donald Trump}
+\index{Truth social}
+\index{Umberto Eco}
+\index{Faschismus}
+
+::: {.callout-caution title="Mythos"}
+*Truth Social* ist wahr und social [![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Truth_Social)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Der Name *Truth Social* stimmt mit 5 von Umberto Ecos Kriterien für Faschismus überein (sagt Elon Musks Grok)
+- Die Moderation und der Inhalt von *Truth Social* stimmen mit allen Kriterien von Umberto Eco für Faschismus überein, mit der Hälfte davon stark (sagt Elon Musk's Grok)
+:::
+
+Wir baten Grok-3, den Namen „Truth Social“ im Zusammenhang mit Umberto Ecos 14 Kriterien des Faschismus zu bewerten.[^nazis-russkimir-1-de] Grok kam zu dem Schluss 
+
+> Der Name „Truth Social“ entspricht am ehesten Ecos Kriterien 4 (Uneinigkeit als Verrat), 6 (Appell an soziale Frustration), 7 (Besessenheit von einem Komplott), 13 (selektiver Populismus) und 14 (Neusprech). Der Name deutet auf das Potenzial hin, ein einzigartiges Narrativ zu fördern, das abweichende Meinungen ausschließt und an eine frustrierte Gruppe appelliert, aber der Name allein reicht nicht aus, um ihn als faschistisch zu bezeichnen - er ist ein Ausgangspunkt für eine genauere Untersuchung.
+
+und dann schlug Grok vor, auch den Inhalt der Plattform zu bewerten. Grok schloss
+
+> Der Inhalt von Truth Social entspricht in hohem Maße den Eco-Kriterien 4, 5, 6, 7, 11, 13 und 14, mit Elementen der Kriterien 1, 2, 3, 8, 9, 10 und 12. Die Konzentration auf eine einzige „Wahrheit“, die Unterdrückung Andersdenkender, Verschwörungen und der Appell an eine frustrierte Bevölkerungsgruppe spiegeln faschistische Tendenzen wider. Auch wenn ihre Reichweite begrenzt ist, rechtfertigt sie angesichts des Einflusses von Trump eine genauere Betrachtung als potenzieller Brutkasten für solche Ideologien.
+
+
+## Der Name „Truth Social“
+
+Dieses Dokument bewertet den Namen „Truth Social“, der mit einer von Donald Trump im Jahr 2022 ins Leben gerufenen Social-Media-Plattform in Verbindung gebracht wird, anhand von Umberto Ecos 14 Kriterien des Faschismus, die er in seinem 1995 erschienenen Essay „Ur-Faschismus“ dargelegt hat.
+
+### Relevante Kriterien und Analyse
+
+- **1. Der Kult der Tradition**  
+   Eco beschreibt den Faschismus als in einer Ehrfurcht vor der Tradition verwurzelt, in der die Wahrheit als unveränderlich angesehen wird. Der Name „Truth Social“ suggeriert einen Anspruch auf eine absolute „Wahrheit“, der möglicherweise mit diesem Kriterium übereinstimmt, wenn sich die Plattform als Hüterin einer singulären, traditionalistischen Erzählung positioniert. Allerdings beruft sich der Name allein nicht ausdrücklich auf die Tradition.
+
+- **2. Ablehnung des Modernismus**  
+   Der Faschismus lehnt oft die Werte der Aufklärung wie Vernunft und Fortschritt ab und bevorzugt den Irrationalismus. „Truth Social“ impliziert eine Gegenerzählung zum Mainstream-Diskurs, was mit der Ablehnung des modernen, evidenzbasierten Konsenses (z. B. in der Wissenschaft oder den Medien) einhergehen könnte. Der Name selbst signalisiert diese Ablehnung nicht direkt.
+
+- **4. Meinungsverschiedenheit ist Verrat**  
+   In faschistischen Ideologien ist eine abweichende Meinung Verrat. „Truth Social“ könnte eine monolithische ‚Wahrheit‘ implizieren, die keine Abweichung duldet - und damit suggerieren, dass Andersdenkende außerhalb des ‚sozialen‘ Kreises der Wahrheit stehen. Dieses Kriterium kann zutreffen, wenn die Plattform abweichende Meinungen unterdrückt, obwohl der Name allein nicht schlüssig ist.
+
+- **5. Angst vor dem Anderssein**  
+   Der Faschismus lehnt „das Andere“ ab. Auch wenn „Truth Social“ nicht explizit auf Außenseiter abzielt, könnte seine Bezeichnung als Raum für eine bestimmte „Wahrheit“ diejenigen ausschließen, die diese Weltanschauung nicht teilen, was möglicherweise eine „Wir-gegen-die“-Mentalität begünstigen würde. Dies hängt von der Funktionsweise der Plattform ab, nicht nur vom Namen.
+
+- **6. Appell an die soziale Frustration**  
+   Der Faschismus appelliert an eine frustrierte Mittelschicht. „Truth Social“ entstand dort, wo sich Trumps Basis von den ‚Eliten‘ ausgegrenzt fühlte. Der Name könnte bei dieser Gruppe Anklang finden, indem er eine unterdrückte „Wahrheit“ anbietet, die über die Zielgruppe indirekt mit diesem Kriterium übereinstimmt.
+
+- **7. Besessenheit von einem Komplott**  
+   Faschismus ist oft mit Verschwörungsglauben verbunden. „Truth Social“ könnte diejenigen ansprechen, die an Verschwörungen wie den ‚tiefen Staat‘ oder ‚Fake News Media‘ glauben, die in Trumps Rhetorik häufig vorkommen. Der Fokus des Namens auf „Wahrheit“ könnte auf eine Mission zur Bekämpfung dieser Verschwörungen hindeuten, was dieses Kriterium relevant macht.
+
+- **8. Der Feind ist sowohl stark als auch schwach**  
+   Faschisten stellen den Feind als stark und gleichzeitig schwach dar. Der Name „Truth Social“ spiegelt dies nicht direkt wider, aber wenn die Plattform Medien oder Gegner als unterdrückerisch darstellt, die jedoch leicht von der „Wahrheit“ besiegt werden können, könnte dieses Kriterium zutreffen.
+
+- **13. Selektiver Populismus**  
+   Im Faschismus wird „das Volk“ als monolithische Einheit betrachtet, wobei der Führer den Willen des Volkes interpretiert. „Truth Social“ könnte sich als die Stimme des ‚Volkes‘ gegen ein korruptes Establishment positionieren und damit dem selektiven Populismus entsprechen. Der Schwerpunkt des Namens auf „sozial“ deutet auf eine kollektive Identität hin.
+
+- **14. Ur-Faschismus spricht Newspeak**  
+   Eco verweist auf Orwells Newspeak, wo die Sprache das kritische Denken einschränkt. Die „soziale Wahrheit“ könnte als Neusprech angesehen werden, wenn sie eine vereinfachte, unangefochtene „Wahrheit“ impliziert, die komplexes Denken verhindert und dieses Kriterium bis zu einem gewissen Grad erfüllt.
+
+
+### Andere Kriterien und ihre Relevanz
+
+Kriterien wie der Kult der Aktion (3), Pazifismus als Handel mit dem Feind (9), Verachtung für die Schwachen (10), jeder, der zum Helden erzogen wird (11), oder Machismo (12) stehen nicht in direktem Zusammenhang mit dem Namen „Truth Social“. Bei diesen Merkmalen geht es mehr um das Verhalten als um das Branding.
+
+### Weiterer Kontext und Implikationen
+
+Der Name „Truth Social“ suggeriert, dass es darum geht, die „Wahrheit“ zu kontrollieren - ein rotes Tuch in Ecos Konzept. Faschistische Regime beanspruchen ein Wahrheitsmonopol, um abweichende Meinungen zu unterdrücken (Kriterien 4, 13, 14). Die Verbindung der Plattform mit Trump, dessen Rhetorik Fremdenfeindlichkeit und Verschwörungstheorien beinhaltet (Kriterien 5, 6, 7), verleiht ihr zusätzliches Gewicht. Der Name allein erfüllt jedoch nicht alle Kriterien - er ist ein Hinweis auf mögliche faschistische Tendenzen.
+
+### Kritische Reflexion
+
+Eco warnt davor, dass Faschismus auf subtile Weise auftreten kann und nicht alle Kriterien erfüllt sein müssen. „Truth Social“ könnte die Spaltung fördern, abweichende Meinungen ausschließen und faschistischen Tendenzen wie Newspeak oder selektivem Populismus entsprechen. Der Name könnte aber auch eine Marketingentscheidung ohne tiefere ideologische Absichten sein. Die Übereinstimmung des Namens mit Ecos Kriterien ist suggestiv, aber nicht definitiv, ohne den Inhalt der Plattform zu analysieren.
+
+
+## Inhalt der Truth Social Plattform
+
+Dieses Dokument analysiert den Inhalt der Truth Social Plattform im Kontext von Umberto Ecos 14 Kriterien des Faschismus, wie sie in seinem Essay „Ur-Faschismus“ von 1995 dargelegt sind. Die Analyse konzentriert sich auf den Inhalt, das Nutzerverhalten und die Moderationspraktiken von Truth Social, unter Verwendung der verfügbaren Informationen vom 16. Mai 2025.
+
+
+### Relevante Kriterien und Inhaltsanalyse
+
+- **1. Der Kult der Tradition**
+Eco beschreibt den Faschismus als Ehrfurcht vor der Tradition, in der die Wahrheit festgeschrieben ist. Truth Social spricht konservative Nutzer mit einem MAGA-Fokus an und verherrlicht oft „amerikanische Prinzipien“. Das anfängliche Hosting durch RightForge, ein Unternehmen, das mit traditionalistischen Werten verbunden ist, und die Inhalte, die sich nostalgisch auf ein „goldenes Zeitalter“ beziehen, entsprechen diesem Kriterium.
+
+- **2. Ablehnung des Modernismus**
+Der Faschismus lehnt die Werte der Aufklärung ab und bevorzugt den Irrationalismus. Truth Social verbreitet auf seinem Streaming-Dienst Truth+ Verschwörungstheorien wie QAnon und Erzählungen über außerirdische Echsenmenschen und tut den wissenschaftlichen Konsens und die Mainstream-Medien als „Fake News“ ab. Dies spiegelt eine Ablehnung des modernen kritischen Denkens wider.
+
+- **3. Der Kult der Aktion um der Aktion willen**
+Der Faschismus stellt die Aktion über die Reflexion. Truth Social hat Inhalte veröffentlicht, die zum Handeln aufriefen, wie Trumps Posting aus dem Jahr 2023, in dem er seine Verhaftung vorhersagte und zum Protest aufrief, was die Rhetorik des 6. Januar widerspiegelt. Die anfängliche Ablehnung durch Google Play im Jahr 2022 wegen Verletzung der Richtlinien gegen Gewalt deutet auf eine Tendenz zur Förderung impulsiven Verhaltens hin.
+
+- **4. Meinungsverschiedenheiten sind Verrat**
+Der Faschismus setzt abweichende Meinungen mit Verrat gleich. Truth Social verbietet Konten, die Trump kritisieren, z. B. solche, die über die Anhörungen am 6. Januar oder Pro-Choice-Ansichten posten. Jüngste X-Posts zeigen, dass Nutzer wie \@HealthRanger wegen ihrer Kritik an Trumps Zöllen gesperrt wurden, was die Unterdrückung von Dissens und die Übereinstimmung mit diesem Kriterium zeigt.
+
+- **5. Die Angst vor dem Anderen**
+Der Faschismus lehnt „das Andere“ ab. Die Nutzerbasis von Truth Social (77 % Weiße, 65 % über 55, laut GWS Magnify-Analyse von 2024) und die Inhalte richten sich oft gegen „Feinde“ wie den „tiefen Staat“ oder liberale Eliten. Die Links zu QAnon und die Besorgnis über antisemitische Inhalte deuten auf eine „Wir-gegen-die“-Mentalität hin, die diesem Kriterium entspricht.
+
+- **6. Appell an soziale Frustration**
+Der Faschismus appelliert an eine frustrierte Mittelschicht. Truth Social entstand nach Trumps Verbot von Twitter und Facebook und machte sich die Gefühle der MAGA-Anhänger über die Zensur durch „Big Tech“ zunutze. Ihr Inhalt wendet sich gegen die Eliten, was bei einer entrechteten Bevölkerungsgruppe Anklang findet und diesem Kriterium entspricht.
+
+- **7. Besessenheit von einem Komplott**
+Faschismus beinhaltet Verschwörungsvorstellungen. Truth Social beherbergt QAnon-Inhalte, die von Trump gefördert werden und elitäre Kabalen behaupten, neben Truth+-Dokumentationen über außerirdische Echsenmenschen und Jesus als Außerirdischen. Diese Besessenheit von Verschwörungen gegen „das Volk“ passt gut zu diesem Kriterium.
+
+- **8. Der Feind ist sowohl stark als auch schwächlich**
+Faschisten stellen den Feind als mächtig und doch schwach dar. Truth Social Content stellt Medien und Liberale als unterdrückerisch dar („Big Tech Tyranny“), die aber leicht von der „Wahrheit“ besiegt werden können. Trumps Rhetorik, die auf der Plattform dominiert, spiegelt diese doppelte Darstellung wider.
+
+- **9. Pazifismus ist eine Kollaboration mit dem Feind**
+Der Faschismus betrachtet Pazifismus als Kollaboration. Die Toleranz von Truth Social gegenüber gewalttätiger Rhetorik, die 2022 zur Ablehnung von Google Play führte, und das Verbot von Konten, auf denen die Anhörungen vom 6. Januar diskutiert wurden, deuten auf eine Ablehnung von Deeskalationsnarrativen hin und entsprechen indirekt diesem Kriterium.
+
+- **10. Verachtung für die Schwachen**
+Der Faschismus zeigt Verachtung für die Schwachen. Die von Trump beeinflussten Inhalte von Truth Social verhöhnen die vermeintliche Schwäche von Gegnern, z. B. von liberalen Persönlichkeiten. Die konservative Nutzerbasis spiegelt möglicherweise die kulturelle Verachtung für Schwächere wider, obwohl es dafür nur wenige direkte Beweise gibt.
+
+- **11. Jeder wird zum Helden erzogen**
+Der Faschismus erzieht seine Anhänger dazu, sich selbst als Helden zu sehen. Truth Social macht die Nutzer zu Verteidigern der „Wahrheit“ gegen ein korruptes Establishment, wobei Trump der ultimative Held ist. Der Appell an die MAGA-Anhänger fördert ein heldenhaftes Selbstbild im Kampf gegen Unterdrückung.
+
+- **12. Machismo**
+Der Faschismus fördert den Machismo und traditionelle Geschlechterrollen. Die Nutzerbasis von Truth Social (57 % männlich) und Trumps hyper-maskuline Rhetorik spiegeln diesen Charakterzug wider. Die strengen Richtlinien gegen sexuelle Inhalte und das Verbot von Beiträgen, die sich für die Abtreibung einsetzen, deuten auf eine konservative Haltung zu Geschlecht und Sexualität hin.
+
+- **13. Selektiver Populismus**
+Der Faschismus benutzt „das Volk“ als eine monolithische Einheit. Der Anspruch von Truth Social, ein „großes Zelt“ zu sein, wird durch die konservative Nutzerbasis und Trump-nahe Inhalte untergraben. Truth Social positioniert sich als Stimme des „Volkes“ gegen die Eliten, verbietet aber Kritiker und zeigt damit selektiven Populismus.
+
+- **14. Ur-Faschismus spricht Newspeak**
+Eco bezieht sich auf Orwells Newspeak, wo die Sprache das kritische Denken einschränkt. Die Begriffe von Truth Social - „Wahrheiten“, „ReTruths“, „gesponserte Wahrheiten“ - implizieren eine unangefochtene „Wahrheit“. Durch das Verbot abweichender Meinungen und die Förderung von Verschwörungen wird der Diskurs auf vereinfachte, binäre Erzählungen reduziert, was dem Neusprech entspricht.
+
+### Weiterer Kontext und Implikationen  
+
+Die Inhalte von Truth Social spiegeln Trumps Einfluss wider und konzentrieren sich auf Anti-Establishment-Erzählungen, Verschwörungen und ausgrenzende Rhetorik. Die Moderation unterdrückt abweichende Meinungen und verstärkt die Stimmen, die mit Trump übereinstimmen, wodurch eine Echokammer entsteht. Dies steht im Einklang mit den Kriterien 4, 5, 7, 13 und 14 und den von *The Independent* geäußerten Bedenken über die „Bedrohung der Demokratie“. Die kleine Nutzerbasis (5 Millionen Website-Besucher, 1 Million App-Nutzer im Februar 2024) und die finanziellen Schwierigkeiten schränken den Einfluss jedoch ein.
+
+### Kritische Reflexion  
+
+Eco warnt davor, dass sich Faschismus auf subtile Weise manifestieren kann und dass nicht alle Kriterien erfüllt sein müssen. Truth Social weist beunruhigende Züge auf: Unterdrückung Andersdenkender, Verschwörungen und Wir-gegen-die-Rhetorik. Die begrenzte Reichweite und die operativen Herausforderungen, die von *Newsweek* und *Britannica* festgestellt wurden, mildern ihre Auswirkungen, aber ihre Rolle als Sprachrohr für Trumps Rhetorik macht sie zu einem Ort, an dem faschismusähnliche Züge sich festsetzen können.
+
+[^nazis-russkimir-1-de]: Umberto Eco (1995) Ur-Faschismus. [https://www.zeit.de/1995/28/Urfaschismus/komplettansicht](https://www.zeit.de/1995/28/Urfaschismus/komplettansicht)

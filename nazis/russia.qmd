@@ -5,8 +5,6 @@ abstract: >
 
 # Nazis in Russia! {#sec-nazis-russia}
 
-<!-- This is a comment -->
-
 \index{Nazis}
 \index{Nazis!Russia}
 \index{Fascism}
@@ -23,18 +21,23 @@ Russia fights Nazis abroad
 Russia projects its *ruscist* version of age-old chronic fascism onto its opponents to disguise its motives and "justify" its aggression
 :::
 
+
+[![Source: ImgFlip](HitlerStalin.jpg){width=66%}](https://imgflip.com/i/22tna0)
+
+
 ## Projected Nazis
 
 Every russian accusation is a confession. Russian propaganda defames all opponents as "Nazis", but in fact the russian system is a century old chronic form of fascism that is better termed "ruscism". Calling Ukraininan "Nazis" is ridiculous, since right-wing parties got less than 3% in the last elections see @sec-nazis-ukraine. Those Germans that believe russian propaganda and elect extremist right-wing party AfD (≈20%) should be very careful: Russia uses 3% Nazis in Ukraine to justify a complete genocide of the Ukrainian people using selection in filtration-camps and torture in gulags. What a massacre will Russia do to Germany, the country of nazi evil in history and with 20% nazi-electors today? 
 
-
 ## Fascist Manifest
 
-If you google [fascist manifesto Ria Novosti](https://www.google.com/search?client=ubuntu&channel=fs&q=fascist+manifesto+Ria+Novosti), you will find the infamous text by Russian fascist Timofey Sergeytsev, officially published by the Russian state news agency Ris Novosti: *"What Russia should do with Ukraine"*[^nazis-russia-6-en]. The text calls not “only” for the demilitarization of Ukraine (making it militarily helpless) but also for the “denazification” of Ukraine, and explains what it means by this:
+If you google [fascist manifesto Ria Novosti](https://www.google.com/search?client=ubuntu&channel=fs&q=fascist+manifesto+Ria+Novosti), you will find the infamous text by Russian fascist Timofey Sergeytsev, officially published by the Russian state news agency Ria Novosti: *"What Russia should do with Ukraine"*[^nazis-russia-6-en]. The text calls not “only” for the demilitarization of Ukraine (making it militarily helpless) but also for the “denazification” of Ukraine, and explains what it means by this:
 
 > Denazification will inevitably result in de-Ukrainization
 
 Fascist Sergeytsev demands the cleansing of Ukraine of everything Ukrainian, of Ukrainians who defend their fatherland, of Ukrainians who see themselves as Ukrainians, of Ukrainian language and culture, even the word “Ukraine” should be eradicated. Ria Novosti is asking for cold-blooded mass-genocide, see @sec-genocide-announced and @sec-genocide-ongoing. Russia has a long tradition of comitting genocide, see @sec-genocide-history and even the definition of the term 'genocide' goes back to russian genocides, see @sec-genocide-definition.
+
+## Timothy Snyder
 
 The renowned Eastern-Europe historian Timothy Snyder conlcuded on May 19, 2022 in the New York times: "We Should Say It. Russia Is Fascist."[^nazis-russia-9]
 
@@ -48,10 +51,44 @@ The renowned Eastern-Europe historian Timothy Snyder conlcuded on May 19, 2022 i
 > ...  
 > Had Ukraine not resisted, this would have been a dark spring for democrats around the world. If Ukraine does not win, we can expect decades of darkness.  
 
+Three days later, on May 22nd 2022, Timothy Snyder postet [this on X (twitter)](https://x.com/TimothyDSnyder/status/1793288021783031909):
 
-## Umberto Ecco's Criteria
+1. The people who told you that fascism was not a threat were wrong.
 
-Umberto Ecco, knowing Mussolini's fascism very well, published a text called "ur-fascism" with 14 criteria for fascism:[^nazis-russia-3-en] Ecco explains, that fascism has many faces:
+2. The people who told you that Russia was not fascist were, if possible, more wrong.
+
+3. Fascism is might over right, conspiracy over reality, fiction over fact, pain over law, blood over love, doom over hope.
+
+4. Fascism advances every injustice. Its victory will leave us serfs of a vengeful nature, of relentless technology, and of unquestionable oligarchy.
+
+5. Analytic clarity is needed for political clarity. If you do not know what you face, you do not know how to act.
+
+6. Once named, fascism can be defeated. Indeed, once named it can be easily defeated.
+
+7. Russian fascism must lose on the battlefield. Americans can bring this about by supporting courageous Ukrainians.
+
+8. American fascism must lose at the ballot box. Americans can bring this about by organizing, canvassing, phone banking, donating, and voting.
+
+9. We know from history that fascism can lose. And we know today the contests that must be won.
+
+10. Compared to challenges that others face around the world, our odds in 2024 and 2025 are excellent. Americans have chances, not excuses.
+
+11. A defeat of fascism is not a negation. It is an affirmation: of a future that can be more beautiful, more just, and more free. 
+
+If a renowned historian and fascism expert like Timothy Snyder is diagnosing Russia as fascist, it is to be expected, that russian propaganda is trying to defame him and his diagnosis. Russia's propaganda answer was given by Marlene Laruelle, the "Director, Institute for European, Russian, and Eurasian Studies" of "PONARS Eurasia", an institution that has russian propaganda.word "Eurasia" in his name and which seems to have the purpose, to throw dust in the eyes of the West, as becomes clear when one analyzes their publications before[^nazis-russia-18] and after[^nazis-russia-19] the russian full scale invasion. As expected Laruelle tries to defame Snyder referring to his earlier diagnosis of fascism:
+
+> In an article from March 20, 2014, he compared Russia’s take-over of the Crimean peninsula—which had occurred just a few days earlier—and the swiftly brewing conflict in Donbas with Nazi Germany’s actions on the eve of the Second World War. Yet unlike Andreas Umland, who has drawn a similar analogy, Snyder has made no attempt to undertake a solid study that would juxtapose the legal arguments used for the Anschluss with Austria or Hitler’s annexation of the Sudetenland with those made by Putin for the annexation of Crimea.[^nazis-russia-20]
+
+Wait a moment: if Andreas Umland has come to the same conclusion, why was it wrong, what Snyder said? Exactly: because Putin doesn't like it. Laruelle continues and cites Putin as if he were a credible source of information. Nice try. Is that "testing the 'fascism' hypothesis using scholarly tools"? Nope. Laruelle, in her — not peer-reviewed — "publication" defends that Putin sponsors European far-right parties: those would not qualify as fascist. Really? The German domestic intelligence services has just classified the far-right AfD as "anti-constitutional" exterme-right.[^nazis-russia-21] German justice has ruled that AfD Leader Björn Höcke may be named rightfully as 'fascist'[^nazis-russia-22] and even 'Nazi'[^nazis-russia-23]. Calling him a 'Nazi'
+
+> was not a punishable insult, but a "value judgment based on facts". 
+
+If Laruelle continues to insinuate that Russia-friendly Hungary is taking an "anti-Russian stance", her "criticism" is obviously ridiculous. That should be enough to make it clear: PONARS Eurasia spreads pro-russian propaganda, and Laruelle's effort proves that Snyder has a point. Anyhow, let's test the 'fascism' hypothesis ourselves:
+
+
+## Umberto Eco's Criteria
+
+Umberto Eco, knowing Mussolini's fascism very well, published a text called "ur-fascism" with 14 criteria for fascism:[^nazis-russia-3-en] Eco explains, that fascism has many faces:
 
 > There was only one Nazism. We cannot label Franco’s hyper-Catholic Falangism as Nazism, since Nazism is fundamentally pagan, polytheistic, and anti-Christian. But the fascist game can be played in many forms, and the name of the game does not change.
 
@@ -61,7 +98,7 @@ Umberto Ecco, knowing Mussolini's fascism very well, published a text called "ur
 
 > the opposition leaders ... were assassinated; the free press was abolished, the labor unions were dismantled, and political dissenters were confined on remote islands. Legislative power became a mere fiction and the executive power (which controlled the judiciary as well as the mass media) directly issued new laws
 
-Ecco explains that there are systems *worse* than fascism: 
+Eco explains that there are systems *worse* than fascism: 
 
 > If by totalitarianism one means a regime that subordinates every act of the individual to the state and to its ideology, then both Nazism and Stalinism were true totalitarian regimes. Italian fascism was certainly a dictatorship, but it was not totally totalitarian, not because of its mildness but rather because of the philosophical weakness of its ideology ... Mussolini did not have any philosophy: he had only rhetoric ... Italian fascism was the first to establish a military liturgy, a folklore, even a way of dressing ... Fascism was a fuzzy totalitarianism.
 
@@ -73,64 +110,83 @@ The foreign policy experts of the Pirate party, who organize the *Pirate Securit
 > Das Ergebnis überrascht: unter der Anlegung objektiver Kriterien, deutet erstaunlich viel darauf hin, dass es sich bei Putin’s Russland um einen faschistisch geführten Staat handelt.[^nazis-russia-5]
 
 
-Nestor Barchuk, International Relations Manager of the DEJURE Foundation, has also evaluated all 14 of Ecco's criteria and came to conclude, that Russia is fascist:
+Nestor Barchuk, International Relations Manager of the DEJURE Foundation, has also evaluated all 14 of Eco's criteria and came to conclude, that Russia is fascist:
 
 > Now the world is facing a new historical challenge — to «deruscify» Russia. Otherwise, ruscism will not disappear. No matter how much Ukrainians and the West want to end the war ASAP, ruscism requires a much more comprehensive solution than arms supplies, financial aid or a post-war reconstruction plan for Ukraine. Western support will undoubtedly help Ukrainians defeat Russia on the battlefield. However, if Russia's «deruscification» is not carried out, a countdown to Russia's next war of aggression to restore former greatness and punish enemies will start.[^nazis-russia-4]
 
-Here follows a table comparing fascism and ruscism along Ecco's 14 criteria together with some evidence: 
+Here follows a table comparing fascism and ruscism along Eco's 14 criteria together with some evidence (for an evaluation of the “Russki Mir” ideology see @sec-nazis-russkimir): 
 
 
 \LatexTableFontSize
 
-No.  | Keword | Fascism | Ruscism | Criterion
--- | ----------- | ------- | ------- | -------
-1 | Tradition | yes | yes | The cult of tradition. “One has only to look at the syllabus of every fascist movement to find the major traditionalist thinkers. The Nazi gnosis was nourished by traditionalist, syncretistic, occult elements.”
-2 | Anti-Science | yes | yes | The rejection of modernism. “The Enlightenment, the Age of Reason, is seen as the beginning of modern depravity. In this sense Ur-Fascism can be defined as irrationalism.”
-3 | Action | yes | [yes](https://english.nv.ua/nation/russia-s-path-conflict-as-an-economic-imperative-says-putin-50475486.html) | The cult of action for action’s sake. “Action being beautiful in itself, it must be taken before, or without, any previous reflection. Thinking is a form of emasculation.”
-4 | Loyalty | yes | yes | Disagreement is treason. “The critical spirit makes distinctions, and to distinguish is a sign of modernism. In modern culture the scientific community praises disagreement as a way to improve knowledge.”
-5 | Homogeneity | yes | yes | Fear of difference. “The first appeal of a fascist or prematurely fascist movement is an appeal against the intruders. Thus Ur-Fascism is racist by definition.”
-6 | Frustration | yes | yes | Appeal to social frustration. “One of the most typical features of the historical fascism was the appeal to a frustrated middle class, a class suffering from an economic crisis or feelings of political humiliation, and frightened by the pressure of lower social groups.”
-7 | Plot | yes | yes | The obsession with a plot. “Thus at the root of the Ur-Fascist psychology there is the obsession with a plot, possibly an international one. The followers must feel besieged.”
-8 | ±Enemy | yes | yes | The enemy is both strong and weak. “By a continuous shifting of rhetorical focus, the enemies are at the same time too strong and too weak.”
-9 | Fight | yes | yes | Pacifism is trafficking with the enemy. “For Ur-Fascism there is no struggle for life but, rather, life is lived for struggle.”
-10 | Hate Weak | yes | yes | Contempt for the weak. “Elitism is a typical aspect of any reactionary ideology.”
-11 | Heroism | yes | yes | Everybody is educated to become a hero. “In Ur-Fascist ideology, heroism is the norm. This cult of heroism is strictly linked with the cult of death.”
-12 | Machismo | yes | yes | Machismo and weaponry. “Machismo implies both disdain for women and intolerance and condemnation of nonstandard sexual habits, from chastity to homosexuality.”
-13 | Selective Populism | yes | yes | Selective populism. “There is in our future a TV or Internet populism, in which the emotional response of a selected group of citizens can be presented and accepted as the Voice of the People.”
-14 | Newspeak | yes | yes | Ur-Fascism speaks Newspeak. “All the Nazi or Fascist schoolbooks made use of an impoverished vocabulary, and an elementary syntax, in order to limit the instruments for complex and critical reasoning.”
+No.  | Title | Fascism | Ruscism
+-- | ----------- | ------- | -------
+1 | Cult of tradition | Fascism glorifies a mythical past, blending selective historical narratives into an eternal truth. | Russkij mir[^nazis-russia-12] is Russia's centuries-old project of annexing neighboring countries and  Eurasianism[^nazis-russia-13] spells out the russian goal to conquer all of Europe. Putin glorifies Russias past – including mass-murderer Stalin -  and „justifies“ his actions by cherry pickingly refer to „big names“^[Alexander Nevsky (1221, 1263) ,  Peter the Great (1672, 1725) , Catherine the Great (1729, 1796) , Tsar Alexander III (1845, 1894), Vladimir Solovyov (1853, 1900), Tsar Nicholas II (1868, 1918), Vladimir Lenin (1870, 1924), Nikolai Berdyaev (1874, 1948), Joseph Stalin (1878, 1953), Ivan Ilyin (1883, 1954), Lev Gumilyov (1912, 1992),  Aleksandr Solzhenitsyn (1918, 2008) and Aleksandr Dugin (1962, still alive as of May 16, 2025).]
+2 | Irrationalism | Fascism rejects Enlightenment rationalism and progress, favoring irrationalism, but can embrace technical modernism (e.g., Nazi gas chambers) for ideological goals. | Russia is anti-enlightenment[^nazis-russia-15-en] [^nazis-russia-15-de] and anti-science[^nazis-russia-14]
+3 | Cult of Action | Fascism prioritizes action for actions sake, viewing thinking and culture as weakness and glorifying decisive, often violent, action. | Regarding the war Putin said he‘d be „too ‚bored‘ without a little action“[^nazis-russia-10]. Russia bombs suppresses thinking and culture in Russia and bombs intellectual and cultural institutions in the region of Kyiv Rus', see @sec-warcrimes-culture.
+4 | Loyalty | Fascism equates dissent with treason, suppressing critical voices to enforce conformity: submit, praise, obey. | People not being loyal fall out of windows, are served poisened tea. Even using the word „war“[^nazis-russia-16] or holding an empty paper[^nazis-russia-17] brings you to jail.
+5 | Group Homogeneity | Fascism requires group uniformity, portrays diversity, outsiders and the „others“ as the enemy:  xenophobia, racism, antisemitism.  | Russia routinely favours  group uniformity and racism see @sec-nazis-racism.
+6 | Individual Frustration | Fascism exploits the economic or social frustrations of the individual and channels dissatisfaction into aggression and nationalism, turning the perceived humiliation and inferiority into a superhuman. | Russia‘s economy is inefficient and unfair, Russians prefer to steal or destroy the standard of living elsewhere instead of producing it themselves. Putin‘s proaganda blames „the West“ and minorities, particularly in ethnic minority regions far from Moscow, see @sec-russia-life and @sec-russia-soul.
+7 | Aggressive Nationalism | Fascism relies on narratives of national superiority under constant threat from conspiring enemies: Xenophobia, Anti-semitism, the „other“ becomes the Untermensch. | Putin‘s propaganda tells his people, that „Western rotten values“ would threaten Russia‘s orthodox  values, see @sec-russia-values, the NATO defense alliance would conspire with Ukraine to attack Russia, see @sec-nato-threat and @sec-nato-expansion. This has a long russian tradition in the worst propaganda ever: „Protocols of the Elders of Zion“, see @sec-nazis-racism.
+8 | Paradox Enemies | Fascism depicts enemies as formidable yet inferior, both fearsome and easy to overwhelm. | At the same time of justifying the war with NATO threat, russian proaganda phantasizes about nuking NATO capitals, see @sec-nukes-propaganda
+9 | Eternal Fight | Fascism views life as permanent warfare, where peace is weakness and war is glorified and pacifism is treason. | Russians largely favor war over pacifism, driven by propaganda, militaristic culture, and pragmatic conformism, with 60–75% supporting the Ukraine conflict. Pacifism, while historically present, is marginal, equated with weakness, and suppressed by the state. [^nazis-russia-23] [^nazis-russia-24] [^nazis-russia-25] . Putin has used internal Russian terror and the external terror war to secure his power from the very beginning. After a million victims, Putin cannot survive if he loses the war, but Russia cannot win this war either, so Putin wants eternal war and terror.[^nazis-russia-29-de] [^nazis-russia-29-en]
+10 | Mass Elitism  | Fascism glorifies strength and despises perceived weakness in individuals or nations. Kiss up kill down. | Putin is staging himself as a strong man and dehumanizing his opponents in the style of Hitler and Stalin, threatening to spit out scum and traitors like a gnat that has accidentally flown into your mouth [^nazis-russia-30-en] [^nazis-russia-30-en].
+11 | Heroism | Fascism romanticizes heroic sacrifice and death for the cause, idealizing martyrdom. Fascism educates for heroic life and heroic death | Putin's Idealization of Death Reflects Russia's Growing Nazification.[^nazis-russia-43] The Kremlin makes Heroism and Idealization of Death a central theme of Russian cultural policy, reviving Soviet-era controls over art through creative unions and ideological requirements for state-funded projects.[^nazis-russia-44]
+12 | Machismo | Fascism emphasizes hyper-masculinity, aggression, and disdain for non-conformist gender roles. Psycholocially, power is replaced by stereotypical potence, which is in turn replaced by weapons. | Putin is staging himself as a strong man. A picture says more than a thousand words, and a dozen pictures explain the man.[^nazis-russia-39] [^nazis-russia-40]. Women are decoration, not humans.[^nazis-russia-41], Homophobia blossoms and persecuting ‘non-traditional sexual relations’ is presented as natural defense of traditional values [^nazis-russia-42]
+13 | Selective Populism | Fascism claims to represent the "true people," the leader pretends to read the will of the people, people play the people like leader expects. | In Russia, the "will of the people" was invoked to justify terrorism,[^nazis-russia-50], facism and anti-semitism[^nazis-russia-51].  Stalin declared russian occupation of Poland to be the „will of the Polish people“.[^nazis-russia-47] Russian propaganda glorified Stalin: „He had a deep sense of what I can only call the will of the people, he had matchless technique in releasing that will in action ... his action carried mankind forward to a better day“.[^nazis-russia-48]. Stalin is again glorified by contemporary Russian propaganda: „Never before has a man carried so high the aspiration for freedom, for the peace and self-determination of the oppressed peoples than Joseph Stalin. His unconditional devotion to the emancipation of the mankind, his ability to mobilise an entire nation to advance towards modernity and to stand up against the odious beast of fascism make him one of the greatest leaders in human history“[^nazis-russia-49].  Putin made similar references to the will of the people[^nazis-russia-46] [^nazis-russia-52] and people’s sovereignty in order to justify changes to the constitution which ran counter to the letter and spirit of the original text: „when authoritarianism became stronger and more personalized between 2012 and 2020, authoritarianism finally prevailed over constitutionalism“.[^nazis-russia-45]. 
+14 | Newspeak | Fascism simplifies language to limit critical thinking, using slogans and neologisms, speak the opposite, destroy meaning, exert power with double bind.# | Official Kremlin communications destroys all meaning in communication by using 1984-style Orwellian language such as „totalitarian liberalism“.[^nazis-russia-26] Cold-blooded lies are typcial for Sergei Lavrov [^nazis-russia-27] and Putin[^nazis-russia-28].
 
-\LatexReturnFontSize
+\LatexReturnFontSize  
+
+Twenty days after Vladimir Putin took over the presidency from Boris Yeltsin, Russian journalist and expert on Russian politics,  Andrey Kolesnikov, compared Putin with Mussolini.[^nazis-russia-54] In 
+
+> Putin in an Orwellian way has divided the citizens of Russia into clean and unclean — Andrey Kolesnikov (2022)[^nazis-russia-53]
 
 
 ## Fascist crimes
 
-While speech acts can reveal or conceal the speaker's motives, actions speak for themselves: at the end of the day, what counts is the crimes a regime commits:
+Regardless of which theoretical criteria for fascism we examine, in the end, actions count more than words: What did Hitler do, what did Stalin do, what is Putin doing?
 
 \LatexTableFontSize
 
-Feature | Mussolini | Hitler | Stalin | Putin | Fascism | Ruscism
-------- | --------- | ------ | ------ | ----- | ------- | -------
-Corruption | yes |yes | yes |yes | yes | yes
-Lawlessness and tyranny | yes | yes | yes | yes | yes | yes
-Democracy overturned | no | yes | no | no | yes | no
-Deportation | yes |yes | yes |yes | yes | yes
-Killing opponents | yes |yes | yes |yes | yes | yes
-Mass killings | yes |yes | yes |yes| yes | yes
-Mass rape | yes |yes | yes |yes | yes | yes
-Mass torture | yes |yes | yes |yes | no | yes | yes
-Foced labor | yes |yes | yes |yes | yes | yes
-Camps | KZ | KZ | Gulag | Gulag | KZ | Gulag
-Antisemitism | late | yes | yes | yes | es | yes
-Racism | yes | yes | yes | yes | yes | yes
-Genocide | yes | yes | yes | yes | yes | yes
-Ethnocide | yes | yes | yes | yes | yes | yes
-Urbicide | yes | yes | yes | yes | yes | yes
-Ecocide | no | no | yes | yes | no | yes
-Fascination Bloodbath^[see @sec-culture-russia-fascist] | yes |yes | yes |yes | yes | yes
-War | yes | yes | yes |yes | yes | yes 
-War crimes | yes |yes | yes |yes | yes | yes
+Feature | Mussolini | Hitler | Stalin | Putin 
+------- | --------- | ------ | ------ | ----- 
+Corruption | yes | yes | yes |yes
+Lawlessness and tyranny | yes | yes | yes | yes 
+Democracy overturned | yes | yes | yes | fake democracy 
+Deportation | yes | yes | yes | yes
+Stealing  children | (unknown) | yes[^nazis-russia-55] | yes[^nazis-russia-57] [^nazis-russia-58] | yes[^nazis-russia-56]
+Killing opponents | yes | yes | yes | yes 
+Fascination Bloodbath^[see @sec-culture-russia-fascist] | yes | yes | yes |yes
+Mass killings | yes | yes | yes | yes 
+Mass rape | yes | yes | yes | yes 
+Mass torture | yes | yes | yes | yes 
+Foced labor | yes | yes | yes |yes 
+Camps | KZ | KZ | Gulag | Gulag 
+Antisemitism | late | yes | yes | yes 
+Racism | yes | yes | yes | yes 
+Genocide | yes | yes | yes | yes 
+Ethnocide | yes | yes | yes | yes 
+Urbicide | yes | yes | yes | yes 
+Ecocide | no | yes | yes | yes 
+War | yes | yes | yes | yes
+War crimes | yes | yes | yes |yes 
 
 \LatexReturnFontSize
+
+This table speaks a clear language: the ruscist regime is fascist. 
+
+
+## Masked Fascism
+
+Ruscism has perfected the 14th criterion of Umberto Eco: lying and confusing with disinformation. Take death penalty: officially Russia has no death penalty. But everyone knows, that Russia has inofficial death penalty: people are sent to the front as cannon-fodder, people fall out of windows, people drink tea. Russia even kills opponents abroad. Shoots them, poisens them etc. Russia fakes having no death-penalty, Russia fakes courts,  Russia fakes elections, Russia fakes defending itself, Russia fakes not being fascist, Russia blames its fascism on others. Russia is lying. All the time. 
+
+
+## See also
+
+See also @sec-nazi-racist, @sec-nazi-russkimir, @sec-culture-russia-fascist and @sec-russia-soul-fascist.
+
+
 
 [^nazis-russia-3-en]: Umberto Eco (1995) Ur-Fascism. [https://theanarchistlibrary.org/library/umberto-eco-ur-fascism](https://theanarchistlibrary.org/library/umberto-eco-ur-fascism)
 [^nazis-russia-3-de]: Umberto Eco (1995) Ur-Faschismus. [https://www.zeit.de/1995/28/Urfaschismus/komplettansicht](https://www.zeit.de/1995/28/Urfaschismus/komplettansicht)
@@ -170,12 +226,92 @@ War crimes | yes |yes | yes |yes | yes | yes
 
 
 
+[^nazis-russia-18]: Peter Rutland (February 14, 2022) Breaking Ranks? Signs of Unease in Russian Military Circles [https://www.ponarseurasia.org/breaking-ranks-signs-of-unease-in-russian-military-circles/](https://www.ponarseurasia.org/breaking-ranks-signs-of-unease-in-russian-military-circles/)
+
+[^nazis-russia-19]: Kimberly Marten (March 9, 2022) President Putin’s Rationality and Escalation in Russia’s Invasion of Ukraine. [https://www.ponarseurasia.org/president-putins-rationality-and-escalation-in-russias-invasion-of-ukraine/](https://www.ponarseurasia.org/president-putins-rationality-and-escalation-in-russias-invasion-of-ukraine/)
+
+[^nazis-russia-20]: Marlene Laruelle (September 5, 2018) Is Russia Really “Fascist”? A Comment on Timothy Snyder.  [https://www.ponarseurasia.org/is-russia-really-fascist-a-comment-on-timothy-snyder/](https://www.ponarseurasia.org/is-russia-really-fascist-a-comment-on-timothy-snyder/)
+
+
+[^nazis-russia-21]: Neues Gutachten: Verfassungsschutz stuft gesamte AfD als gesichert rechtsextremistisch ein. (02.05.2025) Der Spiegel    [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-stuft-gesamte-partei-als-gesichert-rechtsextremistisch-ein-a-c571570b-c17d-43b8-8bf6-b27699fcb8cf](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-stuft-gesamte-partei-als-gesichert-rechtsextremistisch-ein-a-c571570b-c17d-43b8-8bf6-b27699fcb8cf)
+
+[^nazis-russia-21]: AfD classified as extreme-right by German intelligence (2025-05-02) BBC [https://www.bbc.com/news/articles/cwy6zk9wkrdo](https://www.bbc.com/news/articles/cwy6zk9wkrdo)
+
+[^nazis-russia-22]: Gerichtsbeschluss: Björn Höcke darf als "Faschist" bezeichnet werden. (28.09.2019) Der Spiegel. [https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsurteil-zu-eisenach-a-1289131.html](https://www.spiegel.de/politik/deutschland/bjoern-hoecke-darf-als-faschist-bezeichnet-werden-gerichtsurteil-zu-eisenach-a-1289131.html)
+
+[^nazis-russia-22]: Staatsanwaltschaft: Frankfurt Demonstranten dürfen Björn Höcke als "Nazi" bezeichnen. (04.07.23) hessenschau. [https://www.hessenschau.de/politik/demonstranten-duerfen-afd-politiker-bjoern-hoecke-als-nazi-bezeichnen-v1,ermittlungen-hoecke-ist-ein-nazi-eingesellt-100.html](https://www.hessenschau.de/politik/demonstranten-duerfen-afd-politiker-bjoern-hoecke-als-nazi-bezeichnen-v1,ermittlungen-hoecke-ist-ein-nazi-eingesellt-100.html)
+
+
+[^nazis-russia-23]: Grok (2025-05-11) [https://x.com/i/grok?conversation=1921538405881577774](https://x.com/i/grok?conversation=1921538405881577774)
+
+[^nazis-russia-24]: Sergei Sorokin (20 August 2014)  Pacifism and patriotism in Russia. openDemocracy. [https://www.opendemocracy.net/en/odr/pacifism-and-patriotism-in-russia/](https://www.opendemocracy.net/en/odr/pacifism-and-patriotism-in-russia/)
+
+[^nazis-russia-25]: Ivan Preobrazhensky (20 April 2018) Pacifism in Russia: Is there any potential for an anti-war movement in Russia? Riddle.
+[https://ridl.io/pacifism-in-russia/](https://ridl.io/pacifism-in-russia/)
+
+
+
+[^nazis-russia-26]: Sergei Naryshkin (2025-05-16) Naryshkin: today "both strength and truth" are more than ever on the side of the Russian Federation. TASS. [https://tass.ru/politika/23959897](https://tass.ru/politika/23959897)
+
+[^nazis-russia-27]: „We have absolutely no intention of, or interest in, crossing Ukraine's borders“ (to hide that russia plans it), „Russia is doing all it can to promote early stabilisation in Ukraine“ (just the opposite), „The attempts to distort the truth and to hide the facts behind blanket accusations have been undertaken at all stages of the Ukrainian crisis“ (Yes, by him), „Humanitarian issues must bring together all people who act in good faith trying to alleviate the suffering of people in dire need - especially women, children and the elderly“ (see @sec-warcrimes-intro) [https://www.brainyquote.com/authors/sergei-lavrov-quotes](https://www.brainyquote.com/authors/sergei-lavrov-quotes)
+
+[^nazis-russia-28]: „The democratic choice Russian people made in the early 90's is final“ (not even Putin‘s first „election“ was democratic), „Russia does not want confrontation of any kind. And we will not take part in any kind of 'holy alliance.'“ (except for an alliance with Iran, North Korea and China). [https://www.brainyquote.com/quotes/vladimir_putin_452525](https://www.brainyquote.com/quotes/vladimir_putin_452525)
+
+[^nazis-russia-29-de]: Grigori Judin & Margarita Ljutowa (24.02.2023) Dieser Krieg wird nie aufhören. Meduza.  [https://www.dekoder.org/de/article/krieg-ukraine-judin-ziel-putin-analyse](https://www.dekoder.org/de/article/krieg-ukraine-judin-ziel-putin-analyse)
+
+[^nazis-russia-29-en]: Grigori Judin & Margarita Ljutowa (24.02.2023) ‘Russia ends nowhere,’ they say Sociologist Grigory Yudin discusses a year of war and what comes next. 
+ [https://meduza.io/en/feature/2023/02/25/russia-ends-nowhere-they-say](https://meduza.io/en/feature/2023/02/25/russia-ends-nowhere-they-say)
+
+
+[^nazis-russia-30-de]: Putin (17.03.2022) Aggressive Putin-Rede »Man spuckt sie aus wie eine Mücke«. Der Spiegel.  [https://www.spiegel.de/ausland/ukrainekrieg-putins-rede-sie-haben-nur-ein-ziel-die-zerstoerung-russlands-a-a0164502-ca93-41b2-9239-a78712f95248](https://www.spiegel.de/ausland/ukrainekrieg-putins-rede-sie-haben-nur-ein-ziel-die-zerstoerung-russlands-a-a0164502-ca93-41b2-9239-a78712f95248)
+
+[^nazis-russia-30-en]: Putin likens opponents to ‘gnats,’ signaling new repression. (18.03.2022) PBS News. [https://www.pbs.org/newshour/world/putin-likens-opponents-to-gnats-signaling-new-repression](https://www.pbs.org/newshour/world/putin-likens-opponents-to-gnats-signaling-new-repression)
+
+[^nazis-russia-39]: The macho pursuits of Russian President Vladimir Putin (October 2014) ABC news. [https://abcnews.go.com/International/photos/russias-president-vladimir-putin-19690713](https://abcnews.go.com/International/photos/russias-president-vladimir-putin-19690713)
+
+[^nazis-russia-40]: Vladimir Putin: Russia's action man president, in pictures (December 2020) [https://www.telegraph.co.uk/news/0/vladimir-putin-russias-action-man-president-in-pictures/](https://www.telegraph.co.uk/news/0/vladimir-putin-russias-action-man-president-in-pictures/)
+
+[^nazis-russia-41]: Bizarre Inszenierung: Putin besucht Flugbegleiterinnen (6.3.2022) DER SPIEGEL. [https://www.youtube.com/watch?v=yzcChkP0J-0](https://www.youtube.com/watch?v=yzcChkP0J-0)
+
+[^nazis-russia-42]: Graeme Reid (May 17, 2023) Russia, Homophobia and the Battle for ‘Traditional Values’. Human Rights Watch. [https://www.hrw.org/news/2023/05/17/russia-homophobia-and-battle-traditional-values](https://www.hrw.org/news/2023/05/17/russia-homophobia-and-battle-traditional-values)
+
+
+[^nazis-russia-43]: Svetlana Stephenson (Dec. 21, 2022) Putin's Idealization of Death Reflects Russia's Growing Nazification. The Moscow times. [https://www.themoscowtimes.com/2022/12/21/putins-idealization-of-death-reflects-russias-growing-nazification-a79763](https://www.themoscowtimes.com/2022/12/21/putins-idealization-of-death-reflects-russias-growing-nazification-a79763). 
+
+[^nazis-russia-44]: ‘Everything from love to heroic death’ The Kremlin’s new cultural policy puts the war against Ukraine front and center in Russian art. Meduza. [https://meduza.io/en/feature/2024/07/24/everything-from-love-to-heroic-death](https://meduza.io/en/feature/2024/07/24/everything-from-love-to-heroic-death)
+
+[^nazis-russia-45]: Caroline von Gall (08 February 2024) Regime Adaptation Within Russia’s Judicial Elites: The Case of Valery Zorkin. Verfassungsblog.
+[https://verfassungsblog.de/regime-adaptation-within-russias-judicial-elites/](https://verfassungsblog.de/regime-adaptation-within-russias-judicial-elites/)
+
+[^nazis-russia-46]: Jure Vidmar (06 March 2019) The Annexation of Crimea and the Boundaries of the Will of the People. German Law Journal. 16(3):365-383.  [https://www.cambridge.org/core/journals/german-law-journal/article/annexation-of-crimea-and-the-boundaries-of-the-will-of-the-people/757FF248391D67D5709A0189F3E4BBC9](https://www.cambridge.org/core/journals/german-law-journal/article/annexation-of-crimea-and-the-boundaries-of-the-will-of-the-people/757FF248391D67D5709A0189F3E4BBC9)
+
+[^nazis-russia-47]: J. V. Stalin (1945) No. 381: PERSONAL AND SECRET FROM PREMIER J. V. STALIN TO THE PRIME MINISTER, Mr W. CHURCHILL. [https://www.marxists.org/reference/archive/stalin/works/correspondence/01/45.htm](https://www.marxists.org/reference/archive/stalin/works/correspondence/01/45.htm)
+
+[^nazis-russia-48] Anna Louise Strong (January 1, 1956). The Stalin Era. January 1, 1976 by British and Irish Communist Organization. [https://www.bannedthought.net/Journalists/Strong-AL/Strong-TheStalinEra-1956-OCR.pdf](https://www.bannedthought.net/Journalists/Strong-AL/Strong-TheStalinEra-1956-OCR.pdf)
+
+[^nazis-russia-49]: Red Youth History, USSR (18th December 2020) Stalin and the Will of the People:  [https://redyouth.org/history-2/stalin-and-the-will-of-the-people/](https://redyouth.org/history-2/stalin-and-the-will-of-the-people/)
+
+[^nazis-russia-50]: Narodnaya Volya (accessed May 2025) Wikipedia [https://en.wikipedia.org/wiki/Narodnaya_Volya](https://en.wikipedia.org/wiki/Narodnaya_Volya)
+
+[^nazis-russia-51]: People's Will Army (accessed May 2025) Wikipedia [https://en.wikipedia.org/wiki/People%27s_Will_Army](https://en.wikipedia.org/wiki/People%27s_Will_Army)
+
+[^nazis-russia-52]: Iryna Balachuk (19 May 2022) Kremlin wants to “listen to the will” of the people of Ukraine’s occupied territories. [https://www.pravda.com.ua/eng/news/2022/05/19/7347204/](https://www.pravda.com.ua/eng/news/2022/05/19/7347204/)
+
+[^nazis-russia-53]: Andrei Kolesnikov (2022-03-16) Putin in an Orwellian way has divided the citizens of Russia into clean and unclean. Post on X. [https://x.com/AndrKolesnikov/status/1504117391764164611](https://x.com/AndrKolesnikov/status/1504117391764164611)
+
+[^nazis-russia-54]: Andrei Kolesnikov (visited May 2025) Wikipedia. [https://en.wikipedia.org/wiki/Andrey_Kolesnikov_(journalist,_1965)](https://en.wikipedia.org/wiki/Andrey_Kolesnikov_(journalist,_1965))
+
+[^nazis-russia-55]: Uprooted –
+(Hi)Stories of Stolen Children during World War II. (2022) Project funded by the Foundation Remembrance, Responsibility and Future (EVZ) and the Federal Ministry of Finance (BMF). [https://www.kreisau.de/fileadmin/kreisau/Publikationen_und_Bildungsmaterialien/Uprooted.__Hi_stories_of_stolen_children_Kreisau-Initiative.pdf](https://www.kreisau.de/fileadmin/kreisau/Publikationen_und_Bildungsmaterialien/Uprooted.__Hi_stories_of_stolen_children_Kreisau-Initiative.pdf)
+
+[^nazis-russia-56]: Clementine Fujimura (July 6, 2023) Russia’s kidnapping of Ukrainian children is not unique – Putin and others have long used children as political pawns. The Conversation. [https://theconversation.com/russias-kidnapping-of-ukrainian-children-is-not-unique-putin-and-others-have-long-used-children-as-political-pawns-208330](https://theconversation.com/russias-kidnapping-of-ukrainian-children-is-not-unique-putin-and-others-have-long-used-children-as-political-pawns-208330)
+
+[^nazis-russia-57]: Kelly Hignett (June 2012) ‘The Littlest Enemies’: Children of the Stalinist Era. Leeds Beckett University. [https://thevieweast.wordpress.com/2012/06/21/the-littlest-enemies-children-of-the-stalinist-era/](https://thevieweast.wordpress.com/2012/06/21/the-littlest-enemies-children-of-the-stalinist-era/)
+
+[^nazis-russia-58]: Orphans in the Soviet Union (accessed May 2025) Wikipedia. [https://en.wikipedia.org/wiki/Orphans_in_the_Soviet_Union](https://en.wikipedia.org/wiki/Orphans_in_the_Soviet_Union)
+
 
 {{< var todo >}}
-
-## See also
-
-See also @sec-culture-russia-fascist and @sec-russia-soul-fascist.
 
 
 {{ reserved }}

@@ -16,7 +16,7 @@ abstract: >
 Russia sucks ... even in Moscow
 :::
 
-Despite Putin promoting Russia as a bastion of traditional values, the reality is starkly different. 
+Despite Putin promoting Russia as a bastion of traditional values,[^russia-values-15] the reality is starkly different. 
 
 ## Family values?
 
@@ -102,4 +102,4 @@ More info about Russia's poo-culture see @sec-culture-russia.
 
 [^russia-values-14]: Berlin prosecutor investigates possible poisoning of Russian journalist. (2023 August 18). The Guradian. [https://www.theguardian.com/world/2023/aug/17/berlin-prosecutor-probes-possible-poisoning-of-russian-journalist](https://www.theguardian.com/world/2023/aug/17/berlin-prosecutor-probes-possible-poisoning-of-russian-journalist)
 
-
+[^russia-values-15]: Sergei Naryshkin (2025-05-16) Naryshkin: today "both strength and truth" are more than ever on the side of the Russian Federation. TASS. [https://tass.ru/politika/23959897](https://tass.ru/politika/23959897)

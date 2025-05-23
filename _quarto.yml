@@ -21,9 +21,8 @@ book:
   open-graph: 
     image: /all_common_img/DisinfoDict_opengraph_1200x627.png
   twitter-card:
-    creator: "disinfodict"
-    site: "disinfodict"
-    image: /all_common_img/DisinfoDict_twittercard_800x418.png
+    card-style: "summary"
+    image: /all_common_img/DisinfoDict_logo_144x144.png
   sidebar: 
     style: "floating"
     collapse-level: 1
@@ -155,7 +154,10 @@ book:
   - part: "Nazis"
     chapters:
     - nazis/ukraine.qmd
+    - nazis/racism.qmd
+    - nazis/russkimir.qmd
     - nazis/russia.qmd
+    - nazis/truthsocial.qmd
   - part: "Negotiations"
     part-de: "Verhandlungen"
     chapters:
@@ -167,6 +169,7 @@ book:
     chapters:
     - nukes/ukraine.qmd
     - nukes/russia.qmd
+    - nukes/propaganda.qmd
   - part: "Peace"
     part-de: "Frieden"
     chapters:

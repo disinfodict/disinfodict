@@ -3,19 +3,41 @@ abstract: >
   Du träumst vom Auswandern nach Russland? Dem Gulag wo Milch und Honig fließen? Dieses Leben erwartet dich:
 ---
 
-# Russisches Leben {#sec-russia-life}
+# Russisches Leben {#sec-nazis-russia}
 
 ::: {.callout-caution title="Mythos"}
-- Russland ist besser
-- Leben in Russland ist besser
-[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/?s=(Russia|Moscow)%20(better|superior|inferior)&type=database&sort=relevance)
+- Russland ist besser [![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/?s=(Russia|Moscow)%20(better|superior|inferior)&type=database&sort=relevance)
+- Leben in Russland ist besser [![Artikel auf EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/reverse-russophobia/)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Die meisten europäischen Länder Russland sind wesentlich besser als Russland - auf dem OECD Better Life Index
-[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/waiting-for-the-advent-of-the-fifth-stalin/)
+Die meisten europäischen Länder Russland sind wesentlich besser als Russland - auf dem OECD Better Life Index [![Artikel auf EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/waiting-for-the-advent-of-the-fifth-stalin/)
 :::
 
+
+## Gewöhnliche russische Bürger (ORCs)
+
+Der Lebensstandard des Durchschnittsrussen ist erbärmlich, sowohl im Vergleich zum Durchschnittseuropäer als auch, noch mehr, im Vergleich zur russischen "Elite". Das folgende Graffiti ist symptomatisch:
+
+> Wer hat euch erlaubt, schön zu leben?[^russia-life-1]
+
+[![Graffity: Wer hat Euch erlaubt, schön zu leben? Quelle: VoxUkraine](Life_Who_allowed_you_to_live_beautifully.jpg)](https://voxukraine.org/en/fake-the-inscription-who-allowed-you-to-live-beautifully-was-made-by-the-occupiers-in-the-kyiv-region/)
+
+Der gewöhnliche russische Bürger (ORC) zieht es vor, den Reichtum anderer zu stehlen, zu plündern oder zu zerstören, anstatt für seinen eigenen Reichtum zu arbeiten:
+
+> Es gibt den alten sowjetischen Witz über Iwan und Wladimir. Iwan ist ein erfolgreicher Bauer mit einer Kuh. Die Kuh produziert Milch und Butter, die Ivan auf dem freien Markt verkauft. Iwans Haus ist sauber, die Kinder gehen zur Schule und haben schöne Kleider, die Möbel sind schön ... Wladimir hat die Kuh verkauft und trinkt von morgens bis abends. Das Haus ist ein Schweinestall, die Kinder sind kleine Barbaren, er verprügelt seine Frau und so weiter. Als der Kolchospräsident ihn fragt, was sie für ihn tun können, antwortet er: Iwans Kuh töten.[^russia-life-26]
+
+Die Russen meinen das bis heute ernst:
+
+> Ihr lebt zu gut. Das gefällt uns nicht. Bald werdet ihr leben wie wir.[^russia-life-3]
+
+Die Russen haben das mit Plünderungen, Vergewaltigungen und anderen Kriegsverbrechen in der Ukraine bewiesen (siehe auch @sec-warcrimes-intro):
+
+> Viele der Soldaten sind schmutzig-arm und schlecht ausgebildet, viele sind ohne Zugang zu modernen Annehmlichkeiten aufgewachsen. Viele sind zu den Streitkräften gegangen, weil sie in ihren Hinterhofstädten keine Zukunft haben ... Bei der Besetzung von Gebieten haben viele viel getrunken und ihre Quartiere in Schutt und Asche gelegt oder sind herumgezogen und haben alles geplündert, was ihnen in die Hände fiel."[^russia-life-3]
+
+## OECD Better Life Index
+
+Wie ist also das Leben für gewöhnliche russische Bürger (ORCs)?
 
 > Die OECD-Initiative für ein besseres Leben konzentriert sich auf die Entwicklung von Statistiken zur Erfassung von Lebensaspekten, die den Menschen wichtig sind und ihre Lebensqualität bestimmen.
 die den Menschen wichtig sind und die ihre Lebensqualität bestimmen. Dies ermöglicht ein besseres Verständnis dafür, was
@@ -90,3 +112,14 @@ Im Folgenden sehen Sie Russland (farbig) im Vergleich zu Deutschland. Russland i
 ![OECD Better Life Index - Russland: Freizeit](BetterLifeRussiaWorkLifeBalance.png)
 
 <!-- cia-key="fb8dc7bd2d4e2e1a0fbe47e618980daf0150fc1b4987855489ba7f35106d3d9467910a7822e5a2ba9c39d9128135bc8c2e862439b072759eb55848cb7665e5fc" -->
+
+
+[^russia-life-1]: VoxCheck Team (12 April 2022) FAKE: The inscription “Who allowed you to live beautifully?” was made by the occupiers in the Kyiv region. Vox Ukraine. [https://voxukraine.org/en/fake-the-inscription-who-allowed-you-to-live-beautifully-was-made-by-the-occupiers-in-the-kyiv-region](https://voxukraine.org/en/fake-the-inscription-who-allowed-you-to-live-beautifully-was-made-by-the-occupiers-in-the-kyiv-region)
+
+[^russia-life-2]: Roberto De Propris (Apr 18, 2022) Kill Ivans's cow. Twitter. [https://x.com/propris/status/1515989910410477571](https://x.com/propris/status/1515989910410477571)
+
+[^russia-life-3]: Oleksandra Matviichuk (Apr 18, 2022) "You live too well. We don't like it. Soon you will live like us". Report on X. [https://x.com/avalaina/status/1515964928691261445](https://x.com/avalaina/status/1515964928691261445)
+
+[^russia-life-4]:  Igor Kossov (June 7, 2022) Portrait of the invader: Understanding the Russian soldier.  Kyiv Independent. [https://kyivindependent.com/portrait-of-the-invader-understanding-the-russian-soldier/](https://kyivindependent.com/portrait-of-the-invader-understanding-the-russian-soldier/)
+
+

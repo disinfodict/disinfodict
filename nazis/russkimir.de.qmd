@@ -1,0 +1,142 @@
+---
+abstract: > 
+    Wusstet Ihr, dass „Russki mir“ eine imperialistische, sogar faschistische Ideologie ist? Hört Grok zu:
+---
+
+# Russki mir {#sec-nazis-russkimir}
+
+\index{Umberto Eco}
+\index{Nazis}
+\index{Nazis!Russia}
+\index{Faschismus}
+\index{Russki Mir}
+
+::: {.callout-caution title="Mythos"}
+*russki mir* bringt Frieden in die Welt [![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Russki_Mir)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Bei *russki mir* geht es um die Eroberung oder Zerstörung der Welt [^nazis-russkimir-2]
+- *russki mir* entspricht stark Umberto Ecos Kriterien für Faschismus (sagt Elon Musks Grok)
+:::
+
+Wir haben Grok-3 gebeten, den Namen "russki mir" im Kontext von Umberto Ecos 14 Kriterien des Faschismus zu bewerten.[^nazis-russkimir-1-de]
+Aufgrund einer Fehlinterpretation des Kriteriums des Modernismus haben wir Grok gebeten, seine Analyse zu überarbeiten und dabei zu berücksichtigen, dass Umberto Eco sagte, dass auch die Nazis einen technischen und industriellen Modernismus vertraten, z. B. Gaskammern (so wie Russland Streumunition und Atombomben vertritt).
+
+## Schlussfolgerung
+
+Diese Analyse, die Ecos Klarstellung berücksichtigt, dass der Faschismus die technische Moderne umfassen kann (z. B. Gaskammern der Nazis, Russlands Streumunition und nukleare Fähigkeiten), zeigt eine hohe Übereinstimmung von "Russki Mir" mit Ecos 14 Kriterien. 
+Das Konzept weist bei 13 der 14 Kriterien eine starke Übereinstimmung auf, lediglich der Appell an eine frustrierte Mittelschicht wird aufgrund seiner breiteren nationalen Ausrichtung als mäßig eingestuft. "Russki Mir" verbindet die Ablehnung aufklärerischer Werte mit der enthusiastischen Nutzung moderner Technologien für ideologische Zwecke und spiegelt damit faschistische Muster wie die industriellen Errungenschaften des Nationalsozialismus wider. Die Verherrlichung einer mythischen Vergangenheit, der Militarismus, die Fremdenfeindlichkeit, die Unterdrückung Andersdenkender und die propagandistische Sprache, allesamt verstärkt durch fortschrittliche Werkzeuge, machen sie zu einer protofaschistischen oder faschismusnahen Ideologie. Obwohl sie an die moderne Geopolitik angepasst ist, stimmen ihre Kernmerkmale eng mit Ecos Rahmen überein und kennzeichnen sie als ein Phänomen mit autoritären und expansionistischen Zielen.
+
+## Zusammenfassung der Übereinstimmung
+
+Kriterium | Übereinstimmung
+--------- | ---------
+1. Kult der Tradition | Stark
+2. Ablehnung der Moderne | Stark
+3. Kult der Aktion | Stark
+4. Meinungsverschiedenheit ist Verrat | Stark
+5. Angst vor der Andersartigkeit | Stark
+6. Frustrierte Mittelschicht | Mäßig
+7. Besessenheit mit einem Komplott | Stark
+8. Starker und schwacher Feind | Stark
+9. Pazifismus ist Schwäche | Stark
+10. Verachtung für die Schwachen | Stark
+11. Kult des Heldentums | Stark
+12. Machismo | Stark
+13. Selektiver Populismus | Stark
+14. Neusprech | Stark
+
+
+## Detaillierte Analyse
+
+Diese Bewertung bezieht Umberto Ecos Klarstellung ein, dass faschistische Ideologien, wie der Nationalsozialismus, die technische und industrielle Moderne (z. B. Gaskammern) annehmen und gleichzeitig die Werte der Aufklärung ablehnen können, wie dies in Russlands Einsatz fortschrittlicher Waffen wie Streumunition und nuklearer Rhetorik zum Ausdruck kommt. Der Begriff „Russki Mir“ (Russische Welt) bezieht sich auf eine staatlich geförderte Ideologie, die die kulturelle, geistige und politische Einheit Russlands betont und oft mit Nationalismus und imperialen Ambitionen verbunden ist. Im Folgenden bewerte ich seine Übereinstimmung mit Ecos 14 Kriterien des Ur-Faschismus, die dieses nuancierte Verständnis der faschistischen Moderne widerspiegeln:
+
+1. Der Kult der Tradition:
+
+   - Ecos Definition: Der Faschismus verherrlicht eine mythische Vergangenheit und verschmilzt selektive historische Erzählungen zu einer ewigen Wahrheit.
+   - Russki Mir Kontext: „Russki Mir“ romantisiert eine einheitliche russische Zivilisation und beschwört das Russische Reich, die Sowjetunion und das orthodoxe Christentum als zeitloses Ideal. Es positioniert Russland als Hüter traditioneller Werte gegen den westlichen Liberalismus.
+   - Ausrichtung: Stark. Das Konzept stützt sich stark auf eine verklärte historische Erzählung, um die kulturelle und geopolitische Vorherrschaft zu rechtfertigen.
+
+2. Die Ablehnung der Moderne
+
+   - Eco's Definition: Der Faschismus lehnt den Rationalismus der Aufklärung und den Fortschritt ab und bevorzugt den Irrationalismus, kann aber die technische Moderne (z. B. die Gaskammern der Nazis) für ideologische Ziele nutzen.
+   - Russki Mir Kontext: „Russki Mir“ lehnt westliche liberale Werte wie Säkularismus und Individualismus ab und fördert eine „spirituelle“ russische Identität, die in Orthodoxie und Kollektivismus verwurzelt ist. Sie setzt jedoch auf moderne Technologien wie Streumunition, Hyperschallraketen und nukleare Fähigkeiten, um ihre Macht zu behaupten und ihre Gegner einzuschüchtern. Dies spiegelt die Nutzung industrieller Fortschritte durch die Nazis für faschistische Ziele wider, da Russlands fortschrittliche Waffentechnik dem ideologischen Ziel dient, die „russische Welt“ zu erweitern.
+   - Ausrichtung: Stark. Das Konzept lehnt die aufklärerische Moderne ab, während es den technischen Fortschritt voll ausschöpft, was mit Ecos nuancierter Sicht der faschistischen Moderne übereinstimmt.
+   
+3. Der Kult des Handelns um des Handelns willen
+
+   - Ecos Definition: Der Faschismus stellt das Handeln über das Nachdenken, betrachtet Intellektualismus als Schwäche und verherrlicht entschlossenes, oft gewaltsames Handeln.
+   - Russki Mir Kontext: "Russki Mir" rechtfertigt aggressive Aktionen wie die Annexion der Krim (2014) und den Einmarsch in die Ukraine (2022) als notwendig, um die russischsprachigen Völker zu schützen oder die historische Einheit wiederherzustellen. Diese Aktionen, die oft mit hochmodernen Waffen durchgeführt werden, geben der geopolitischen Selbstbehauptung Vorrang vor diplomatischen oder reflektierenden Ansätzen.
+   - Ausrichtung: Stark. Das Konzept verherrlicht militarisiertes Handeln, unterstützt durch hochmoderne Waffen, als einen zentralen Ausdruck russischer Macht.
+
+4. Meinungsverschiedenheit ist Verrat
+
+   - Ecos Definition: Der Faschismus setzt Widerspruch mit Verrat gleich und unterdrückt kritische Stimmen, um Konformität durchzusetzen.
+   - Russki Mir-Kontext: Kritiker des "Russki Mir" oder seiner Politik (z. B. Ukraine-Konflikt) werden in Russland als Verräter, "ausländische Agenten" oder "Russophobiker" bezeichnet. Andersdenkende werden durch Zensur, Verhaftungen und Propaganda unterdrückt, wobei die Opposition als antirussisch dargestellt wird.
+   - Ausrichtung: Stark. Das Konzept fördert eine binäre Weltsicht, in der ein Infragestellen der eigenen Darstellung als Verrat gilt.
+   
+5. Angst vor Andersartigkeit
+
+   - Eco's Definition: Der Faschismus lebt von Fremdenfeindlichkeit, indem er Außenseiter oder Minderheiten als Bedrohung darstellt.
+   - Russki Mir-Kontext: "Russki Mir" fördert eine homogene russische Identität und grenzt nicht-russische ethnische Gruppen oder Kulturen in ihrem Umfeld aus. Sie stellt den Westen (NATO, EU) und widerständige Nachbarn wie die Ukraine als existenzielle Bedrohung dar und rechtfertigt die Feindseligkeit gegenüber "anderen" Identitäten.
+   - Ausrichtung: Stark. Das Konzept schürt die Angst vor externen und internen "Anderen", die die russische Einheit in Frage stellen.
+
+6. Appell an eine frustrierte Mittelschicht
+
+   - Eco's Definition: Der Faschismus nutzt die wirtschaftlichen oder sozialen Frustrationen der Mittelschicht aus und kanalisiert die Unzufriedenheit in Nationalismus.
+   - Russki Mir Kontext: "Russki Mir" zapft die post-sowjetische Demütigung, die Wirtschaftssanktionen und die gefühlte Einkreisung durch den Westen an und bietet den Russen die Wiederherstellung ihres Stolzes durch kulturelle und geopolitische Dominanz. Obwohl es nicht klassenspezifisch ist, schwingt in ihm eine breite nationale Frustration mit.
+   - Ausrichtung: Mäßig. Das Konzept nutzt eher nationale als rein klassenbedingte Missstände, schürt aber dennoch nationalistischen Eifer.
+   
+7. Besessenheit von einem Komplott
+
+   - Eco's Definition: Der Faschismus stützt sich auf Erzählungen über die ständige Bedrohung durch konspirative Feinde.
+   - Russki Mir-Kontext: In "Russki Mir" werden westliche Verschwörungen (z. B. NATO-Erweiterung, "farbige Revolutionen") als auf die Schwächung Russlands gerichtet dargestellt. Die inländische Opposition wird als vom Ausland orchestriert dargestellt, was die Belagerungsmentalität verstärkt.
+   - Ausrichtung: Stark. Das Konzept lebt von einem Narrativ ständiger äußerer und innerer Bedrohungen.
+
+8. Der Feind ist sowohl stark als auch schwach
+
+   - Eco's Definition: Der Faschismus stellt den Feind als mächtig und doch minderwertig dar, als furchterregend und besiegbar zugleich.
+   - Russki Mir-Kontext: Der Westen wird als mächtige, dekadente Bedrohung der russischen Souveränität dargestellt, die jedoch moralisch schwach und teilbar ist. Die Ukraine wird als bedeutende Herausforderung dargestellt (aufgrund der westlichen Unterstützung), aber auch als "gescheiterter Staat" oder "Marionette", die von Russlands fortschrittlichem Militär, einschließlich Streumunition und nuklearer Bedrohung, leicht zu unterwerfen ist.
+   - Ausrichtung: Stark. Dieses paradoxe Bild ist ein zentrales Element der "Russki Mir"-Propaganda.
+   
+9. Pazifismus ist Paktieren mit dem Feind
+
+   - Ecos Definition: Der Faschismus betrachtet das Leben als permanente Kriegsführung, in der Frieden Schwäche ist und Konflikt verherrlicht wird.
+   - Russki Mir-Kontext: "Russki Mir" stellt den Militarismus, unterstützt durch fortschrittliche Waffen wie Streumunition und nukleare Fähigkeiten, als Verteidigung der russischen Zivilisation dar. Friedensverhandlungen (z. B. in der Ukraine) werden oft als Kapitulation vor der westlichen Aggression dargestellt.
+   - Ausrichtung: Stark. Das Konzept verherrlicht den immerwährenden Kampf und setzt moderne Militärtechnologie ein.
+
+10. Verachtung für die Schwachen
+
+    - Eco's Definition: Der Faschismus verherrlicht die Stärke und verachtet die vermeintliche Schwäche von Individuen oder Nationen.
+    - Russki Mir Kontext: "Russki Mir" verherrlicht die russische Macht und verspottet oft schwächere Nachbarn (z. B. die Ukraine, die baltischen Staaten) oder Andersdenkende als minderwertige oder ausländische Marionetten. Stärke, unterstützt durch moderne Waffen, wird mit Loyalität gegenüber Russland gleichgesetzt.
+    - Ausrichtung: Stark. Das Konzept stellt die Dominanz in den Vordergrund und weist diejenigen zurück, die dem russischen Einfluss nicht widerstehen können.
+    
+11. Kult des Heldentums und des Todes
+
+    - Ecos Definition: Der Faschismus romantisiert das heroische Opfer und den Tod für die Sache und idealisiert das Märtyrertum.
+    - Russki Mir-Kontext: Die russische Propaganda im Zusammenhang mit "Russki Mir" verherrlicht Soldaten, die für das Vaterland sterben, insbesondere in der Ukraine, und stellt sie als Helden der "russischen Welt" dar. Die orthodoxe Kirche und die staatlichen Medien erheben die Aufopferung zum kulturellen Ideal.
+    - Ausrichtung: Stark. Das Konzept zelebriert Märtyrertum und Heldentum als zentrale Elemente der russischen Identität.
+
+12. Machismo
+
+    - Eco's Definition: Der Faschismus betont übersteigerte Männlichkeit, Aggression und Verachtung für unangepasste Geschlechterrollen.
+    - Russki Mir-Kontext: "Russki Mir" fördert traditionelle Geschlechterrollen und verbindet russische Männlichkeit mit Militarismus und Stärke, die oft durch fortschrittliche militärische Vorführungen demonstriert wird. Frauen werden als Kulturträgerinnen dargestellt, während LGBTQ+-Identitäten als westliche Importe verunglimpft werden.
+    - Ausrichtung: Stark. Das Konzept stärkt patriarchalische Normen und aggressive Männlichkeit.
+    
+13. Selektiver Populismus
+
+    - Ecos Definition: Der Faschismus erhebt den Anspruch, das "wahre Volk" zu vertreten, wobei die Führer den Willen des Volkes interpretieren und die Demokratie außer Kraft setzen.
+    - Russki Mir-Kontext: "Russki Mir" stellt den russischen Staat als die Stimme aller "wahren" Russen dar und weist abweichende Meinungen als nicht repräsentativ zurück. Die Darstellung des Staates, die durch technische Propaganda unterstützt wird, setzt demokratische Prozesse außer Kraft.
+    - Ausrichtung: Stark. Das Konzept entspricht einer von oben gesteuerten Vision des "Volkswillens".
+
+14. Neusprech
+
+    - Eco's Definition: Der Faschismus vereinfacht die Sprache, um kritisches Denken einzuschränken, indem er Slogans und Euphemismen verwendet.
+    - Russki Mir-Kontext: "Russki Mir" verwendet vage, emotionsgeladene Begriffe wie "Russische Welt", "geistige Einheit" oder "historische Gerechtigkeit", um imperialistische Ziele zu verschleiern. Euphemismen wie "spezielle Militäroperation" (für die Invasion in der Ukraine) und staatlich kontrollierte Medien, die durch moderne Technologien verstärkt werden, schränken alternative Darstellungen ein.
+    - Ausrichtung: Stark. Das Konzept stützt sich auf eine vereinfachte, propagandistische Sprache, um die öffentliche Wahrnehmung zu prägen.
+    
+
+[^nazis-russkimir-1-de]: Umberto Eco (1995) Ur-Faschismus. [https://www.zeit.de/1995/28/Urfaschismus/komplettansicht](https://www.zeit.de/1995/28/Urfaschismus/komplettansicht)
+
+[^nazis-russkimir-2]: Oleksandr Zabirko (15.06.2023) Russkij mir: Vom kulturellen Konzept zur geopolitischen Ersatzideologie. Bundeszentrale für politische Bildung. [https://www.bpb.de/themen/europa/russland/522375/russkij-mir/](https://www.bpb.de/themen/europa/russland/522375/russkij-mir/)
