@@ -18,10 +18,16 @@ Russland bekämpft Nazis im Ausland
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland projiziert seine *ruschistische* Version des uralten chronischen Faschismus auf seine Gegner, um seine Motive zu verschleiern und seine Aggression zu "rechtfertigen"
+Russland projiziert die *ruschistische* Version seines uralten chronischen Faschismus auf seine Gegner, um seine Motive zu verschleiern und seine Aggression zu "rechtfertigen"
 :::
 
-[![Quelle: ImgFlip](HitlerStalin.jpg){width=66%}](https://imgflip.com/i/22tna0)
+
+Der Journalist, Publizist, Schriftsteller, Politikanalyst, Fernsehmoderator und Radiokommentator [Vitaly Portnikov](https://de.wikipedia.org/wiki/Witalij_Portnykow) hat es geschafft, den russichen Faschismus in einem einzigen Satz zusammenzufassen:
+
+> Jeder Russe, der heute lebt, fühlt sich wie ein Mensch, solange Ukrainer getötet werden, und wenn der Krieg zu Ende ist, wird er sich wie ein Sklave fühlen.  
+> Vitaly Portnikov (22.05.2025)[^nazis-russia-59]
+
+[![Quelle: ImgFlip](HitlerStalin.jpg){width=80%}](https://imgflip.com/i/22tna0)
 
 
 ## Projizierte Nazis
@@ -106,9 +112,8 @@ Eco erklärt, dass es Systeme gibt, die *schlimmer* sind als der Faschismus:
 
 Zu diesem Ergebnis kommen die außenpolitischen Experten der Piratenpartei, die die *Piraten-Sicherheitskonferenz* als Begleitveranstaltung zur *Münchner Sicherheitskonferenz* organisieren: 
 
-> Das Ergebnis überrascht: Nach objektiven Kriterien gibt es erstaunlich viele Hinweise darauf, dass Putins Russland ein faschistisch geführter Staat ist.[^nazis-russia-5]
+> Das Ergebnis überrascht: unter der Anlegung objektiver Kriterien, deutet erstaunlich viel darauf hin, dass es sich bei Putin’s Russland um einen faschistisch geführten Staat handelt.[^nazis-russia-5]
 
-> Das Ergebnis überrascht: unter der Anlegung objektiver Kriterien, deutet erstaunlich viel darauf hin, dass es sich bei Putins Russland um einen faschistisch geführten Staat handelt.[^nazis-russia-5]
 
 Nestor Barchuk, Leiter der internationalen Beziehungen der DEJURE-Stiftung, hat ebenfalls alle 14 von Ecos Kriterien bewertet und kam zu dem Schluss, dass Russland faschistisch ist:
 
@@ -154,26 +159,26 @@ Unabhängig davon, welche theoretischen Kriterien für Faschismus wir untersuche
 
 Merkmal | Mussolini | Hitler | Stalin | Putin
 ------- | --------- | ------ | ------ | ----- 
-Korruption | ja | ja | ja |ja
-Gesetzlosigkeit und Tyrannei | ja | ja | ja 
+Korruption | ja | ja | ja | ja
+Gesetzlosigkeit und Tyrannei | ja | ja | ja | ja
 Demokratie abgeschafft | ja | ja | ja | Fake-Demokratie 
-Deportation | ja | ja | ja | ja | ja
+Deportation | ja | ja | ja | ja 
 Kinderraub | (unbekannt) | ja[^nazis-russia-55] | ja[^nazis-russia-57] [^nazis-russia-58] | ja[^nazis-russia-56]
 Töten von Gegnern | ja | ja | ja | ja 
-Faszination Blutbad^[siehe @sec-culture-russia-fascist] | yes | yes | yes |yes
-Massentötungen | yes | yes | yes | yes 
-Massenvergewaltigungen | yes | yes | yes | yes 
-Massenfolter | yes | yes | yes | yes 
-Zwangsarbeit | yes | yes | yes |yes 
+Faszination Blutbad^[siehe @sec-culture-russia-fascist] | ja | ja | ja | ja
+Massentötungen | ja | ja | ja | ja
+Massenvergewaltigungen | ja | ja | ja | ja
+Massenfolter | ja | ja | ja | ja
+Zwangsarbeit | ja | ja | ja | ja
 Lager | KZ | KZ | Gulag | Gulag 
-Antisemitismus | late | yes | 
+Antisemitismus | late | | ja | ja | ja
 Rassismus | ja | ja | ja | ja 
-Völkermord | ja | ja | ja 
+Völkermord | ja | ja | ja | ja 
 Ethnozid | ja | ja | ja | ja 
 Urbizid | ja | ja | ja | ja 
 Ökozid | nein | ja | ja | ja 
 Krieg | ja | ja | ja | ja
-Kriegsverbrechen | ja | ja | ja |ja
+Kriegsverbrechen | ja | ja | ja | ja
 
 \LatexReturnFontSize
 
@@ -305,3 +310,4 @@ Siehe auch @sec-nazis-racism, @sec-nazis-russkimir, @sec-culture-russia-fascist 
 
 [^nazis-russia-58]: Orphans in the Soviet Union (accessed May 2025) Wikipedia. [https://en.wikipedia.org/wiki/Orphans_in_the_Soviet_Union](https://en.wikipedia.org/wiki/Orphans_in_the_Soviet_Union)
 
+[^nazis-russia-59]: Vitaly Portnikov (22.05.2025) Ein Wahnsinniger und ein Impotenter. [https://uebersetzungenzuukraine.data.blog/2025/05/23/ein-wahnsinniger-und-ein-impotenter-vitaly-portnikov-gvlua-22-05-2025/](https://uebersetzungenzuukraine.data.blog/2025/05/23/ein-wahnsinniger-und-ein-impotenter-vitaly-portnikov-gvlua-22-05-2025/)
