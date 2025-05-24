@@ -257,7 +257,7 @@ for (f in files){
   def <- xml_text(loc)
   defcom <- url_parse(def)
   for (l in rev(seq_along(ccs))) {
-    nn <- read_xml('<xhtml:link rel="alternate"/>', options="NOWARNING")  # suppresing the warnings "Namespace prefix xhtml on link is not defined" doesn't work
+    nn <- read_xml('<xhtml:link rel="alternate"/>', options="NOWARNING")  # suppressing the warnings "Namespace prefix xhtml on link is not defined" doesn't work
     cc <- ccs[l]
     xml_attr(nn, "hreflang") <- cc
     if (l == 1){
