@@ -3,7 +3,7 @@ abstract: >
   Du träumst vom Auswandern nach Russland? Dem Gulag wo Milch und Honig fließen? Dieses Leben erwartet dich:
 ---
 
-# Russisches Leben {#sec-nazis-russia}
+# Russisches Leben {#sec-russia-life}
 
 ::: {.callout-caution title="Mythos"}
 - Russland ist besser [![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/?s=(Russia|Moscow)%20(better|superior|inferior)&type=database&sort=relevance)
