@@ -19,7 +19,7 @@ abstract: >
 - Die Moderation und der Inhalt von *Truth Social* stimmen mit allen Kriterien von Umberto Eco für Faschismus überein, mit der Hälfte davon stark (sagt Elon Musk's Grok)
 :::
 
-Wir baten Grok-3, den Namen „Truth Social“ im Zusammenhang mit Umberto Ecos 14 Kriterien des Faschismus zu bewerten.[^nazis-russkimir-1-de] Grok kam zu dem Schluss 
+Wir baten Grok-3, den Namen „Truth Social“ im Zusammenhang mit Umberto Ecos 14 Kriterien des Faschismus zu bewerten.[^nazis-truthsocial-1-de] Grok kam zu dem Schluss 
 
 > Der Name „Truth Social“ entspricht am ehesten Ecos Kriterien 4 (Uneinigkeit als Verrat), 6 (Appell an soziale Frustration), 7 (Besessenheit von einem Komplott), 13 (selektiver Populismus) und 14 (Neusprech). Der Name deutet auf das Potenzial hin, ein einzigartiges Narrativ zu fördern, das abweichende Meinungen ausschließt und an eine frustrierte Gruppe appelliert, aber der Name allein reicht nicht aus, um ihn als faschistisch zu bezeichnen - er ist ein Ausgangspunkt für eine genauere Untersuchung.
 
@@ -132,4 +132,4 @@ Die Inhalte von Truth Social spiegeln Trumps Einfluss wider und konzentrieren si
 
 Eco warnt davor, dass sich Faschismus auf subtile Weise manifestieren kann und dass nicht alle Kriterien erfüllt sein müssen. Truth Social weist beunruhigende Züge auf: Unterdrückung Andersdenkender, Verschwörungen und Wir-gegen-die-Rhetorik. Die begrenzte Reichweite und die operativen Herausforderungen, die von *Newsweek* und *Britannica* festgestellt wurden, mildern ihre Auswirkungen, aber ihre Rolle als Sprachrohr für Trumps Rhetorik macht sie zu einem Ort, an dem faschismusähnliche Züge sich festsetzen können.
 
-[^nazis-russkimir-1-de]: Umberto Eco (1995) Ur-Faschismus. [https://www.zeit.de/1995/28/Urfaschismus/komplettansicht](https://www.zeit.de/1995/28/Urfaschismus/komplettansicht)
+[^nazis-truthsocial-1-de]: Umberto Eco (1995) Ur-Faschismus. [https://www.zeit.de/1995/28/Urfaschismus/komplettansicht](https://www.zeit.de/1995/28/Urfaschismus/komplettansicht)

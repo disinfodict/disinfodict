@@ -19,7 +19,7 @@ abstract: >
 - The moderation and content of *Truth Social* aligns with all of Umberto Eco's criteria for fascism, with half of them strongly (says Elon Musk's Grok)
 :::
 
-We asked Grok-3 to evaluate the name "Truth Social" in the context of Umberto Eco's 14 criteria of fascism.[^nazis-russkimir-1-en] Grok concluded 
+We asked Grok-3 to evaluate the name "Truth Social" in the context of Umberto Eco's 14 criteria of fascism.[^nazis-truthsocial-1-en] Grok concluded 
 
 > The name "Truth Social" aligns most closely with Eco’s Criteria 4 (disagreement as treason), 6 (appeal to social frustration), 7 (obsession with a plot), 13 (selective populism), and 14 (Newspeak). It suggests a potential to foster a singular narrative that could exclude dissent and appeal to a frustrated group, but the name alone isn’t enough to label it fascist—it’s a starting point for deeper scrutiny.
 
@@ -132,4 +132,4 @@ Truth Social’s content reflects Trump’s influence, focusing on anti-establis
 Eco warns that fascism can manifest subtly, and not all criteria need to be present. Truth Social exhibits troubling traits: suppression of dissent, conspiracies, and us-versus-them rhetoric. Its limited reach and operational challenges, as noted by *Newsweek* and *Britannica*, temper its impact, but its role as a megaphone for Trump’s rhetoric makes it a space where fascist-like traits can fester.
 
 
-[^nazis-russkimir-1-en]: Umberto Eco (1995) Ur-Fascism. [https://theanarchistlibrary.org/library/umberto-eco-ur-fascism](https://theanarchistlibrary.org/library/umberto-eco-ur-fascism)
+[^nazis-truthsocial-1-en]: Umberto Eco (1995) Ur-Fascism. [https://theanarchistlibrary.org/library/umberto-eco-ur-fascism](https://theanarchistlibrary.org/library/umberto-eco-ur-fascism)

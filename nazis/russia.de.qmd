@@ -3,7 +3,7 @@ abstract: >
   Wussten Sie, dass es in Russland viel mehr Nazis gibt als in der Ukraine? In Russland gibt es eine Menge zu entnazifizieren.
 ---
 
-# Nazis in Russland! {#sec-nazis-russland}
+# Nazis in Russland! {#sec-nazis-russia}
 
 \index{Nazis}
 \index{Nazis!Russland}
