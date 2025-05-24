@@ -305,8 +305,3 @@ Siehe auch @sec-nazis-racism, @sec-nazis-russkimir, @sec-culture-russia-fascist 
 
 [^nazis-russia-58]: Orphans in the Soviet Union (accessed May 2025) Wikipedia. [https://en.wikipedia.org/wiki/Orphans_in_the_Soviet_Union](https://en.wikipedia.org/wiki/Orphans_in_the_Soviet_Union)
 
-
-{{< var todo >}}
-
-
-{{ reserved }}
