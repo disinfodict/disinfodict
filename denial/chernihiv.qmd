@@ -1,26 +1,57 @@
 ---
 abstract: > 
-  Help us write: Have you ever been to a theater? Listened to silence? Afer the rockets hit? How Russia honors culture. In Chernihiv.
+  Have you ever been to a theater or church? When russian rockets hit? How Russia honors culture and orthodox holidays. In Chernihiv.
 ---
 
-# Chernihiv strike {#sec-denial-chernihiv}
+# Chernihiv strikes {#sec-denial-chernihiv}
+
 
 
 ::: {.callout-caution title="Myth"}
-- it was staged
-- it didn't happen
-- it wasn't us (Russia)
-- it was Ukraine
-- they deserved it
-[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Bucha&sort=relevance)
+- Russia killed nine Nato officers and dozens of Ukrainian soldiers in Chernihiv [![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/?text=Chernihiv%20Soldiers&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-Russsia committed severe atrocities
+- Russia regularly attacks civilians in Chernihiv
+- Russia attacked a theater and killed visitors of a church [![Search for topic in EUvsDisinfo](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/August_2023_Chernihiv_missile_strike)
+- Russia attacked an eight-story building killing 18 and wounding 78
 :::
 
 
-[^denial-chernihiv-1]
-[^denial-chernihiv-1]:  Waterhouse, & Wright. (2023, August 20). Chernihiv: Russian missile strike kills seven and injures 144, Ukraine says. BBC. Retrieved May 1, 2024, from [https://www.bbc.com/news/world-europe-66554412](https://www.bbc.com/news/world-europe-66554412)
+## March 2022
+
+> Chernihiv has been constantly shelled by the Russian army since the beginning of the war. Bridges have been destroyed and the city is under blockade. How do the inhabitants survive under such conditions? Eyewitnesses report.[^denial-chernihiv-0]
 
 
+## April 2022
+
+> After an air strike hit a school in Chernihiv, a video of a bloodied survivor went viral on Ukrainian social media. But soon her story was hijacked by pro-Kremlin accounts, including one promoted by the Russian Foreign Ministry, which falsely accused her of being a fake ...  
+> Local authorities reported at the time that Russian aircraft had hit two schools that day, leaving nine people dead and four injured.[^denial-chernihiv-4]
+
+
+## August 2023
+
+On 19 August 2023, the Orthodox holiday of the Transfiguration of the Lord, Russian military forces launched an Iskander-M ballistic missile at the Taras Shevchenko Theater in downtown Chernihiv, Ukraine. Those inside the theatre had managed to reach shelter in time, but most of the victims were in their vehicles or crossing the road at the time of the rocket strike, as well as returning from a church. Seven died, including a six year old child. Another 144 were injured, including 15 children and 15 policemen.[^denial-chernihiv-1]   
+
+> It is heinous to attack the main square of a large city, in the morning, while people are out walking, some going to the church to celebrate a religious day for many Ukrainians — Denise Brown, head of the UN in Ukraine
+
+[![Screenshot of BBC Video on Chernihiv Strike](Chenihiv.jpg)](https://www.bbc.com/news/world-europe-66554412)
+
+
+## April 2024
+
+On 17 April 2024 three Russian missiles slammed into the city centre of Chernihiv, hitting an eighte-story building, killing 18 civilians and wounding 78.[^denial-chernihiv-2] 
+
+
+> Since 24 February 2022, AOAV has recorded at least 820 children among the 21,472 civilians killed and injured by explosive weapons in Ukraine. Urban residential locations, like the one hit in Chernihiv on Wednesday, are the worst impacted locations for child casualties of explosive violence, accounting for 50% (412) of children harmed since the invasion[^denial-chernihiv-3]
+
+
+[^denial-chernihiv-0]: Anastasia Shepeleva (31.3.2022) "Beginn einer humanitären Katastrophe". DW. [https://www.dw.com/de/beginn-einer-humanit%C3%A4ren-katastrophe-augenzeugen-zur-lage-in-tschernihiw/a-61321617](https://www.dw.com/de/beginn-einer-humanit%C3%A4ren-katastrophe-augenzeugen-zur-lage-in-tschernihiw/a-61321617)
+
+[^denial-chernihiv-1]: Waterhouse, & Wright. (2023, August 20). Chernihiv: Russian missile strike kills seven and injures 144, Ukraine says. BBC. Retrieved May 1, 2024, from [https://www.bbc.com/news/world-europe-66554412](https://www.bbc.com/news/world-europe-66554412)
+
+[^denial-chernihiv-2]: Ukraine war: Eighteen dead in Russian missile strike on Chernihiv (17 April 2024) [https://www.bbc.com/news/world-europe-68833833](https://www.bbc.com/news/world-europe-68833833)
+
+[^denial-chernihiv-3]: Ukraine: 18 civilians killed and 78 injured in Russian missile strike on Chernihiv. (2024-04-19) [https://reliefweb.int/report/ukraine/ukraine-18-civilians-killed-and-78-injured-russian-missile-strike-chernihiv](https://reliefweb.int/report/ukraine/ukraine-18-civilians-killed-and-78-injured-russian-missile-strike-chernihiv)
+
+[^denial-chernihiv-4]: Olga Robinson and Orysia Khimiak (24 April 2022) Ukraine war: How a school survivor became a target of Russian disinformation. BBC Monitoring. [https://www.bbc.com/news/blogs-trending-61176372](https://www.bbc.com/news/blogs-trending-61176372)
