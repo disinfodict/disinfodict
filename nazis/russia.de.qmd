@@ -14,7 +14,7 @@ abstract: >
 
 ::: {.callout-caution title="Mythos"}
 Russland bekämpft Nazis im Ausland
-[<br></br>![Suche nach Kennwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Nazis+Russland&sort=relevant)
+[<br></br>![Suche nach Kennwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Nazis+Russia&sort=relevant)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
@@ -31,7 +31,7 @@ Der Journalist, Publizist, Schriftsteller, Politikanalyst, Fernsehmoderator und 
 
 ## Projizierte Nazis
 
-Jede russische Anschuldigung ist ein Geständnis. Die russische Propaganda diffamiert alle Gegner als "Nazis", aber in Wirklichkeit ist das russische System eine jahrhundertealte chronische Form des Faschismus, die besser als "Ruschismus" bezeichnet werden sollte. Die Ukrainer als "Nazis" zu bezeichnen ist lächerlich, da rechte Parteien bei den letzten Wahlen weniger als 3% der Stimmen erhielten, siehe @sec-nazis-ukraine. Diejenigen Deutschen, die der russischen Propaganda glauben und die rechtsextreme Partei AfD (≈20%) wählen, sollten sehr vorsichtig sein: Russland benutzt 3%-Nazis in der Ukraine, um einen kompletten Völkermord an der ukrainischen Bevölkerung mit Selektion in Filtrationslagern und Folter in Gulags zu rechtfertigen. Was für ein Massaker wird Russland in Deutschland anrichten, dem Land des Nazibösen in der Geschichte und mit 20% Nazi-Wählern heute?
+Jede russische Anschuldigung ist ein Geständnis. Die russische Propaganda diffamiert alle Gegner als "Nazis", aber in Wirklichkeit ist das russische System eine jahrhundertealte chronische Form des Faschismus, die besser als "Ruschismus" bezeichnet werden sollte. Die Ukrainer als "Nazis" zu bezeichnen ist lächerlich, da rechte Parteien bei den letzten Wahlen weniger als 3% der Stimmen erhielten, siehe @sec-nazis-ukraine. Diejenigen Deutschen, die der russischen Propaganda glauben und eine rechtsextreme Partei wählen (~20%, ~50% in Ostdeuschland), sollten sehr vorsichtig sein und dies lesen: @sec-nazis-germany. 
 
 
 ## Faschistisches Manifest
