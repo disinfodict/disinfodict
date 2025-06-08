@@ -1,0 +1,32 @@
+---
+abstract: > 
+  Wussten Sie, dass es in Deutschland viel mehr Nazis gibt als in der Ukraine? Was wenn Russland die alle entnazifizieren will?
+---
+
+# Nazis in Deutschland! {#sec-nazis-germany}
+
+\index{Nazis}
+\index{Nazis!Deutschland}
+\index{Faschismus}
+
+::: {.callout-caution title="Mythos"}
+Russland bekämpft den Faschismus
+[<br></br>![Suche nach Kennwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Nazis+Germany&sort=relevant)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Russland unterstützt linksextreme und rechtsextreme Parteien in Deutschland
+- Russland will die Deutschen spalten, die deutsche Politik beeinflussen, an die Macht kommen
+- Mit dem Erfolg rechter Parteien schafft Russland einen Vorwand für eine Invasion in Deutschland
+:::
+
+Russland benutzt die Lüge, die Ukraine werde von Nazis beherrscht, als Vorwand, um in die Ukraine einzumarschieren, siehe @sec-nazis-ukraine. Tatsächlich wird Russland selber von Faschisten beherrscht, siehe @sec-nazis-ukraine. Inzwischen wissen wir, was Russland mit einem Land macht, in welchem nur 3% Nazis wählen: es überfallen und Kriegsverbrechen begehen (@sec-warcrimes-intro), es verminen und die Zivilbevölkerung bombardieren (@sec-denial-intro), einen Völkermord planen und durchführen (@sec-genocide-announced, @sec-genocide-ongoing), Filtrationslager, Umerziehungslager und Folterlager einrichten. 
+
+Ost-Deutschland wurde nie ent-nazifiziert. In der DDR gab es offiziell keine Nazis, angeblich gab es die nur "im Westen". In Westdeutschland wurde die Vergangenheit aufgearbeitet und die Demokratie geübt. In Ostdeutschland folgten auf 12 Jahre rechte  Diktatur 41 Jahre linke Diktatur. Nach der Wiedervereinigung zogen Nazis aus Westdeutschland nach Ostdeutschland und schufen "national befreite Zonen", also bestimmte Straßenzüge, Wohnviertel,
+Dörfer oder Landstriche in denen die Rechte die kulturelle Hegemonie und die „Herrschaft der Straße“ besitzt. 
+
+Inzwischen ist die als "verfassungsfeindlich" eingestufte[^nazis-germany-1-de] pro-russische rechtsextreme AfD zur stärksten Partei in Ostdeutschland geworden. Bei der Bundestagswahl 2025 erreichte sie 32%. Insgesamt kamen die pro-russischen Parteien (mit BSW und Linke) in Ostdeutschland auf 54,7%. 
+
+Wer in Deutschland eine rechtsextreme Partei wählt oder gegen die Unterstützung der Ukraine hetzt, sollte sich überlegen, was Russland wohl für ein Massaker anrichten wird, in einem Bundesland, in dem nicht 3%, sondern 30% der Bevölkerung Nazis gewählt haben?
+
+[^nazis-germany-1-de]: Neues Gutachten: Verfassungsschutz stuft gesamte AfD als gesichert rechtsextremistisch ein. (02.05.2025) Der Spiegel    [https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-stuft-gesamte-partei-als-gesichert-rechtsextremistisch-ein-a-c571570b-c17d-43b8-8bf6-b27699fcb8cf](https://www.spiegel.de/politik/deutschland/afd-verfassungsschutz-stuft-gesamte-partei-als-gesichert-rechtsextremistisch-ein-a-c571570b-c17d-43b8-8bf6-b27699fcb8cf)
