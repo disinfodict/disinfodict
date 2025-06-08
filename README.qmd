@@ -225,21 +225,17 @@ epubcheck _book/de/Desinfo-Lexikon.epub
 
 ### accessibility check at 
 
-Go to [check website](https://bacc.dzblesen.de/)
+We use  [ACE by Daisy](https://daisy.org/activities/software/ace/), the [ACE-app is easy to intall and use](https://daisy.github.io/ace/getting-started/ace-app/)
 
-<!--
-#list all cyrillic supporting fonts from terminal
-fc-list :lang=ru
 
-# broken and requires root access
-sudo apt install npm
-sudo apt install nodejs
-npm install @daisy/ace -g
--->
+## Fix sitemap
 
-### join all sitemaps
+As of 2025-05-03 there were bugs in the sitemap setup of babelquarto 
+1. secondary language-files had wrong paths, e.g. https://mysite.org/index.de.html instead of https://mysite.org/de/index.de.html
+2. there where multiple sitemap.xml but only one mentioned in robots.txt (primary language mentioned, secondary not)
+The following R-code replaces all those sitemap.xml with one that lists all available languages for each file as described in https://developers.google.com/search/docs/specialty/international/localized-versions. 
 
-As of 2025-05-03 there were bugs in the sitemap setup of babelquarto (secondary language-files had wrong paths, there where multiple sitemap.xml but only one mentioned in robots.txt). The following replaces all those sitemap.xml with versions that list all available languages for each file. 
+P.S. The warnings are weird
 
 ```{R}
 #install.packages("xml2")
@@ -282,10 +278,61 @@ for (f in files){
   file.remove(tmp)
 }
 for (l in seq_along(ccs)){
-  write_xml(sitemap, (file.path(if (l==1) "_book" else file.path("_book", ccs[l]), "sitemap.xml")))
+  if (l==1){
+    # top-level sitemap
+    write_xml(sitemap, file.path("_book", "sitemap.xml"))
+  }else{
+    # remove all other sitemaps
+    file.remove(file.path("_book", ccs[l], "sitemap.xml"))
+    # remove from redireting index.html the erroneous lines with '<link rel="alternate" hreflang'
+    index <- readLines(file.path("_book", ccs[l], "index.html"))
+    writeLines(index[substr(index, 1, 30) != '<link rel="alternate" hreflang'], file.path("_book", ccs[l], "index.html"))
+  }
 }
 ```
 
+## Fix cloudflare 
+
+```{R}
+baseurl <- "https://disinfodict[.]org"  # [.] for regexp
+ccs <- c("en","de")
+# for secondary languages remove the redirection index.html and rename the country-specific one into index.html
+for (cc in ccs[-1]){
+  file.remove(paste0("_book/", cc, "/index.html"))  # remove the indirection
+  file.rename(paste0("_book/", cc, "/index.", cc, ".html"), paste0("_book/", cc, "/index.html"))  # rename the real one
+}
+# now change all absolute and relative internal links in all html pages
+files <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
+for (f in files){
+  lines <- readLines(f)
+  for (cc in ccs){
+    if (cc==ccs[1]){
+      lines <- gsub(paste0('("', baseurl, ')(/index[.]html")'), '\\1"', lines)
+      lines <- gsub('("[^h][^"]*)(/index[.]html")', '\\1"', lines)
+    }else{
+      lines <- gsub(paste0('("', baseurl, '/', cc,  ')(/index[.]', cc , '[.]html")'), '\\1"', lines)
+      lines <- gsub(paste0('("[^h][^"]*/',  cc, ')(/index[.]', cc, '[.]html")'), '\\1"', lines)
+    }
+  }
+  lines <- gsub(paste0('("', baseurl, '/[^"]+)([.]html")'), '\\1"', lines)
+  lines <- gsub('("[^h][^"]*)([.]html")', '\\1"', lines)
+  writeLines(lines, f)
+}
+# now change all absolute links in sitemap.xml
+lines <- readLines('_book/sitemap.xml')
+for (cc in ccs){
+  if (cc==ccs[1]){
+    lines <- gsub(paste0('(<loc>', baseurl, ')(/index[.]html</loc>)'), '\\1</loc>', lines)
+    lines <- gsub(paste0('("', baseurl, ')(/index[.]html")'), '\\1"', lines)
+  }else{
+    lines <- gsub(paste0('(<loc>', baseurl, '/', cc, ')(/index[.]', cc, '[.]html</loc>)'), '\\1</loc>', lines)
+    lines <- gsub(paste0('("', baseurl, '/', cc ,')(/index[.]', cc, '[.]html")'), '\\1"', lines)
+  }
+}
+lines <- gsub(paste0('(<loc>', baseurl, '/.+)([.]html</loc>)'), '\\1</loc>', lines)
+lines <- gsub(paste0('("', baseurl, '/[^"]+)([.]html")'), '\\1"', lines)
+writeLines(lines, '_book/sitemap.xml')
+```
 
 
 # Expert use only

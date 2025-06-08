@@ -153,6 +153,7 @@ book:
     - nato/threat.qmd
   - part: "Nazis"
     chapters:
+    - nazis/germany.qmd
     - nazis/ukraine.qmd
     - nazis/racism.qmd
     - nazis/russkimir.qmd
@@ -263,6 +264,7 @@ bibliography:
 
 format:
   html:
+    canonical-url: true
     theme: cosmo
     css: styles.css
     number-sections: true
