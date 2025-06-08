@@ -44,7 +44,7 @@ Es gibt auch einen wesentlichen Grund dafür, dass das Ukrainische bis vor kurze
 
 ## Siehe auch
 
-Die Kapitel über die russische Sprache in der Ukraine (@sec-language-russia), über die „großrussische“ Kultur (@sec-culture-russia), über die ukrainische Kultur (@sec-culture-ukraine), über Kriegsverbrechen gegen die ukrainische Kultur (@sec-warcrimes-culture).
+Die Kapitel über die russische Sprache in der Ukraine (@sec-language-russia), über Russophonie (@sec-language-russophonia), über die „großrussische“ Kultur (@sec-culture-russia), über die ukrainische Kultur (@sec-culture-ukraine), über Kriegsverbrechen gegen die ukrainische Kultur (@sec-warcrimes-culture).
 
 
 [^language-ukraine.de-1]:  A Colorful Map Visualizes the Lexical Distances Between Europe’s Languages: 54 Languages Spoken by 670 Million People. (2017, August 28). Open Culture. Retrieved May 2, 2024, from [https://www.openculture.com/2017/08/a-colorful-map-visualizes-the-lexical-distances-between-europes-languages.html](https://www.openculture.com/2017/08/a-colorful-map-visualizes-the-lexical-distances-between-europes-languages.html)

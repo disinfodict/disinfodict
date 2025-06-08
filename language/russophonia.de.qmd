@@ -1,0 +1,67 @@
+---
+abstract: > 
+  Ich liebe die Sprache meines Kolonisators? Vertreter der Russophonie behaupten, Russisch sei die Sprache des anti-russischen, anti-kolonialen Kampfes. Wer's glaubt.
+---
+
+# Russophonie {#sec-language-russophonia}
+
+::: {.callout-caution title="Mythos"}
+Wir dürfen die russische Sprache nicht an den Kreml ausliefern
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Die russische Sprache ist durch viele Jahrhunderte russischen Faschismus und Imperialismus vergiftet:  
+Finger weg!
+:::
+
+## Forschung?
+
+Naomi Beth Caffees Einführung des Konzepts der „Russophonie“ mag gut gemeint gewesen sein oder auch nicht, aber in der Praxis bedeutet die russische Sprache die Dominanz russischer Narrative.
+
+>  Ich schlage vor, die russophone Literatur als eine korrekte und notwendige Klassifizierung für Werke zu verwenden, die zu oft als peripher abgetan oder bestenfalls ungeschickt in den bestehenden russischen Kanon eingefügt werden. Darüber hinaus argumentiere ich, dass die Russophonen Studien als potenzielles akademisches Forschungsfeld den Raum für das Verständnis von Realitäten außerhalb eines imperialen Zentrums und von Identitäten jenseits eines traditionellen Verständnisses von Nationalität bieten würden.[^language-russophonia-1] 
+
+## Politik!
+
+Caffees Dissertation wurde jedoch bereits 2013 veröffentlicht. Warum hat sie zusammen mit Nina Friess gerade im Januar/Februar 2022 eine Sonderausgabe der Zeitschrift „Russian Literature“ über Russophonia herausgegeben? Der Zeitpunkt, zu dem sie den Begriff „Russophonie“ gerade rechtzeitig vor der großen russischen Invasion vorantreibt, ist höchst verdächtig.[^language-russophonia-2] [^language-russophonia-3] [^language-russophonia-4]
+
+Ebenso verdächtig ist die Schaffung von Instituten oder Literaturpreisen für die „russophone“ Sprache: Damit wird die Tatsache verschleiert, dass es sich um die russische Sprache handelt, die voller russischer Narrative ist und von russischen Protagonisten beherrscht wird.
+
+> Dass diese Ankündigung bei einem Gipfeltreffen der GUS-Staaten im Beisein Wladimir Putins erfolgte, weckte allerdings Zweifel, ob es sich bei einem solchen Institut um eine von Russland unabhängige Einrichtung handeln kann.[^language-russophonia-5]
+
+## Skandal
+
+> Ein Skandal erschüttert den Schweizer Preis für russischsprachige Literatur „Dar“. Die Gewinnerin aus Odessa weist ihn zurück, und einem russischen Nominierten wird vorgeworfen, entführte ukrainische Kinder indoktriniert zu haben. Was genau ist passiert? ... Doch dieser Gleichberechtigungsanspruch spiegelt sich nicht in der Zusammensetzung der Gremien. Um über die eingereichten Werke zu urteilen, wurden zusätzlich zu den Gründern, die abstimmen können, aber nicht müssen, 29 Jury-Mitglieder berufen, von denen nur drei nicht aus Russland stammen, was zuerst niemandem auffiel. Das Expertengremium, das die Vorauswahl für die Jury trifft, besteht sogar ausschließlich aus Russen. [^language-russophonia-6]
+
+Was zuerst niemandem auffiel? 26 von 29? Unter anderem saß in der Jury der russische Videoblogger Armen Sacharjan, der 2012–2013 für den Propagandasender Russia Today (RT) arbeitete, *"wo er zum Beispiel Russlands Beteiligung am Syrienkrieg als Friedensstiftung darstellte"*. 
+
+
+## Fazit
+
+Abschließendes Urteil über Russophonia:
+
+> Solange die russische Kulturszene und ihre unkritischen Anhänger nicht beginnen, den russischen Nationalismus systematisch zu bekämpfen, anstatt Opfererzählungen zu variieren, wird es keine Demokratisierung geben. Und Kunst und Kultur sind nicht autonom und unpolitisch. Das ist ein deutscher Mythos und stimmt bekanntlich auch im Falle der deutschen Kultur- und Literaturgeschichte nicht. Und eine Ergänzung: Auch das wohlfeile Konzept der Russophonie ist problematisch, solange es die imperialen Prozesse der Russifizierung in den letzten Jahrhunderten nicht adäquat und ehrlich adressiert.
+[^language-russophonia-7]
+
+
+## Siehe auch
+
+Die Kapitel zur russischen Sprache (@sec-language-russia), zur ukrainischen Sprache (@sec-language-ukraine), zur ukrainischen Kultur (@sec-culture-ukraine), zu Kriegsverbrechen gegen die ukrainische Kultur (@sec-warcrimes-culture), zur „großrussischen“ Kultur (@sec-culture-russia) und zur ukrainischen Nation (@sec-ukraine-nation).
+
+
+
+[^language-russophonia-1]: Naomi Beth Caffee (2013) Russophonia: Towards a Transnational Conception of Russian-Language Literature
+2013. UCLA Electronic Theses and Dissertations. [https://escholarship.org/uc/item/3z86s82v](https://escholarship.org/uc/item/3z86s82v)
+
+[^language-russophonia-2]: Naomi Caffee and Nina Friess (2022): Not only Russian: Explorations in Contemporary Russophone Literature. Russian Literature,
+Volume 127, January–February 2022, Pages 1-176. [https://www.sciencedirect.com/journal/russian-literature/vol/127/suppl/C](https://www.sciencedirect.com/journal/russian-literature/vol/127/suppl/C)
+
+[^language-russophonia-3]: Naomi Beth Caffee (2022) ‘Not only Russian’: Explorations in Contemporary Russophone Literature. Introduction. Russian Literature,
+Volume 127, January–February 2022, Pages 1-10. [https://www.sciencedirect.com/science/article/abs/pii/S0304347921000831](https://www.sciencedirect.com/science/article/abs/pii/S0304347921000831)
+
+[^language-russophonia-4]: Nina Frieß (2022) “Where Are You Going to Live? In What Language?”: The Search for Identity in Iurii Serebrianskii’s Russophone Prose. Russian Literature, Volume 127, January–February 2022, Pages 127-149. 
+
+[^language-russophonia-5]: Nina Frieß, Alessandro Achilli, Miriam Finkelstein (06.06.2023 ) Russophonie – Russische Sprache im Plural. Dekoder. [https://www.dekoder.org/de/gnose/russophonie-russische-sprache](https://www.dekoder.org/de/gnose/russophonie-russische-sprache)
+
+[^language-russophonia-6]: Nikolai Klimeniouk (07.06.2025) Literaturpreis-Eklat: „Wir sind kein Ermittlungskomitee“. FAZ. [https://www.faz.net/aktuell/feuilleton/doppelter-eklat-skandal-beim-literaturpreis-dar-110521816.html](https://www.faz.net/aktuell/feuilleton/doppelter-eklat-skandal-beim-literaturpreis-dar-110521816.html)
+
+[^language-russophonia-7]: Anette Werberger (8. Juni 2025) Lesenswertes von Nikolai Klimeniouk. Post on X. [https://x.com/AWerberger/status/1931619594566791413](https://x.com/AWerberger/status/1931619594566791413)

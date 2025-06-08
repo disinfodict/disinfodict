@@ -38,9 +38,9 @@ Unter russischer Herrschaft in unterschiedlicher Form[^language-russia.de-5] wur
 
 ### Russischsprachige Autoren 
 
-> Russlands umfassender Einmarsch in die Ukraine im Februar 2022 stellte jedoch für russophone Autor*innen in und außerhalb der Ukraine einen Wendepunkt dar.
-> 
-> ZOiS (2024)[^language-russia.de-4]
+> Russlands umfassender Einmarsch in die Ukraine im Februar 2022 stellte jedoch für russophone Autor*innen in und außerhalb der Ukraine einen Wendepunkt dar.[^language-russia.de-4]
+
+Siehe das Kapitel über "Russophonie" (@sec-language-russophonia).
 
 
 ### Öffentliche Umfragen
@@ -64,7 +64,7 @@ Unter russischer Herrschaft in unterschiedlicher Form[^language-russia.de-5] wur
 
 ## Siehe auch
 
-Die Kapitel zur ukrainischen Sprache (@sec-language-ukraine), zur ukrainischen Kultur (@sec-culture-ukraine), zu Kriegsverbrechen gegen die ukrainische Kultur (@sec-warcrimes-culture), zur „großrussischen“ Kultur (@sec-culture-russia) und zur ukrainischen Nation (@sec-ukraine-nation).
+Die Kapitel zur ukrainischen Sprache (@sec-language-ukraine), zur ukrainischen Kultur (@sec-culture-ukraine), zu Kriegsverbrechen gegen die ukrainische Kultur (@sec-warcrimes-culture), über Russophonie (@sec-language-russophonia), zur „großrussischen“ Kultur (@sec-culture-russia) und zur ukrainischen Nation (@sec-ukraine-nation).
 
 
 [^language-russia.de-5]:  Danylenko, A., & Naienko, N. (2022, January). Linguistic russification in Russian Ukraine: Languages, imperial models, and policies. ResearchGate. Retrieved May 2, 2024, from [https://www.researchgate.net/publication/362729882\_Linguistic\_russification\_in\_Russian\_Ukraine\_Languages\_imperial\_models\_and\_policies](https://www.researchgate.net/publication/362729882_Linguistic_russification_in_Russian_Ukraine_Languages_imperial_models_and_policies) 

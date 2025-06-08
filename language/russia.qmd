@@ -37,11 +37,12 @@ Under Russian rule, in different forms,[^language-russia-5] a range of coercive 
 > 
 > Executive summary of SCEEUS Report[^language-russia-7]
 
+
 ### Russophone authors 
 
-> Russia’s full-scale invasion of Ukraine in February 2022 was a turning point for several Russophone authors in and outside Ukraine.
-> 
-> ZOiS (2024)[^language-russia-4]
+> Russia’s full-scale invasion of Ukraine in February 2022 was a turning point for several Russophone authors in and outside Ukraine.[^language-russia-4]
+
+See the chapter on "Russophonia" (@sec-language-russophonia).
 
 
 ### Public polls
@@ -63,7 +64,7 @@ Under Russian rule, in different forms,[^language-russia-5] a range of coercive 
 
 ## See also
 
-The chapters on Ukrainian language  (@sec-language-ukraine), on Ukrainan culture (@sec-culture-ukraine), on warcrimes against Ukrainan culture (@sec-warcrimes-culture), on "Great Russian" culture (@sec-culture-russia), and on Ukrainian nation (@sec-ukraine-nation).
+The chapters on Ukrainian language  (@sec-language-ukraine), on Ukrainan culture (@sec-culture-ukraine), on warcrimes against Ukrainan culture (@sec-warcrimes-culture), on Russophonia (@sec-language-russophonia), on "Great Russian" culture (@sec-culture-russia), and on Ukrainian nation (@sec-ukraine-nation).
 
 
 [^language-russia-5]:  Danylenko, A., & Naienko, N. (2022, January). *Linguistic russification in Russian Ukraine: Languages, imperial models, and policies*. ResearchGate. Retrieved May 2, 2024, from [https://www.researchgate.net/publication/362729882\_Linguistic\_russification\_in\_Russian\_Ukraine\_Languages\_imperial\_models\_and\_policies](https://www.researchgate.net/publication/362729882_Linguistic_russification_in_Russian_Ukraine_Languages_imperial_models_and_policies) 

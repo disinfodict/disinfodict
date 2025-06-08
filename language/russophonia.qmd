@@ -1,0 +1,67 @@
+---
+abstract: > 
+  I love the language of my colonizer? Representatives of Russophonia claim that Russian is the language of the anti-Russian, anti-colonial fight. Whoever believes it. Lol.
+---
+
+# Russophonia {#sec-language-russophonia}
+
+::: {.callout-caution title="Myth"}
+We must not surrender the russian language to the Kremlin[^language-russophonia-5]
+:::
+
+::: {.callout-tip title="Truth"}
+The russian language is poisened by many centuries of russian fascism and imperialism:  
+don't touch it!
+:::
+
+
+## Research?
+
+Naomi Beth Caffee's introduction of the concept of ‘Russophony’ may or may not have been well-intentioned, but in practice Russian language means the dominance of Russian narratives.
+
+>  I propose Russophone literature as an accurate and necessary classification for works that are too often dismissed as peripheral, or at best, awkwardly shoehorned into the existing Russian canon. I further argue that Russophone Studies, as a potential field of academic inquiry, would provide the space for understanding realities outside of an imperial center, and identities beyond a traditional understanding of nationality.[^language-russophonia-1] 
+
+## Politics!
+
+However, Caffee's dissertation was already published in 2013. Why has she, together with Nina Friess, just published a special issue of the journal “Russian Literature” on Russophonia in January/February 2022? The timing of her pushing the term “Russophonia” just in time for the great Russian invasion is highly suspicious.[^language-russophonia-2] [^language-russophonia-3] [^language-russophonia-4]
+
+Equally suspious is the creation of institutes or literature prizes for the "russophone" language: This disguises the fact that it is the Russian language, which is full of Russian narratives and controlled by Russian protagonists.
+
+> The fact that this announcement was made at a summit meeting of the CIS states in the presence of Vladimir Putin, however, raised doubts as to whether such an institute could be an institution independent of Russia.[^language-russophonia-5]
+
+
+## Scandal
+
+> A scandal has rocked the Swiss prize for Russian-language literature “Dar”. The winner from Odessa rejects it, and a Russian nominee is accused of indoctrinating kidnapped Ukrainian children. What exactly happened? ... However, this claim to equality is not reflected in the composition of the committees. In addition to the founders, who can but do not have to vote, 29 jury members were appointed to judge the submitted works, only three of whom are not from Russia, which nobody noticed at first. The panel of experts who make the pre-selection for the jury even consists exclusively of Russians. [^language-russophonia-6]
+
+Which nobody noticed at first? 26 of 29? The jury included Russian video blogger Armen Zakharjan, who worked for the propaganda channel Russia Today (RT) in 2012-2013, *"where, for example, he presented Russia's involvement in the Syrian war as a peacemaker"*.
+
+
+## Conclusion
+
+Final verdict on Russophonia:
+
+> As long as the Russian cultural scene and its uncritical followers do not begin to systematically combat Russian nationalism instead of varying victim narratives, there will be no democratization. And art and culture are not autonomous and apolitical. This is a German myth and, as we know, is not true in the case of German cultural and literary history either ... Even the well-honed concept of Russophonie is problematic as long as it does not adequately and honestly address the imperial processes of Russification over the last few centuries.[^language-russophonia-7]
+
+
+## See also
+
+The chapters on russian language  (@sec-language-russia), Ukrainian language  (@sec-language-ukraine), on Ukrainan culture (@sec-culture-ukraine), on warcrimes against Ukrainan culture (@sec-warcrimes-culture), on "Great Russian" culture (@sec-culture-russia), and on Ukrainian nation (@sec-ukraine-nation).
+
+
+[^language-russophonia-1]: Naomi Beth Caffee (2013) Russophonia: Towards a Transnational Conception of Russian-Language Literature
+2013. UCLA Electronic Theses and Dissertations. [https://escholarship.org/uc/item/3z86s82v](https://escholarship.org/uc/item/3z86s82v)
+
+[^language-russophonia-2]: Naomi Caffee and Nina Friess (2022): Not only Russian: Explorations in Contemporary Russophone Literature. Russian Literature,
+Volume 127, January–February 2022, Pages 1-176. [https://www.sciencedirect.com/journal/russian-literature/vol/127/suppl/C](https://www.sciencedirect.com/journal/russian-literature/vol/127/suppl/C)
+
+[^language-russophonia-3]: Naomi Beth Caffee (2022) ‘Not only Russian’: Explorations in Contemporary Russophone Literature. Introduction. Russian Literature,
+Volume 127, January–February 2022, Pages 1-10. [https://www.sciencedirect.com/science/article/abs/pii/S0304347921000831](https://www.sciencedirect.com/science/article/abs/pii/S0304347921000831)
+
+[^language-russophonia-4]: Nina Frieß (2022) “Where Are You Going to Live? In What Language?”: The Search for Identity in Iurii Serebrianskii’s Russophone Prose. Russian Literature, Volume 127, January–February 2022, Pages 127-149. 
+
+[^language-russophonia-5]: Nina Frieß, Alessandro Achilli, Miriam Finkelstein (06.06.2023 ) Russophonie – Russische Sprache im Plural. Dekoder. [https://www.dekoder.org/de/gnose/russophonie-russische-sprache](https://www.dekoder.org/de/gnose/russophonie-russische-sprache)
+
+[^language-russophonia-6]: Nikolai Klimeniouk (07.06.2025) Literaturpreis-Eklat: „Wir sind kein Ermittlungskomitee“. FAZ. [https://www.faz.net/aktuell/feuilleton/doppelter-eklat-skandal-beim-literaturpreis-dar-110521816.html](https://www.faz.net/aktuell/feuilleton/doppelter-eklat-skandal-beim-literaturpreis-dar-110521816.html)
+
+[^language-russophonia-7]: Anette Werberger (8. Juni 2025) Lesenswertes von Nikolai Klimeniouk. Post on X. [https://x.com/AWerberger/status/1931619594566791413](https://x.com/AWerberger/status/1931619594566791413)
