@@ -137,6 +137,7 @@ book:
     part-de: "Sprache"
     chapters:
     - language/russia.qmd
+    - language/russophonia.qmd
     - language/ukraine.qmd
   - part: "Maidan"
     chapters:
@@ -150,6 +151,7 @@ book:
   - part: "NATO"
     chapters:
     - nato/expansion.qmd
+    - nato/promise.qmd
     - nato/threat.qmd
   - part: "Nazis"
     chapters:

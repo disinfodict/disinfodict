@@ -1,0 +1,73 @@
+---
+abstract: > 
+    Did you know that Ukraine was promised membership of NATO? And Russia was promised nothing! Here is the current status. 
+---
+
+# NATO Promise {#sec-nato-promise}
+
+::: {.callout-caution title="Myth"}
+NATO has broken its promise to Russia not to expand eastwards
+[<br></br>![Search for keyword in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=nato%20promise&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Russia was not promised anything, especially not by NATO
+- Ukraine was made the prospect of joining NATO back in 1991
+- This promise was broken, the Budapest Memorandum was broken by Russia and the USA
+- Russia has agreed to the accession of Eastern European countries to NATO
+- Russia has broken the NATO Founding Act
+[<br></br>![Zeitenwende-on-Tour: Aber die NATO](Zeitenwende-on-Tour-Logo.png){height=2em}](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=36)[^nato-promise-1]
+:::
+
+> Pacta servanda sunt.  
+> Nulla pacta servanda non sunt.
+
+
+## No promise for Russia
+
+There was no promise for Russia, neither in the 2+4 Treaty,[^nato-promise-7] let alone from NATO:
+
+> The talks in February 1990 were never about expanding NATO's membership, but solely about extending NATO's integrated defense structures to the east.[^nato-promise-6]
+
+
+> taz: Today there are two narratives about NATO's eastward expansion. The Russian side says that in 1990, as the price for German reunification, it was promised that NATO would not expand any further eastwards. This was just not put in writing. The Western side says that there was no such promise and that what counts at the end of negotiations is what is written in the treaty.  
+>
+> Sarotte: According to the sources, it is clear that the topic of NATO's eastward expansion came up in the negotiations. At the end of 1989, beginning of 1990, the Western side was thinking about it: What can we offer Mikhail Gorbachev to get him to agree to reunification? Perhaps he wanted us to promise him that NATO would not expand? Then US Secretary of State Baker and West German Foreign Minister Hans-Dietrich Genscher both spoke to him about it. Gorbachev said: Yes, that sounds good, we'll talk about it further ... After his meeting with Gorbachev in February 1990, Baker came back to Washington and told President Bush about the talks. Bush said he was very disappointed. That had been a mistake; he did not believe that the future of NATO should be negotiated. Baker should take that back ... When Kohl met Bush in Washington, he told him that if no concessions were made to Gorbachev on Nato, he would have to be offered something else. Then it would be a question of money. Bush replied: So what, you have deep pockets. Kohl accepted that. Meanwhile, Genscher continued to talk about Nato. Kohl then contacted Genscher several times and asked him to stop: Stop it. He even went so far as to send him an official letter. Kohl wrote: “[...] I would like to inform you formally” that he did not share Genscher's position and did not support it ... I believe that what is written in the contract at the end is important. We're not talking about inexperienced people or children here. We are talking about international relations between Moscow and the West, a lot was at stake, about the unity of Germany, the former Nazi Germany. The Soviet diplomats didn't forget to write this down at the time. Moscow signed the treaty, ratified it and received the transfers in return. After all, they received 15 billion Deutschmarks.[^nato-promise-2]
+
+Even Mikhail Gorbachev, the last Soviet leader, has confirmed that no such promises were made. In an interview in 2014 he said: “The topic of 'NATO expansion' was not discussed at all, and it wasn't brought up in those years. I say this with full responsibility. Not a single Eastern European country raised the issue, not even after the Warsaw Pact ceased to exist in 1991\. Western leaders didn't bring it up either”.[^nato-promise-3]
+
+
+## But a declaration of intent for Ukraine
+
+But there were plans to prepare Ukraine for NATO membership in order to persuade it to give up its nuclear weapons:
+
+> taz: Ms. Sarotte, as a historian you have dealt intensively with the history of NATO's eastward expansion and the break-up of the Warsaw Pact. Is there anything that particularly surprised you?  
+>
+> Sarotte: The importance of Ukraine. When I started working on my book about NATO's eastward expansion, I initially thought it would be about Poland, Hungary, the Czech Republic and the Baltic states. They are all in it now. But the powers that be said very early on: **peace in Europe depends on Ukraine** ... When Ukraine became independent in 1991, it was suddenly the third largest nuclear power in the world. More than 1,000 nuclear warheads were stored there ... Baker came back and told his friend and President George H. W. Bush: "There is no more important challenge than securing the former Soviet nuclear weapons, which, apart from Russia, were mainly stored in Ukraine ... A solution had to be found that the Ukrainians, the Russians and the countries in Central and Eastern Europe that were pushing for rapid admission to NATO could live with. The idea was then: instead of admitting many countries to Nato immediately, we have to create an intermediate station to which everyone can belong. This saves face for Moscow, it is an interim solution for Ukraine so that it is not left out - and it helps the Central and Eastern Europeans to adapt technically to NATO standards. This is how the “[Partnership for Peace](https://en.wikipedia.org/wiki/Partnership_for_Peace)” came into being in 1994, which Russia also joined ... The Central and Eastern European states could be brought closer to NATO and stop short of membership - if things went badly with democratization in Russia, they could join quickly. (ibid.)
+
+On the Budapest Memorandum, see @sec-nukes-ukraine-budapestmemorandum.
+
+
+## Treaty between NATO and Russia
+
+The 1997 [NATO-Russia Founding Act](https://en.wikipedia.org/wiki/Russia%E2%80%93NATO_relations#Founding_Act), signed by both parties, declared that the parties do not view each other as adversaries and affirms the right of all nations to choose their alliances freely and the inviolability of borders.[^nato-promise-4] This act demonstrates that NATO expansion has not been undertaken in a hostile way.
+
+NATO has adhered to the agreements in the Founding Act. Russia acted completely differently: for example, it violated the principles of showing transparency, respecting democracy and the rule of law, refraining from violence, and respecting the sovereignty and territorial integrity of states. 
+
+When Russia secretly stationed nuclear-capable Iskander missiles in the Kaliningrad exclave, the NATO states were forced to respond with rotating troops in the Baltics and Poland for security reasons.[^nato-promise-5] 
+
+
+[^nato-promise-1]:  Nico Lange (2024) Aber die NATO! 10 populäre Mythen über Putins Krieg gegen die Ukraine, Kapitel 9. Münchener Sicherheitskonferenz, Zeitenwende on tour.  [https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=36](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=36)
+
+[^nato-promise-2]: Mary Elise Sarotte (24.9.2023) Historikerin über Nato-Osterweiterung: „Die Ukraine im Stich gelassen“, Putin begründet den Angriff auf die Ukraine auch mit der Nato-Osterweiterung. Historikerin Mary Elise Sarotte rekonstruiert, wie das damals genau war. TAZ. [https://taz.de/Historikerin-ueber-Nato-Osterweiterung/!5961608/](https://taz.de/Historikerin-ueber-Nato-Osterweiterung/!5961608/)
+
+[^nato-promise-3]: The former Soviet leader Mikhail Gorbachev full interview \- BBC News. (2019, November 8). YouTube. [https://www.youtube.com/watch?v=qYVsKoQXATY](https://www.youtube.com/watch?v=qYVsKoQXATY)
+
+[^nato-promise-4]: Founding Act on Mutual Relations, Cooperation and Security between NATO and the Russian Federation signed in Paris, France. (1997, May 27). NATO. Retrieved May 1, 2024, from [https://www.nato.int/cps/su/natohq/official\_texts\_25468.htm](https://www.nato.int/cps/su/natohq/official\_texts\_25468.htm)
+
+[^nato-promise-5]:  Thomas Franke, 2023\. Der Krieg gegen die Ukraine ist eine Reaktion Russlands auf die NATO-Osterweiterung. In: N. Pryhornytska, K. Pavlova, ed. Ukraine im Fokus. Propaganda erkennen, Fakten verstehen. Berlin: CRISP, pp. 31-35. 
+
+[^nato-promise-6]: Christian Nünlist (14. Dezember 2018)) Krieg der Narrative – Das Jahr 1990 und die NATO-Osterweiterung. SIRIUS – Zeitschrift für Strategische Analysen
+Band 2 Heft 4. De Gruyter Brill. [https://www.degruyterbrill.com/document/doi/10.1515/sirius-2018-4007/html](https://www.degruyterbrill.com/document/doi/10.1515/sirius-2018-4007/html)
+
+[^nato-promise-7]:  Nato-Osterweiterung Wurde die Sowjetunion über den Tisch gezogen? (30. März 2022). MDR. [https://www.mdr.de/geschichte/zeitgeschichte-gegenwart/politik-gesellschaft/zwei-plus-vier-verhandlungen-deutsche-einheit-nato-osterweiterung-putin-100.html](https://www.mdr.de/geschichte/zeitgeschichte-gegenwart/politik-gesellschaft/zwei-plus-vier-verhandlungen-deutsche-einheit-nato-osterweiterung-putin-100.html)
