@@ -146,7 +146,7 @@ We want to counter Russian lies with truths. We don't want to be balanced. There
 -   we prefer tables over pictures
 -   we use data based charts or other executed R-code only if absolutely necessary
 -   we use pictures only if absolutely necessary (pictures cause network traffic, consume energy and emit CO2)
--   we minimize picture size (svg or png or jpg, ≤ 1280 x 1280 Pixel and reasonably compressed)
+-   we minimize picture size (svg or png or jpg, ≤ 1280 x 1280 Pixel and reasonably compressed, see for example [https://tinypng.com/](https://tinypng.com/))
 -   we prefer square pictures, and prefer 3:4 resp. 4:3 over 9:16 and 16:9
 
 

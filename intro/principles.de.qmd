@@ -150,7 +150,7 @@ Wir wollen russische Lügen mit Wahrheiten kontern. Wir wollen nicht ausgewogen 
 - wir bevorzugen Tabellen gegenüber Bildern
 - wir verwenden datenbasierte Diagramme oder anderen ausgeführten R-Code nur, wenn es unbedingt notwendig ist
 - wir verwenden Bilder nur, wenn es unbedingt notwendig ist (Bilder verursachen Netzwerkverkehr, verbrauchen Energie und stoßen CO2 aus)
-- wir minimieren die Bildgröße (svg oder png oder jpg, ≤ 1280 x 1280 Pixel und vernünftig komprimiert)
+- wir minimieren die Bildgröße (svg oder png oder jpg, ≤ 1280 x 1280 Pixel und vernünftig komprimiert, siehe zum Beispiel [https://tinypng.com/](https://tinypng.com/))
 - wir bevorzugen quadratische Bilder, und ziehen 3:4 bzw. 4:3 gegenüber 9:16 und 16:9 vor
 
 
