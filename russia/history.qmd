@@ -1,39 +1,208 @@
 ---
 abstract: > 
-  Help us write: How the evil empire expanded by spreading fear, torture, murder and famine. Spoiler: muscovite Russia.
+  How the evil empire expanded by spreading fear, torture, murder and famine. Spoiler: muscovite Russia using mongol methods.
 ---
 
 # Russia history {#sec-russia-history}
 
 ::: {.callout-caution title="Myth"}
 Throughout its history, Russia has never attacked anyone
-[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russia%20history&sort=relevance)
+[![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/?text=russia%20history&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-Russia expanded its evil empire by attacking and russifying its neighbors
+Russia expanded its empire by attacking and russifying its neighbors with ruthless methods that they adopted from the Mongols.[![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%96%D0%BC%D0%BF%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%96%D0%B7%D0%BC)
 :::
 
-For the future plans of of the evil empire see @sec-russia-empire.
+This chapter is about the history of the muscovite empire, which only late in history renamed itself to the "russian" empire, in order to to lay claim to Kyiv Rus', see @sec-ukraine-kyiv. For the future plans of of the russian empire see @sec-russia-empire.
 
-## A
 
-{{< var todo >}}
+## Russian Imperialism
 
-## B
+> Russian imperialism  is a state idea according to which Russia can exist only in the form of an empire, as well as the state policy of Russia in various historical phases of its existence (the Grand Duchy of Moscow, the Moscow Kingdom, the Russian Empire, the USSR, the Russian Federation), aimed at subjugating conquered peoples and conquering new territories, establishing political and economic control over other states.  
+>  
+> Russian imperialism, as a state policy, is based on ideological clichés created to justify the "right of supremacy", "chosenness", "holiness of Rus", "protection of Orthodoxy", "seniority", "involvement in civilization", "protection of peace and the disadvantaged", "superiority of Russian culture", opposition to the "hostile environment". Historically, Russian imperialism is the heir to the culture of power of the Golden Horde: concentration of power in one hand, rejection of treaties, violence. The modern imperialist policy of Russia is based, first of all, on the neglect of civilizational values, and in some cases - also on military or economic superiority over neighboring states or peoples.  
+>  
+>  The main ways of consolidating Muscovy/Russia in the occupied territories are military presence, forceful (police) pressure, creating discord in the occupied territories, ideological justification (propaganda), destruction of national cultures, policies of Russification and artificial change of demographic composition.[^russia-history-2]
 
-{{< var todo >}}
+![[Territorial Expansion of Russia (Wikimedia)](https://commons.wikimedia.org/wiki/File:Territorial_Expansion_of_Russia.svg)](RussiaHistory.jpg)
 
-## C
 
-{{< var todo >}}
+## Mongol War methods
 
-## D
+In 1169, Kyiv was conquered by Prince Andrei Bogolyubsky of Vladimir-Suzdal, see @sec-ukraine-kyiv.
 
-{{< var todo >}}
+From 1238 to 1480, the khans of the Golden Horde ruled Kyiv Rus.
 
-## E
+In 1277, the Moscow prince Daniil Alexandrovich received a khan's label for a separate principality within the Grand Duchy of Vladimir. Moscow at that time was still a small, unremarkable town
 
-{{< var todo >}}
+In 1331 the Prince of Moscow assumed the title of Grand Duke and in 1389 the title of Prince of Vladimir-Suzdal was absorbed into the title of Grand Duke of Moscow.
 
+> The Mongols understood the power of propaganda better than any other force. They didn’t just wage war on the battlefield; they waged psychological warfare on entire populations. They would often exaggerate their numbers and the brutality of their tactics, knowing full well that fear could sometimes do more damage than arrows or swords. By the time the Mongols appeared at the gates, many cities had already lost the battle in their minds. The choice between surrender or certain death seemed all too clear.[^russia-history-7]
+
+The Muscovites unscrupulously adopted many elements of Mongol warfare,[^russia-history-1] [^russia-history-6] [^russia-history-5] [^russia-history-8] with the help of which they forcibly expanded the territory under their control ever since:
+
+- **Attack**: Genghis Khan always kept the military initiative, forcing his opponents to react while he was already preparing the next attack.
+- **Secret services**: The Mongols made extensive use of agents, for espionage and influence operations
+- **Division**:  The Mongols used agents of influence to foment conflict between local rulers in order to weaken both and then triumph as the laughing third[^russia-history-4]
+- **Breach of treaty**: long sieges were avoided: the Mongol armies preferred a quick assault, a stratagem or a breach of treaty
+- **Psy-Ops**:  The Mongols used the concept of “psychological warfare” to its fullest extent for the first time. For example, they carried puppets on their spare horses to deceive the enemy about their strength, spread rumors to discourage the enemy.
+- **Fear**: In the 14th century, they erected structures made of human bones in front of a destroyed city as a symbol of their passage. Then they let some survivors escape to spread terror in the surrounding area.
+- **State terror**: The Mongols systematically used terror as a military weapon. They avoided fighting with the main force of the enemy, and instead terrorized civilians and destroyed infrastructure.[^russia-history-11]
+- Human shields**: The Mongols systematically used terror as a psychological weapon. Using the so-called Kharash tactic, the attackers drove a number of subjugated villagers in front of them to protect themselves from counter-attacks - a kind of “living shield”
+- **Deceptive attacks**: The Mongols confused the enemy with simultaneous deceptive attacks
+- **Hope and ...**: The Mongols always left an escape route open for the enemy and never completely closed them in. This prevented the enemy from fighting with the courage of desperation. 
+- **... War crime**: However, the enemy did not know that fleeing opponents were attacked in close combat and pursued extremely long and tenaciously. The pursuit of defeated opponents to the last man was a core aspect of Mongol warfare and often lasted for several days.
+- **Forced recruitment**: Encircled opponents were taken prisoner, and forced to fight against their own countrymen
+- **Poison**: The Mongols used various types of arrows, including arrows with viper venom and those with whistling noises for psychological warfare
+- **Deportations**: Normally, the upper class of a conquered city was generally ordered to move to a new area. If they refused, the entire city population was expelled or massacred (except for a handful of specialists), and the city and surrounding fields were burned to the ground.
+- **Hostage-taking**: Mongols blackmailed local governors with relatives kidnapped and taken hostage[^russia-history-3]
+- **Child abduction and re-education**: Young nobles were often educated in Mongol camps, where they learned to despise their own culture, and later sent back to rule their homelands.
+- **Genocide**: Since the Mongols could not sustainably control many areas, they repeatedly wreaked extreme carnage, sometimes outright paralyzing their opponents out of horror. The Mongols killed an estimated 40 - 60 million people.[^russia-history-10]
+- **War of extermination**: If an enemy refuses to submit, the Mongols practiced a stratagem of "total war" 
+- **Urbicide**: As a punitive action, the Mongols wiped out entire cities.
+- **Ecocide and Famine**: The Mongols destroyed irrigation systems, salinized and scorched farmland, burned crops. 
+- **Book Burnings**: Destruction of the enemy's hospitals, educational institutions and libraries was also part of the Mongols' tactics.
+- **Systematische Folter**: Die Mongolen waren bekannt für ihre brutalen Foltermethoden und Hinrichtungen. 
+- **Sklaverei und Vergewaltigung**: Die Mongolen hielten Tartarinnen als Sexsklavinnen
+- **Biologische Kriegsführung** Die Mongolen schleuderten kranke Kadaver in die Städte, die sie belagerten. Es wird vermutet, dass Flöhe, die auf den Körpern der Kadaver zurückblieben, als Vektoren für die Verbreitung des Schwarzen Todes dienten.
+
+
+Anyone who recognizes Russia's behaviour here: this is no coincidence:
+
+> The Mongols created an architecture of atrocity a system where terror wasn't just a tool of war but a foundation of their empire.  
+>  
+> when the city of Marv fell in February 1221 Toui Khan ordered a systematic way of counting the dead mongol officers were told to cut off one ear from each corpse and different colored threads were used to mark military and civilian casualties the total count came to 1.3 million ears which were sorted and recorded by Mongol administrators these ears were then sent to other cities as a warning showing reluctant rulers the price of defiance as one Persian historian wrote "The Mongols made mathematics serve terror".[^russia-history-9]
+
+The calculated mass murder on an industrial scale proves that with the Mongolian "culture" a fascist system stood at the beginning of the Muscovite empire, see also @sec-nazis-russia.
+
+
+## History of violent expansion
+
+
+Empire name|Territory|Year of capture|Year and stages of liberation
+---|---|---|---
+Moscow Principality|Moscow|1277|-
+Moscow Principality|Kolomna|1301|-
+Moscow Principality|Pereslavl-Zalessky|1302|-
+Moscow Principality|Mozhaisk|1303|-
+Moscow Principality|Uglych|1328|-
+Moscow Principality|Rostov (Sretensky half)|1332|-
+Moscow Principality|Yuryev-Polsky|1340-1341|-
+Moscow Principality|Dmitrov|1364|-
+Moscow Principality|Vladimir ( Principality of Vladimir )|1362-1364|-
+Moscow Principality|Halych-Mersky|1363-1364|-
+Moscow Principality|Starodub-on-Klyazma|late 1370s|-
+Moscow Principality|Kaluga , Maloyaroslavets|1382-1389|-
+Moscow Principality|Beloozero , Ustyuzhna|1389|-
+Moscow Principality|Nizhny Novgorod , Yuryevets , Gorodets|1392-1393|-
+Moscow Principality|By the wall|1392-1393|-
+Moscow Principality|Meshcherskaya land|1389-1393|-
+Moscow Principality|Vologda , Ustyug|1397-1398|-
+Moscow Principality|Tarusa|1392|-
+Moscow Principality|Rzhev|1389-1405|-
+Moscow Principality|Suzdal ( Principality of Suzdal )|1392-1446|-
+Moscow Principality|Rostov ( Rostov Principality )|1447|-
+Moscow Principality|Yaroslavl|1463|-
+Moscow Principality|Vazhsky land|1462-1471|-
+Moscow Principality|Perm Land ( Grand Duchy of Perm )|1472|-
+Moscow Principality|Torzhok , Bezhetsk|1389-1478|-
+Moscow Principality|Veliky Novgorod ( Novgorod Republic )|1478|-
+Moscow Principality|Wedge|1482|-
+Moscow Principality|Kashira|1483|-
+Moscow Principality|Tver ( Grand Duchy of Tver )|1485|-
+Moscow Principality|Vyatka land|1489|-
+Moscow Principality|Vyazma|1493-1494|-
+Moscow Principality|Tula|1462-1503|-
+Moscow Principality|Bryansk|1503|-
+Moscow Principality|Mtsensk|1505|-
+Moscow Principality|Kursk|1508|-
+Moscow Principality|Pskov ( Pskov Veche Republic )|1461-1510|-
+Moscow Principality|Ryazan ( Grand Duchy of Ryazan )|1521|-
+Moscow Kingdom|Chuvashia|1551-1557|-
+Moscow Kingdom|Kazan Khanate|1552|-
+Moscow Kingdom|Mordovia|1552|-
+Moscow Kingdom|Udmurtia|1552-1556|-
+Moscow Kingdom|Mari El|1552-1584|-
+Moscow Kingdom|Bashkortostan|1554-1557|-
+Moscow Kingdom|Astrakhan Khanate|1554-1556|-
+Moscow Kingdom|Great Nogai Horde|1557-1606|In 1991, part of the territory became part of Kazakhstan after the collapse of the USSR. 
+Moscow Kingdom|Siberian Khanate|1582-1598|-
+Moscow Kingdom|Principality of Koda|1583-1643|-
+Moscow Kingdom|Demyansk , Tsinghalsk , Belogorsk principalities|1586|-
+Moscow Kingdom|Principality of Lyapin|1586-1593|-
+Moscow Kingdom|Principality of Obdor|1586-1593|-
+Moscow Kingdom|Pelym (union of the Kondysh and Vogul principalities)|1594|-
+Moscow Kingdom|"Piglet" Horde (Russian: Pegaya Horde)|1596-1610|-
+Moscow Kingdom|Yenisei Valley |1601-1628|-
+Moscow Kingdom|Sakha (Yakutia )|1632-1638|-
+Moscow Kingdom|Baikal region|1631-1645|-
+Moscow Kingdom|Left-bank Ukraine|1667-1686|In 1991, after the collapse of the USSR, it became part of Ukraine.
+Russian Empire|Buryatia|1689-1703|-
+Russian Empire|Kamchatka Krai|1697-1708|-
+Russian Empire|Ijoria (Ingenmarlandia) , Estonia , Livonia|1700-1721|In 1918, Estonia and Latvia gained independence.
+Russian Empire|Junior Zhuz of the Kazakh Khanate|1731|In 1991 they became part of Kazakhstan.
+Russian Empire|Altai|1756|-
+Russian Empire|Khakassia|1727-1758|-
+Russian Empire|Eastern Belarus|1772|In 1991 it became part of Belarus.
+Russian Empire|Zaporozhian Sich|1775|In 1991 it became part of Ukraine.
+Russian Empire|Chukotka|1652-1778|-
+Russian Empire|Aleutian Islands|1745-1791|Sold to the United States of America in 1867 
+Russian Empire|Alaska|1784-1791|Sold to the United States of America in 1867 
+Russian Empire|Crimean Khanate|1783-1791|In 1991, Crimea and Tavria became part of Ukraine.
+Russian Empire|Minsk region of Belarus , Kyiv region , Podillia , eastern Volyn|1793|In 1991 it became part of Ukraine and Belarus.
+Russian Empire|Lithuania , Courland , Western Belarus , Western Volhynia|1795|In 1991 it became part of Lithuania , Latvia , Belarus , and Ukraine.
+Russian Empire|Kingdom of Kartli-Kakheti ( Georgia )|1801|In 1991, Georgia gained independence.
+Russian Empire|Azerbaijani Khanates|1804-1828|In 1991, Azerbaijan and Armenia gained independence.
+Russian Empire|Finland|1808-1809|In 1917, Finland declared independence.
+Russian Empire|Bessarabia|1812|In 1918 it became part of Romania.
+Russian Empire|Duchy of Warsaw|1813-1815|In 1918 it became part of the Polish Republic.
+Russian Empire|Circassia , Dagestan , Chechnya|1817-1859|-
+Russian Empire|Middle and Senior Zhuz of the Kazakh Khanate|1822-1847|In 1991, Kazakhstan gained independence.
+Russian Empire|Amur Region , Primorye|1856-1860|-
+Russian Empire|Kokand Khanate|1864-1876|In 1991 , Uzbekistan , Tajikistan , Kazakhstan , and Kyrgyzstan gained independence.
+Russian Empire|Bukhara Emirate|1868-1920|In 1991, Uzbekistan and Tajikistan gained independence.
+Russian Empire|Khiva Khanate|1873-1920|In 1991, Uzbekistan and Turkmenistan gained independence.
+Soviet Empire|Poland|1939-1945|In 1989, Poland regained independence.
+Soviet Empire|Baltic states (Estonia, Latvia, Lithuania)|1939-1940|In 1991, after the collapse of the USSR, the baltic states regained independence
+Soviet Empire|Karelia|1939-1945|-
+Soviet Empire|Bukovina and Bessarabia (Romania)|1940|In 1991, after the collapse of the USSR, it became part of Romania and Ukraine.
+Soviet Empire|Tuvan People's Republic|1944|-
+Soviet Empire|Transcarpathia|1938-1945|In 1991, after the collapse of the USSR, it became part of Hungary, Romania and Ukraine.
+Soviet Empire|East Prussia with Königsberg|1938-1945|-
+Soviet Empire|East Germany|1945|In 1990, Eastern Germany was re-unified with Western Germany
+Soviet Empire|Czechoslovakia|1945|In 1989 communist rule ended and in 1993 the country peacefully dissolved into the Czech Republic and Slovakia
+Soviet Empire|Hungary|1945|In 1989, Hungary regained independence.
+Soviet Empire|Romania  |1945|In 1989 communist rule ended
+Soviet Empire|Bulgaria  |1945|In 1989 communist rule ended
+Soviet Empire|Albania  |1945|In 1990 communist rule ended
+Russian Federation|Transnistria|1992|Although officially part of Moldavia, Transnistria is de facto under russian control.
+Russian Federation|Chechnya  |1994-1996|-
+Russian Federation|Chechnya  |1999-2009|-
+Russian Federation|Abkhazia and South Ossetia|2008|Although officially part of Georgia, Russia has declared Abkhazia and South Ossetia „independent“ and they are de facto under russian control.
+Russian Federation|Crimea|2014 – 2022|Although officially part of Ukraine, Russia has annexed and Crimea is de facto under russian control.
+Russian Federation|Donetsk, Luhansk, Kherson, and Zaporizhzhia Regions  |2014 – 2022|Although officially part of Ukraine, Russia has annexed and parts of this regions are under russian control.
+
+[^russia-history-1]: Mongolische Kriegführung (abgerufen Juni 2025) Wikipedia. [https://de.wikipedia.org/wiki/Mongolische_Kriegf%C3%BChrung](https://de.wikipedia.org/wiki/Mongolische_Kriegf%C3%BChrung)
+
+[^russia-history-2]: Russian imperialism (accessed June 2025) Wikipedia. [https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%96%D0%BC%D0%BF%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%96%D0%B7%D0%BC](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%96%D0%BC%D0%BF%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%96%D0%B7%D0%BC)
+
+[^russia-history-3]: Geschichte der Ukraine (abgerufen Juni 2025) Wikipedia [https://de.wikipedia.org/wiki/Geschichte_der_Ukraine](https://de.wikipedia.org/wiki/Geschichte_der_Ukraine)
+
+[^russia-history-4]: https://en.wikipedia.org/wiki/Kiev_in_the_Golden_Horde_period (accessed June 2025) Wikipedia [https://en.wikipedia.org/wiki/Kiev_in_the_Golden_Horde_period](https://en.wikipedia.org/wiki/Kiev_in_the_Golden_Horde_period)
+
+[^russia-history-5]: Captain Dana J. H. Pittard (July 1986) Genghis Khan and 13th-Century AirLand Battle. Military Review. [https://www.armyupress.army.mil/Journals/Military-Review/Directors-Select-Articles/Genghis-Khan/](https://www.armyupress.army.mil/Journals/Military-Review/Directors-Select-Articles/Genghis-Khan/)
+
+[^russia-history-6]: (accessed June 2025) The Secret History of the Mongols
+. [https://www.mongolian-art.de/01_mongolian_art/gallery_comic_secret_history_mongols/036-0370.jpg.html](https://www.mongolian-art.de/01_mongolian_art/gallery_comic_secret_history_mongols/036-0370.jpg.html)
+
+[^russia-history-7]: Duke and Wally (January 24, 2025) The Genius of Mongol Warfare: Strategies That Conquered Empires [https://www.thenotsoinnocentsabroad.com/blog/the-genius-of-mongol-warfare-strategies-that-conquered-empires](https://www.thenotsoinnocentsabroad.com/blog/the-genius-of-mongol-warfare-strategies-that-conquered-empires)
+
+[^russia-history-8]: Jang, J. & Kim, K. (2023). A Comparative Study of the Military Tactics of the Mongol Empire and Goguryeo Kingdom (Goryeo). Mongolian Diaspora. Journal of Mongolian History and Culture, 3(1), 53-68. [https://doi.org/10.1515/modi-2023-2001](https://doi.org/10.1515/modi-2023-2001)
+
+[^russia-history-9]: Beyond The Known (28.03.2025) Genghis Khan’s Most Terrifying Torture Methods. Youtube. [https://www.youtube.com/watch?v=qT4D6Nk8Gxk](https://www.youtube.com/watch?v=qT4D6Nk8Gxk)
+
+[^russia-history-10]: Destruction under the Mongol Empire. (accessed June 2025)  Wikipedia. [https://en.wikipedia.org/wiki/Destruction_under_the_Mongol_Empire](https://en.wikipedia.org/wiki/Destruction_under_the_Mongol_Empire)
+
+[^russia-history-11]: Jay Ramesh (2024 October 5) How the Mongol Empire’s Brutality Relates to Terrorist Tactics. [https://jfacunc.org/miscellaneous/how-the-mongol-empires-brutality-relates-to-terrorist-tactics](https://jfacunc.org/miscellaneous/how-the-mongol-empires-brutality-relates-to-terrorist-tactics)
 

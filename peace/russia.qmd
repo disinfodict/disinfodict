@@ -15,6 +15,12 @@ Russia wants peace
 - Russia even wants to conquer the US
 :::
 
+The russian empire was born fromn the learnings of the mongol empire, see @sec-russia-history. 
+
+Rule 5 of the Mongol laws of war (Yassa) reads:
+
+> It is forbidden to ever make peace with a monarch, a prince or a people who have not submitted.[^peace-russia-4]
+
 
 ## Poland 
 
@@ -55,3 +61,5 @@ Khrushchev was overheard to say, "at the final reception" for the polish leader:
 
 [^peace-russia-3]: The Cold War & Disinformation. (2022, November 9) L.M. Elliott. 
 [https://lmelliott.com/book_landing_page_historical/walls/educators-guide-media-literacy-walls](https://lmelliott.com/book_landing_page_historical/walls/educators-guide-media-literacy-walls)
+
+[^peace-russia-4]: ICRC Global Affairs Team (04/07/2024) Mongol Laws of War. [https://blogs.icrc.org/religion-humanitarianprinciples/mongol-laws-of-war/](https://blogs.icrc.org/religion-humanitarianprinciples/mongol-laws-of-war/)
