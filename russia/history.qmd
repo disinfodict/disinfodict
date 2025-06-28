@@ -1,6 +1,6 @@
 ---
 abstract: > 
-  How the evil empire expanded by spreading fear, torture, murder and famine. Spoiler: muscovite Russia using mongol methods.
+  How the russian empire expanded by spreading fear, torture, murder and famine: muscovite Russia did this using mongol methods.
 ---
 
 # Russia history {#sec-russia-history}

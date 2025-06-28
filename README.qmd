@@ -202,141 +202,6 @@ To shield you from any complexities with using the git command line, we suggest 
 
 # Deployment
 
-## Render
-
-```{R}
-babelquarto::render_book()
-```
-
-## E-book check
-
-### install epubcheck
-
-```{}
-sudo apt install epubcheck
-```
-
-### basic check
-
-```{}
-epubcheck _book/Disinfo-Dictionary.epub
-epubcheck _book/de/Desinfo-Lexikon.epub
-```
-
-### accessibility check at 
-
-We use  [ACE by Daisy](https://daisy.org/activities/software/ace/), the [ACE-app is easy to intall and use](https://daisy.github.io/ace/getting-started/ace-app/)
-
-
-## Fix sitemap
-
-As of 2025-05-03 there were bugs in the sitemap setup of babelquarto 
-1. secondary language-files had wrong paths, e.g. https://mysite.org/index.de.html instead of https://mysite.org/de/index.de.html
-2. there where multiple sitemap.xml but only one mentioned in robots.txt (primary language mentioned, secondary not)
-The following R-code replaces all those sitemap.xml with one that lists all available languages for each file as described in https://developers.google.com/search/docs/specialty/international/localized-versions. 
-
-P.S. The warnings are weird
-
-```{R}
-#install.packages("xml2")
-require(xml2)
-ccs <- c("en","de")
-sitemap <- read_xml("_book/sitemap.xml")
-xml_attr(sitemap, 'xmlns:xsi') <- "http://www.w3.org/2001/XMLSchema-instance"
-xml_attr(sitemap, 'xsi:schemaLocation') <- "http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.w3.org/1999/xhtml http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"
-xml_attr(sitemap, 'xmlns:xhtml') <- "http://www.w3.org/1999/xhtml"
-files <- xml_children(sitemap)
-for (f in files){
-  nodes <- xml_children(f)
-  loc <- nodes[[1]]
-  stopifnot(xml_name(loc) == "loc")
-  def <- xml_text(loc)
-  defcom <- url_parse(def)
-  for (l in rev(seq_along(ccs))) {
-    nn <- read_xml('<xhtml:link rel="alternate"/>', options="NOWARNING")  # suppressing the warnings "Namespace prefix xhtml on link is not defined" doesn't work
-    cc <- ccs[l]
-    xml_attr(nn, "hreflang") <- cc
-    if (l == 1){
-      xml_attr(nn, "href") <- def 
-    } else {
-      url <- paste0("https://", defcom$server, if (!is.na(defcom$port)) paste0(":", defcom$port), "/", cc, sub("[.]", paste0(".", cc, "."), defcom$path))
-      xml_attr(nn, "href") <- url 
-    }
-    xml_add_sibling(loc, nn)
-  }
-  tmp <- tempfile()
-  for (l in rev(seq_along(ccs)[-1])){
-    cc <- ccs[l]
-    write_xml(f, tmp)
-    fi <- read_xml(tmp)
-    nodes <- xml_children(fi)
-    loc <- nodes[[1]]
-    url <- paste0("https://", defcom$server, if (!is.na(defcom$port)) paste0(":", defcom$port), "/", cc, sub("[.]", paste0(".", cc, "."), defcom$path))
-    xml_text(loc) <- url
-    xml_add_sibling(f, fi)
-  }
-  file.remove(tmp)
-}
-for (l in seq_along(ccs)){
-  if (l==1){
-    # top-level sitemap
-    write_xml(sitemap, file.path("_book", "sitemap.xml"))
-  }else{
-    # remove all other sitemaps
-    file.remove(file.path("_book", ccs[l], "sitemap.xml"))
-    # remove from redireting index.html the erroneous lines with '<link rel="alternate" hreflang'
-    index <- readLines(file.path("_book", ccs[l], "index.html"))
-    writeLines(index[substr(index, 1, 30) != '<link rel="alternate" hreflang'], file.path("_book", ccs[l], "index.html"))
-  }
-}
-```
-
-## Fix cloudflare 
-
-```{R}
-baseurl <- "https://disinfodict[.]org"  # [.] for regexp
-ccs <- c("en","de")
-# for secondary languages remove the redirection index.html and rename the country-specific one into index.html
-for (cc in ccs[-1]){
-  file.remove(paste0("_book/", cc, "/index.html"))  # remove the indirection
-  file.rename(paste0("_book/", cc, "/index.", cc, ".html"), paste0("_book/", cc, "/index.html"))  # rename the real one
-}
-# now change all absolute and relative internal links in all html pages
-files <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
-for (f in files){
-  lines <- readLines(f)
-  for (cc in ccs){
-    if (cc==ccs[1]){
-      lines <- gsub(paste0('("', baseurl, ')(/index[.]html")'), '\\1"', lines)
-      lines <- gsub('("[^h][^"]*)(/index[.]html")', '\\1"', lines)
-    }else{
-      lines <- gsub(paste0('("', baseurl, '/', cc,  ')(/index[.]', cc , '[.]html")'), '\\1"', lines)
-      lines <- gsub(paste0('("[^h][^"]*/',  cc, ')(/index[.]', cc, '[.]html")'), '\\1"', lines)
-    }
-  }
-  lines <- gsub(paste0('("', baseurl, '/[^"]+)([.]html")'), '\\1"', lines)
-  lines <- gsub('("[^h][^"]*)([.]html")', '\\1"', lines)
-  writeLines(lines, f)
-}
-# now change all absolute links in sitemap.xml
-lines <- readLines('_book/sitemap.xml')
-for (cc in ccs){
-  if (cc==ccs[1]){
-    lines <- gsub(paste0('(<loc>', baseurl, ')(/index[.]html</loc>)'), '\\1</loc>', lines)
-    lines <- gsub(paste0('("', baseurl, ')(/index[.]html")'), '\\1"', lines)
-  }else{
-    lines <- gsub(paste0('(<loc>', baseurl, '/', cc, ')(/index[.]', cc, '[.]html</loc>)'), '\\1</loc>', lines)
-    lines <- gsub(paste0('("', baseurl, '/', cc ,')(/index[.]', cc, '[.]html")'), '\\1"', lines)
-  }
-}
-lines <- gsub(paste0('(<loc>', baseurl, '/.+)([.]html</loc>)'), '\\1</loc>', lines)
-lines <- gsub(paste0('("', baseurl, '/[^"]+)([.]html")'), '\\1"', lines)
-writeLines(lines, '_book/sitemap.xml')
-```
-
-
-# Expert use only
-
 ## Measuring dictionary status
 
 ```{R}
@@ -387,6 +252,223 @@ if (length(dereserved))
 d$reserved <- ifelse(enreserved, 'reserved', '')
 save(d, file = "status.RData")
 ```
+
+## Render
+
+```{R}
+babelquarto::render_book()
+```
+
+## E-book check
+
+### install epubcheck
+
+```{}
+sudo apt install epubcheck
+```
+
+### basic check
+
+```{}
+epubcheck _book/Disinfo-Dictionary.epub
+epubcheck _book/de/Desinfo-Lexikon.epub
+```
+
+### accessibility check at 
+
+We use  [ACE by Daisy](https://daisy.org/activities/software/ace/), the [ACE-app is easy to intall and use](https://daisy.github.io/ace/getting-started/ace-app/)
+
+
+## Fix index
+
+Babelquarto has index.html redirect to index.<cc>.html. Google doens't like redirection.
+We delete index.html and rename index.<cc>.html to index.html.
+
+```{R}
+baseurl <- "https://disinfodict[.]org"  # [.] for regexp
+ccs <- c("en","de")
+# for secondary languages 
+for (cc in ccs[-1]){
+  # remove from redirecting index.html the erroneous lines with '<link rel="alternate" hreflang'
+  lines <- readLines(file.path("_book", cc, "index.html"))
+  writeLines(lines[substr(lines, 1, 30) != '<link rel="alternate" hreflang'], file.path("_book", cc, "index.html"))
+  # remove the redirection index.html and rename the country-specific one into index.html
+  file.remove(paste0("_book/", cc, "/index.html"))  # remove the indirection
+  file.rename(paste0("_book/", cc, "/index.", cc, ".html"), paste0("_book/", cc, "/index.html"))  # rename the real one
+}
+```
+
+## Fix sitemap
+
+As of 2025-05-03 there were bugs in the sitemap setup of babelquarto 
+1. secondary language-files had wrong paths, e.g. https://mysite.org/index.de.html instead of https://mysite.org/de/index.de.html
+2. there where multiple sitemap.xml but only one mentioned in robots.txt (primary language mentioned, secondary not)
+The following R-code replaces all those sitemap.xml with one that lists all available languages for each file as described in https://developers.google.com/search/docs/specialty/international/localized-versions. 
+
+P.S. The warnings are weird
+
+```{R}
+#install.packages("xml2")
+require(xml2)
+ccs <- c("en","de")
+# get names of pdfs and epubs (don't follow html naming conventions of babelquarto)
+epub <- pdf <- vector("character", length(ccs))
+names(epub) <- names(pdf) <- ccs
+for (cc in ccs){
+  if (cc==ccs[1]){
+    pdf[cc] <- dir("_book", "[.]pdf", recursive=FALSE, include.dirs = FALSE, full.names = FALSE)
+    epub[cc] <- dir("_book", "[.]epub", recursive=FALSE, include.dirs = FALSE, full.names = FALSE)
+  }else{
+    pdf[cc] <- dir(file.path("_book", cc), "[.]pdf", recursive=FALSE, include.dirs = FALSE, full.names = FALSE)
+    epub[cc] <- dir(file.path("_book", cc), "[.]epub", recursive=FALSE, include.dirs = FALSE, full.names = FALSE)
+  }
+}
+sitemap <- read_xml("_book/sitemap.xml")
+xml_attr(sitemap, 'xmlns:xsi') <- "http://www.w3.org/2001/XMLSchema-instance"
+xml_attr(sitemap, 'xsi:schemaLocation') <- "http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.w3.org/1999/xhtml http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"
+xml_attr(sitemap, 'xmlns:xhtml') <- "http://www.w3.org/1999/xhtml"
+files <- xml_children(sitemap)
+tmp <- tempfile()
+for (f in files){
+  nodes <- xml_children(f)
+  loc <- nodes[[1]]
+  stopifnot(xml_name(loc) == "loc")
+  def <- xml_text(loc)
+  defcom <- url_parse(def)
+  if (defcom$path != "/impressum.html"){
+    for (cc in rev(ccs)) {
+      nn <- read_xml('<xhtml:link rel="alternate"/>', options="NOWARNING")  # suppressing the warnings "Namespace prefix xhtml on link is not defined" doesn't work
+      xml_attr(nn, "hreflang") <- cc
+      if (cc == ccs[1]){
+        xml_attr(nn, "href") <- def 
+      } else {
+        if (length(grep("index[.]html", defcom$path)))
+          url <- paste0("https://", defcom$server, if (!is.na(defcom$port)) paste0(":", defcom$port), "/", cc, "/", "index.html")
+        else if (length(grep("[.]pdf", defcom$path)))
+          url <- paste0("https://", defcom$server, if (!is.na(defcom$port)) paste0(":", defcom$port), "/", cc, "/", pdf[cc])
+        else if (length(grep("[.]epub", defcom$path))) 
+          url <- paste0("https://", defcom$server, if (!is.na(defcom$port)) paste0(":", defcom$port), "/", cc, "/", epub[cc])
+        else
+          url <- paste0("https://", defcom$server, if (!is.na(defcom$port)) paste0(":", defcom$port), "/", cc, sub("[.]", paste0(".", cc, "."), defcom$path))
+        xml_attr(nn, "href") <- url 
+      }
+      xml_add_sibling(loc, nn)
+    }
+    # for each secondary language clone f and put secondary loc in it and append it
+    for (cc in rev(ccs[-1])){
+      write_xml(f, tmp); fi <- read_xml(tmp) # clone
+      nodes <- xml_children(fi)
+      loc <- nodes[[1]]
+      if (length(grep("index[.]html", defcom$path)))
+        url <- paste0("https://", defcom$server, if (!is.na(defcom$port)) paste0(":", defcom$port), "/", cc, "/index.html")
+      else if (length(grep("[.]pdf", defcom$path)))
+          url <- paste0("https://", defcom$server, if (!is.na(defcom$port)) paste0(":", defcom$port), "/", cc, "/", pdf[cc])
+      else if (length(grep("[.]epub", defcom$path))) 
+          url <- paste0("https://", defcom$server, if (!is.na(defcom$port)) paste0(":", defcom$port), "/", cc, "/", epub[cc])
+      else
+        url <- paste0("https://", defcom$server, if (!is.na(defcom$port)) paste0(":", defcom$port), "/", cc, sub("[.]", paste0(".", cc, "."), defcom$path))
+      xml_text(loc) <- url
+      xml_add_sibling(f, fi)
+    }
+  }
+}
+file.remove(tmp)
+## write primary sitemap
+write_xml(sitemap, file.path("_book", "sitemap.xml"))
+## remove secondary sitemaps
+for (cc in ccs[-1]){
+  f <- file.path("_book", cc, "sitemap.xml")
+  if (file.exists(f)){
+    file.remove(f)
+  }
+}
+```
+
+
+## Fix canonical, index and impressum in html
+
+Babelquarto does not handle the canonical links, hence we insert the cc folder after the baseurl
+
+```{R}
+baseurl <- "https://disinfodict[.]org"  # [.] for regexp
+ccs <- c("en","de")
+files <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
+for (f in files){
+  b <- basename(f)
+  lines <- readLines(f)
+  if (b == "impressum.html"){
+    # TODO currently all copies are German
+    lines[2] <- '<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de"><head>"'
+    # remove lines with '<link rel="alternate" hreflang'
+    for (cc in ccs){
+      lines <- lines[substr(lines, 1, 30) != '<link rel="alternate" hreflang']
+    }
+  }else{
+    for (cc in rev(ccs[-1])){
+      iscc <- as.logical(length(grep(paste0('_book/', cc), f)))
+      if (iscc){
+        i <- grep(paste0('<link rel="canonical" href="', baseurl), lines)
+        lines[i] <- sub(paste0("(", baseurl, ")"), file.path("\\1", cc), lines[i])      
+        break
+      }
+    }
+    for (cc in rev(ccs[-1])){
+      lines <- gsub(paste0('("', baseurl, '/', cc,  ')(/index[.]', cc , '[.]html")'), '\\1/index.html"', lines)
+      lines <- gsub(paste0('("[^h][^"]*)(/index[.]', cc, '[.]html")'), '\\1/index.html"', lines)
+    }
+  }
+  writeLines(lines, f)
+}
+```
+
+
+## Fix cloudflare 
+
+
+```{R}
+baseurl <- "https://disinfodict[.]org"  # [.] for regexp
+ccs <- c("en","de")
+# now change all absolute and relative internal links in all html pages
+files <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
+for (f in files){
+  lines <- readLines(f)
+  lines <- gsub(paste0('("', baseurl, '/[^"]+)([.]html")'), '\\1"', lines)
+  lines <- gsub('("[^h][^"]*)([.]html")', '\\1"', lines)
+  writeLines(lines, f)
+}
+# now change all absolute links in sitemap.xml
+lines <- readLines('_book/sitemap.xml')
+lines <- gsub(paste0('(<loc>', baseurl, '/.+)([.]html</loc>)'), '\\1</loc>', lines)
+lines <- gsub(paste0('("', baseurl, '/[^"]+)([.]html")'), '\\1"', lines)
+writeLines(lines, '_book/sitemap.xml')
+```
+
+## Analysis
+
+Babelquarto does not handle the canonical links, hence we insert the cc folder after the baseurl
+
+```{R}
+baseurl <- "https://disinfodict[.]org"  # [.] for regexp
+ccs <- c("en","de")
+files <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
+for (f in files){
+  b <- basename(f)
+  lines <- readLines(f)
+  for (cc in ccs[-1]){
+    iscc <- as.logical(length(grep(paste0('_book/', cc), f)))
+    if (iscc){
+      i <- grep(paste0('<link rel="canonical" href="', baseurl), lines)
+      cat(lines[i], "\n")
+      lines[i] <- sub(paste0("(", baseurl, ")"), file.path("\\1", cc), lines[i])      
+      #writeLines(lines, f)
+      break
+    }
+  }
+}
+```
+
+
+# Expert use only
 
 ## Mesasuring dictionary size
 

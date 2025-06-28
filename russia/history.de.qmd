@@ -1,6 +1,6 @@
 ---
 abstract: > 
-  Wie das böse Imperium durch die Verbreitung von Angst, Folter, Mord und Hungersnot expandierte. Spoiler: Das moskowitische Russland mit mongolischen Methoden.
+  Wie das russische Imperium durch die Verbreitung von Angst, Folter, Mord und Hungersnot expandierte: das moskowitische Russland tat dies mit mongolischen Methoden.
 ---
 
 # Geschichte Russlands {#sec-russia-history}
