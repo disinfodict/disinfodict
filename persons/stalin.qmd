@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: Think Stalin was a great leader? Learn about the guy who is responsible for wars and mass-murder.
 ---

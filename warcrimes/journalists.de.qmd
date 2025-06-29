@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russland hat die Jagdsaison auf Journalisten eröffnet. In Russland, in der Ukraine und sogar im Westen versucht Russland die Wahrheit zu unterdrücken und Journalisten zu ermorden.  
 ---

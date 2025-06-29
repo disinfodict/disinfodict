@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Sind Kriegsgefangene Menschen? Dann gelten für sie auch Menschenrechte. Russland behandelt kriegsgefangene Ukrainer schlimmer als Tiere.  
 ---

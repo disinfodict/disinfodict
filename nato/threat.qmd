@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russia kills and rapes out of fear? Nobody wanted to attack Russia, especially not Ukraine. But Russia doesn't want Ukraine to join the EU.
 ---

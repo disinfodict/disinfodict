@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: Ever traveled by train? Been in a crowded station? Then been bombed? How Russia imagines liberation and civilization. In Kramatorsk.
 ---

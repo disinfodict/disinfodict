@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Keine lustige Einleitung: Wie Russland in der Ukraine Völkermord begeht und wie Trump ein Komplize ist. Wisse es. Tu etwas dagegen.
 ---

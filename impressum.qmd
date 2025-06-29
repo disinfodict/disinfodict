@@ -1,3 +1,8 @@
+---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
+---
+
 # Impressum
 
 Angaben gemäß §5 TMG

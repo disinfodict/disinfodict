@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Das russische Fernsehen suggeriert, Russland müsse sich gegen eine starke NATO verteidigen, könne aber problemlos NATO-Hauptstädte mit Atomwaffen beschießen. Wie bitte?
 ---

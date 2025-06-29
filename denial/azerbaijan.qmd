@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Ever been on an airplane? Been a bit scared? When the Russian missile hit? Azerbaijan Airlines flight 8243.
 ---

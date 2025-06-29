@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Read more: literature that is important and not listed as online links in chapters of the Disinfo Dictionary
 ---

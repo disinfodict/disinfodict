@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Warum ist Kyiv die Wiege der ostslavischen Zivilisation? Weil es Moskau zu der Zeit noch nicht gab und dort bis heute unzivilisierte Verbrecher herrschen.  
 ---

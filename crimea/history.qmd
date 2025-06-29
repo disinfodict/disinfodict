@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Heard of Atlantis? How a land disappeared, a people vanished and who is responsible: the history of Crimea.
 ---

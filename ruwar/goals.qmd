@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: Learn why Russia wages war: Russia wants to expand and Putin needs the war to stay in power. 
 ---

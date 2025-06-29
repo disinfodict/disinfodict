@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Every real nation has heroes. Unlike Russia, Ukraine has quite a few. Get to know some of them.
 ---

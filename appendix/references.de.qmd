@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Lies mehr: wichtige Literatur die nicht als Online-Links in den einzelnen Kapiteln des Desinfo-Lexikons aufgeführt ist
 ---

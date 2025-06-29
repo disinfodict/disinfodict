@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Die Ukrainer hatten von der russischen Korruption die Schnauze voll: was der Euro-Maidan in Kyjiv wirklich war.
 ---

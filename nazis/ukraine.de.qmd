@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wusstest Du, dass es in der Ukraine viel weniger Nazis gibt als in Deutschland? In der Ukraine gibt es nichts zu entnazifizieren.
 ---

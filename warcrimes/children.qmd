@@ -1,3 +1,10 @@
+---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
+abstract: > 
+  Help us write: Did you know that abducting and re-educating children is genocide? Russia forces children to fight their parents: one of the most evil warcrimes.
+---
+
 # Warcrimes – children {#sec-warcrimes-children}
 
 ::: {.callout-caution title="Myth"}

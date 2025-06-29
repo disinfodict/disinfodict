@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Don't be fooled: Russia is attacking to turn Ukraine into a colony. Ukraine defends itself. USA does not want to help. This is proxy war?
 ---

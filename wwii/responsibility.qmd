@@ -1,3 +1,10 @@
+---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
+abstract: > 
+  Help us write: Who started World War II? Did you know that Hitler and Stalin agreed to start war against Poland? Read about the Molotov–Ribbentrop Pact.
+---
+
 # WWII responsibility {#sec-ww2-responsibility}
 
 ::: {.callout-caution title="Myth"}

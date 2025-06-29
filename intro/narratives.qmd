@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Recognize the pattern: learn to detect known russian narratives in propaganda texts that look harmless
 ---

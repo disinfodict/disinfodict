@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russia bombs farmers, fields and crops. Russia mines fields and steals crops and agricultural equipment. Even fertilizer and toilets. 
 ---

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Find more: links to recommended sources related to teaching media literacy and debunking russian narratives.
 ---

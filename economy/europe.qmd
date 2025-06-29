@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Gefroren im Winter 2022/23? Trotz fehlendem russischen Gas? Je mehr regenerative Energien wir haben, desto schwächer wird Russland.Frozen in the winter of 2022/23? Despite the lack of Russian gas? The more renewable energies we have, the weaker Russia becomes.
 ---

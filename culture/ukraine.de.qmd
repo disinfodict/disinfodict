@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Hilf zu schreiben: Wie die ukrainische Kultur von Russland ermordet wurde und dennoch überlebte. Was für eine Schönheit. Schau dir das an.
 ---

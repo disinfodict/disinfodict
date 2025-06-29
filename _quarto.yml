@@ -9,7 +9,7 @@ book:
   subtitle: "A dictionary of Myths and Truths"
   #description: "This dictionary consolidates and debunks chronic disinformation narratives detected by several fact-checking organisations."
   author: "Fellas & Partners"
-  date: "last-modified"
+  date: last-modified
   site-url: http://127.0.0.1:4321
   #site-url: https://disinfodict.pages.dev
   #site-url: https://disinfodict.org
@@ -194,12 +194,12 @@ book:
     part-de: "Russland"
     chapters:
     - russia/history.qmd
-    - russia/moscow.qmd
     - russia/empire.qmd
+    - russia/moscow.qmd
     - russia/life.qmd
     - russia/soul.qmd
-    - russia/opposition.qmd
     - russia/values.qmd
+    - russia/opposition.qmd
   - part: "Russia's War"
     part-de: "Russland's Krieg"
     chapters:

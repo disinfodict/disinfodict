@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russland will verhandeln? Und dafür hat Russland die Ukraine überfallen? Während intensiver Verhandlungen? Ziemlich hohl, oder?
 ---

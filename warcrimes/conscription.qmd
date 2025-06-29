@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   You get upset when a country sends soldiers to the front to defend itself? You'd rather get upset when a country lets its neighbor's children fight its neighbor. 
 ---

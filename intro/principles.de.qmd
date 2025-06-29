@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Vertraue uns, hilf uns und hilf Dir selbst: Werte und Prinzipien, Mission und Vision, lerne gut zu schreiben!
 ---

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Immer noch Zweifel? Das ganze Töten aus Versehen? Kenne die Russischen Absichtserklärungen zum Völkermord in der Ukraine.
 ---

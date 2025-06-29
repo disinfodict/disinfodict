@@ -1,0 +1,25 @@
+---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
+abstract: > 
+  Das Desinfo-Lexikon besteht aus vielen Kapiteln. Erfahren Sie, was vollständig ist und wo Sie noch beitragen können.
+---
+
+
+# Status {.unnumbered #sec-status-status}
+
+Dieses Kapitel zeigt den Fertigstellungsstatus aller Kapitel in Englisch und Deutsch in Prozent an. Natürlich können fertige Kapitel noch korrigiert und verbessert werden. Jedes Unterkapitel ohne ```lipsum``-Platzhaltertext und ``TODO``-Notiz gilt als fertig.
+
+Zuletzt aktualisiert `{r} substr(Sys.time(), 1, 19)`.
+
+```{R}
+#| echo: false
+load("../status.RData")
+pm <- pmax(d[,1],d[,2])
+data.frame(status=c(average=mean(pm), fertig=sum(pm==100), "nicht fertig"=sum(pm!=100), "TOTAL"=length(pm)))
+```
+
+```{R}
+#| echo: false
+d
+```

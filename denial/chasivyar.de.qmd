@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Mussten Sie schon einmal flüchten? In einem Wohnheim wohnen? Als die Raketen einschlugen? Lies wie sozial Russland ist.
 ---

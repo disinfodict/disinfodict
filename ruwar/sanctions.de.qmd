@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russland behauptet, dass die Sanktionen Europa und nicht Russland schaden. Und Russland setzt sich für ein Ende der Sanktionen ein!?
 ---

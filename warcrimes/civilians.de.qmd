@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russland ermordet ukrainische Zivilisten ... zur Verteidigung? Lerne mehr über den gezielten russischen Terror gegen die ukrainischen Männer, Frauen und Kinder.
 ---

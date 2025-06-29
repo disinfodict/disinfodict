@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Thou shalt not commit adultery. Thou shalt not covet thy neighbour's wife. Russia rapes and loiters systematically. 
 ---

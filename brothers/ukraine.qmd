@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us: explaining why Ukraine belongs to the European family and how the EU benefits from Ukraine
 ---

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wussten Sie, dass Hetmans gewählt wurden? Erfahren Sie mehr über die Demokratie in der Ukraine und ihre vielen friedlichen Regierungswechsel.
 Stichworte: 

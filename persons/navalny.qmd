@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Consider Navalny democratic opposition? Pro-peace? Anti-imperialistic? Learn something about russian opposition.
 ---

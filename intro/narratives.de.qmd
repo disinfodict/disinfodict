@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Erkenne das Muster: Lerne, bekannte russische Narrative in harmlos wirkenden Propagandatexten zu erkennen
 ---

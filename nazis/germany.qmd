@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
     Did you know that there are far more Nazis in Germany than in Ukraine? What if Russia wants to de-Nazify them all?
 ---

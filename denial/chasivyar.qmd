@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Have you ever had to flee? Live in a hostel? When the rockets hit? Read how social Russia is.
 ---

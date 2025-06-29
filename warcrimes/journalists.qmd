@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russia has opened the hunting season for journalists. In Russia, Ukraine and even in the West, Russia is trying to suppress the truth and murder journalists.  
 ---

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Ich liebe die Sprache meines Kolonisators? Vertreter der Russophonie behaupten, Russisch sei die Sprache des anti-russischen, anti-kolonialen Kampfes. Wer's glaubt.
 ---

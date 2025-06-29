@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: Not our war? If Ukraine falls, Germany is in reach of russian Kamikaze drones. What would "denazification" mean for Germans?!
 ---

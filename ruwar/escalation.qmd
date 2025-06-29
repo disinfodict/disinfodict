@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   The aggressor escalates, not the defender. Putin escalates whether we respect his red lines or not.  
 ---

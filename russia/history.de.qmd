@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wie das russische Imperium durch die Verbreitung von Angst, Folter, Mord und Hungersnot expandierte: das moskowitische Russland tat dies mit mongolischen Methoden.
 ---

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   How the russian empire expanded by spreading fear, torture, murder and famine: muscovite Russia did this using mongol methods.
 ---

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Isn't it fun to chase and kill kids with drones and grenades? Russians think so and enjoy human safari in Cherson.
 ---

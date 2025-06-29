@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: The attacking victim, who wants peace the most, refuses to negotiate? No, the Ukrainians just want security and justice.
 ---

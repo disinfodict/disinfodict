@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Kennen Sie den Trick, um Kriege zu beenden? Nicht durch Beschwichtigung des Aggressors. Indem man den Aggressor besiegt. Dann verhandeln.
 ---

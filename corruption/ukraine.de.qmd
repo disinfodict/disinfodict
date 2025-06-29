@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Korruptionskenner? Erfahre, wie die russische Mafia die Ukraine korrupt machen will ... gegen den Willen der Ukrainer
 ---

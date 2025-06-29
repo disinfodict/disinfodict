@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russland zerbombt zivile Objekte in der Ukraine. Ungezielt Privathäuser und gezielt Infrastruktur: Energie-, Einkaufs-, Gesundheits-, Bildungs und Kultur-Infratruktur. 
 ---

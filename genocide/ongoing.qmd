@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   No funny intro: how Russia commits genocide in Ukraine and how Trump is an accomplice. Know it. Act against it.
 ---

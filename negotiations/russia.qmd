@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russia wants to negotiate? And Russia invaded Ukraine for that? During intensive negotiations? Pretty hollow, isn't it?
 ---

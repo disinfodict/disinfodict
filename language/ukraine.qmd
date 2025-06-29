@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   French equals Portuguese? Learn how Ukrainian is closer to Polish than to Russian and how Russia tried to eradicate the Ukrainian language.
 ---

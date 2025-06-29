@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
    Help us write: Buying weapons for offense is warmongering. Buying weapons for defense is a step towards peace. Some people see it the other way around.
 ---

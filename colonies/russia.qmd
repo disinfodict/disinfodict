@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us to write: How Russia is a colonial empire and how it subdues and exploits its colonies
 ---

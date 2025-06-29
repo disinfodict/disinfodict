@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: how Russia occupied the Zaporizhzhia nuclear power plant, set it on fire and blamed Ukraine for it
 ---

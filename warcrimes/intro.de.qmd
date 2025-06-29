@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wer begeht wohl Kriegsverbrechen an Ukrainern in der Ukraine? Die Ukrainer an sich selbst oder die russischen Angreifer? War jetzt nicht so schwer oder? Lerne mehr.
 ---

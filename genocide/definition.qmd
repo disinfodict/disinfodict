@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: Knew that the inventor of genocide was russian? Learn what genocidce is and about the ten stages of genocide.
 ---

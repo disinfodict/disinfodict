@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wussten Sie, dass es in Deutschland viel mehr Nazis gibt als in der Ukraine? Was wenn Russland die alle entnazifizieren will?
 ---

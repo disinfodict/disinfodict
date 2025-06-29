@@ -1,3 +1,10 @@
+---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
+abstract: > 
+  Help us write: Who liberated Germany from Hitler's fascism? Did you know that the U.S. provided the Sowiet Union with weapons and even bread? Read on.
+---
+
 # WWII liberation {#sec-ww2-liberation}
 
 ::: {.callout-caution title="Myth"}

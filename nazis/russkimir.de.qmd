@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
     Wusstet Ihr, dass „Russki mir“ eine imperialistische, sogar faschistische Ideologie ist? Hört Grok zu:
 ---

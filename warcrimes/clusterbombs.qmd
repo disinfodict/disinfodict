@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: What's wrong about cluster munitions? They must not be used against civilians. Their remains create risks for civilians. Read more.
 keywords: 

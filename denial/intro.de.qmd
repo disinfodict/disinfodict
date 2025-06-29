@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Glauben Sie dem Kreml nicht, bis er es leugnet. Erfahren Sie, wie Russland lügt. Mit einer langen Liste von schamlosen russischen Lügen. 
 ---

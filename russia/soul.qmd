@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   You believe in the “mysterious Russian soul”? It is black, hollow and bloodthirsty. And fascist for centuries.
 ---

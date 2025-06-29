@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   In the beginning God created the heaven and the earth. And russians destroy it. Russians love to rape Mother Nature.
 ---

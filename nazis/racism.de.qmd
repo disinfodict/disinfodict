@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Proletarier aller Länder, vereinigt euch? Alle Menschen werden Brüder? Bekannt, dass Russland eine lange Tradition des Rassismus und Antisemitismus hat? Bekannt, dass „Pogrom“ ein russisches Wort ist?
 keywords: 

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   What you didn't know: Find out more about Ukraine, about the origins of Europe and about Russian lies
 ---

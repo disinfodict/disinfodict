@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Don't believe the Kremlin until he denies it. Learn how Russia lies. With a long list of shameless Russian lies. 
 ---

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
  Help us write: How Russia failed to develop its economy after the end of the cold war and focused on weapons, corruption and inflation.
 ---

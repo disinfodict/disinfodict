@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Werde Experte: (Des)Informations-Terminologie und Propaganda-Techniken
 keywords: 

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Erinnern Sie sich an Kathargo? Erfahren Sie mehr über Urbizide: welche Städte der Serienmörder Russland zerstört hat.
 ---

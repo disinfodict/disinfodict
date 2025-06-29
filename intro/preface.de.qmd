@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Sie könnten es sein: der von der schnellen Suche, der leichten Lesbarkeit und den einfachen Links zum Disinfo-Lexikon profitiert
 ---

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wie das böse Imperium plant, durch die Verbreitung von Angst, Folter, Mord und Hungersnot zu expandieren. Spoiler: Moskowiter Russland.
 ---
@@ -12,6 +14,7 @@ Angela Merkel hat sich für die Schaffung einer gemeinsamen Wirtschaftszone zwis
 
 ::: {.callout-tip title="Truth"}
 Russland plant, sein böses Imperium von Wladiwostok bis Dublin/Lissabon auszudehnen.[^russia-empire-7]
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/INVED.png){height=2em}](https://www.inved-insight.eu/narrative/die-leugnung-des-russischen-imperialismus-im-faktencheck)
 :::
 
 Dies ist die Fortsetzung eines jahrhundertelangen skrupellosen Ausdehnung des russischen Imperiums, siehe @sec-russia-history.
@@ -31,6 +34,10 @@ In einer Rede in Berlin forderte Putin (2010) die geopolitische Einigung des „
 
 > die Gestaltung einer harmonischen Wirtschaftsgemeinschaft von Lissabon bis Wladiwostok. In Zukunft kämen eventuell auch eine Freihandelszone, **gar noch fortgeschrittenere wirtschaftliche Integrationsformen** in Frage  
 > Vladimir Putin (2010)[^russia-empire-2] (unsere Hervorhebung)
+
+Am 20. Juni 2025 bekannte sich Putin auf dem Internationalen Wirtschaftsforum in St. Petersburg offen zu seinen imperialistischen Zielen:
+
+> Russen und Ukrainer sind ein Volk ... In diesem Sinne gehört die gesamte Ukraine uns ... Wo immer ein russischer Soldat seinen Fuß hinsetzt, gehört er uns."[^russia-empire-6]
 
 
 ## Medvedev

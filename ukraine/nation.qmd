@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   How would you feel if someone claims your nation doesn't exist or failed and hence they are going to conquer you? Ukrainians don't like that either.
 ---

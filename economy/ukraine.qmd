@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
  Help us write: How Ukraine developed its economy towards EU standards and leads Europe's defense industry with regard to drone production. 
 ---

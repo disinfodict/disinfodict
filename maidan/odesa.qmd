@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: Knew that there was Maidan in Odesa? Learn who burnt whom in Odessa and why?
 ---

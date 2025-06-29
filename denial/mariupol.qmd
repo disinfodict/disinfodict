@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Do you think Ukrainian children should be bombed? In a theater where they were seeking shelter? 600 dead? That's what Russia did in Mariupol.
 ---

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Be warned: it is a culture of deception that steals or murders the cultures of its neighbors to make itself greater. On the “Great Russian Culture”.
 ---

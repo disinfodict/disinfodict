@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: Have you ever been to a funeral? Stood around the grave? When the rockets hit? How Russia honors the dead and kills the living. In Hroza.
 ---

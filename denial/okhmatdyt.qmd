@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: how Russia bombed Okhmatdyt children hospital and denied it and blamed Ukraine for it
 ---

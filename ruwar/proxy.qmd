@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Stellvertreterkrieg? Wer stellvertritt wen? Russland sich selbst? Amerika will nicht. Ukraine verteidigt sich.
 ---

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Grüne Männchen sind öko? Soldaten ohne Abzeichen führen nichts Gutes im Schilde! Warum die Krim-Annexion eine Krim-Invasion war.
 ---

@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Genocide in Donbas? Not by Ukraine, established the OSCE Special Monitoring Mission to Ukraine (SMM). Responsible is Russia with war crimes like MH17.
 keywords: 

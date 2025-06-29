@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russia bombs rescuers, rescue vehicles and hospitals. Even maternity clinics. In the name of genocide. Here some examples.
 ---

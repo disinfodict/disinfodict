@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Killer in the zoo: how the Kremlin assasin Vadim Krasikov murdered a critique in the zoo of Berlin and was huged by Putin
 ---

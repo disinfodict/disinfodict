@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russia claims that the sanctions are harming Europe, not Russia. And Russia is campaigning for an end to the sanctions!?
 ---

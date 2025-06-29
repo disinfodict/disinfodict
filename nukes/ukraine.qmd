@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   It is a bad idea to defame Ukraine with dirty bombs: Ukraine has given up its nukes and Russia has broken the Budapest Memorandum.
 ---

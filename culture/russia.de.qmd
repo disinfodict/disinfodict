@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Sei gewarnt: es ist eine Kultur der Täuschung, welche die Kulturen der Nachbarn raubt oder ermordet um sich größer zu machen. Zur "Großen russischen Kultur".
 ---

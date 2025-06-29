@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: the long russian tradition of commiting genocide and the long history of Ukraine in suffering genocide.
 ---

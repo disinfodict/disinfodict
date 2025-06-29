@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Emigrating to Russia? First learn how corruption and tyranny go hand in hand in mafia-like Russia.
 ---

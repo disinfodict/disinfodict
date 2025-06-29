@@ -1,4 +1,6 @@
 ---
+date: last-modified
+date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Man kann darüber streiten, ob man Atomkraftwerke haben sollte. Man kann nicht darüber streiten, ob man sie beschießen soll. Auch nicht die ukrainischen!
 ---
