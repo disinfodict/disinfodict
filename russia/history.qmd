@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   How the russian empire expanded by spreading fear, torture, murder and famine: muscovite Russia did this using mongol methods.
 ---
@@ -17,6 +15,10 @@ Russia expanded its empire by attacking and russifying its neighbors with ruthle
 :::
 
 This chapter is about the history of the muscovite empire, which only late in history renamed itself to the "russian" empire, in order to to lay claim to Kyiv Rus', see @sec-ukraine-kyiv. For the future plans of of the russian empire see @sec-russia-empire.
+
+Already Karl Marx knew, that Russia is not the successor of the civilized christian Kyiv Rus', but the successor of the barbaric genocidal Genghis Khan:
+
+>  The bloody mire of Mongolian slavery, not the rude glory of the Norman epoch, forms the cradle of Muscovy, and modern Russia is but a metamorphosis of Muscovy. — Karl Marx (1853-1856)[^russia-history-12]
 
 
 ## Russian Imperialism
@@ -77,6 +79,10 @@ Anyone who recognizes Russia's behaviour here: this is no coincidence:
 > when the city of Marv fell in February 1221 Toui Khan ordered a systematic way of counting the dead mongol officers were told to cut off one ear from each corpse and different colored threads were used to mark military and civilian casualties the total count came to 1.3 million ears which were sorted and recorded by Mongol administrators these ears were then sent to other cities as a warning showing reluctant rulers the price of defiance as one Persian historian wrote "The Mongols made mathematics serve terror".[^russia-history-9]
 
 The calculated mass murder on an industrial scale proves that with the Mongolian "culture" a fascist system stood at the beginning of the Muscovite empire, see also @sec-nazis-russia.
+
+The consequences of this have already been named by Karl Marx: 
+
+> Thus there is only one alternative for Europe: either Asiatic barbarism under the leadership of the Muscovites will sweep over Europe like an avalanche, or Europe must restore Poland (Ukraine) and thus protect itself from Asia by a wall of twenty million heroes, in order to gain time for the completion of its social (military) transformation - Karl Marx (1867)[^russia-history-13]
 
 
 ## History of violent expansion
@@ -207,4 +213,8 @@ Russian Federation|Donetsk, Luhansk, Kherson, and Zaporizhzhia Regions  |2014 �
 [^russia-history-10]: Destruction under the Mongol Empire. (accessed June 2025)  Wikipedia. [https://en.wikipedia.org/wiki/Destruction_under_the_Mongol_Empire](https://en.wikipedia.org/wiki/Destruction_under_the_Mongol_Empire)
 
 [^russia-history-11]: Jay Ramesh (2024 October 5) How the Mongol Empire’s Brutality Relates to Terrorist Tactics. [https://jfacunc.org/miscellaneous/how-the-mongol-empires-brutality-relates-to-terrorist-tactics](https://jfacunc.org/miscellaneous/how-the-mongol-empires-brutality-relates-to-terrorist-tactics)
+
+[^russia-history-12]: Karl Marx (1853-1856) Secret Diplomatic History of The Eighteenth Century. The Eastern question. Letters written 1853-1856 dealing with the events of the Crimean War. [https://www.gutenberg.org/files/32370/32370-h/32370-h.htm](https://www.gutenberg.org/files/32370/32370-h/32370-h.htm)
+
+[^russia-history-13]: Karl Marx (22. Januar 1867) Rede auf dem Polenmeeting in London. [https://das-blaettchen.de/2023/01/rede-auf-dem-polenmeeting-in-london-am-22-januar-1867-64584.html](https://das-blaettchen.de/2023/01/rede-auf-dem-polenmeeting-in-london-am-22-januar-1867-64584.html)
 

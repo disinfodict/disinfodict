@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Who is bombing Ukrainian culture in Ukraine? Cultured Ukrainians or uncultured Russians?  Do you want to live with genocide?
 ---

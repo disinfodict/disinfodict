@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: Russia pretends to protect minorities. In fact, Russia despises minorities. A life there is worth nothing.
 ---

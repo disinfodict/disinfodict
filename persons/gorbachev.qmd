@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Think Gorbachev was a nice guy who faught the Soviet Union? Ask people from the Baltics or from Chornobyl or from Crimea.
 ---

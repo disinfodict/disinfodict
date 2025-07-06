@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: how Russia shot down the civilian aircraft MH17, killed 298 people and why Girkin is sentenced but still free.
 ---

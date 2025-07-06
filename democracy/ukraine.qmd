@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Knew that Hetmans were elected? Learn about the democracy in Ukraine and its many peaceful government transitions.
 keywords: 

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Finde mehr: links zu empfohlenen Quellen im Zusammenhang mit der Vermittlung von Medienkompetenz und der Entlarvung russischer Narrative.
 ---

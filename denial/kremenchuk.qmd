@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wanna go shopping? Stay far from Russia! How Russian fired missiles at the “Amstor” shopping center in Kremenchuk.
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Surprise, surprise: Russian propaganda dislikes President Zelenskyy, who defends Ukraine successfully for more than three years. Read more. 
 ---

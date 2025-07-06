@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Do you think it would be a good idea to name Will Brandt as a witness for appeasement? Then read on.
 ---

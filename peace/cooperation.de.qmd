@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: >
   Frieden durch Zusammenarbeit? Nicht wenn der Aggressor Kooperation nur vortäuscht und auf Rohstoffe und Kriegswirtschaft setzt.
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Waren Sie jemals in einem Theater oder einer Kirche? Wenn russische Raketen einschlagen? Wie Russland Kultur und orthodoxe Feiertage ehrt. In Tschernihiw.
 ---

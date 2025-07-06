@@ -1,6 +1,4 @@
 --- 
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Nur ein netter Bürgerkrieg? Nein. Russland hat Menschen als Terroristen ausgebildet, sie als „Separatisten“ bezeichnet und Soldaten und Waffen in den Donbas geschickt. Erfahren Sie mehr über die hybride Invasion.
 keywords: 

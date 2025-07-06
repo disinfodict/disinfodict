@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Do you dream of emigrating to Russia? The gulag of milk and honey? This life awaits you:
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wer zerbombt Ukrainische Kultur in der Ukraine? Kultivierte Ukrainer oder unkultivierte Russen?  Wollen Sie mit Völkermord leben?
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Just a nice civil war? No. Russia trained people as terrorists, termed them "seperatists", send soldiers and weapons to Donbas. Learn about hybrid invasion.
 keywords: 

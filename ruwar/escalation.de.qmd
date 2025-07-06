@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Der Angreifer eskaliert, nicht der Verteidiger. Putin eskaliert, ob wir seine roten Linien beachten oder nicht.  
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wussten Sie, dass der Ukraine eine Aufnahme in die NATO versprochen wurde? Und Russland nichts versprochen wurde! Hier der aktuelle Stand.
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Bewahre uns vor dem Bösen: warum uns die russische Kirche belügt wenn sie uns etwas von Werten erzählt
 ---

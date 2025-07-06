@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Auswandern nach Russland? Lerne erst mal wie im mafiösen Russland Korruption und Tyrannei sich die Klinke in die Hand geben.
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Was Sie nicht wussten: Erfahren Sie mehr über die Ukraine, den Ursprung Europas und über russische Lügen
 ---

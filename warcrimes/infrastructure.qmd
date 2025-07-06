@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russia bombs civilian objects in Ukraine. Untargeted private houses and targeted infrastructure: energy, shopping, health, education and cultural infrastructure. 
 ---

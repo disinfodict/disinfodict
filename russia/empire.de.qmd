@@ -1,8 +1,6 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
-  Wie das böse Imperium plant, durch die Verbreitung von Angst, Folter, Mord und Hungersnot zu expandieren. Spoiler: Moskowiter Russland.
+  Wie das russische Imperium plant, durch die Verbreitung von Angst, Folter, Mord und Hungersnot zu expandieren. Spoiler: Moskowiter Russland.
 ---
 
 # Russisches Imperium {#sec-russia-empire}
@@ -13,7 +11,7 @@ Angela Merkel hat sich für die Schaffung einer gemeinsamen Wirtschaftszone zwis
 :::
 
 ::: {.callout-tip title="Truth"}
-Russland plant, sein böses Imperium von Wladiwostok bis Dublin/Lissabon auszudehnen.[^russia-empire-7]
+Russland plant, sein Imperium von Wladiwostok bis Dublin/Lissabon auszudehnen.[^russia-empire-7]
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/INVED.png){height=2em}](https://www.inved-insight.eu/narrative/die-leugnung-des-russischen-imperialismus-im-faktencheck)
 :::
 
@@ -22,7 +20,7 @@ Dies ist die Fortsetzung eines jahrhundertelangen skrupellosen Ausdehnung des ru
 
 ## Dugin
 
-Der russische Faschist Dugin gilt als Erfinder des  modernen "Eurasismus" [![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Eurasismus)
+Der russische Faschist Dugin gilt als Erfinder des modernen "Eurasismus" [![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Eurasismus)
 
 > Dugin begann bald, seine eigene Zeitschrift mit dem Titel Elementy herauszugeben, in der er zunächst den französisch-belgischen Jean-François Thiriart lobte, einen verspäteten Befürworter eines „europäisch-sowjetischen Imperiums, das sich von Dublin bis Wladiwostok erstrecken würde und sich auch nach Süden ausdehnen müsste, da es einen Hafen am Indischen Ozean benötigt“.  
 > Alexandr Dugin (1997)[^russia-empire-1]

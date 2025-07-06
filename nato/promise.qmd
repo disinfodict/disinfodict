@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
     Did you know that Ukraine was promised membership of NATO? And Russia was promised nothing! Here is the current status. 
 ---

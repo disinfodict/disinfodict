@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Learn from Ukraine: resilience against hybrid warfare from people with many years experience
 ---

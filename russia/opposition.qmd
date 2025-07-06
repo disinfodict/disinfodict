@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: The russian opposition: who manages it and whom they serve. Still think they improve something?
 ---

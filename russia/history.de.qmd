@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wie das russische Imperium durch die Verbreitung von Angst, Folter, Mord und Hungersnot expandierte: das moskowitische Russland tat dies mit mongolischen Methoden.
 ---
@@ -18,6 +16,12 @@ Russland dehnte sein Reich aus, indem es seine Nachbarn mit rücksichtslosen Met
 :::
 
 In diesem Kapitel geht es um die Geschichte des moskowitischen Reiches, das sich erst spät in der Geschichte in „russisches“ Reich umbenannte, um Anspruch auf die Kiewer Rus' zu erheben, siehe @sec-ukraine-kyiv. Zu den Zukunftsplänen des Russischen Reiches siehe @sec-russia-empire.
+
+Schon Karl Marx wusste, dass Russland nicht der Nachfolger der zivilisierten christlichen Kiewer Rus' ist, sondern der Nachfolger des barbarischen Völkermörders Dschingis Khan:
+
+>  Der blutige Schlamm mongolischer Sklaverei und nicht die rüde Herrlichkeit der Normannenzeit war Moskaus Wiege, und das moderne Russland ist nur eine Metamorphose dieses mongolischen Moskaus. — Karl Marx (1853-1856)[^russia-history-12]
+
+
 
 ## Russischer Imperialismus
 
@@ -77,6 +81,11 @@ Wer hier das Verhalten Russlands wiedererkennt: das ist kein Zufall:
 > Als die Stadt Marv im Februar 1221 fiel, ordnete Toui Khan eine systematische Zählung der Toten an. Die mongolischen Offiziere wurden angewiesen, jeder Leiche ein Ohr abzuschneiden, und es wurden verschiedenfarbige Fäden verwendet, um die militärischen und zivilen Opfer zu markieren - die Gesamtzahl belief sich auf 1. 3 Millionen Ohren, die von mongolischen Verwaltern sortiert und aufgezeichnet wurden. Diese Ohren wurden dann als Warnung an andere Städte geschickt, um widerstrebenden Herrschern zu zeigen, welchen Preis sie zahlen müssen, wenn sie sich widersetzen, wie ein persischer Historiker schrieb: "Die Mongolen haben die Mathematik in den Dienst des Terrors gestellt."[^russia-history-9]
 
 Der berechnende Massenmord im industriellen Maßstab beweist, dass mit der mongolischen "Kultur" ein faschistisches System am Anfang des Moskoviter Imperiums stand, siehe auch @sec-nazis-russia.
+
+Die Konsequenz daraus hat schon Karl Marx benannt: 
+
+> So steht vor Europa nur eine Alternative: Entweder wird die asiatische Barbarei unter Führung der Moskowiter wie eine Lawine über Europa hereinbrechen, oder Europa muß Polen (Ukraine) wiederherstellen und schützt sich so durch einen Wall von zwanzig Millionen Helden vor Asien, um Zeit zu gewinnen für die Vollendung seiner sozialen (militärischen) Umgestaltung — Karl Marx (1867)[^russia-history-13]
+
 
 
 
@@ -208,3 +217,6 @@ Russische Föderation|Donetsk, Luhansk, Kherson und Zaporizhzhia Regionen |2014 
 
 [^russia-history-11]: Jay Ramesh (2024 October 5) How the Mongol Empire’s Brutality Relates to Terrorist Tactics. [https://jfacunc.org/miscellaneous/how-the-mongol-empires-brutality-relates-to-terrorist-tactics](https://jfacunc.org/miscellaneous/how-the-mongol-empires-brutality-relates-to-terrorist-tactics)
 
+[^russia-history-12]: Karl Marx (1853-1856) Secret Diplomatic History of The Eighteenth Century. The Eastern question. Letters written 1853-1856 dealing with the events of the Crimean War. [https://www.gutenberg.org/files/32370/32370-h/32370-h.htm](https://www.gutenberg.org/files/32370/32370-h/32370-h.htm)
+
+[^russia-history-13]: Karl Marx (22. Januar 1867) Rede auf dem Polenmeeting in London. [https://das-blaettchen.de/2023/01/rede-auf-dem-polenmeeting-in-london-am-22-januar-1867-64584.html](https://das-blaettchen.de/2023/01/rede-auf-dem-polenmeeting-in-london-am-22-januar-1867-64584.html)

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Did you know that "russki mir" is a imperialistic, even fascist, ideology? Listen to Grok:
 ---

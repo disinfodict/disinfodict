@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Du glaubst and die "geheimnisvolle russische Seele"? Sie ist schwarz, hohl und blutrünstig. Und seit Jahrhunderten faschistisch.
 ---

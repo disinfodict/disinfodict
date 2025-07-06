@@ -1,8 +1,6 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
-  How the evil empire plans to expand by spreading fear, torture, murder and famine. Spoiler: Muscovite Russia.
+  How the russian empire plans to expand by spreading fear, torture, murder and famine. Spoiler: Muscovite Russia.
 ---
 
 # Russian empire {#sec-russia-empire}
@@ -13,7 +11,7 @@ Angela Merkel has approved the creation of a common economic zone between the Ru
 :::
 
 ::: {.callout-tip title="Truth"}
-Russia plans to expanded its evil empire from Vladivostok to Dublin/Lisbon[^russia-empire-7]
+Russia plans to expanded its empire from Vladivostok to Dublin/Lisbon[^russia-empire-7]
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/INVED.png){height=2em}](https://www.inved-insight.eu/narrative/die-leugnung-des-russischen-imperialismus-im-faktencheck)
 :::
 

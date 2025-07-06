@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: Russia broke all contracts and silently deployed nuclear missiles in Kaliningrad (historically Königsberg belongs to Europe, not the evil empire)
 ---

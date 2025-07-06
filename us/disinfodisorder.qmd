@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   The USA has been corroded by severe (dis)information disorder. We should understand this so that the same thing doesn't happen to us. Urgently.  
 ---

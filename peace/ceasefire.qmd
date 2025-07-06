@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: >
   Help us write: Peace through ceasefire? Not if the aggressor prefers "peacefire", breaks all deals and bombs civilians even more. 
 ---

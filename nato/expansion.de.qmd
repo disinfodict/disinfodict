@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wussten Sie, dass die NATO sich nie erweitert hat? Die Länder traten der NATO nur bei. Aus Angst vor Russland. Aber die NATO war zu schwach.
 ---

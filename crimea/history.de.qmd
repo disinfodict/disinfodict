@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Von Atlantis gehört? Wie ein Land verschwand, ein Volk verschwand und wer veranwortlich ist: die Geschichte der Krim.
 ---

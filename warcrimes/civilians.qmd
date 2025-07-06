@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russia murders Ukrainian civilians ... in defense? Learn more about the Russian targeted terror against Ukrainian men, women and children.
 ---

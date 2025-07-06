@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Die armen verfolgten Russen in der Ukraine? Unfug. Lerne, wie Russischsprachige in der Ukraine Ukrainer sind und Russland hassen.
 ---

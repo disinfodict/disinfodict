@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
     Did you know that NATO has never expanded? The countries only joined NATO. Out of fear of Russia. But NATO was too weak. 
 ---

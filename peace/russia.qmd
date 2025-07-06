@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: >
   Help us write: Nobody wants war more than Russia. Ukraine can't stop Russia's terror alone. Let's stop the terrorists.
 ---

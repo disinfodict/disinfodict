@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Poor persecuted Russians in Ukraine? Nonsense. Learn how Russian speakers in Ukraine are Ukrainians and hate Russia.
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Das Desinfo-Lexikon besteht aus vielen Kapiteln. Erfahren Sie, was vollständig ist und wo Sie noch beitragen können.
 ---

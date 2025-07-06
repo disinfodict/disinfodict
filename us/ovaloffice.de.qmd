@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wenn Dein bester Freund dich so behandelt, wie es sich dein schlimmster Feind wünscht. Was Zelenskyi im Oval Office widerfahren ist.
 ---

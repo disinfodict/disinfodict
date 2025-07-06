@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: How Russia prepared the invasion long ago, invaded unprovoked to conquer Ukraine and commits genocide to everything ukrainian
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russian television suggests Russia must defend against strong NATO but can easily nuke NATO capitals. What?
 ---

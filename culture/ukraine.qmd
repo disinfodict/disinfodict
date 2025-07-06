@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: how the Ukrainian culture was murdered by Russia and still survived. What a beauty. Come and look.
 ---

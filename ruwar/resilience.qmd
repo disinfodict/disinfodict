@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Want to see a resilient country? We can learn a lot from Ukraine. How to defend freedom.
 ---

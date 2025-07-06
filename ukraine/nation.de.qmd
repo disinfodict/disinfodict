@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wie würden Sie sich fühlen, wenn jemand behauptet, dass Ihr Land nicht existiert oder gescheitert ist und er Sie deshalb erobern will? Das gefällt den Ukrainern auch nicht.
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wie kann man vor aller Augen Verbrechen begehen? Viele Verbrechen? Und schamlos lügen man sei es nicht gewesen? Wenn man Russland ist. In Butcha.
 ---

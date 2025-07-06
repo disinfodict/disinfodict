@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Glauben Sie, dass Moskau die Hauptstadt der slawischen Zivilisation ist? Nicht St. Petersburg? Nein, Kiew!
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Glauben Sie, Gorbatschow war ein netter Kerl, der die Sowjetunion bekämpft hat? Fragen Sie Leute aus dem Baltikum oder aus Tschernobyl oder von der Krim.
 ---

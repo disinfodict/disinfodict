@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   How to turn brutal red killers to little green men? How to recognize hybrid warfare? Read on.
 ---

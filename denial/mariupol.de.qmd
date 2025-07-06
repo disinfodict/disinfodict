@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Glauben Sie, dass ukrainische Kinder bombardiert werden sollten? In einem Theater, in dem sie Schutz suchten? 600 Tote? Das hat Russland in Mariupol getan.
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Trust us, help us and help you: values and principles, mission and vision, learn good writing!
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Jede echte Nation hat Helden. Anders als Russland hat Ukraine ziemlich viele. Lerne einige kennen.
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Du regst Dich auf, wenn ein Land zu seiner Verteidigung Soldaten an die Front schickt? Reg Dich lieber auf, wenn ein Land die Kinder seines Nachbarn gegen den Nachbarn kämpfen lässt. 
 ---

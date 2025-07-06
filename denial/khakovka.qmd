@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: Water is life. Dam failure is death. Dam bursting is a war crime and ecocide. What Russia did to the Kakhovka dam.
 ---

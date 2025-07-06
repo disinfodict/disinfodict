@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Sie könnten es sein: der von der schnellen Suche, der leichten Lesbarkeit und den einfachen Links zum Disinfo-Lexikon profitiert
 ---
@@ -32,6 +30,10 @@ Die Qualität der Inhalte wird von unseren Partnern überwacht, siehe im Anhang 
 ## Warum? 
 
 > Ein Kennzeichen von Propaganda ist ihre Fähigkeit, die Grenzen zwischen Fakten und Fiktion zu verwischen und die Unterscheidung zwischen Wahrheit und Lüge zu verwirren
+
+Russland unternimmt massive Anstrengungen um unsere Realitätswahrnehmung zu zerstören. Russland gibt Milliarden aus, um Fake news zu verbreiten, Einflussagenten zu plazieren und zu promoten, Webseiten zu fälschen, Wikipedia Artikel zu manipulieren, und sogar eine komplette manipulierte Version der russischen Wikipedia zu erstellen, bei welcher Artikel mit Bezug zum russischen Angriffskrieg durch gezielte Propaganda ersetzt wurden (@Trokhymovych:2025): 
+
+> Im Jahr 2022 schuf Russland seine eigene Online-Enzyklopädie Ruwiki und kopierte über 1,9 Millionen Artikel aus der russischsprachigen Wikipedia. Anders als der russischsprachige Zweig der freiwilligen und offenen Wikipedia wird der Inhalt von Ruwiki von „Experten“ kontrolliert, die während der Geschäftszeiten arbeiten, was auf eine bezahlte Tätigkeit hindeutet. Das Projekt wird von Volodymyr Medeyko geleitet, einem ehemaligen Aktivisten der russischsprachigen Wikipedia. 1,75 % der kopierten Artikel wurden geändert, aber sie generierten 14 % der Aufrufe. Die russischen Redakteure entfernen Fakten über russische Kriegsverbrechen, ändern die Terminologie (statt „Krieg“ schreiben sie „Kampfhandlungen“) und die geografische Lage ukrainischer Siedlungen, legalisieren die Besetzung, schreiben die Biografien ukrainischer und russischer Persönlichkeiten um[^intro-preface-1]
 
 Zitat von @Dierickx:2024, die verschiedene Herausforderungen und Kontexte analysiert haben, mit denen sich Faktenchecker konfrontiert sehen. Wir haben das auch für Bürger erweitert, die gegen Desinformation kämpfen:
 
@@ -68,3 +70,4 @@ Wenn Sie sich nach unserem Logo fragen, es ist so hergeleitet
 und ist schließlich
 
 ![DifD Logo](../all_common_img/DisinfoDict_logo_1x1_trans.png){width=30%}
+[^intro-preface-1]: Inna Hadzynska and Bohdana Bakay and Nadya Kelm (3.7.2025). Russians are writing their own encyclopedia: Ruwiki, from which they are crossing out war. texty.org. [https://texty.org.ua/articles/115275/klon-vikipediyi-na-sluzhbi-propahandy-yak-ruviki-perepysuye-realnist-dlya-rosiyan/](https://texty.org.ua/articles/115275/klon-vikipediyi-na-sluzhbi-propahandy-yak-ruviki-perepysuye-realnist-dlya-rosiyan/)

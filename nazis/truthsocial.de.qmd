@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wussten Sie, dass „truth social“ eine faschistische Plattform ist? Hören Sie Grok zu:
 ---

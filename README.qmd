@@ -291,6 +291,43 @@ epubcheck _book/de/Desinfo-Lexikon.epub
 We use  [ACE by Daisy](https://daisy.org/activities/software/ace/), the [ACE-app is easy to intall and use](https://daisy.github.io/ace/getting-started/ace-app/)
 
 
+## Fix meta name date
+
+Quarto seems not to set the meta name date: we determine thelast-modified date of the qmd file, set it as meta name date and store it for fixing sitemap.xml.
+
+```{R}
+htmlfiles <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
+qmdfiles <- sub('[.]html','.qmd', substr(htmlfiles, 7, nchar(htmlfiles)))
+i <- grep("^../.+[.]..[.]qmd$", qmdfiles)
+qmdfiles[i] <- substr(qmdfiles[i], 4, nchar(qmdfiles[i]))
+i <- grep("^../index[.]qmd", qmdfiles)
+htmlfiles <- htmlfiles[-i]
+qmdfiles <- qmdfiles[-i]
+dates <- vector("character", length(htmlfiles))
+names(dates) <- htmlfiles
+for (i in seq_along(htmlfiles)){
+  h <- htmlfiles[i]
+  q <- qmdfiles[i]
+  lines <- readLines(h)
+  if (length(grep("impressum[.]qmd", q)))
+    q2 <- "impressum.qmd"
+  else if (file.exists(q)){
+    q2 <- q
+  }else if (file.exists(sub("[.]..[.]",".",q))){
+    q2 <- sub("[.]..[.]",".", q)
+  }else{
+    stop("no qmd file found")
+  }
+  date <- format(file.mtime(q2), '%Y-%m-%dT%H:%M:%S', tz="Europe/London")
+  l <- grep('<meta name="date" content="', lines)
+  lines[l] <- paste0('<meta name="date" content="', date,'">')
+  writeLines(lines, h)
+  dates[h] <- date
+}
+names(dates) <- substr(names(dates), 7, nchar(names(dates)))  # remove _book/
+```
+
+
 ## Fix index.html
 
 Babelquarto has index.html redirected to index.<cc>.html. Google doesn't like redirection. Hence we delete index.html and rename all index.<cc>.html to index.html.
@@ -307,38 +344,9 @@ for (cc in ccs[-1]){
   file.remove(paste0("_book/", cc, "/index.html"))  # remove the indirection
   file.rename(paste0("_book/", cc, "/index.", cc, ".html"), paste0("_book/", cc, "/index.html"))  # rename the real one
 }
-```
-
-## Fix meta name date
-
-Quarto seems not to set the meta name date: we write the last-modified date of the qmd file as publication date to the html file, then parse it, remove it from the html, set it as meta name date and store it for fixing sitemap.xml. Note that putting publication date into index.qmd causes a epub verification error "The content of the element “dc:date” is invalid; it must be a string with a minimum length of 1 (length is currently 0)", hence for the index files we skip this, i.e. index files inherit their meta name date from in_header.html 
-
-```{R}
-files <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
-dates <- vector("character", length(files))
-names(dates) <- files
-for (f in files){
-  #f <- "_book/russia/history.html" 
-  #f <- "_book/index.html" 
-  b <- basename(f)
-  lines <- readLines(f)
-  i <- grep('<meta name="date" content="', lines)
-  if (b == "index.html"){
-    date <- sub('(^ *<meta name="date" content=")(.+)(">$)','\\2', lines[i])
-    date <- format(as.POSIXct(date,'%Y-%m-%dT%H:%M:%S', tz=Sys.timezone()), '%Y-%m-%dT%H:%M:%S', tz="Europe/London")
-  }else{
-    p <- grep('<div class="quarto-title-meta-heading">', lines)
-    d <- grep('<p class="date">', lines)
-    stopifnot(d==p+2)  # check for changes or errors
-    date <- sub('(^ *<p class="date">)(.+)(</p>$)','\\2',lines[d]) #<p class="date">2025-06-29T08:57:47</p>    
-    date <- format(as.POSIXct(date,'%Y-%m-%dT%H:%M:%S', tz=Sys.timezone()), '%Y-%m-%dT%H:%M:%S', tz="Europe/London")
-    lines[i] <- paste0('<meta name="date" content="', date,'">')
-    writeLines(lines[(-(d+2)):(-(p-1))], f)  # write changed file removing published date
-  }
-  dates[f] <- date
-}
-# remove _book/
-names(dates) <- substr(names(dates), 7, length(names(dates)))
+i <- grep("../index[.]..[.]html", names(dates))
+if (length(i))
+  names(dates)[i] <- sub("[.]..[.]",".",names(dates)[i])
 ```
 
 
@@ -508,30 +516,6 @@ lines <- readLines('_book/sitemap.xml')
 lines <- gsub(paste0('(<loc>', baseurl, '/.+)([.]html</loc>)'), '\\1</loc>', lines)
 lines <- gsub(paste0('("', baseurl, '/[^"]+)([.]html")'), '\\1"', lines)
 writeLines(lines, '_book/sitemap.xml')
-```
-
-## Analysis
-
-Babelquarto does not handle the canonical links, hence we insert the cc folder after the baseurl
-
-```{R}
-baseurl <- "https://disinfodict[.]org"  # [.] for regexp
-ccs <- c("en","de")
-files <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
-for (f in files){
-  b <- basename(f)
-  lines <- readLines(f)
-  for (cc in ccs[-1]){
-    iscc <- as.logical(length(grep(paste0('_book/', cc), f)))
-    if (iscc){
-      i <- grep(paste0('<link rel="canonical" href="', baseurl), lines)
-      cat(lines[i], "\n")
-      lines[i] <- sub(paste0("(", baseurl, ")"), file.path("\\1", cc), lines[i])      
-      #writeLines(lines, f)
-      break
-    }
-  }
-}
 ```
 
 

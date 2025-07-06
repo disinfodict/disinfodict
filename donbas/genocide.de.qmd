@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Völkermord im Donbas? Nicht von der Ukraine, stellte die OSZE-Sonderbeobachtungsmission in der Ukraine (SMM) fest. Verantwortlich ist Russland mit Kriegsverbrechen wie MH17.
 keywords: 

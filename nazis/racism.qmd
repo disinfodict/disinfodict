@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Workers of the world, unite? Every man becomes a brother? Did you know that Russia has a long tradition in racism and antisemitism? Did you know 'pogrom' is a russian word? Read on.
 keywords: 

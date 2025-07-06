@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Willst einkaufen gehen? Bleib weit weg von Russland! Wie die Russen Raketen auf das Einkaufszentrum „Amstor“ in Krementschuk abfeuerten.
 ---

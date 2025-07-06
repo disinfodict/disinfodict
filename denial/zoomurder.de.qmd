@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Mörder im Zoo: Wie der Kreml-Attentäter Vadim Krasikov einen Kritiker im Berliner Zoo ermordete und von Putin umarmt wurde
 ---

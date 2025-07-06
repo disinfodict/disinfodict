@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Schlimmer als Kain zu Abel: warum Russland kein Bruder ist - weder von der Ukraine noch von uns
 ---

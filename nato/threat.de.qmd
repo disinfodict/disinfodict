@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Russland tötet und vergewaltigt aus Angst? Niemand wollte das Russland angreifen, schon gar nicht die Ukraine. Aber Russland will nicht, dass die Ukraine der EU beitritt.
 ---

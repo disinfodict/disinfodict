@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Have you ever been to a theater or church? When russian rockets hit? How Russia honors culture and orthodox holidays. In Chernihiv.
 ---

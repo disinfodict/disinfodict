@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wie werden aus brutalen roten Killern kleine grüne Männchen? Wie erkennt man hybride Kriegsführung? Lies weiter.
 ---

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Help us write: Not our war? How Germany and Russia have repeatedly colluded to divide up Poland and Ukraine, most infamous in the Hitler-Stalin-Pact
 keywords:

@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Wollen Sie ein widerstandsfähiges Land sehen? Von der Ukraine können wir eine Menge lernen. Wie man die Freiheit verteidigt.
 ---

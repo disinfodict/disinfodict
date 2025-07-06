@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Die USA sind durch schwere (Dis)Information-Disorder zersetzt. Das sollten wir verstehen, damit uns nicht dasselbe passiert. Dringend.  
 ---

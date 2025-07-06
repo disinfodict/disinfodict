@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   The Disinfo Dictionary has many chapters. Learn what ist complete and where you still can contribute. 
 ---

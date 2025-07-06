@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Believe Moscow is the capital of slavic civilization? Not St. Petersburg? No, Kyiv!
 ---

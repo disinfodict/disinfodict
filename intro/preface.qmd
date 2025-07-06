@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   It could be you: who benefits from quick search, easy read and simple links to the Disinfo Dictionary
 ---
@@ -32,6 +30,11 @@ The quality of the content is monitored by our partners, see in the appendix und
 ## Why? 
 
 > A hallmark of propaganda is its ability to blur the lines between fact and fiction and confuse the distinction between truth and lies
+
+Russia is making massive efforts to destroy our perception of reality. Russia spends billions to spread fake news, place and promote agents of influence, falsify websites, manipulate Wikipedia articles, and even create a completely manipulated version of Russian Wikipedia where articles related to the Russian war of aggression were replaced with targeted propaganda (@Trokhymovych:2025):
+
+> In 2022, Russia created its own online encyclopedia Ruwiki, copying over 1.9 million articles from the Russian-language Wikipedia. Unlike the Russian-language branch of the volunteer and open Wikipedia Ruwiki content is controlled by "experts" who work during business hours, which indicates paid activity. The project is led by Volodymyr Medeyko, a former activist for the Russian-language Wikipedia. 1.75% of copied articles were changed, but they generated 14% of views. Russian editors remove facts about Russian war crimes, change the terminology (instead of "war" they write "combat operations") and the geographical location of Ukrainian settlements, legalizing the occupation, rewrite the biographies of Ukrainian and Russian figures[^intro-preface-1]
+
 
 Quote from @Dierickx:2024 who have analyzed various challenges and contexts that fact checkers face. We have also extended this to citizens fighting disinformation:
 
@@ -68,3 +71,5 @@ If you are wondering about our logo, it is derived from this
 and finally is
 
 ![DifD Logo](../all_common_img/DisinfoDict_logo_1x1_trans.png){width=30%}
+
+[^intro-preface-1]: Inna Hadzynska and Bohdana Bakay and Nadya Kelm (3.7.2025). Russians are writing their own encyclopedia: Ruwiki, from which they are crossing out war. texty.org. [https://texty.org.ua/articles/115275/klon-vikipediyi-na-sluzhbi-propahandy-yak-ruviki-perepysuye-realnist-dlya-rosiyan/](https://texty.org.ua/articles/115275/klon-vikipediyi-na-sluzhbi-propahandy-yak-ruviki-perepysuye-realnist-dlya-rosiyan/)

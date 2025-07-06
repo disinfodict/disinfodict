@@ -1,6 +1,4 @@
 ---
-date: last-modified
-date-format: "YYYY-MM-DDTHH:mm:ss"
 abstract: > 
   Lass Dich nicht foppen: Russia greift an um Ukraine zu einer Kolonie zu machen. Ukraine verteidigt sich. USA wollen nicht helfen. Das ist Stellvertreter-Krieg?
 ---
