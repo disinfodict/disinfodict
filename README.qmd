@@ -258,12 +258,23 @@ save(d, file = "status.RData")
 The current datetime GMT set here is used as meta name date in html files where we cannot rescue the publication date of the *.qmd file (index.qmd). 
 
 ```{R}
+defaultdate <- Sys.time()
 f <- "./in_header.html"
 lines <- readLines(f)
 i <- grep('<meta name="date" content="', lines)
-lines[i] <- paste0('<meta name="date" content="', format(Sys.time(), '%Y-%m-%dT%H:%M:%S', tz='Europe/London'), '">')
+lines[i] <- paste0('<meta name="date" content="', format(defaultdate, '%Y-%m-%dT%H:%M:%S', tz='Europe/London'), '">')
 writeLines(lines, f)
 ```
+
+
+## After technical changes: update qmd files dates
+
+```{R}
+qmdfiles <- dir(".", "[.]qmd", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
+qmdfiles <- qmdfiles[-match("./README.qmd", qmdfiles)]
+Sys.setFileTime(qmdfiles, defaultdate)
+```
+
 
 ## Render
 
@@ -293,17 +304,21 @@ We use  [ACE by Daisy](https://daisy.org/activities/software/ace/), the [ACE-app
 
 ## Fix meta name date
 
-Quarto seems not to set the meta name date: we determine thelast-modified date of the qmd file, set it as meta name date and store it for fixing sitemap.xml.
+Quarto seems not to set the meta name date: we determine the last-modified date of the qmd file, set it as meta name date and store it for fixing sitemap.xml.
 
 ```{R}
 htmlfiles <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
 qmdfiles <- sub('[.]html','.qmd', substr(htmlfiles, 7, nchar(htmlfiles)))
+# identify secondary language files
 i <- grep("^../.+[.]..[.]qmd$", qmdfiles)
+# remove the language code path element from secondary language files 
 qmdfiles[i] <- substr(qmdfiles[i], 4, nchar(qmdfiles[i]))
+# identify the secondary language redirecting index.html elements  
 i <- grep("^../index[.]qmd", qmdfiles)
+# remove these redirecting index html elements (and the non-existing qmd elements) 
 htmlfiles <- htmlfiles[-i]
 qmdfiles <- qmdfiles[-i]
-dates <- vector("character", length(htmlfiles))
+dates <- rep(Sys.time(), length(htmlfiles))
 names(dates) <- htmlfiles
 for (i in seq_along(htmlfiles)){
   h <- htmlfiles[i]
@@ -318,14 +333,16 @@ for (i in seq_along(htmlfiles)){
   }else{
     stop("no qmd file found")
   }
-  date <- format(file.mtime(q2), '%Y-%m-%dT%H:%M:%S', tz="Europe/London")
-  l <- grep('<meta name="date" content="', lines)
-  lines[l] <- paste0('<meta name="date" content="', date,'">')
-  writeLines(lines, h)
+  date <- file.mtime(q2)
   dates[h] <- date
+  l <- grep('<meta name="date" content="', lines)
+  lines[l] <- paste0('<meta name="date" content="', format(date, '%Y-%m-%dT%H:%M:%S', tz="GMT"),'">')
+  writeLines(lines, h)
+  Sys.setFileTime(h,date)
 }
 names(dates) <- substr(names(dates), 7, nchar(names(dates)))  # remove _book/
 ```
+
 
 
 ## Fix index.html
@@ -344,6 +361,7 @@ for (cc in ccs[-1]){
   file.remove(paste0("_book/", cc, "/index.html"))  # remove the indirection
   file.rename(paste0("_book/", cc, "/index.", cc, ".html"), paste0("_book/", cc, "/index.html"))  # rename the real one
 }
+# rename in names(dates)
 i <- grep("../index[.]..[.]html", names(dates))
 if (length(i))
   names(dates)[i] <- sub("[.]..[.]",".",names(dates)[i])
@@ -389,7 +407,7 @@ for (f in files){
   ishtml <- length(grep("[.]html", defcom$path)) > 0  # for html files we handle lastmod
   if (ishtml){  
     htmlfile <- sub(paste0('(',baseurl,'/)()'),'\\2', def)
-    date <- paste0(dates[htmlfile], '.000Z')
+    date <- paste0(format(dates[htmlfile], '%Y-%m-%dT%H:%M:%S', tz="GMT"), '.000Z')
     for (i in 2:length(nodes)){
       if (xml_name(nodes[[i]])=="lastmod"){
         lastmod <- nodes[[i]]
@@ -424,9 +442,9 @@ for (f in files){
       loc <- nodes[[1]]
       if (ishtml){  
         if (htmlfile == 'index.html')
-          date <- paste0(dates[paste0(cc, "/", htmlfile)], '.000Z')
+          date <- paste0(format(dates[paste0(cc, "/", htmlfile)], '%Y-%m-%dT%H:%M:%S', tz="GMT"), '.000Z')
         else
-          date <- paste0(dates[paste0(cc, "/", sub('[.]html', paste0('.', cc, '.html'),  htmlfile))], '.000Z')
+          date <- paste0(format(dates[paste0(cc, "/", sub('[.]html', paste0('.', cc, '.html'),  htmlfile))], '%Y-%m-%dT%H:%M:%S', tz="GMT"), '.000Z')
         for (i in 2:length(nodes)){
           if (xml_name(nodes[[i]])=="lastmod"){
             lastmod <- nodes[[i]]
@@ -466,7 +484,6 @@ for (cc in ccs[-1]){
 Babelquarto does not handle the canonical links, hence we insert the cc folder after the baseurl
 
 ```{R}
-ccs <- c("en","de")
 files <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
 for (f in files){
   b <- basename(f)
@@ -487,8 +504,11 @@ for (f in files){
         break
       }
     }
+    # rename links containing index.<language code>.html to index.html
     for (cc in rev(ccs[-1])){
+      # fix absolute index paths
       lines <- gsub(paste0('("', baseurl, '/', cc,  ')(/index[.]', cc , '[.]html")'), '\\1/index.html"', lines)
+      # fix relative index paths
       lines <- gsub(paste0('("[^h][^"]*)(/index[.]', cc, '[.]html")'), '\\1/index.html"', lines)
     }
   }
@@ -501,22 +521,46 @@ for (f in files){
 
 
 ```{R}
-baseurl <- "https://disinfodict[.]org"  # [.] for regexp
-ccs <- c("en","de")
 # now change all absolute and relative internal links in all html pages
 files <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
 for (f in files){
   lines <- readLines(f)
+  for (cc in ccs){
+      if (cc==ccs[1]){
+        lines <- gsub(paste0('("', baseurl, ')(/index[.]html")'), '\\1"', lines)
+        lines <- gsub('("[^h][^"]*)(/index[.]html")', '\\1"', lines)
+      }else{
+        lines <- gsub(paste0('("', baseurl, '/', cc,  ')(/index[.]html")'), '\\1/"', lines)
+        lines <- gsub(paste0('("[^h][^"]*/',  cc, ')(/index[.]html")'), '\\1/"', lines)
+      }
+  }  
   lines <- gsub(paste0('("', baseurl, '/[^"]+)([.]html")'), '\\1"', lines)
   lines <- gsub('("[^h][^"]*)([.]html")', '\\1"', lines)
   writeLines(lines, f)
 }
 # now change all absolute links in sitemap.xml
 lines <- readLines('_book/sitemap.xml')
+for (cc in ccs){
+  if (cc==ccs[1]){
+    lines <- gsub(paste0('(<loc>', baseurl, ')(/index[.]html</loc>)'), '\\1</loc>', lines)
+    lines <- gsub(paste0('("', baseurl, ')(/index[.]html")'), '\\1"', lines)
+  }else{
+    lines <- gsub(paste0('(<loc>', baseurl, '/', cc, ')(/index[.]html</loc>)'), '\\1/</loc>', lines)
+    lines <- gsub(paste0('("', baseurl, '/', cc ,')(/index[.]html")'), '\\1/"', lines)
+  }
+}
 lines <- gsub(paste0('(<loc>', baseurl, '/.+)([.]html</loc>)'), '\\1</loc>', lines)
 lines <- gsub(paste0('("', baseurl, '/[^"]+)([.]html")'), '\\1"', lines)
 writeLines(lines, '_book/sitemap.xml')
 ```
+
+## Fix html file dates
+
+```{R}
+htmlfiles <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
+Sys.setFileTime(htmlfiles,dates[substr(htmlfiles, 7, nchar(htmlfiles))])
+```
+
 
 
 # Expert use only
