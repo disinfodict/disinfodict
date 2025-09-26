@@ -1,6 +1,6 @@
 ---
 abstract: > 
-  Have you ever lived in a skyscraper? Asked yourself what if fire? When the rockets hit? How Russky Mir brings peace to civilians. In Dnipro.
+  Have you ever lived in a skyscraper? Asked yourself what if fire? When the rockets hit? How Russky Mir brings "peace" to civilians. In Dnipro.
 ---
 
 # Dnipro strike {#sec-denial-dnipro}

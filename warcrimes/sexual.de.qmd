@@ -1,0 +1,30 @@
+---
+abstract: > 
+  Du sollst nicht ehebrechen. Du sollst nicht die Frau deines Nächsten begehren. Russland vergewaltigt und plündert systematisch. 
+---
+
+# Kriegsverbrechen – sexuelle {#sec-warcrimes-sexual}
+
+::: {.callout-caution title="Mythos"}
+{{< var todo >}}
+[<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(sexual%7Crape%7Craped)&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+{{< var todo >}}
+:::
+
+
+## A
+
+{{< var todo >}}
+
+## B
+
+{{< var todo >}}
+
+## C
+
+{{< var todo >}}
+
+

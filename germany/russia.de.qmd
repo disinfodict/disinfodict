@@ -1,0 +1,35 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Nicht unser Krieg? Wie sich Deutschland und Russland wiederholt zusammengetan haben, um Polen und die Ukraine aufzuteilen, am berüchtigsten im Hitler-Stalin-Pakt.
+keywords:
+  - Molotow   
+  - Ribbentrop
+---
+
+# Deutsch-russische Beziehungen  {#sec-germany-russia}
+
+::: {.callout-caution title="Mythos"}
+- Deutschland trägt eine historische Verantwortung gegenüber Russland.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20german&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Deutschland hat sich mehrfach mit Russland verschworen, um der Ukraine zu schaden.  
+:::
+
+
+## Vorsowjetisch
+
+{{< var todo >}}
+
+
+## Hitler-Stalin
+
+{{< var todo >}}
+
+
+## Nordstream
+
+{{< var todo >}}
+
+

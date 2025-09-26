@@ -1,0 +1,39 @@
+---
+abstract: > 
+  Halten Sie es für eine gute Idee, Will Brandt als Zeugen für Appeasement zu benennen? Dann lesen Sie weiter.
+---
+
+# Personen Brandt {#sec-persons-brandt}
+
+::: {.callout-caution title="Mythos"}
+- Willy Brandt war der größte Beschwichtiger aller Zeiten.
+- Seine Beschwichtigungspolitik brachte den osteuropäischen Ländern Freiheit.[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Willy%20Brandt&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Brand war immer der Meinung, dass Diplomatie und Abschreckung Hand in Hand gehen
+- Es war der Bankrott der UdSSR welcher den osteuropäischen Ländern Freiheit brachte
+:::
+
+
+## Rede zum Putsch in der Tschechoslowakei, 1948
+
+[https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-czechoslovakia-1948/](https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-czechoslovakia-1948/)
+
+{{< var todo >}}
+
+
+## Rede gegen den Bau der Mauer in Berlin, 1961
+
+[https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-in-front-of-schoeneberg-town-hall-1961/](https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-in-front-of-schoeneberg-town-hall-1961/)
+
+{{< var todo >}}
+
+
+## Rede vor der Foreign Policy Association in New York, 1964
+
+[https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-at-the-foreign-policy-association-in-new-york-15-may-1964/](https://www.willy-brandt-biography.com/historical-sources/significant-speeches/speech-at-the-foreign-policy-association-in-new-york-15-may-1964/)
+
+{{< var todo >}}
+
+

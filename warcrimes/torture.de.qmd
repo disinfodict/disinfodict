@@ -1,0 +1,30 @@
+---
+abstract: > 
+  Du sollst nicht töten. Du sollst nicht foltern. Russland tötet und foltert systematisch. 
+---
+
+# Kriegsverbrechen – Folter {#sec-warcrimes-torture}
+
+::: {.callout-caution title="Mythos"}
+{{< var todo >}}
+[<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(torture%7Ctortured)&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+{{< var todo >}}
+:::
+
+
+## A
+
+{{< var todo >}}
+
+## B
+
+{{< var todo >}}
+
+## C
+
+{{< var todo >}}
+
+

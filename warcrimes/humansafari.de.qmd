@@ -1,0 +1,31 @@
+---
+abstract: > 
+  Ist es nicht spannend, Kinder mit Drohnen und Granaten zu jagen und zu töten? Die Russen sind dieser Meinung und genießen die menschliche Safari in Cherson.
+---
+
+
+# Kriegsverbrechen – Safari {#sec-warcrimes-humansafari}
+
+::: {.callout-caution title="Mythos"}
+{{< var todo >}}
+[<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=safari&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+{{< var todo >}}
+:::
+
+
+## A
+
+{{< var todo >}}
+
+## B
+
+{{< var todo >}}
+
+## C
+
+{{< var todo >}}
+
+

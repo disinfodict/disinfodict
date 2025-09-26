@@ -17,6 +17,8 @@ abstract: >
 Russia bombed multiple railway stations on that day
 :::
 
+\index{Cluster munitions}
+
 
 ## Kramatorsk
 

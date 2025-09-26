@@ -17,19 +17,33 @@ abstract: >
 ::: {.callout-tip title="Truth"}
 - MH17 was shot down by a russian BUK-TELAR operated by pro-russian fighters under russian control
 - a dutch cout sentenced the russian Girkin and two others for murder of 298
+- European Court of Human Rights sentenced Russia responsible for downing of flight MH17
+[<br></br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17)
 :::
 
 
-## A
+## What happened?
 
 {{< var todo >}}
 
-## B
 
-{{< var todo >}}
 
-## C
+## Dutch Court
 
-{{< var todo >}}
 
+> The District Court of The Hague on 17 November 2022 sentenced the accused Kharchenko, Dubinskiy and Girkin to life imprisonment for causing Flight MH17 to crash and for the murder of the 298 persons on board. Defendant Pulatov has been acquitted.[^denial-mh17-2]
+
+
+
+## European Court
+
+> On 9 July 2025 the European Court of Human Rights (ECtHR) held that Russia is responsible for the downing of flight MH17 and for the deaths of everyone on board, including 196 Dutch nationals. Russia is also responsible for the additional suffering caused to the next of kin, owing to its continued denial of any involvement and its obstruction of the investigations into the downing of the aircraft. The judgment is an important step on the road to justice.[^denial-mh17-3]
+
+
+
+[^denial-mh17-2]: Netherland public prosecution service (17-11-2022) Verdict district Court of The Hague. [https://www.prosecutionservice.nl/topics/mh17-plane-crash](https://www.prosecutionservice.nl/topics/mh17-plane-crash)
+
+
+[^denial-mh17-3]:  Government of the Netherlands (09-07-2025) European Court of Human Rights: Russia responsible for downing of flight MH17. 
+[https://www.government.nl/latest/news/2025/07/09/european-court-of-human-rights-russia-responsible-for-downing-of-flight-mh17](https://www.government.nl/latest/news/2025/07/09/european-court-of-human-rights-russia-responsible-for-downing-of-flight-mh17)
 

@@ -1,0 +1,93 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Wussten Sie, dass der Erfinder des Völkermords ein Russe war? Erfahren Sie, was Völkermord ist und lernen Sie die zehn Phasen des Völkermords kennen.
+---
+
+
+# Genozid Definition {#sec-genocide-definition}
+
+::: {.callout-caution title="Mythos"}
+Was ist Völkermord? Eine Nazi-Sache!?
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20holodomor&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Ein von den Russen begangener Völkermord war der Grund für die Erfindung des Begriffs „Völkermord”.
+:::
+
+## Lemkin I
+
+{{< var todo >}}
+
+
+## Holodomor
+
+{{< var todo >}}
+
+
+## Holocaust
+
+{{< var todo >}}
+
+
+## UN-Völkermordkonvention 1948
+
+Eine spezifische „Vernichtungsabsicht“ (mens rea) muss für Völkermord vorliegen.
+
+* Tötung von Mitgliedern der Gruppe
+* Verursachung schwerer körperlicher oder seelischer Schäden bei Mitgliedern der Gruppe
+* Vorsätzliche Auferlegung von Lebensbedingungen für die Gruppe, die auf ihre vollständige oder teilweise physische Vernichtung abzielen
+* Auferlegung von Maßnahmen, die darauf abzielen, Geburten innerhalb der Gruppe zu verhindern
+* Zwangsweise Überführung von Kindern der Gruppe in eine andere Gruppe
+
+Bestraft werden
+
+* versuchter Völkermord 
+* Verschwörung zum Völkermord
+* Anstiftung zum Völkermord
+* Beihilfe zum Völkermord sind strafbar
+* erfolgreich
+
+
+## Stalin
+
+{{< var todo >}}
+
+
+## Lemkin II
+
+{{< var todo >}}
+
+## Mace
+
+[https://en.wikipedia.org/wiki/James_Mace](https://en.wikipedia.org/wiki/James_Mace)
+[https://x.com/OlenaWave/status/1860385111956492406](https://x.com/OlenaWave/status/1860385111956492406)
+
+
+## Kotkin 
+
+@Kotkin:2014, @Kotkin:2017
+
+{{< var todo >}}
+
+
+## Applebaum
+
+@Applebaum:2017
+
+{{< var todo >}}
+
+
+## Etkind 2023
+
+@Etkind:2023
+
+{{< var todo >}}
+
+## Ten stages
+
+
+
+[^genocide-definition-1]: Gregory H. Stanton (1996) The Ten Stages of Genocide. Genocide Watch. [https://www.genocidewatch.com/tenstages](https://www.genocidewatch.com/tenstages)
+
+

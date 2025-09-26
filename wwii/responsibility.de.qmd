@@ -1,0 +1,30 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Wer hat den Zweiten Weltkrieg begonnen? Wussten Sie, dass Hitler und Stalin vereinbart hatten, Krieg gegen Polen zu führen? Lesen Sie mehr über den Molotow-Ribbentrop-Pakt.
+---
+
+# WWII Verantwortung {#sec-ww2-responsibility}
+
+::: {.callout-caution title="Mythos"}
+Russland war ein unschuldiges Opfer des Zweiten Weltkriegs.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=WWII%20(responsibility%7Cresponsible)&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Hitler und Stalin verbündeten sich, um andere europäische Länder zu erobern.
+:::
+
+
+## A
+
+{{< var todo >}}
+
+## B
+
+{{< var todo >}}
+
+## C
+
+{{< var todo >}}
+
+{{ reserved }}

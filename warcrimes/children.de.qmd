@@ -1,0 +1,24 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Wussten Sie, dass die Entführung und Umerziehung von Kindern Völkermord ist? Russland zwingt Kinder, gegen ihre Eltern zu kämpfen: eines der schlimmsten Kriegsverbrechen.
+---
+
+# Kriegsverbrechen – Kinder {#sec-warcrimes-children}
+
+::: {.callout-caution title="Mythos"}
+{{< var todo >}}
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(crimes%7Ccriminals)%20(children)&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+{{< var todo >}}
+:::
+
+[^warcrimes-children-1]  
+
+
+[^warcrimes-children-1]:  Pokatilova, V. (2023, March 30). Ukraine’s Bucha 1 year on: Slow progress in war crime probes. dw.com. Retrieved May 1, 2024, from [https://www.dw.com/en/ukraines-bucha-1-year-on-slow-progress-in-war-crime-probes/a-65182829](https://www.dw.com/en/ukraines-bucha-1-year-on-slow-progress-in-war-crime-probes/a-65182829) 
+
+
+https://www.martenscentre.eu/blog/deportations-abductions-and-forced-russification-the-fate-of-ukraines-children-of-war/
+

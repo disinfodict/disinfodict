@@ -1,0 +1,99 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Die lange russische Tradition des Völkermords und die lange Geschichte des ukrainischen Leidens am Völkermord.
+---
+
+
+
+# Geschichte des Völkermords {#sec-genocide-history}
+
+::: {.callout-caution title="Mythos"}
+- Völkermord ist etwas Kapitalistisches, etwas Westliches, etwas Nazistisches.
+- Russland bekämpft Völkermord.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20russia&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Russland hat mehrere Völkermorde begangen, insbesondere mehrere gegen die Ukraine.
+:::
+
+
+## Belagerung von Kiew 1240
+
+{{< var todo >}}
+
+
+## Genozid in Sibirien 1581–1778
+
+{{< var todo >}}
+
+
+## Eroberung von Baturyn 1708
+
+{{< var todo >}}
+
+
+## Völkermord an den Tscherkessen 1799 - 1864
+
+{{< var todo >}}
+
+
+## Progrome 1918-20
+
+{{< var todo >}}
+
+
+## Massaker von Berdytschiw 1920
+
+{{< var todo >}}
+
+
+## Hungersnot 1921/22
+
+{{< var todo >}}
+
+
+## Holodomor 1932/33
+
+{{< var todo >}}
+
+
+## Massaker von Vinnytsia 1937/38
+
+{{< var todo >}}
+
+
+## Massaker von Katyn 1940
+
+{{< var todo >}}
+
+
+## NKVD Gefängnis Massaker 1941
+
+{{< var todo >}}
+
+
+## Massaker an Polen in Wolhynien und Ostgalizien 1943-44
+
+{{< var todo >}}
+
+
+## Holocaust 1941-1944
+
+{{< var todo >}}
+
+
+## Hungersnot 1946/47
+
+{{< var todo >}}
+
+
+## Deportation der Tataren 1944
+
+{{< var todo >}}
+
+
+[^genocide-history-1]: Ethan Walton (Jan 25, 2023) Country Report: Russia. Genocide Watch. [https://www.genocidewatch.com/single-post/country-report-russia](https://www.genocidewatch.com/single-post/country-report-russia)
+
+[^genocide-history-2]: Nathaniel Hill (Oct 25, 2021) Conquering Siberia: The Case for Genocide Recognition. [https://www.genocidewatchblog.com/post/conquering-siberia-the-case-for-genocide-recognition](https://www.genocidewatchblog.com/post/conquering-siberia-the-case-for-genocide-recognition)
+

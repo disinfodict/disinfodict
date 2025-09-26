@@ -6,7 +6,7 @@ abstract: >
 # Full invasion {#sec-denial-invasion}
 
 ::: {.callout-caution title="Myth"}
-- NATO/US/EU are preparing an invasion of Russia
+- NATO/US/EU were preparing an invasion of Russia
 - The American invasion of Ukraine publicly depicted as a Russian invasion
 - The West is falsely announcing a Russian invasion to sell weapons to Ukraine
 - There is no evidence that Russian is planning an invasion of Ukraine

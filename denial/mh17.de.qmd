@@ -1,0 +1,49 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Wie Russland das Zivilflugzeug MH17 abgeschossen hat, 298 Menschen getötet hat und warum Girkin verurteilt wurde, aber immer noch auf freiem Fuß ist.
+---
+
+# Flug mh17 {#sec-denial-mh17}
+
+::: {.callout-caution title="Mythos"}
+- Es ist nie passiert.
+- Die Absturzstelle wurde manipuliert.
+- Es war die Verantwortung der Fluglotsen.
+- Es waren ukrainische Piloten.
+- Es war die CIA.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=mh17&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- MH17 wurde von einer russischen BUK-TELAR abgeschossen, die von pro-russischen Kämpfern unter russischer Kontrolle betrieben wurde
+- Ein niederländisches Gericht verurteilte den Russen Girkin und zwei weitere Personen wegen Mordes an 298 Menschen
+- Der Europäische Gerichtshof für Menschenrechte hat Russland für den Abschuss des Fluges MH17 verantwortlich gemacht.
+[<br></br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Malaysia-Airlines-Flug_17)
+:::
+
+
+## Was ist passiert?
+
+{{< var todo >}}
+
+
+
+## Niederländisches Gericht
+
+
+> Das Bezirksgericht Den Haag verurteilte am 17. November 2022 die Angeklagten Kharchenko, Dubinskiy und Girkin wegen der Verursachung des Absturzes von Flug MH17 und der Ermordung der 298 Personen an Bord zu lebenslanger Haft. Der Angeklagte Pulatov wurde freigesprochen.[^denial-mh17-2]
+
+
+
+## Europäischer Gerichtshof
+
+> Am 9. Juli 2025 entschied der Europäische Gerichtshof für Menschenrechte (EGMR), dass Russland für den Abschuss des Fluges MH17 und den Tod aller Insassen, darunter 196 niederländische Staatsangehörige, verantwortlich ist. Russland ist auch für das zusätzliche Leid verantwortlich, das den Angehörigen zugefügt wurde, da es weiterhin jede Beteiligung leugnet und die Ermittlungen zum Abschuss des Flugzeugs behindert. Das Urteil ist ein wichtiger Schritt auf dem Weg zur Gerechtigkeit.[^denial-mh17-3]
+
+
+
+[^denial-mh17-2]: Netherland public prosecution service (17-11-2022) Verdict district Court of The Hague. [https://www.prosecutionservice.nl/topics/mh17-plane-crash](https://www.prosecutionservice.nl/topics/mh17-plane-crash)
+
+
+[^denial-mh17-3]:  Government of the Netherlands (09-07-2025) European Court of Human Rights: Russia responsible for downing of flight MH17. 
+[https://www.government.nl/latest/news/2025/07/09/european-court-of-human-rights-russia-responsible-for-downing-of-flight-mh17](https://www.government.nl/latest/news/2025/07/09/european-court-of-human-rights-russia-responsible-for-downing-of-flight-mh17)
+

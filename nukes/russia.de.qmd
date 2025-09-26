@@ -1,0 +1,19 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Russland hat alle Verträge gebrochen und heimlich Atomraketen in Kaliningrad stationiert (historisch gesehen gehört Königsberg zu Europa, nicht zu Russland).
+---
+
+# Atomwaffen in Russland {#sec-nukes-russia}
+
+::: {.callout-caution title="Mythos"}
+Die NATO drohte Russland mit Atomwaffen nahe seiner Grenze.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(nato%7Cus)%20(nukes%7Cnuclear)%20russia&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Die NATO hat in Polen Luftabwehrsysteme gegen iranische Mittelstreckenraketen stationiert.
+- Russland hat in Kaliningrad Kurzstrecken-Atomwaffen stationiert.
+:::
+
+{{< var todo >}}
+

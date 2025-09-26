@@ -1,0 +1,67 @@
+---
+abstract: > 
+    Helfen Sie uns beim Schreiben: Die russische Opposition: Wer leitet sie und wem dient sie? Glauben Sie immer noch, dass sie etwas verbessern wird?
+---
+
+# Russische Opposition {#sec-russia-opposition}
+
+::: {.callout-caution title="Mythos"}
+- Die russische Opposition ist unsere Hoffnung für ein friedliches Russland.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20opposition%20&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Der russischen Opposition kann man nicht trauen.
+- Sie unterstützt den russischen Imperialismus.
+- Sie spricht das russische Volk frei.
+- Sie fordert ein Ende der Sanktionen.
+- Sie führt den Westen in die Irre.
+- Sie ist in Russland zahnlos.
+- Sie stiehlt der Ukraine Unterstützung.
+:::
+
+## Der russischen Opposition kann man nicht trauen
+
+Russland hat eine Tradition der „gesteuerten“ Opposition ...
+
+{{< var todo >}}
+
+
+## unterstützt den russischen Imperialismus
+
+[Die meisten Russen unterstützen Friedensgespräche, lehnen jedoch die Rückgabe der Krim ab](https://www.washingtonpost.com/world/2022/12/13/russian-poll-peace-crimea/), und das ist mehr oder weniger auch die Position der russischen Opposition^[Wir schließen Garry Kasparov ausdrücklich von dieser Aussage aus]. Siehe zum Beispiel @sec-persons-navalny.
+
+
+## spricht das russische Volk frei
+
+> In Russland gibt es viele Menschen, die gegen den Krieg sind und der Propaganda des Kremls keinen Glauben schenken.
+> [Kara-Murza, 8. Februar 20024](https://www.dw.com/en/prisoner-swap-russian-dissidents-conflicted-over-release/a-69844483)
+
+> Es ist falsch, das russische Volk mit der Politik der Regierung gleichzusetzen.
+> [Pivovarov, 8. Februar 20024](https://www.dw.com/en/prisoner-swap-russian-dissidents-conflicted-over-release/a-69844483)
+
+
+Tatsächlich sind es Hunderttausende gewöhnliche russische Bürger ("Ordinary Russian Citiziens" oder kurz "ORCs"), die auf ukrainischem Boden foltern und morden. 
+
+
+## fordert ein Ende der Sanktionen
+
+[Kara Murza sagte, Sanktionen gegen Russland wären unfair](https://www.pravda.com.ua/eng/news/2024/08/3/7468716/)
+
+{{< var todo >}}
+
+
+## führt den Westen in die Irre
+
+{{< var todo >}}
+
+
+## ist zahnlos
+
+{{< var todo >}}
+
+
+## stiehlt der Ukraine Unterstützung
+
+{{< var todo >}}
+

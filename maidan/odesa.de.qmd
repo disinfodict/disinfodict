@@ -1,0 +1,34 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Wussten Sie, dass es in Odessa einen Maidan gab? Erfahren Sie, wer in Odessa wen verbrannt hat und warum?
+---
+
+# Maidan Odesa {#sec-maidan-odesa}
+
+::: {.callout-caution title="Mythos"}
+In Odessa haben ukrainische Behörden friedliche Demonstranten verbrannt.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=maidan%20ukraine%20(odesa%7Codessa)&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+300 gut ausgerüstete pro-russische Anhänger griffen an diesem Tag einen Marsch von etwa 2.000 ukrainischen Patrioten in Odessa an und hatten wahrscheinlich Pech.
+:::
+
+
+[https://euvsdisinfo.eu/report/ukraine-to-blame-for-odesa-killings-guilty-still-at-large/](https://euvsdisinfo.eu/report/ukraine-to-blame-for-odesa-killings-guilty-still-at-large/)
+[https://www.theguardian.com/world/2014/may/02/ukraine-dead-odessa-building-fire](https://www.theguardian.com/world/2014/may/02/ukraine-dead-odessa-building-fire)
+
+
+## A
+
+{{< var todo >}}
+
+## B
+
+{{< var todo >}}
+
+## C
+
+{{< var todo >}}
+
+

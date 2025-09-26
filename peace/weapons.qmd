@@ -1,6 +1,6 @@
 ---
 abstract: > 
-   Help us write: Buying weapons for offense is warmongering. Buying weapons for defense is a step towards peace. Some people see it the other way around.
+   Help us write: Buying weapons for defense is warmongering? Buying weapons to strike the aggressor is warmongering? Says the warmongering aggressor!
 ---
 
 # Weapons {#sec-peace-weapons}
@@ -11,7 +11,8 @@ Rearming to make yourself defensible is warmongering
 :::
 
 ::: {.callout-tip title="Truth"}
-Russia has aremd itself to the teeth to conduct an unprovoked war
+- Russia has armed itself to the teeth to conduct an unprovoked war
+- The demand to use only “defensive weapons” favors the aggressor.
 :::
 
 ## New weapons

@@ -1,0 +1,20 @@
+---
+abstract: > 
+   Helfen Sie uns beim Schreiben: Niemand wünscht sich Frieden mehr als die Ukrainer. Russland kann seinen Krieg jederzeit beenden. Aber Russland zieht den Krieg vor.
+---
+
+
+# Frieden Ukraine {#sec-peace-ukraine}
+
+::: {.callout-caution title="Mythos"}
+Die Ukraine will keinen Frieden.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(escalation%7Cescalate)&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Die Ukrainer wollen mehr als alle anderen Frieden
+- Russland zieht es vor, seinen Krieg fortzusetzen
+:::
+
+{{< var todo >}}
+

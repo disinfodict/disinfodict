@@ -1,0 +1,35 @@
+---
+abstract: > 
+  Russland bombardiert Rettungskräfte, Rettungsfahrzeuge und Krankenhäuser. Sogar Entbindungskliniken. Im Namen des Völkermords. Hier einige Beispiele.
+---
+
+# Kriegsverbrechen – humanitäre {#sec-warcrimes-humanitarian}
+
+::: {.callout-caution title="Mythos"}
+- Ukrainische Truppen lagern Waffen in Krankenhäusern.
+[<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20(humanitarian%7Chospital%7Cambulance%7Cclinic)&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+{{< var todo >}}
+:::
+
+
+[^warcrimes-humanitarian-1]
+
+
+## A
+
+{{< var todo >}}
+
+## B
+
+{{< var todo >}}
+
+## C
+
+{{< var todo >}}
+
+
+
+[^warcrimes-humanitarian-1]:  LIE: Bombing of maternity hospital in Mariupol staged. (2022, March 17). VoxUkraine. Retrieved May 1, 2024, from [https://voxukraine.org/en/lie-bombing-of-maternity-hospital-in-mariupol-staged](https://voxukraine.org/en/lie-bombing-of-maternity-hospital-in-mariupol-staged)

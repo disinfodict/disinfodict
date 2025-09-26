@@ -6,12 +6,15 @@ abstract: >
 # Ceasefire {#sec-peace-ceasefire}
 
 ::: {.callout-caution title="Myth"}
-Ceasefire is peace
+- Russia wants ceasefire
+- Ceasefire is peace
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=peace&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-Russia will use a ceasefire to prearm further and continue the genocide in the occupied territories
+- Russia does refuse a ceasefire
+- Russia would use a ceasefire to prearm further and continue the genocide in the occupied territories
+- If Russia wanted peace, it would have never invaded
 :::
 
 {{< var todo >}}

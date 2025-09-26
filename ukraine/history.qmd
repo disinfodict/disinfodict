@@ -1,6 +1,6 @@
 ---
 abstract: > 
-  Was weisst Du über die ukrainische Geschichte? Dass sie alt ist? Viel älter als die russische Geschichte? Und viel friedlicher?
+  What do you know about Ukrainian history? That it is old? Much older than Russian history? And much more peaceful?
 ---
 
 # Ukraine history {#sec-ukraine-history}

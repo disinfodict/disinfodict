@@ -1,0 +1,29 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Wer hat Deutschland vom Hilter-Faschismus befreit? Wussten Sie, dass die USA die Sowjetunion mit Waffen und sogar Brot versorgt haben? Lesen Sie weiter.
+---
+
+# WWII Befreiung {#sec-ww2-liberation}
+
+::: {.callout-caution title="Mythos"}
+Russland hat Deutschland von den Nazis befreit.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=WWII%20(liberation%7Cliberate)&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Die Alliierten befreiten Deutschland vom Faschismus, die Sowjetunion erhielt Waffen aus den USA, viele ukrainische Soldaten starben und die UdSSR eroberte Mitteleuropa mit dem Stalinismus.
+:::
+
+## A
+
+{{< var todo >}}
+
+## B
+
+{{< var todo >}}
+
+## C
+
+{{< var todo >}}
+
+{{ reserved }}

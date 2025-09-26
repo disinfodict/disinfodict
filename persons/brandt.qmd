@@ -13,7 +13,7 @@ abstract: >
 
 ::: {.callout-tip title="Truth"}
 - Brand always thought that diplomacy and deterrence go hand in hand
-- Bankrupcy of the USSR brought freedom to East European countries
+- It was the bankruptcy of the USSR that brought freedom to the countries of Eastern Europe
 :::
 
 ## Speech on the putsch in Czechoslovakia, 1948

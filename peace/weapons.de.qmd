@@ -1,0 +1,32 @@
+---
+abstract: > 
+   Helfen Sie uns beim Schreiben: Der Kauf von Waffen zur Verteidigung ist Kriegstreiberei? Der Kauf von Waffen, um den Angreifer zu bekämpfen, ist Kriegstreiberei? Sagt der kriegstreibende Angreifer!
+---
+
+# Waffen {#sec-peace-weapons}
+
+::: {.callout-caution title="Mythos"}
+Die Nachrüstung, um sich verteidigungsfähig zu machen, ist Kriegstreiberei.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(arming%7Carms%7Cweapons)&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Russland hat sich bis an die Zähne bewaffnet, um einen unprovozierten Krieg zu führen.
+- Die Forderung, nur "Defensivwaffen" einzusetzen, begünstigt den Anfreifer.
+:::
+
+## Neue Waffen
+
+{{< var todo >}}
+
+
+## Kaliningrad
+
+{{< var todo >}}
+
+
+## Kriegswirtschaft
+
+{{< var todo >}}
+
+

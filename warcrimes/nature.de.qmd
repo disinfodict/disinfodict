@@ -1,0 +1,32 @@
+---
+abstract: > 
+  Am Anfang schuf Gott Himmel und Erde. Und die Russen zerstören sie. Die Russen lieben es, Mutter Natur zu vergewaltigen.
+---
+
+# Kriegsverbrechen – Natur {#sec-warcrimes-nature}
+
+::: {.callout-caution title="Mythos"}
+{{< var todo >}}
+[<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20(nature%7Cecocide%7Cmines%7Cpoisened)&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+{{< var todo >}}
+:::
+
+Siehe auch @sec-warcrimes-sexual.
+
+## A
+
+{{< var todo >}}
+
+## B
+
+{{< var todo >}}
+
+## C
+
+{{< var todo >}}
+
+
+

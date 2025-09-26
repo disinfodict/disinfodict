@@ -5,12 +5,12 @@ abstract: >
 
 # Geschichte Russlands {#sec-russia-history}
 
-::: {.callout-caution title="Myth"}
+::: {.callout-caution title="Mythos"}
 Russland hat in seiner Geschichte noch nie jemanden angegriffen.
 [![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/?text=russia%20history&sort=relevance)
 :::
 
-::: {.callout-tip title="Truth"}
+::: {.callout-tip title="Wahrheit"}
 Russland dehnte sein Reich aus, indem es seine Nachbarn mit rücksichtslosen Methoden, die es von den Mongolen übernommen hatte, angriff und russifizierte.
 [![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%96%D0%BC%D0%BF%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%96%D0%B7%D0%BC)
 :::

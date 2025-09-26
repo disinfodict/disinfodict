@@ -1,0 +1,43 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Erfahren Sie, wie Russland einen hybriden Krieg gegen Europa führt und wie gefährlich dies ist. 
+---
+
+# Krieg – hybrid {#sec-ruwar-hybrid}
+
+::: {.callout-caution title="Mythos"}
+- Es gibt keinen hybriden Krieg
+- Der Westen führt einen hybriden Krieg gegen Russland
+[<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=hybrid%20war&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Russland führt einen hybriden Krieg gegen Europa.
+:::
+
+
+##  Anschläge in der Ukraine
+
+
+## Anschläge im Baltikum
+
+{{< var todo >}} baltischer Störsender
+
+{{< var todo >}}
+
+
+## Anschläge in Deutschland
+
+{{< var todo >}} Beispiele aus [https://www.zeit.de/politik/ausland/2024-12/russische-sabotage-europa-spionage-pipelines-hackerangriffe](https://www.zeit.de/politik/ausland/2024-12/russische-sabotage-europa-spionage-pipelines-hackerangriffe) 
+
+
+## Anschläge in Polen
+
+{{< var todo >}}
+
+
+## Anschläge in Frankreich
+
+{{< var todo >}}
+
+

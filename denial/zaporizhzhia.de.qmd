@@ -1,0 +1,44 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Wie Russland das Kernkraftwerk Saporischschja besetzt, in Brand gesetzt und die Ukraine dafür verantwortlich gemacht hat.
+---
+
+# Saporischschja Feuer {#sec-denial-zaporizhzhia}
+
+::: {.callout-caution title="Mythos"}
+- Die Ukraine hat das Kernkraftwerk Saporischschja mit Drohnen angegriffen
+- Die IAEO hat bewiesen, dass Kiew über den Brand im Kernkraftwerk Saporischschja gelogen hat
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=zaporizhzhya&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Das Kernkraftwerk Zaporizhzhya (ZNPP) wurde von Russland besetzt und stand unter russischer Kontrolle.
+- Einen Tag, nachdem Selenskyj Kursk zugegeben hatte, stieg dunkler Rauch aus zwei Kühltürmen des ZNPP auf.
+- Der dunkle Rauch deutet darauf hin, dass Russland brennbares Material in den Kühlturm gebracht hat.
+- Die IAEO fand in einem Turm kein unverbranntes Material, und Russland verwehrte der IAEO den Zugang zum anderen Turm.
+:::
+
+[https://www.bbc.com/news/articles/c984l87l2w6o](https://www.bbc.com/news/articles/c984l87l2w6o)
+
+[https://www.world-nuclear-news.org/articles/fire-at-zaporizhzhia-cooling-tower](https://www.world-nuclear-news.org/articles/fire-at-zaporizhzhia-cooling-tower)
+
+[https://www.aa.com.tr/en/energy/general/fire-at-zaporizhzhia-nuclear-power-plant-unlikely-caused-by-drone-attack-un-watchdog/42953](https://www.aa.com.tr/en/energy/general/fire-at-zaporizhzhia-nuclear-power-plant-unlikely-caused-by-drone-attack-un-watchdog/42953)
+
+
+
+## Besetzung
+
+{{< var todo >}}
+
+## Kontrolle
+
+{{< var todo >}}
+
+## Rauch
+
+{{< var todo >}}
+
+## Besuch der IAEE
+
+{{< var todo >}}
+

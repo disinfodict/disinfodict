@@ -1,0 +1,38 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Urlaub auf der Krim? Erfahren Sie, wie Russland die Krimtataren deportiert und getötet, ihnen ihre Häuser und ihr Land mit Meerblick geraubt hat. Und jetzt will es Ihr Geld.
+---
+
+# Krim-Säuberungen {#sec-crimea-purges}
+
+\index{Krim}
+\index{Säuberungen}
+\index{Völkermord}
+\index{Tataren}
+\index{Deportation}
+
+::: {.callout-caution title="Mythos"}
+Krimtataren lieben Russland
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Crimea%7Ccrimean)%20(tatars%7Cdeportation)&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Russia is responsible for massive human rights violations against Crimean tatars and other Crimean inhabitantsRussland ist für massive Menschenrechtsverletzungen gegen Krimtataren und andere Bewohner der Krim verantwortlich.
+:::
+
+Zur Geschichte der Krim siehe @sec-crimea-history.
+
+# A 
+
+{{< var todo >}}
+
+
+# B 
+
+{{< var todo >}}
+
+
+# C 
+
+{{< var todo >}}
+

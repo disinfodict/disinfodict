@@ -1,6 +1,6 @@
 ---
 abstract: > 
-  Help us write: Russia broke all contracts and silently deployed nuclear missiles in Kaliningrad (historically Königsberg belongs to Europe, not the evil empire)
+  Help us write: Russia broke all contracts and silently deployed nuclear missiles in Kaliningrad (historically Königsberg belongs to Europe, not to Russia)
 ---
 
 # Nukes in Russia {#sec-nukes-russia}
@@ -11,8 +11,8 @@ NATO threatened Russia with nukes close to its border.
 :::
 
 ::: {.callout-tip title="Truth"}
-NATO deployed air defenses against Iranian medium-range missiles in Poland. 
-Russia deployed short-range nuclear weapons in Kaliningrad. 
+- NATO deployed air defenses against Iranian medium-range missiles in Poland. 
+- Russia deployed short-range nuclear weapons in Kaliningrad. 
 :::
 
 {{< var todo >}}

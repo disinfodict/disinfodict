@@ -1,0 +1,38 @@
+---
+abstract: > 
+  Helfen Sie uns beim Verfassen: Was ist falsch an Streumunition? Sie darf nicht gegen Zivilisten eingesetzt werden. Ihre Überreste stellen eine Gefahr für Zivilisten dar. Weiterlesen.
+keywords: 
+  - Streubomben
+  - Streumunition
+  - Antipersonenminen
+---
+
+
+# Kriegsverbrechen – Streumunition {#sec-warcrimes-clusterbombs}
+
+::: {.callout-caution title="Mythos"}
+- Russland setzt in der Ukraine aus humanitären Gründen niemals Streumunition ein.
+- Die Ukraine sollte keine verbotene Streumunition einsetzen, da dies die Zivilbevölkerung in der Ukraine gefährdet.
+[<br></br>![Stichwort suchen in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(crimes%7Ccriminals)%20cluster&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Russland greift seit seiner Invasion Zivilisten in der Ukraine direkt mit Streumunition an: Das ist ein Kriegsverbrechen. 
+- Da die Ukraine das Übereinkommen über Streumunition nicht unterzeichnet hat, darf sie Streumunition rechtmäßig gegen militärische Ziele einsetzen, um sich zu verteidigen. 
+- Die größte Gefahr für die ukrainische Zivilbevölkerung geht von den großen von Russland verminten Gebieten aus, und nicht von den Überresten ukrainischer Streumunition.
+[<br></br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Convention_on_Cluster_Munitions)
+:::
+
+
+## Übereinkommen über Streumunition
+
+{{< var todo >}}
+
+## Russische Beispiele
+
+{{< var todo >}}
+
+## Ukrainische Beispiele 
+
+{{< var todo >}}
+

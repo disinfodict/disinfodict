@@ -1,0 +1,20 @@
+---
+abstract: >
+  Helfen Sie uns beim Schreiben: Frieden durch Waffenstillstand? Nicht, wenn der Angreifer „Waffenkillstand“ bevorzugt, alle Vereinbarungen bricht und noch mehr Zivilisten bombardiert. 
+---
+
+# Waffenstillstand {#sec-peace-ceasefire}
+
+::: {.callout-caution title="Mythos"}
+- Russland will einen Waffenstillstand
+- Waffenstillstand ist Frieden
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=peace&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Russland lehnt einen Waffenstillstand ab
+- Russland würde einen Waffenstillstand nutzen, um sich weiter zu bewaffnen und den Völkermord in den besetzten Gebieten fortzusetzen
+- Wenn Russland Frieden wollte, hätte es niemals eine Invasion durchgeführt
+:::
+
+{{< var todo >}}

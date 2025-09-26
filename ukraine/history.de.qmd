@@ -1,0 +1,33 @@
+---
+abstract: > 
+  Was weisst Du über die ukrainische Geschichte? Dass sie alt ist? Viel älter als die russische Geschichte? Und viel friedlicher?
+---
+
+# Geschichte der Ukraine {#sec-ukraine-history}
+
+::: {.callout-caution title="Mythos"}
+- Die Ukraine hat keine Geschichte
+- Die Ukraine hat eine Nazi-Geschichte
+- Die Ukraine gehörte zu Polen, Litauen, Russland, was auch immer
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(ukraine%7Cukrainian)%20history&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Die Ukraine hat eine ältere Geschichte als die Moskowiter.
+:::
+
+
+## A
+
+{{< var todo >}}
+
+## B
+
+{{< var todo >}}
+
+## C
+
+{{< var todo >}}
+
+[^ukraine-history-1]: Martina Winkler (26. Februar 2022) Vom Nutzen und Nachteil der Geschichte im Krieg … [https://zeitgeschichte-online.de/kommentar/vom-nutzen-und-nachteil-der-geschichte-im-krieg](https://zeitgeschichte-online.de/kommentar/vom-nutzen-und-nachteil-der-geschichte-im-krieg) 
+

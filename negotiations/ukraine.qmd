@@ -8,12 +8,14 @@ abstract: >
 ::: {.callout-caution title="Myth"}
 - Ukraine refuses negotiations
 - Ukraine refused a peace agreement in Istanbul
+- Ukraine refused a peace agreement in Alaska
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(russia|moscow|putin) (negotiate|negotiations)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-- there was no peace offer in Instanbul[^negotiations-ukraine-1]
-- after Butcha, Zelenskyy said he would not negotiate with Putin (but with other russians)
+- there was no peace offer in Instanbul, only a demand to withdraw troops and surrender[^negotiations-ukraine-1]
+- there was no peace offer in Alaska, only a demand to withdraw troops and surrender [^negotiations-ukraine-1]
+- after Butcha, Zelenskyy said he would not negotiate with Putin (but with other russians), later Zelenskyy agreed to negotiate with Putin, but Putin refused
 - Putin said he will not negotiate as long as he can win his war
 :::
 

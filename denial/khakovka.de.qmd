@@ -1,0 +1,36 @@
+---
+abstract: > 
+  Helfen Sie uns beim Schreiben: Wasser ist Leben. Ein Dammbruch bedeutet den Tod. Ein Dammbruch ist ein Kriegsverbrechen und Ökozid. Was Russland mit dem Kachowka-Damm gemacht hat.
+---
+
+# Kachowka-Damm {#sec-denial-kakhovka}
+
+::: {.callout-caution title="Mythos"}
+- Russland warnte die UNO
+- Die Ukraine zerstörte den Kachowka-Damm
+- Die Ukraine plant die Zerstörung eines weiteren Damms
+- Westliche Waffen zerstörten den Kachowka-Damm
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Kakhovka&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Russland drohte, den Damm zu sprengen
+- Nur Russland hatte die Kontrolle über den Damm
+- Nur jemand, der die Kontrolle über den Damm hatte, konnte ihn sprengen
+- Russland sprengte den Damm
+:::
+
+
+## A
+
+{{< var todo >}}
+
+## B
+
+{{< var todo >}}
+
+## C
+
+{{< var todo >}}
+
+

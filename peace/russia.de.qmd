@@ -1,0 +1,66 @@
+---
+abstract: >
+  Helfen Sie uns beim Schreiben: Niemand will den Krieg mehr als Russland. Die Ukraine kann Russlands Terror nicht alleine stoppen. Lasst uns die Terroristen stoppen.
+---
+
+# Frieden Russland? {#sec-peace-russia}
+
+::: {.callout-caution title="Mythos"}
+Russland will Frieden
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=peace&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Russland hat einen unprovozierten Krieg begonnen und wird weiterhin Europa erobern, wenn es nicht gestoppt wird
+- Russland will sogar die USA erobern
+:::
+
+Das russische Reich entstand aus den Lehren des mongolischen Reiches, siehe @sec-russia-history. 
+
+Regel 5 der mongolischen Kriegsgesetze (Yassa) lautet:
+
+> Es ist verboten, jemals Frieden mit einem Monarchen, einem Prinzen oder einem Volk zu schließen, die sich nicht unterworfen haben.[^peace-russia-4]
+
+
+## Polen 
+
+Chruschtschow wurde bei der „Abschlussfeier“ für den polnischen Staatschef mit folgenden Worten belauscht:
+
+> Wenn Sie uns nicht mögen, nehmen Sie unsere Einladungen nicht an und laden Sie uns nicht zu sich ein. Ob es Ihnen gefällt oder nicht, die Geschichte ist auf unserer Seite. Wir werden Sie unter die Erde bringen! 
+> 
+> Nikita Chruschtschow (1956)[^peace-russia-1]
+
+
+### Ukraine
+
+> Ob es dir gefällt oder nicht, meine Schöne, du musst es ertragen.
+> 
+> Putin über die Ukraine zu Macron[^peace-russia-2]
+
+
+{{< var todo >}}
+
+
+## Europe
+
+{{< var todo >}}
+
+
+## US
+
+> Wir werden Amerika ohne einen einzigen Schuss einnehmen. Wir müssen nicht in die USA einmarschieren. Wir werden euch von innen heraus zerstören.
+>
+> Nikita Khrushchev (1956)[^peace-russia-3]
+
+
+
+
+[^peace-russia-1]: Khrushchev's "We will bury you". (1962, February 7) CIA [https://www.cia.gov/readingroom/docs/CIA-RDP73B00296R000200040087-1.pdf
+](https://www.cia.gov/readingroom/docs/CIA-RDP73B00296R000200040087-1.pdf)
+
+[^peace-russia-2]: Obszöne Weisheiten. (11.2.2022) FAZ. [https://www.faz.net/aktuell/feuilleton/putin-zitiert-obszoene-folklore-und-droht-der-ukraine-17795210.html](https://www.faz.net/aktuell/feuilleton/putin-zitiert-obszoene-folklore-und-droht-der-ukraine-17795210.html)  
+
+[^peace-russia-3]: The Cold War & Disinformation. (2022, November 9) L.M. Elliott. 
+[https://lmelliott.com/book_landing_page_historical/walls/educators-guide-media-literacy-walls](https://lmelliott.com/book_landing_page_historical/walls/educators-guide-media-literacy-walls)
+
+[^peace-russia-4]: ICRC Global Affairs Team (04/07/2024) Mongol Laws of War. [https://blogs.icrc.org/religion-humanitarianprinciples/mongol-laws-of-war/](https://blogs.icrc.org/religion-humanitarianprinciples/mongol-laws-of-war/)
