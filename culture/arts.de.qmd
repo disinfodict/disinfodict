@@ -1,0 +1,28 @@
+---
+abstract: > 
+  Hilf zu schreiben: Wusstest Du, dass der ukrainische Nationaldichter auch gemalt hat? Tauch ein in die farbenfrohe Welt der ukrainischen bildenden Kunst, wo Tradition und Moderne in faszinierender Harmonie verschmelzen!
+---
+
+# Kunst {#sec-culture-arts}
+
+::: {.callout-caution title="Mythos"}
+Ukraine hat keine eigene Kunst
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/insult-to-injury-russias-cultural-appropriation-of-ukrainian-artists/)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Ukraine hat eine vielfältige farbenfrohe bildene Kunst. 
+:::
+
+{{< var todo >}}
+
+
+https://en.wikipedia.org/wiki/List_of_Ukrainian_artists
+
+https://www.ukrainianlessons.com/ukrainian-visual-arts/
+
+https://x.com/ukr_arthistory
+
+https://euvsdisinfo.eu/insult-to-injury-russias-cultural-appropriation-of-ukrainian-artists/
+
+https://www.supportukraine-pic.com/

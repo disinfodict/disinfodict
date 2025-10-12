@@ -1,0 +1,20 @@
+---
+abstract: > 
+  Hilf zu schreiben: Entdecke die faszinierende Huzulenkultur, wo kunstvoll gewebte Teppiche mit lebendigen Mustern die reiche Tradition der ukrainischen Karpaten zum Leben erwecken!
+---
+
+# Teppiche {#sec-culture-carpets}
+
+::: {.callout-caution title="Mythos"}
+Ukraine hat keine eigenen Traditionen
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Die Ukraine ist ein Schmelztiegel von Traditionen, die vor die Zeit Moskaus zurückreichen.
+:::
+
+{{< var todo >}}
+
+https://de.wikipedia.org/wiki/Huzulen
+https://en.wikipedia.org/wiki/Lizhnyk
+

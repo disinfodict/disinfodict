@@ -18,93 +18,13 @@ Ukraine has a rich culture that is again being murdered by Russia
 
 {{< var todo >}}
 
-See also the chapters on Russian culture (@sec-culture-russia) on warcrimes against Ukrainan culture (@sec-warcrimes-culture), on Ukrainian language (@sec-language-russia) and on russian language (@sec-language-ukraine).
+https://www.atlanticcouncil.org/blogs/ukrainealert/countering-russias-campaign-to-erase-ukrainian-cultural-identity/
+https://www.iai.it/en/pubblicazioni/c05/siege-soul-ukrainian-culture-wartime
 
-[^culture-ukraine-5]
-
-
-https://www.art-territory.com/
-
-https://culture.pl/en/article/inventing-anti-imperial-poetic-discourse-adam-mickiewicz-and-taras-shevchenko-with-alexander-pushkin-in-the-tsars-shadow
+See also [Culture of Ukraine on Wikipedia](https://en.wikipedia.org/wiki/Culture_of_Ukraine)
 
 
-
-See also [Culture of Ukraine at Wikipedia](https://en.wikipedia.org/wiki/Culture_of_Ukraine)
-
-## Architecture
-
-{{< var todo >}}
-
-## Carpets
-
-{{< var todo >}}
-
-## Costumes
-
-{{< var todo >}}
-
-
-## Agriculture
-
-### Honey
-
-Few people know it, but this story has changed the world of beekeeping! 🐝
-
-[![Link to Petro Prokopovych on Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Petro_Prokopovych)
-
-Until 1814, beekeepers were destroying hives and killing bees until the Ukrainian Petro Prokopovich invented a revolutionary collapsible beehive![^culture-ukraine-1] 
-It was a real breakthrough, but unfortunately his name has been forgotten. But we remember and are proud!
-
-[![Screenshot of Videa on X](PetroProkopovych.jpg)
-Story of Petro Prokopovich, inventor in beekeeping](https://x.com/i/status/1924525342728896624/)
-
-Listen to Traditional Ukrainian Songs at Petro Prokopovich Institute of Beekeeping, Kyiv, Ukraine:
-
-[![Screenshot of Youtube video](PetroProkopovychFolksongs.jpg)
-Traditional Ukrainian Songs. Meeting at Petro Prokopovich Institute of Beekeeping. Kyiv, Ukraine. ](https://youtu.be/8FYs4eVi64M?t=9)
-
-
-## Cooking
-
-### Borscht
-
-Borscht is on [UNESCO’s List of Intangible Cultural Heritage]
-(https://www.unesco.org/en/articles/culture-ukrainian-borscht-cooking-inscribed-list-intangible-cultural-heritage-need-urgent)
-
-{{< var todo >}}
-
-## Religious arts
-
-{{< var todo >}}
-
-### Pysanki
-
-[https://www.metmuseum.org/perspectives/pysanky](https://www.metmuseum.org/perspectives/pysanky)
-
-{{< var todo >}}
-
-### Pavuk
-
-{{< var todo >}}
-
-## Illustrations
-
-https://www.supportukraine-pic.com/
-
-
-## Fine arts
-
-{{< var todo >}}
-
-## Music
-
-{{< var todo >}}
-
-## Literature
-
-{{< var todo >}}
-
-
+[^culture-ukraine-1]
 
 
 
@@ -112,8 +32,7 @@ https://www.supportukraine-pic.com/
 
 The chapters on "Great Russian" culture (@sec-culture-russia), on Ukrainan culture (@sec-culture-ukraine), on warcrimes against Ukrainan culture (@sec-warcrimes-culture), on Ukrainian language (@sec-language-russia) and on russian language (@sec-language-ukraine).
 
-[^culture-ukraine-1]: John Gordon Sennett (November 20, 2023) Petro Prokopovych. Bee Culture.  [https://beeculture.com/petro-prokopovych/](https://beeculture.com/petro-prokopovych/)
 
-[^culture-ukraine-5]:  Oksana Shchur (2023) Die Ukraine hat keine eigenen Kultur. In: N. Pryhornytska, K. Pavlova, ed. Ukraine im Fokus. Propaganda erkennen, Fakten verstehen. Berlin: CRISP.
+[^culture-ukraine-1]:  Oksana Shchur (2023) Die Ukraine hat keine eigenen Kultur. In: N. Pryhornytska, K. Pavlova, ed. Ukraine im Fokus. Propaganda erkennen, Fakten verstehen. Berlin: CRISP.
 
 

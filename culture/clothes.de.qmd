@@ -1,0 +1,17 @@
+---
+abstract: > 
+  Hilf zu schreiben: Coole Klamotten mit Tradition. Stoffe, Sticken, Muster in der Ukraine.
+---
+
+# Kleiderkultur {#sec-culture-clothes}
+
+::: {.callout-caution title="Mythos"}
+Ukrainische und belarussische Nationaltrachten sind Instrumente zur Zerstörung des russischen Staates
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/report/ukrainian-and-belarusian-national-clothes-are-aimed-to-destroy-the-russian-state/)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Die Ukrainer haben eigene Tracht, Tradition und Nation.
+:::
+
+{{< var todo >}}

@@ -1,0 +1,21 @@
+---
+abstract: > 
+  Help us write: Discover the fascinating Huzul culture, where artfully woven carpets with vibrant patterns bring the rich tradition of the Ukrainian Carpathians to life!
+---
+
+# Carpets {#sec-culture-carpets}
+
+::: {.callout-caution title="Mythos"}
+Ukraine has no traditions of its own.
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Ukraine is a melting pot of traditions that date back to before the time of Moscow.
+:::
+
+{{< var todo >}}
+
+
+https://en.wikipedia.org/wiki/Hutsuls
+https://en.wikipedia.org/wiki/Lizhnyk
+

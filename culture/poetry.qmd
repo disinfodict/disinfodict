@@ -1,0 +1,17 @@
+---
+abstract: >
+  Help us write: How Ukrainian poetry belongs to the Ukrainian nation. 
+---
+
+# Ukrainian poetry {#sec-culture-poetry}
+
+::: {.callout-caution title="Myth"}
+Pushkin is the national poet of all Slavs.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Shevchenko&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Ukraine has two national poets of its own: Taras Shevchenko and Lesya Ukrainka
+:::
+
+{{< var todo >}}

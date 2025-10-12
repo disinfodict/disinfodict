@@ -1,0 +1,32 @@
+---
+abstract: > 
+  Help write: Let yourself be captivated by Ukrainian prose, where vivid narratives and profound stories reflect the rich history and unshakeable soul of a nation!
+---
+
+# Literature {#sec-culture-prose}
+
+::: {.callout-caution title="Myth"}
+Ukraine has no literature of its own, especially not before the Soviet era.
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=literature)
+:::
+
+::: {.callout-tip title="Truth"}
+- Russian literature serves Russian imperialism. 
+- Ukraine has a rich culture that  Moscow has repeatedly tried to destroy.
+:::
+
+{{< var todo >}}
+
+
+https://www.faz.net/aktuell/feuilleton/debatten/puschkin-dostojewski-und-tolstoi-imperiale-russische-klassik-18844671.html
+
+https://www.gesw.de/index.php/2022/11/17/russische-literatur-im-dienst-des-imperialismus/
+
+https://de.wikipedia.org/wiki/Ukrainische_Literatur
+
+https://de.wikipedia.org/wiki/Die_100_besten_ukrainischen_B%C3%BCcher
+
+https://ukraineverstehen.de/fuenf-ukrainische-literaturempfehlungen/
+
+https://www.ukrainer-in-aachen.de/projekte/reise-durch-die-ukrainische-literatur
+

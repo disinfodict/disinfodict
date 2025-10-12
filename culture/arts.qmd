@@ -1,0 +1,28 @@
+---
+abstract: > 
+  Help us write: Did you know that Ukraine's national poet was also a painter? Immerse yourself in the colorful world of Ukrainian visual arts, where tradition and modernity merge in fascinating harmony!
+---
+
+# Arts {#sec-culture-arts}
+
+::: {.callout-caution title="Myth"}
+Ukraine has no art of its own
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/insult-to-injury-russias-cultural-appropriation-of-ukrainian-artists/)
+:::
+
+::: {.callout-tip title="Truth"}
+Ukraine has a diverse and colorful visual arts scene. 
+:::
+
+{{< var todo >}}
+
+
+https://en.wikipedia.org/wiki/List_of_Ukrainian_artists
+
+https://www.ukrainianlessons.com/ukrainian-visual-arts/
+
+https://x.com/ukr_arthistory
+
+https://euvsdisinfo.eu/insult-to-injury-russias-cultural-appropriation-of-ukrainian-artists/
+
+https://www.supportukraine-pic.com/

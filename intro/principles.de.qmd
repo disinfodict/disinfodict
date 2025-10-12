@@ -45,8 +45,8 @@ Das Desinfo-Lexikon richtet sich an Menschen
 - wir verpflichten uns dem [IFCN-Prinzipienkodex](https://ifcncodeofprinciples.poynter.org/the-commitments) (siehe unten)
 - wir schreiben unsere Texte selber oder verwenden [CC](https://de.creativecommons.net) Quellen; unter Copyright stehende Texte zitieren wir im Rahem von Fair Use nur in kurzen Ausschnitten und mit Quellenangabe.
 - jeder, der sich zu diesen Werten und Grundsätzen bekennt, kann einen Beitrag leisten (siehe [Beitragen] unten)
-- wenn Sie einen Fehler finden benachrichtigen sie uns bitte mit Korrekturvorschlag und Quelle auf [correction [at] disinfodict [dot] org](mailto:correction@disinfodict.org)
-- wenn Sie glauben wir verletzen Ihr copyright benachrichtigen sie uns bitte mit Nachweis auf [copyright [at] disinfodict [dot] org](mailto:copyright@disinfodict.org)
+- wenn Sie einen Fehler finden benachrichtigen sie uns bitte mit Korrekturvorschlag und Quelle auf [correction [at] disdict [dot] org](mailto:correction@disdict.org)
+- wenn Sie glauben wir verletzen Ihr copyright benachrichtigen sie uns bitte mit Nachweis auf [copyright [at] disdict [dot] org](mailto:copyright@disdict.org)
 
 
 ## IFCN-Grundsatzkodex
@@ -88,7 +88,7 @@ Das Lexikon ist thematisch in Teile unterteilt. Die Teile sind separate Ordner a
 Ein Teil besteht aus Kapitel-„*.qmd“-Dateien, Kapiteltitel werden in der zweiten Ebene der Lexikonnavigation (links) angezeigt.
 
 - Dateinamen müssen innerhalb ihres Ordners eindeutig sein, z.B. `intro/principles.qmd`
-- die Ordner und Dateinamen dienen als Ziel für HTML-Links, z.B. `https://disinfodict/intro/principles.html`
+- die Ordner und Dateinamen dienen als Ziel für HTML-Links, z.B. `https://disdict/intro/principles`
 - ein Kapitel hat einen Titel, z. B. `# Intro | Principles` (sichtbar in der Navigation)
 - gefolgt von einem aus dem Dateinamen abgeleiteten Querverweisziel, z. B. `{#sec-intro-principles}`, auf das mit `@sec-intro-principles` verwiesen werden kann (immer englisch und nie geändert)
 - Dateien dürfen nicht in einen anderen Teil verschoben werden (Dateispeicherorte sind Teil der permanenten Verweise)
@@ -156,8 +156,8 @@ Wir wollen russische Lügen mit Wahrheiten kontern. Wir wollen nicht ausgewogen 
 
 ## Beitragen {#sec-intro-principles-contribute}
 
-Sie können Verbesserungsvorschläge im Klartext senden, Binärdateien akzeptieren wir aus Sicherheitsgründen nicht. Bitte nutzen sie das [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) .qmd Dateiformat und senden es an [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org).  Die Syntax für die Definition von Abschnittsüberschriften, Fußnoten und die Integration von Bildern ist einfach, siehe zum Beispiel den *Teil Brüder | Kapitel Russland* [im Lexikon](#sec-brothers-russia) und [auf github](https://github.com/disinfodict/disinfodict/blob/main/brothers/russia.de.qmd). Es gibt auch ein [Mini- Demo-Lexikon](https://github.com/disinfodict/disinfoquick) zum Lernen.  
+Sie können Verbesserungsvorschläge im Klartext senden, Binärdateien akzeptieren wir aus Sicherheitsgründen nicht. Bitte nutzen sie das [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) .qmd Dateiformat und senden es an [contribute [at] disdict [dot] org](mailto:contribute@disdict.org).  Die Syntax für die Definition von Abschnittsüberschriften, Fußnoten und die Integration von Bildern ist einfach, siehe zum Beispiel den *Teil Brüder | Kapitel Russland* [im Lexikon](#sec-brothers-russia) und [auf github](https://github.com/disinfodict/disinfodict/blob/main/brothers/russia.de.qmd). Es gibt auch ein [Mini- Demo-Lexikon](https://github.com/disinfodict/disinfoquick) zum Lernen.  
 
-Eine Übersicht, welche Kapitel noch bearbeitet werden müssen, finden Sie unter  [Status](#sec-status-status). Wenn Sie Inhalte einreichen, akzeptieren Sie die [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) Lizenz. Um doppelte Arbeit zu vermeiden, treten Sie unserer Signalgruppe bei und geben Sie an, an welchem Kapitel Sie arbeiten. Um der Gruppe beizutreten, senden Sie Ihr Signal-Handle (oder Ihre Mobil-Nummer) an [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). Der Beitritt zu dieser Gruppe ist nur auf Einladung möglich.  
+Eine Übersicht, welche Kapitel noch bearbeitet werden müssen, finden Sie unter  [Status](#sec-status-status). Wenn Sie Inhalte einreichen, akzeptieren Sie die [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) Lizenz. Um doppelte Arbeit zu vermeiden, treten Sie unserer Signalgruppe bei und geben Sie an, an welchem Kapitel Sie arbeiten. Um der Gruppe beizutreten, senden Sie Ihr Signal-Handle (oder Ihre Mobil-Nummer) an [contribute [at] disdict [dot] org](mailto:contribute@disdict.org). Der Beitritt zu dieser Gruppe ist nur auf Einladung möglich.  
 
 Für mehrfache Beiträge können Sie das [dictionary at github](https://github.com/disinfodict/disinfodict) forken und einen Pull-Request erstellen (siehe die [README](https://github.com/disinfodict/disinfodict/README.qmd).

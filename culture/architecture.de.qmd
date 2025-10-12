@@ -1,0 +1,23 @@
+---
+abstract: > 
+  Hilf zu schreiben: Erleben Sie die beeindruckende Architektur der Ukraine, wo goldene Kuppeln, barocke Pracht und moderne Designs eine faszinierende Geschichte erzählen!
+---
+
+# Architektur {#sec-culture-architecture}
+
+::: {.callout-caution title="Mythos"}
+Russland hat eine der Ukraine überlegene Architektur
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Die ukrainische Architektur hat ihre ersten Wurzeln im ostslawischen Staat der Kyjiver Rus' und ist vielfältig, zum Beispiel die k. u. k. Architektur
+- Russland hätte gerne die Kyjiver Rus', hat aber den sozialistischen Klassizismus und den Brutalismus 
+:::
+
+{{< var todo >}}
+
+https://de.wikipedia.org/wiki/Ukrainische_Architektur
+
+https://de.wikipedia.org/wiki/Brutalismus
+https://de.wikipedia.org/wiki/Sozialistischer_Klassizismus
+

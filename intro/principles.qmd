@@ -41,8 +41,8 @@ The Desinfo-Dictionary is for people
 - we are committed to the [IFCN Code of Principles](https://ifcncodeofprinciples.poynter.org/the-commitments) (see below)
 - we write our texts ourselves or use [CC](https://de.creativecommons.net) sources; in the context of fair use, we quote texts under copyright only in short excerpts and with reference to the source.
 - anyone who subscribes to these values and principles can make a contribution (see [Contribute] below)
-- if you find an error, please notify us with a suggested correction and source at [correction [at] disinfodict [dot] org](mailto:correction@disinfodict.org)
-- if you believe we are infringing your copyright please notify us with proof at [copyright [at] disinfodict [dot] org](mailto:copyright@disinfodict.org)
+- if you find an error, please notify us with a suggested correction and source at [correction [at] disdict [dot] org](mailto:correction@disdict.org)
+- if you believe we are infringing your copyright please notify us with proof at [copyright [at] disdict [dot] org](mailto:copyright@disdict.org)
 
 
 ## IFCN code of Principles
@@ -83,7 +83,7 @@ The dictionary is divided thematically into parts. The parts are separate folder
 A part consists of chapter `*.qmd` files, chapter titles are shown second-level dictionary navigation (left side).
 
 - filenames must be unique within their folder, e.g. `intro/principles.qmd`
-- the folders and filenames serve as target for html links, e.g. `https://disinfodict/intro/principles.html`
+- the folders and filenames serve as target for html links, e.g. `https://disdict/intro/principles`
 - a chapter has a title, e.g. `# Intro | Principles` (visible in navigation)
 - followed by a cross-reference target derived from the filename, e.g. `{#sec-intro-principles}` which can be referenced by `@sec-intro-principles` (always english and never changed)
 - files must not be put into a different part (file locations are part of permanent references)
@@ -152,8 +152,8 @@ We want to counter Russian lies with truths. We don't want to be balanced. There
 
 ## Contribute {#sec-intro-principles-contribute}
 
-You can send plaintext suggestions for improvements, we do not accept binary files for security reasons. Please use the [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) .qmd fileformat and send to [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). The qmd syntax for defining section headers, footnotes and integrate pictures is simple, see for example the *part brothers | chapter russia* [in the dictionary](#sec-brothers-russia) and [on github](https://github.com/disinfodict/disinfodict/blob/main/brothers/russia.qmd). There is also a [mini demo dictionary](https://github.com/disinfodict/disinfoquick) for learning.  
+You can send plaintext suggestions for improvements, we do not accept binary files for security reasons. Please use the [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html) .qmd fileformat and send to [contribute [at] disdict [dot] org](mailto:contribute@disdict.org). The qmd syntax for defining section headers, footnotes and integrate pictures is simple, see for example the *part brothers | chapter russia* [in the dictionary](#sec-brothers-russia) and [on github](https://github.com/disinfodict/disinfodict/blob/main/brothers/russia.qmd). There is also a [mini demo dictionary](https://github.com/disinfodict/disinfoquick) for learning.  
 
-For an overview which chapters still require work see [status](#sec-status-status). By submitting content, you accept the  [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. To avoid duplicate work, join our signal group and announce which chapter you are working on. To join, send your signal handle (or your mobile number) to [contribute [at] disinfodict [dot] org](mailto:contribute@disinfodict.org). Joining the group is invitation-only.  
+For an overview which chapters still require work see [status](#sec-status-status). By submitting content, you accept the  [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license. To avoid duplicate work, join our signal group and announce which chapter you are working on. To join, send your signal handle (or your mobile number) to [contribute [at] disdict [dot] org](mailto:contribute@disdict.org). Joining the group is invitation-only.  
 
 For multiple contributions you can fork the [dictionary at github](https://github.com/disinfodict/disinfodict) and create a pull-request (see the [README](https://github.com/disinfodict/disinfodict/README.qmd)).

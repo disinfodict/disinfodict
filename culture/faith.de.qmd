@@ -1,0 +1,28 @@
+---
+abstract: > 
+  Hilf zu schreiben: Die ukrainische Kultur hat eine lange christliche Tradition und diese erhalten: wer kennt noch Strohsterne und fein ziselierte Ostereier?
+---
+
+# Christliche Handwerkskunst {#sec-culture-faith}
+
+::: {.callout-caution title="Mythos"}
+In der Ukraine verteidigt Russland traditionelle Werte zum Wohle der ganzen Welt
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/?s=christian%20art&type=database)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Die Ukraine hat eine christliche Kultur, von der die Russen nur träumen können
+:::
+
+
+### Pysanki
+
+[https://www.metmuseum.org/perspectives/pysanky](https://www.metmuseum.org/perspectives/pysanky)
+https://pysanka.ukrainianinstitute.org/
+
+{{< var todo >}}
+
+### Pavuk
+
+{{< var todo >}}
+

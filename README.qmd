@@ -15,7 +15,7 @@ You can contribute to the Disinfo Dictionary in multiple ways
 - github: clone the Dictionary repository in your github account, modify and submit
 - recommended: combine RStudio with git and github
 
-To submit you contribution use the email address in the [dictionary](https://disinfodict.pages.dev/intro/principles#contribute), for many submissions learn how to use pull requests, see below [Dictionary flow].
+To submit you contribution use the email address in the [dictionary](https://disdict.org/intro/principles#contribute), for many submissions learn how to use pull requests, see below [Dictionary flow].
 
 
 # Low tech approach
@@ -62,7 +62,7 @@ For regular contributions it is easier to work with a github account (see below)
 - preview changes (see below)
 - finally render
 - send us your chapter file .qmd (plus images or .bib for literature references)
-- to: contribute@disinfodict.org
+- to: contribute@disdict.org
 
 ## Multilingual rendering
 
@@ -205,8 +205,7 @@ To shield you from any complexities with using the git command line, we suggest 
 ## Measuring dictionary status
 
 ```{R}
-en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), "README.qmd")
-en <- en[grep("/", en)] 
+en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), c("impressum.qmd", "404.qmd", "README.qmd"))
 de <- en[grep("[.]de[.]qmd$", en)]
 ua <- en[grep("[.]ua[.]qmd$", en)]
 en <- setdiff(en, c(de, ua))
@@ -231,7 +230,7 @@ enstatus <- sapply(en, function(i){
   x <- paste(readLines(i), collapse=" ")
   y <- strsplit(x, "##")[[1]]
   lipsum <- grep("lipsum|TODO", y, ignore.case = TRUE)
-  abstract <- length(grep("abstract: >", y)) == 0
+  abstract <- length(grep("abstract: >", y)) == 0 & length(grep("index", i)) == 0
   n <- length(y) + 1
   k <- n - length(lipsum) - abstract
   p <- k/n
@@ -241,7 +240,7 @@ destatus <- sapply(de, function(i){
   x <- paste(readLines(i), collapse=" ")
   y <- strsplit(x, "##")[[1]]
   lipsum <- grep("lipsum|TODO", y, ignore.case = TRUE)
-  abstract <- length(grep("abstract: >", y)) == 0
+  abstract <- length(grep("abstract: >", y)) == 0 & length(grep("index", i)) == 0
   n <- length(y) + 1
   k <- n - length(lipsum) - abstract
   p <- k/n
@@ -255,17 +254,17 @@ dereserved <- sapply(de, function(i){
   x <- paste(readLines(i), collapse=" ")
   length(grep("\\{\\{ reserved \\}\\}", x, ignore.case = TRUE))>0
 })
-d <- cbind(en=100*enstatus, ".de"=rep(0, length(enstatus)))
-d[,2] <- 0
-rownames(d) <- names(enstatus)
+dictionarystatus <- cbind(en=100*enstatus, ".de"=rep(0, length(enstatus)))
+dictionarystatus[,2] <- 0
+rownames(dictionarystatus) <- names(enstatus)
 if (length(destatus))
-  d[sub("\\.de","",names(destatus)),2] <- 100*destatus
-d <- as.data.frame(round(d))
+  dictionarystatus[sub("\\.de","",names(destatus)),2] <- 100*destatus
+dictionarystatus <- as.data.frame(round(dictionarystatus))
 dereserved <- names(dereserved)[dereserved]
 if (length(dereserved))
   enreserved[sub("\\.de","",names(dereserved))] <- TRUE
-d$reserved <- ifelse(enreserved, 'reserved', '')
-save(d, file = "status.RData")
+dictionarystatus$reserved <- ifelse(enreserved, 'reserved', '')
+save(dictionarystatus, file = "status.RData")
 ```
 
 ## Set default publication date
@@ -325,6 +324,8 @@ We use  [ACE by Daisy](https://daisy.org/activities/software/ace/), the [ACE-app
 base <- "https://disdict[.]org"  # [.] for regexp
 baseurl <- gsub("\\[[.]\\]",".", base)
 ccs <- c("en","de")  # default language first
+dofixhtml <- TRUE
+dofiltersitemap <- TRUE
 ```
 
 ## Remove unwanted files
@@ -335,7 +336,7 @@ Babelquarto copies broken sitemap.xml. Hence we delete them all an later synthes
 
 ```{R}
 # for secondary languages 
-for (cc in ccs[-1]){
+if (dofixhtml) for (cc in ccs[-1]){
   file.remove(paste0("_book/", cc, "/404.html"))
   file.remove(paste0("_book/", cc, "/index.html"))  
   file.remove(paste0("_book/", cc, "/impressum.html"))
@@ -366,24 +367,26 @@ for (i in seq_along(htmlfiles)){
   qn <- qmdfilenames[i]
   u <- urls[i]
   date <- file.mtime(q)
-  lines <- readLines(h)
   dates[i] <- date
-  # update the date
-  l <- grep('<meta name="date" content="', lines)
-  lines[l] <- paste0('<meta name="date" content="', format(date, '%Y-%m-%dT%H:%M:%S', tz="GMT"),'">')
-  # babelquarto did not treat canonical links, hence needs fixing
-  l <- grep('<link rel="canonical"', lines)
-  lines[l] <- sub(paste0(base, '/.+[.]html'), u, lines[l])
-  # links index.<cc>.html in index.html umwandeln
-  for (cc in rev(ccs[-1])){
-    # fix absolute index paths
-    lines <- gsub(paste0('("', baseurl, '/', cc,  ')(/index[.]', cc , '[.]html")'), '\\1/index.html"', lines)
-    # fix relative index paths
-    lines <- gsub(paste0('("[^h][^"]*)(/index[.]', cc, '[.]html")'), '\\1/index.html"', lines)
+  if (dofixhtml){
+    lines <- readLines(h)
+    # update the date
+    l <- grep('<meta name="date" content="', lines)
+    lines[l] <- paste0('<meta name="date" content="', format(date, '%Y-%m-%dT%H:%M:%S', tz="GMT"),'">')
+    # babelquarto did not treat canonical links, hence needs fixing
+    l <- grep('<link rel="canonical"', lines)
+    lines[l] <- sub(paste0(base, '/.+[.]html'), u, lines[l])
+    # links index.<cc>.html in index.html umwandeln
+    for (cc in rev(ccs[-1])){
+      # fix absolute index paths
+      lines <- gsub(paste0('("', baseurl, '/', cc,  ')(/index[.]', cc , '[.]html")'), '\\1/index.html"', lines)
+      # fix relative index paths
+      lines <- gsub(paste0('("[^h][^"]*)(/index[.]', cc, '[.]html")'), '\\1/index.html"', lines)
+    }
+    writeLines(lines, h)
   }
-  writeLines(lines, h)
 }
-for (cc in rev(ccs[-1])){
+if (dofixhtml) for (cc in rev(ccs[-1])){
   f <- paste0('_book/', cc, '/search.json')
   lines <- readLines(f)
   l <- grep('"objectID":', lines)
@@ -397,7 +400,10 @@ for (cc in rev(ccs[-1])){
 
 ##  Synthesize Sitemap
 
-Can be checked after a deployment at https://technicalseo.com/tools/hreflang/
+- With `dofiltersitemap==TRUE` we only include completed chapters to avoid Google crawling incomplete chapters that Google Search Cosole might judge to be low quality or almost duplicates. 
+- Sitemap is designed according to https://developers.google.com/search/docs/specialty/international/localized-versions?hl=en (Not used the advice from https://stackoverflow.com/questions/20330837/multilingual-sitemap-xml-file, the sitemap protocol is at https://www.sitemaps.org/protocol.html)
+- Advice what to do if sitemap can't be read: https://www.clickbrown.in/sitemap-could-not-be-read-cloudflare-fix/, note that Google does not like <whatever>.page.dev/sitemap.xml, not even - cloudflare likes it (fails to trace it with https://developers.cloudflare.com/rules/trace-request/how-to/). 
+- Sitemap can be checked after a deployment at https://technicalseo.com/tools/hreflang/ or at https://www.xml-sitemaps.com/validate-xml-sitemap.html 
 
 ```{R}
 files <- setdiff(htmlfiles, c('_book/404.html', '_book/impressum.html'))
@@ -406,6 +412,14 @@ defurls <- urls
 for (cc in ccs[-1]){
   defurls <- sub(paste0('/'  , cc, '/'),'/', defurls)
   defurls <- sub(paste0('[.]', cc, '[.]'), '.', defurls)
+}
+if (dofiltersitemap){
+   status <- rowSums(dictionarystatus[,-ncol(dictionarystatus)])/2
+   names(status) <- paste0(baseurl, '/', names(status), '.html')
+   i <- status[defurls] > 99.9
+   files <- files[i]
+   urls <- urls[i]
+   defurls <- defurls[i]
 }
 xhtml <- rbind(defurls)
 langs <- rbind(rep(ccs[1], length(defurls)))
@@ -417,9 +431,10 @@ xhtml <- paste0('    <xhtml:link rel="alternate" hreflang="',langs ,'" href="', 
 dim(xhtml) <- dim(langs)
 xhtml <- apply(xhtml, 2, function(x)paste0(x, collapse='\n'))
 
-xhtml <- c(xhtml, '')
-files <- c(files, '_book/impressum.html')
-urls <- c(urls, paste0(baseurl, '/impressum.html'))
+#xhtml <- c(xhtml, '')
+#files <- c(files, '_book/impressum.html')
+#urls <- c(urls, paste0(baseurl, '/impressum.html'))
+
 formatteddates <- paste0(format(dates[files], '%Y-%m-%dT%H:%M:%S', tz="GMT"), '.000Z')
 
 # replace index.<cc>.html with index.html
@@ -450,7 +465,7 @@ Babelquarto has index.html redirected to index.<cc>.html. Google doesn't like re
 
 ```{R}
 # for secondary languages 
-for (cc in ccs[-1]){
+if (dofixhtml) for (cc in ccs[-1]){
   file.rename(paste0("_book/", cc, "/index.", cc, ".html"), paste0("_book/", cc, "/index.html"))  # rename the real one
   htmlfiles <- sub(paste0("_book/", cc, "/index.", cc, ".html"), paste0("_book/", cc, "/index.html"), htmlfiles)
 }
@@ -460,10 +475,9 @@ names(dates) <- htmlfiles
 
 ## Fix cloudflare 
 
-
 ```{R}
 # now change all absolute and relative internal links in all html pages
-for (h in htmlfiles){
+if (dofixhtml) for (h in htmlfiles){
   lines <- readLines(h)
   for (cc in ccs){
       if (cc==ccs[1]){
@@ -502,24 +516,28 @@ lines <- gsub(paste0('("', baseurl, '/[^"]+)([.]html")'), '\\1"', lines)
 writeLines(lines, '_book/sitemap.xml')
 
 # now change in search.json
-for (cc in ccs){
-    if (cc==ccs[1]){
-      f <- '_book/search.json'
-    }else{
-      f <- paste0('_book/', cc, '/search.json')
-    }
-  lines <- readLines(f)
-  # without trailing slash
-  l <- grep('"objectID":', lines)
-  lines[l] <- sub('[.]html', '', lines[l])
-  l <- grep('"href":', lines)
-  lines[l] <- sub('[.]html', '', lines[l])
-  writeLines(lines, f)
+if (dofixhtml){
+  for (cc in ccs){
+      if (cc==ccs[1]){
+        f <- '_book/search.json'
+      }else{
+        f <- paste0('_book/', cc, '/search.json')
+      }
+    lines <- readLines(f)
+    # without trailing slash
+    l <- grep('"objectID":', lines)
+    lines[l] <- sub('[.]html', '', lines[l])
+    l <- grep('"href":', lines)
+    lines[l] <- sub('[.]html', '', lines[l])
+    writeLines(lines, f)
+  }
+  lines <- readLines("404.html")
+  lines <- sub('<a href="/[.]">',paste0('<a href=">', baseurl, '">'),lines)
+  writeLines(lines, "404.html")
 }
-lines <- readLines("404.html")
-lines <- sub('<a href="/[.]">',paste0('<a href=">', baseurl, '">'),lines)
-writeLines(lines, "404.html")
 ```
+
+
 ## Cloudflare Pages _redirects 
 
 A Cloudflare Pages _redirects file is not needed, because Cloudflare Pages signals its trailing-slash policy with 308 codes
@@ -549,15 +567,12 @@ https://:version.:project.pages.dev/*
 close(f)
 ```
 
-  
-  
-  
-
 
 ## Fix html file dates
 
 ```{R}
-Sys.setFileTime(htmlfiles, dates[htmlfiles])
+if (dofixhtml)
+  Sys.setFileTime(htmlfiles, dates[htmlfiles])
 ```
 
 
@@ -577,11 +592,11 @@ for (h in htmlfiles){
     s <- sta[i]
     t <- sto[i]
     g <- grep(paste0(s, r, "/index.html", t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
-    g <- grep(paste0(s, r, "/index", t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
-    g <- grep(paste0(s, r, '/de/index.html', t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
-    g <- grep(paste0(s, r, "/de/index", t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
-    g <- grep(paste0(s, r, '/', t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
-    g <- grep(paste0(s, r, '/de', t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
+    #g <- grep(paste0(s, r, "/index", t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
+    #g <- grep(paste0(s, r, '/de/index.html', t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
+    #g <- grep(paste0(s, r, "/de/index", t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
+    #g <- grep(paste0(s, r, '/', t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
+    #g <- grep(paste0(s, r, '/de', t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
   }
 }
 ```

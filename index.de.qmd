@@ -3,9 +3,9 @@
 > Eine feine Linie trennt in der Vergangenheit die Lüge von der Wahrheit, aber in der Zukunft gibt es keine Linie mehr.  
 > — Lesja Ukrainka, Cassandra (1907)
 
-Das **Desinfo-Lexikon** ist eine kompakte, übersichtlich strukturierte, durchsuchbare und verlinkbare Online-Ressource, die wiederkehrende russische Narrative über Russlands Krieg gegen die Ukraine mit ausgewählten Fakten widerlegt, und so die sehr umfangreiche [EUvsDisinfo-Datenbank](https://euvsdisinfo.eu/disinformation-cases/) des diplomatischen Dienstes der EU und Wikipedia ergänzt: DisinfoDict ist ein **zeitersparendes Tool für Journalisten, für Fakten-Checker, für Aktivisten gegen Desinformation, für Nutzer sozialer Netzwerke und für alle Bürger, die zuverlässige Informationen über Russland und die Ukraine suchen**.  DisinfoDict ist sowohl ein Lexikon zum Suchen und Nachschlagen, oder kann von Anfang bis Ende gelesen werden, online, auf dem Smartphone, oder offline als pdf oder epub; mit einem Screenreader dient das epub als Hörbuch.  DisinfoDict ist zweisprachig (deutsch/englisch), kostenlos, quelloffen und erweiterbar.  DisinfoDict ist noch nicht komplett, aber schon nützlich.
+Das **Desinfo-Lexikon (DisDict)** ist eine kompakte, übersichtlich strukturierte, durchsuchbare und verlinkbare Online-Ressource, die wiederkehrende russische Narrative über Russlands Krieg gegen die Ukraine mit ausgewählten Fakten widerlegt, und so die sehr umfangreiche [EUvsDisinfo-Datenbank](https://euvsdisinfo.eu/disinformation-cases/) des diplomatischen Dienstes der EU und Wikipedia ergänzt: DisDict ist ein **zeitersparendes Tool für Journalisten, für Fakten-Checker, für Aktivisten gegen Desinformation, für Nutzer sozialer Netzwerke und für alle Bürger, die zuverlässige Informationen über Russland und die Ukraine suchen**.  DisDict ist sowohl ein Lexikon zum Suchen und Nachschlagen, oder kann von Anfang bis Ende gelesen werden, online, auf dem Smartphone, oder offline als pdf oder epub; mit einem Screenreader dient das epub als Hörbuch.  DisDict ist zweisprachig (deutsch/englisch), kostenlos, quelloffen und erweiterbar.  DisDict ist noch nicht komplett, aber schon nützlich.
 
-Wir hoffen, dass DisinfoDict hilft, die weitverbreiteten Narrative russischer 
+Wir hoffen, dass DisDict hilft, die weitverbreiteten Narrative russischer 
 Propaganda über den Krieg gegen die Ukraine zu reduzieren und damit zu einer 
 resilienteren Gesellschaft und zur Sicherheit in Europa beiträgt.
 
@@ -22,3 +22,6 @@ Diese Webseite ist mehrsprachig: Um die Sprache zu wechseln, klicken Sie auf das
 
 Das Desinfo-Lexikon © 2024 von Fellas & Partnern ist lizensiert unter CC BY-NC-ND 4.0. Für die vollständige Lizenz siehe [creativecommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 :::
+
+> [Papst Leo XIV.](https://www.spiegel.de/panorama/leute/papst-leo-xiv-pontifex-warnt-vor-desinformation-a-17f57622-00f3-452c-944a-f2a0c4aff178) hat vor denjenigen gewarnt, die durch die »alte Kunst des Lügens spalten wollen, um durch Zwietracht zu herrschen,  
+> es brauche »freie, fundierte und objektive Informationen«

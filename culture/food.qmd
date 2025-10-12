@@ -1,0 +1,35 @@
+---
+abstract: > 
+  Help us write: Enjoy hearty Ukrainian cuisine, where traditional flavors from borscht to varenyky offer an unforgettable taste journey through Ukraine!
+---
+
+# Ukrainian cuisine {#sec-culture-food}
+
+::: {.callout-caution title="Myth"}
+- Ukrainian cuisine is Russian
+- Ukrainians are cannibals
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/?s=cooking&type=database)
+:::
+
+::: {.callout-tip title="Truth"}
+- Many dishes known as “Russian” originate from Ukraine
+- Russia has a striking number of cannibals, and worse: it lets them go free (see @sec-culture-cannibalism)
+:::
+
+
+## Borscht
+
+Borscht is on the [UNESCO list of intangible cultural heritage]
+(https://www.unesco.org/en/articles/culture-ukrainian-borscht-cooking-inscribed-list-intangible-cultural-heritage-need-urgent)
+
+{{< var todo >}}
+
+## Varenyky
+
+{{< var todo >}}
+
+
+## Todo
+
+{{< var todo >}}
+

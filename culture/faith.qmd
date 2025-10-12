@@ -1,0 +1,29 @@
+---
+abstract: > 
+  Help write: Ukrainian culture has a long Christian tradition and preserves it: who still knows about straw stars and finely engraved Easter eggs?
+---
+
+# Christian craftsmanship {#sec-culture-faith}
+
+::: {.callout-caution title="Myth"}
+In Ukraine, Russia defends traditional values for the benefit of the whole world
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/?s=christian%20art&type=database)
+:::
+
+::: {.callout-tip title="Truth"}
+Ukraine has a Christian culture that Russians can only dream of.
+:::
+
+
+### Pysanki
+
+[https://www.metmuseum.org/perspectives/pysanky](https://www.metmuseum.org/perspectives/pysanky)
+https://pysanka.ukrainianinstitute.org/
+
+
+{{< var todo >}}
+
+### Pavuk
+
+{{< var todo >}}
+

@@ -86,7 +86,19 @@ book:
     part-de: "Kultur"
     chapters:
     - culture/russia.qmd
+    - culture/cannibalism.qmd
     - culture/ukraine.qmd
+    - culture/architecture.qmd
+    - culture/carpets.qmd
+    - culture/clothes.qmd
+    - culture/farming.qmd
+    - culture/bees.qmd
+    - culture/food.qmd
+    - culture/faith.qmd
+    - culture/arts.qmd
+    - culture/music.qmd
+    - culture/prose.qmd
+    - culture/poetry.qmd
   - part: "Democracy"
     part-de: "Demokratie"
     chapters:

@@ -3,9 +3,9 @@
 > A fine line separates lies from the truth in the past, but in the future there is no longer any line.  
 > — Lesja Ukrainka, Cassandra (1907)
 
-The **Disinfo Dictionary** is a compact, clearly structured, searchable and linkable online resource that refutes recurring Russian narratives about Russia's war against Ukraine with selected facts, thus complementing the very extensive [EUvsDisinfo database](https://euvsdisinfo.eu/disinformation-cases/) of the EU diplomatic service and Wikipedia: DisinfoDict is a **time-saving tool for journalists, for fact-checkers, for activists against disinformation, for users of social networks and for all citizens looking for reliable information about Russia and Ukraine**.  DisinfoDict is both a lexicon for searching and looking up, or can be read from start to finish, online, on a smartphone, or offline as a pdf or epub; with a screen reader, the epub serves as an audio book.  DisinfoDict is bilingual (German/English), free, open source and extensible.  DisinfoDict is not yet complete, but it is already useful.
+The **Disinfo Dictionary (DisDict)** is a compact, clearly structured, searchable and linkable online resource that refutes recurring Russian narratives about Russia's war against Ukraine with selected facts, thus complementing the very extensive [EUvsDisinfo database](https://euvsdisinfo.eu/disinformation-cases/) of the EU diplomatic service and Wikipedia: DisDict is a **time-saving tool for journalists, for fact-checkers, for activists against disinformation, for users of social networks and for all citizens looking for reliable information about Russia and Ukraine**.  DisDict is both a lexicon for searching and looking up, or can be read from start to finish, online, on a smartphone, or offline as a pdf or epub; with a screen reader, the epub serves as an audio book.  DisDict is bilingual (German/English), free, open source and extensible.  DisDict is not yet complete, but it is already useful.
 
-We hope that DisinfoDict will help to reduce the widespread narratives of 
+We hope that DisDict will help to reduce the widespread narratives of 
 Russian propaganda about the war against Ukraine and thus contribute 
 to a more resilient society and security in Europe.		
 
@@ -23,3 +23,5 @@ This website is multi-lingual: for switching language click on the globe-icon �
 The Desinformation-Dictionary © 2024 by Fellas \& Partners is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [creativecommons.org](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 :::
 
+> — [Pope Leo XIV](https://www.bluewin.ch/en/news/international/leo-xiv-warns-against-the-ancient-art-of-lying-and-division-2909197.html) has warned — without naming names — against those who seek to divide through the "ancient art of lying in order to rule through discord"  
+> free, well-founded and objective information is needed

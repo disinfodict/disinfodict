@@ -1,0 +1,33 @@
+---
+abstract: > 
+  Hilf zu schreiben: Genießen Sie die herzhafte ukrainische Küche, wo traditionelle Aromen von Borschtsch bis Varenyky eine unvergessliche Geschmacksreise durch die Ukraine bieten!
+---
+
+# Ukrainische Küche {#sec-culture-food}
+
+::: {.callout-caution title="Mythos"}
+- Die Küche der Ukraine sei russisch
+- Die Ukrainer seien Menschenfresser
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/?s=cooking&type=database)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Viele als "russisch" bekannte Gerichte stammen aus der Ukraine
+- Russland hat auffällig viele Kannibalen, schlimmer: lässt sie frei (siehe @sec-culture-cannibalism)
+:::
+
+
+## Borschtsch
+
+Borschtsch steht auf der [UNESCO-Liste des immateriellen Kulturerbes]
+(https://www.unesco.org/en/articles/culture-ukrainian-borscht-cooking-inscribed-list-intangible-cultural-heritage-need-urgent)
+
+{{< var todo >}}
+
+## Varenyky
+
+{{< var todo >}}
+
+## Todo
+
+{{< var todo >}}

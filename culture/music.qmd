@@ -1,0 +1,31 @@
+---
+abstract: > 
+  Help us write: Let yourself be enchanted by stirring Ukrainian music, where powerful folk melodies and classical sounds merge in unique harmony!
+---
+
+# Musik {#sec-culture-music}
+
+::: {.callout-caution title="Myth"}
+Ukraine does not have its own music
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Culture+Ukraine&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+- Ukrainian music has a older tradition than Russian music
+- Russia has appropriated Ukrainian composers
+- Russia has persecuted and killed Ukrainian composers
+- Russia uses music to spread hate and disinformation
+:::
+
+{{< var todo >}}
+
+https://www.themoscowtimes.com/2025/02/07/ukraine-calls-russian-pop-song-sigma-boy-a-weapon-in-moscows-information-war-a87908
+
+https://science.lpnu.ua/sjs/all-volumes-and-issues/number-2-8-2024/modern-russian-music-tool-spread-pro-russian-narratives
+
+https://thecrimsonwhite.com/120669/culture/ukrainian-music-researcher-visits-ua-presents-russian-musics-role-in-war-on-ukraine/
+
+https://www.counteroffensive.news/p/listen-how-ukrainian-folk-music-threw
+
+https://disinfo.detector.media/en/post/how-russian-propaganda-uses-music-to-spread-anti-ukrainian-narratives
+

@@ -1,0 +1,32 @@
+---
+abstract: > 
+  Help write: Did you know that Ukraine has the best soil in the world? And that Ukraine feeds many people worldwide?
+---
+
+# Agriculture {#sec-culture-farming}
+
+::: {.callout-caution title="Myth"}
+Ukrainians are stupid farmers
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(ukrainian%7CUkraine)%20(agriculture%7Cgrain%7Cfood)&sort=relevance)
+:::
+
+::: {.callout-tip title="Truth"}
+Ukrainians have the best soil in the world and a strong agricultural culture.
+:::
+
+## Black soil
+
+{{< var todo >}}
+
+## Subsistence farming
+
+{{< var todo >}}
+
+## Small-scale farming
+
+{{< var todo >}}
+
+## Large-scale farmers
+
+{{< var todo >}}
+

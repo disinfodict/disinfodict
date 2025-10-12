@@ -1,0 +1,17 @@
+---
+abstract: > 
+  Hilf zu schreiben: Wie die ukrainische Poesie zur ukrainischen Nation gehört. 
+---
+
+# Ukrainische Dichtung {#sec-culture-poetry}
+
+::: {.callout-caution title="Mythos"}
+Puschkin ist der Nationaldichter aller Slawen
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Shevchenko&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Die Ukraine hat zwei eigene Nationaldichter(innen): Taras Shevchenko und Lessja Ukrajinka
+:::
+
+{{< var todo >}}

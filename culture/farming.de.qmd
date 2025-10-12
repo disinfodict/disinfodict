@@ -1,0 +1,32 @@
+---
+abstract: > 
+  Hilf zu schreiben: Wusstest Du, dass die Ukraine die besten Böden der Welt hat? Und die Ukraine viele Menschen weltweit ernährt?
+---
+
+# Landwirtschaft {#sec-culture-farming}
+
+::: {.callout-caution title="Mythos"}
+Die Ukrainer sind dumme Bauern
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(ukrainian%7CUkraine)%20(agriculture%7Cgrain%7Cfood)&sort=relevance)
+:::
+
+::: {.callout-tip title="Wahrheit"}
+Die Ukrainer haben die besten Böden der Welt und eine eine ausgeprägte landwirtschaftliche Kultur
+:::
+
+## Schwarzer Boden
+
+{{< var todo >}}
+
+## Nebenerwerbs-Landwirtschaft
+
+{{< var todo >}}
+
+## Kleinbauern
+
+{{< var todo >}}
+
+## Großbauern
+
+{{< var todo >}}
+
