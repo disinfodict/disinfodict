@@ -55,7 +55,15 @@ Russia committed multiple genocides, particularly multiple against Ukraine.
 
 ## Holodomor 1932/33
 
-{{< var todo >}}
+![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Holodomor)
+
+*Holodomor* – literally ‘murder by starvation’ – refers to the famine in the Soviet Union in the 1930s in the Ukrainian Soviet Socialist Republic, for which Stalin was responsible and which claimed the lives of between three and seven million Ukrainians. The following facts show that this was a deliberate genocide aimed at Russifying Ukraine (see Applebaum:2017:en, Applebaum:2021:en):
+
+- Stalin had seeds and other foodstuffs taken away from starving farmers
+- Stalin sealed off the famine areas so that no one could flee and seek food elsewhere
+- At the same time, Stalin had the political and cultural elite of Ukraine destroyed
+
+Stalin's Holodomor provided the impetus for the definition of the term ‘genocide’ in international law, see @sec-genocide-definition. Stalin biographer Stephen Kotkin describes Stalin as a great leader (@Kotkin:2014, Kotkin:2017) who accepted the deaths of Soviet citizens but did not deliberately commit genocide against Ukrainians; Stalin was not concerned with nationalism, but with class struggle. Kotkin's subtle propaganda is hardly credible in view of the deliberate persecution of the Ukrainian elite and the fact that the Holodomor in rural areas mainly claimed the lives of small farmers. 
 
 
 ## Vinnytsia massacre 1937/38

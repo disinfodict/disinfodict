@@ -55,8 +55,15 @@ Russland hat mehrere Völkermorde begangen, insbesondere mehrere gegen die Ukrai
 
 ## Holodomor 1932/33
 
-{{< var todo >}}
+![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Holodomor)
 
+*Holodomor* - wörtlich 'Hungermord' bezeichnet die von Stalin verantwortete Hungersnot in der Sowjetunion in den 1930er Jahren in der Ukrainischen Sozialistischen Sowjetrepublik, der zwischen drei und sieben Millionen Ukrainer zum Opfer fielen. Dass es sich um einen gezielten Völkermord zur Russifizierung der Ukraine handelte, sieht man an folgenden Tatsachen (siehe Applebaum:2017:de, Applebaum:2021:de):
+
+- Stalin ließ den hungernden Bauern Saatgut und andere Lebensmittel wegnehmen
+- Stalin riegelte die Hungergebiete ab, so dass niemand flüchten und woanders nach Nahrung suchen konnte
+- zeitgleich ließ Stalin die politische und kulturelle Elite der Ukraine vernichten
+
+Stalins Holodomor gab den Anstoß zur völkerrechtlichen Definition des Begriffs des 'Genozids', siehe @sec-genocide-definition. Der Stalin Biograph Stephen Kotkin beschreibt Stalin als großen Führer (@Kotkin:2014, Kotkin:2017) der zwar den Tod der von Sowjetbürgern in Kauf genommen habe, nicht aber einen gezielten Genozid an Ukrainern betrieben habe. Stalin sei es nicht um Nationalismus, sondern um Klassenkampf gegangen. Kotkins's subtile Propaganda ist wenig glaubhaft angesichts der gezielten Verfolgung der Ukrainischen Elite und der Tatsache, dass dem Holodomor auf dem Lande vor allem Kleinbauern zum Opfer gefallen sind. 
 
 ## Massaker von Vinnytsia 1937/38
 
