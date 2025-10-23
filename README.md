@@ -5,7 +5,7 @@ execute:
   enabled: false
 ---
 
-# Conribute
+# Contribute
 
 You can contribute to the Disinfo Dictionary in multiple ways
 
