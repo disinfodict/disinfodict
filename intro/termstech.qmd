@@ -180,7 +180,7 @@ According to @Paul:2016, the distinctive features of the *Firehose of Falsehoods
 
 > Psychological studies show that when the brain is exposed to the same information continuously, it begins to perceive that information as true—regardless of conflicting or contrary evidence [Disinformation and Reflexive Control: The New Cold War](https://georgetownsecuritystudiesreview.org/2017/02/01/disinformation-and-reflexive-control-the-new-cold-war/)
 
-> This means that when the New York Times, or any other publication, runs a headline like “[Trump Claims, With No Evidence, That ‘Millions of People Voted Illegally,’](http://www.nytimes.com/2016/11/27/us/politics/trump-adviser-steps-up-searing-attack-on-romney.html)” it perversely reinforces the very claim it means to debunk.
+> This means that when the New York Times, or any other publication, runs a headline like “[Trump Claims, With No Evidence, That ‘Millions of People Voted Illegally,’](https://www.nytimes.com/2016/11/27/us/politics/trump-adviser-steps-up-searing-attack-on-romney.html)” it perversely reinforces the very claim it means to debunk.
 > [Trump’s Lies vs. Your Brain](https://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658/)
 
 > When we are overwhelmed with false, or potentially false, statements, our brains pretty quickly become so overworked that we stop trying to sift through everything 

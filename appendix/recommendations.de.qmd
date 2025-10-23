@@ -34,7 +34,7 @@ abstract: >
 - [dpa Faktencheck](https://www.dpa.com/de/faktencheck)
 - [DW (Deutsche Welle)](https://www.dw.com/de/faktencheck/t-56578552)
 - [ARD Faktencheck](https://www.tagesschau.de/faktenfinder)
-- [ZDF investigativ](https://www.zdf.de/nachrichten/thema/zdf-investigativ-100.html)
+- [ZDF investigativ](https://www.zdfheute.de/thema/zdf-investigativ-100.html)
 - [Correctiv Faktencheck](https://correctiv.org/faktencheck/)
 - [Arte Fake news](https://www.arte.tv/de/videos/RC-022858/fake-news/) und [Aktuelles und Gesellschaft](https://www.arte.tv/de/videos/aktuelles-und-gesellschaft/)
 - [BBC reality check](https://www.bbc.com/news/reality_check)
@@ -67,7 +67,7 @@ Russische Medien und das russische Fernsehen veröffentlichen jeden Tag Aufrufe 
 
 - [ARD Faktenfinder](https://www.tagesschau.de/faktenfinder)
 - [BR Faktenfuchs](https://www.br.de/nachrichten/faktenfuchs-faktencheck,QzSIzl3)
-- [ZDF investigativ](https://www.zdf.de/nachrichten/thema/zdf-investigativ-100.html)
+- [ZDF investigativ](https://www.zdfheute.de/thema/zdf-investigativ-100.html)
 
 
 ## Bücher

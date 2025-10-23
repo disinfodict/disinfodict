@@ -15,7 +15,7 @@ You can contribute to the Disinfo Dictionary in multiple ways
 - github: clone the Dictionary repository in your github account, modify and submit
 - recommended: combine RStudio with git and github
 
-To submit you contribution use the email address in the [dictionary](https://disinfodict.pages.dev/intro/principles#contribute), for many submissions learn how to use pull requests, see below [Dictionary flow].
+To submit you contribution use the email address in the [dictionary](https://disdict.org/intro/principles#contribute), for many submissions learn how to use pull requests, see below [Dictionary flow].
 
 
 # Low tech approach
@@ -62,7 +62,7 @@ For regular contributions it is easier to work with a github account (see below)
 - preview changes (see below)
 - finally render
 - send us your chapter file .qmd (plus images or .bib for literature references)
-- to: contribute@disinfodict.org
+- to: contribute@disdict.org
 
 ## Multilingual rendering
 
@@ -205,8 +205,7 @@ To shield you from any complexities with using the git command line, we suggest 
 ## Measuring dictionary status
 
 ```{R}
-en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), "README.qmd")
-en <- en[grep("/", en)] 
+en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), c("impressum.qmd", "impressum.de.qmd", "404.qmd", "README.qmd"))
 de <- en[grep("[.]de[.]qmd$", en)]
 ua <- en[grep("[.]ua[.]qmd$", en)]
 en <- setdiff(en, c(de, ua))
@@ -231,7 +230,7 @@ enstatus <- sapply(en, function(i){
   x <- paste(readLines(i), collapse=" ")
   y <- strsplit(x, "##")[[1]]
   lipsum <- grep("lipsum|TODO", y, ignore.case = TRUE)
-  abstract <- length(grep("abstract: >", y)) == 0
+  abstract <- length(grep("abstract: >", y)) == 0 & length(grep("index", i)) == 0
   n <- length(y) + 1
   k <- n - length(lipsum) - abstract
   p <- k/n
@@ -241,7 +240,7 @@ destatus <- sapply(de, function(i){
   x <- paste(readLines(i), collapse=" ")
   y <- strsplit(x, "##")[[1]]
   lipsum <- grep("lipsum|TODO", y, ignore.case = TRUE)
-  abstract <- length(grep("abstract: >", y)) == 0
+  abstract <- length(grep("abstract: >", y)) == 0 & length(grep("index", i)) == 0
   n <- length(y) + 1
   k <- n - length(lipsum) - abstract
   p <- k/n
@@ -255,17 +254,17 @@ dereserved <- sapply(de, function(i){
   x <- paste(readLines(i), collapse=" ")
   length(grep("\\{\\{ reserved \\}\\}", x, ignore.case = TRUE))>0
 })
-d <- cbind(en=100*enstatus, ".de"=rep(0, length(enstatus)))
-d[,2] <- 0
-rownames(d) <- names(enstatus)
+dictionarystatus <- cbind(en=100*enstatus, ".de"=rep(0, length(enstatus)))
+dictionarystatus[,2] <- 0
+rownames(dictionarystatus) <- names(enstatus)
 if (length(destatus))
-  d[sub("\\.de","",names(destatus)),2] <- 100*destatus
-d <- as.data.frame(round(d))
+  dictionarystatus[sub("\\.de","",names(destatus)),2] <- 100*destatus
+dictionarystatus <- as.data.frame(round(dictionarystatus))
 dereserved <- names(dereserved)[dereserved]
 if (length(dereserved))
   enreserved[sub("\\.de","",names(dereserved))] <- TRUE
-d$reserved <- ifelse(enreserved, 'reserved', '')
-save(d, file = "status.RData")
+dictionarystatus$reserved <- ifelse(enreserved, 'reserved', '')
+save(dictionarystatus, file = "status.RData")
 ```
 
 ## Set default publication date
@@ -325,21 +324,28 @@ We use  [ACE by Daisy](https://daisy.org/activities/software/ace/), the [ACE-app
 base <- "https://disdict[.]org"  # [.] for regexp
 baseurl <- gsub("\\[[.]\\]",".", base)
 ccs <- c("en","de")  # default language first
+dofixhtml <- TRUE
+dofiltersitemap <- TRUE
+load("status.RData")
 ```
 
-## Remove unwanted files
+## Remove unwanted files, copy fixes
 
-Babelquarto has index.html redirected to index.<cc>.html. Google doesn't like redirection. Hence we delete index.html and later rename all <cc>.index.<cc>.html to <cc>.index.html.
-Babelquarto impressum.html copied to <cc> folders. To avoid duplicates we delete those and later rename all links to the canonical one.
-Babelquarto copies broken sitemap.xml. Hence we delete them all an later synthesize one multilingual sitemap.
+- Babelquarto copied 404.html to <cc> folders. To avoid duplicates we delete those and later rename all links to the canonical one.
+- Babelquarto has index.html redirected to index.<cc>.html. Google doesn't like redirection. Hence we delete index.html and later rename all <cc>.index.<cc>.html to <cc>.index.html.
+- Babelquarto copied impressum.html to <cc> folders, instead of compipiling impressum.<cc>.qmd. To avoid duplicates we delete those copies and later copy from impressum.<cc>.html
+- Babelquarto copied (broken) sitemap.xml. Hence we delete them all and later synthesize one multilingual sitemap.
 
 ```{R}
 # for secondary languages 
-for (cc in ccs[-1]){
-  file.remove(paste0("_book/", cc, "/404.html"))
-  file.remove(paste0("_book/", cc, "/index.html"))  
-  file.remove(paste0("_book/", cc, "/impressum.html"))
-  file.remove(paste0("_book/", cc, "/sitemap.xml"))
+if (dofixhtml) for (cc in ccs[-1]){
+  file.remove(paste0("_book/", cc, "/404.html"))        
+  file.remove(paste0("_book/", cc, "/index.html"))      # we still have index.<cc>.html
+  file.remove(paste0("_book/", cc, "/impressum.html"))  # impressum.<cc>.qmd not compiled, we later copy impressum.<cc>.html
+  file.remove(paste0("_book/", cc, "/sitemap.xml"))     # the remaining sitemap.xml is replaced with a synthesized sitemap.xml later
+  for (cc in ccs[-1]){
+    file.copy(paste0('impressum.', cc, '.html'), paste0('_book/', cc, '/impressum.', cc, '.html'))
+  }
 }
 ```
 
@@ -349,6 +355,7 @@ Quarto seems not to set the meta name date: we determine the last-modified date 
 Note that we assum now, that each html has a corresponding qmd file.
 
 ```{R}
+htmlfilenames_onlydefault = c("404.html")
 htmlfiles <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
 for (cc in ccs[-1]){
   qmdfiles <- sub(paste0('^', cc, '/'), '', sub('[.]html','.qmd', substr(htmlfiles, 7, nchar(htmlfiles))))
@@ -366,46 +373,145 @@ for (i in seq_along(htmlfiles)){
   qn <- qmdfilenames[i]
   u <- urls[i]
   date <- file.mtime(q)
-  lines <- readLines(h)
   dates[i] <- date
-  # update the date
-  l <- grep('<meta name="date" content="', lines)
-  lines[l] <- paste0('<meta name="date" content="', format(date, '%Y-%m-%dT%H:%M:%S', tz="GMT"),'">')
-  # babelquarto did not treat canonical links, hence needs fixing
-  l <- grep('<link rel="canonical"', lines)
-  lines[l] <- sub(paste0(base, '/.+[.]html'), u, lines[l])
-  # links index.<cc>.html in index.html umwandeln
-  for (cc in rev(ccs[-1])){
-    # fix absolute index paths
-    lines <- gsub(paste0('("', baseurl, '/', cc,  ')(/index[.]', cc , '[.]html")'), '\\1/index.html"', lines)
-    # fix relative index paths
-    lines <- gsub(paste0('("[^h][^"]*)(/index[.]', cc, '[.]html")'), '\\1/index.html"', lines)
+  lines <- readLines(h)
+  if (dofixhtml){
+    # update the date
+    l <- grep('<meta name="date" content="', lines)
+    lines[l] <- paste0('<meta name="date" content="', format(date, '%Y-%m-%dT%H:%M:%S', tz="GMT"),'">')
+    # babelquarto did not treat canonical links, hence needs fixing
+    l <- grep('<link rel="canonical"', lines)
+    lines[l] <- sub(paste0(base, '/.+[.]html'), u, lines[l])
+    for (cc in rev(ccs[-1])){
+      # -- links index.<cc>.html in index.html umwandeln --
+      # fix absolute index paths
+      lines <- gsub(paste0('("', baseurl, '/', cc,  ')(/index[.]', cc , '[.]html")'), '\\1/index.html"', lines)
+      # fix relative index paths
+      lines <- gsub(paste0('("[^h][^"]*)(/index[.]', cc, '[.]html")'), '\\1/index.html"', lines)
+      # -- links impressum.html in impressum.<cc>.html umwandeln --
+      if (length(grep(paste0('/', cc, '/'), h))){
+        l <- grep('<a class="nav-link" href="[.][.]?/impressum.html">', lines)
+        if (length(l))
+          lines[l] <- gsub('(<a class="nav-link" href="[.][.]?)(/impressum.html)">', paste0('\\1/impressum.',cc,'.html">'), lines[l])
+      }
+    }
+    if (hn %in% htmlfilenames_onlydefault){
+      l <- grep('<link rel="alternate" hreflang=', lines)
+      if (length(l))
+        lines <- lines[-l]
+    }
+    writeLines(lines, h)
   }
-  writeLines(lines, h)
 }
-for (cc in rev(ccs[-1])){
-  f <- paste0('_book/', cc, '/search.json')
-  lines <- readLines(f)
-  l <- grep('"objectID":', lines)
-  lines[l] <- sub(paste0('index[.]', cc, '[.]html'), 'index.html', lines[l])
-  l <- grep('"href":', lines)
-  lines[l] <- sub(paste0('index[.]', cc, '[.]html'), 'index.html', lines[l])
+f <- paste0('_book/', cc, '/search.json')
+lines <- readLines(f)
+l <- grep('"objectID":', lines)
+lines[l] <- sub(paste0('index[.]', cc, '[.]html'), 'index.html', lines[l])
+lines[l] <- sub('impressum[.]html', paste0('impressum.', cc, '.html'), lines[l])
+l <- grep('"href":', lines)
+lines[l] <- sub(paste0('index[.]', cc, '[.]html'), 'index.html', lines[l])
+lines[l] <- sub('impressum[.]html', paste0('impressum.', cc, '.html'), lines[l])
+if (dofixhtml) for (cc in rev(ccs[-1])){
   writeLines(lines, f)
 }
+rm(qmdfiles, qmdfilenames, htmlfilenames, urls)
+```
+
+## Rename all index.<cc>.html
+
+Babelquarto has index.html redirected to index.<cc>.html. Google doesn't like redirection. Hence we deleted index.html and here rename all <cc>.index.<cc>.html to <cc>.index.html.
+
+```{R}
+# for secondary languages 
+if (dofixhtml) for (cc in ccs[-1]){
+  file.rename(paste0("_book/", cc, "/index.", cc, ".html"), paste0("_book/", cc, "/index.html"))  # rename the real one
+  htmlfiles <- sub(paste0("_book/", cc, "/index.", cc, ".html"), paste0("_book/", cc, "/index.html"), htmlfiles)
+}
+names(dates) <- htmlfiles
+```
+
+
+## List of all links to check
+
+```{R}
+links <- NULL
+for (h in htmlfiles){
+  x <- readLines(h)
+  y <- gregexpr('\\shref="[^"]+[.]html"', x, perl = TRUE)
+  y <- lapply(seq_along(y), function(j){
+    a <- y[[j]]
+    if (a[1]==-1)
+      NULL
+    else{
+      n <- attr(a, "match.length")
+      attributes(a) <- NULL
+      cbind(j, a, a + n - 1L)
+    }
+  })
+ p <- do.call("rbind", y)
+ z <- substr(x[p[,1]], p[,2], p[,3])
+ mat <- cbind(source=sub('_book', baseurl, h), link=z)
+ stopifnot(is.matrix(mat))
+ links <- rbind(links, mat)
+}
+# extract the url itself
+links[,2] <- gsub('(\\shref=")([^"]+)(")', '\\2', links[,2])
+
+# standardize the url
+l0 <- substr(links[,2], 1, 8) == 'https://' | substr(links[,2], 1, 7) == 'http://'
+l1 <- substr(links[,2], 1, 1) == '/'
+if (sum(l1)){
+  links[l1,2] <- paste0(baseurl, links[l1,2])
+  # 
+}
+l2 <- !(l0 | l1)  # '.' or filename only
+if (sum(l2)){
+  links[l2,2] <- paste0(sub('[^/]+.html', '', links[l2,1]), links[l2,2])
+  # 
+}
+links[,2] <- sapply(strsplit(links[,2], '/'), function(tokens){
+  w <- which(tokens=='..')
+  stopifnot(length(w) <= 1) # multiple ../.. not handled yet
+  if (length(w))
+    tokens <- tokens[-c(w, w-1L)]
+  tokens <- tokens[tokens!='.']
+  paste(tokens, sep="", collapse="/")
+})
+links <- links[!duplicated(links[,2]),]
+
+cloudflare <- links[,2] 
+i <- grep(base, cloudflare)
+cloudflare[i] <- sub(paste0(base, '/index[.]html'), baseurl, cloudflare[i])
+cloudflare[i] <- sub('/index[.]html', '/', cloudflare[i])
+cloudflare[i] <- sub('[.]html', '', cloudflare[i])
+links <- cbind(links, cloudflare, NA)
+colnames(links) <- c("source","url","cloudflare","ret")
+links[grep('impressum', links[,"cloudflare"]),]
 ```
 
 
 ##  Synthesize Sitemap
 
-Can be checked after a deployment at https://technicalseo.com/tools/hreflang/
+- With `dofiltersitemap==TRUE` we only include completed chapters to avoid Google crawling incomplete chapters that Google Search Cosole might judge to be low quality or almost duplicates. 
+- Sitemap is designed according to https://developers.google.com/search/docs/specialty/international/localized-versions?hl=en (Not used the advice from https://stackoverflow.com/questions/20330837/multilingual-sitemap-xml-file, the sitemap protocol is at https://www.sitemaps.org/protocol.html)
+- Advice what to do if sitemap can't be read: https://www.clickbrown.in/sitemap-could-not-be-read-cloudflare-fix/, note that Google does not like like shared domains such as <whatever>.page.dev/sitemap.xml, not even - cloudflare likes it (fails to trace it with https://developers.cloudflare.com/rules/trace-request/how-to/). 
+- Sitemap can be checked after a deployment at https://technicalseo.com/tools/hreflang/ or at https://www.xml-sitemaps.com/validate-xml-sitemap.html 
 
 ```{R}
-files <- setdiff(htmlfiles, c('_book/404.html', '_book/impressum.html'))
+files <- setdiff(htmlfiles, paste0('_book/', c(htmlfilenames_onlydefault, 'impressum.html')))  # hold out rather technical pages
 urls <- sub('_book', baseurl, files)
 defurls <- urls
 for (cc in ccs[-1]){
   defurls <- sub(paste0('/'  , cc, '/'),'/', defurls)
   defurls <- sub(paste0('[.]', cc, '[.]'), '.', defurls)
+}
+if (dofiltersitemap){
+   status <- rowSums(dictionarystatus[,-ncol(dictionarystatus)])/2
+   names(status) <- paste0(baseurl, '/', names(status), '.html')
+   i <- status[defurls] > 99.9
+   files <- files[i]
+   urls <- urls[i]
+   defurls <- defurls[i]
 }
 xhtml <- rbind(defurls)
 langs <- rbind(rep(ccs[1], length(defurls)))
@@ -417,9 +523,11 @@ xhtml <- paste0('    <xhtml:link rel="alternate" hreflang="',langs ,'" href="', 
 dim(xhtml) <- dim(langs)
 xhtml <- apply(xhtml, 2, function(x)paste0(x, collapse='\n'))
 
-xhtml <- c(xhtml, '')
-files <- c(files, '_book/impressum.html')
-urls <- c(urls, paste0(baseurl, '/impressum.html'))
+# We do not mark impressum as priority
+#xhtml <- c(xhtml, '')
+#files <- c(files, '_book/impressum.html')
+#urls <- c(urls, paste0(baseurl, '/impressum.html'))
+
 formatteddates <- paste0(format(dates[files], '%Y-%m-%dT%H:%M:%S', tz="GMT"), '.000Z')
 
 # replace index.<cc>.html with index.html
@@ -444,27 +552,14 @@ close(f)
 ```
 
 
-## Rename all index.<cc>.html
-
-Babelquarto has index.html redirected to index.<cc>.html. Google doesn't like redirection. Hence we deleted index.html and here rename all <cc>.index.<cc>.html to <cc>.index.html.
-
-```{R}
-# for secondary languages 
-for (cc in ccs[-1]){
-  file.rename(paste0("_book/", cc, "/index.", cc, ".html"), paste0("_book/", cc, "/index.html"))  # rename the real one
-  htmlfiles <- sub(paste0("_book/", cc, "/index.", cc, ".html"), paste0("_book/", cc, "/index.html"), htmlfiles)
-}
-names(dates) <- htmlfiles
-```
-
 
 ## Fix cloudflare 
 
-
 ```{R}
 # now change all absolute and relative internal links in all html pages
-for (h in htmlfiles){
+if (dofixhtml) for (h in htmlfiles){
   lines <- readLines(h)
+  # index.html is special: is removed completely
   for (cc in ccs){
       if (cc==ccs[1]){
         # without trailing slash
@@ -476,7 +571,7 @@ for (h in htmlfiles){
         lines <- gsub(paste0('("[^h][^"]*/',  cc, ')(/index[.]html")'), '\\1/"', lines)
       }
   }  
-  # without trailing slash
+  # all others have .html removed (without trailing slash)
   lines <- gsub(paste0('"', baseurl, '/"'), paste0('"', baseurl, '"'), lines)
   lines <- gsub(paste0('("', baseurl, '/[^"]+)([.]html")'), '\\1"', lines)
   lines <- gsub('("[^h][^"]*)([.]html")', '\\1"', lines)
@@ -502,24 +597,25 @@ lines <- gsub(paste0('("', baseurl, '/[^"]+)([.]html")'), '\\1"', lines)
 writeLines(lines, '_book/sitemap.xml')
 
 # now change in search.json
-for (cc in ccs){
-    if (cc==ccs[1]){
-      f <- '_book/search.json'
-    }else{
-      f <- paste0('_book/', cc, '/search.json')
-    }
-  lines <- readLines(f)
-  # without trailing slash
-  l <- grep('"objectID":', lines)
-  lines[l] <- sub('[.]html', '', lines[l])
-  l <- grep('"href":', lines)
-  lines[l] <- sub('[.]html', '', lines[l])
-  writeLines(lines, f)
+if (dofixhtml){
+  for (cc in ccs){
+      if (cc==ccs[1]){
+        f <- '_book/search.json'
+      }else{
+        f <- paste0('_book/', cc, '/search.json')
+      }
+    lines <- readLines(f)
+    # without trailing slash
+    l <- grep('"objectID":', lines)
+    lines[l] <- sub('[.]html', '', lines[l])
+    l <- grep('"href":', lines)
+    lines[l] <- sub('[.]html', '', lines[l])
+    writeLines(lines, f)
+  }
 }
-lines <- readLines("404.html")
-lines <- sub('<a href="/[.]">',paste0('<a href=">', baseurl, '">'),lines)
-writeLines(lines, "404.html")
 ```
+
+
 ## Cloudflare Pages _redirects 
 
 A Cloudflare Pages _redirects file is not needed, because Cloudflare Pages signals its trailing-slash policy with 308 codes
@@ -545,23 +641,38 @@ https://:project.pages.dev/*
 
 https://:version.:project.pages.dev/*
   X-Robots-Tag: noindex
+
+https://*.pdf
+  X-Robots-Tag: noindex
+
+https://*.epub
+  X-Robots-Tag: noindex
+
+https://disinfodict.org/index*
+  X-Robots-Tag: noindex
+
+https://disdict.org/index*
+  X-Robots-Tag: noindex
+
+https://disinfodict.org/de/index*
+  X-Robots-Tag: noindex
+
+https://disdict.org/de/index*
+  X-Robots-Tag: noindex
 ', f)
 close(f)
 ```
-
-  
-  
-  
 
 
 ## Fix html file dates
 
 ```{R}
-Sys.setFileTime(htmlfiles, dates[htmlfiles])
+if (dofixhtml)
+  Sys.setFileTime(htmlfiles, dates[htmlfiles])
 ```
 
 
-## Final check
+## pre-deployment check
 
 ```{R}
 htmlfiles <- c("_book/sitemap.xml", dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE))
@@ -572,19 +683,51 @@ for (h in htmlfiles){
   root <- c(baseurl, "")
   sta <- c('href *= *"','>')
   sto <- c('"','<')
-  for (r in root)
-  for (i in seq_along(sta)){
-    s <- sta[i]
-    t <- sto[i]
-    g <- grep(paste0(s, r, "/index.html", t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
-    g <- grep(paste0(s, r, "/index", t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
-    g <- grep(paste0(s, r, '/de/index.html', t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
-    g <- grep(paste0(s, r, "/de/index", t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
-    g <- grep(paste0(s, r, '/', t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
-    g <- grep(paste0(s, r, '/de', t), lines, value = TRUE); if (length(g)){cat(h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
+  for (r in root){
+    for (i in seq_along(sta)){
+      s <- sta[i]
+      t <- sto[i]
+      g <- grep(paste0(s, r, "/index[.]html", t), lines, value = TRUE); if (length(g)){cat("\n", h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
+      g <- grep(paste0(s, r, "/index", t), lines, value = TRUE); if (length(g)){cat("\n", h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
+      g <- grep(paste0(s, r, '/de/index[.]html', t), lines, value = TRUE); if (length(g)){cat("\n", h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
+      g <- grep(paste0(s, r, "/de/index", t), lines, value = TRUE); if (length(g)){cat("\n", h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
+      g <- grep(paste0(s, r, '/', t), lines, value = TRUE); if (length(g)){cat("\n", h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
+      g <- grep(paste0(s, r, '/de', t), lines, value = TRUE); if (length(g)){cat("\n", h, "_", s, "_", t, ": ", g, "\n", sep=""); stop()}
+    }
   }
+  g <- grep("/Disinfor-Dictionary[.]pdf", lines, value = TRUE); if (length(g)){cat("\n", h, ": ", g, "\n", sep=""); print(g)}
+  g <- grep("/Disinfor-Dictionary[.]epub", lines, value = TRUE); if (length(g)){cat("\n", h, ": ", g, "\n", sep=""); print(g)}
 }
 ```
+
+
+## Check the links
+
+```{R}
+todo <- seq_len(nrow(links))[is.na(links[,"ret"]) | links[,"ret"]!="200"]
+for (i in todo){
+  link <- links[i,]
+  cat("\n", i, " ", link["source"], " ", link["cloudflare"])
+  Sys.sleep(runif(1, 1, 2))
+  o <- attr(curlGetHeaders(link[["cloudflare"]], redirect = FALSE, verify = FALSE), "status")
+  link["ret"] <- o
+  links[i,] <- link
+  if (o != 200){
+    cat(" BROKEN ", o, "\n")
+  }else{
+    cat("     OK ", o, "\n")
+  }
+} 
+```
+
+```{R}
+rownames(links) <- seq_len(nrow(links))
+d <- links[links[,"ret"]!="200",c("cloudflare","ret")]
+d <- d[order(d[,"ret"]),2:1]
+cat(paste("\n", rownames(d), d[,1], d[,2], sep=" "), file="~/test.txt")
+```
+
+
 
 ## Curl check
 

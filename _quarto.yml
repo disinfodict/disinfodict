@@ -266,7 +266,9 @@ book:
 
 callout-appearance: simple
 bibliography: 
-  - uif.bib
+  - UkraineVerstehen.en.bib
+  - UkraineVerstehen.de.bib
+  - UkraineImFokus.bib
   - intro/preface.bib
   - intro/termstech.bib
   - intro/trueukraine.bib

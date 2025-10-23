@@ -167,7 +167,7 @@ Laut @Paul:2016 sind die charakteristischen Merkmale der *Firehose of Falsehoods
 
 > Psychologische Studien zeigen, dass das Gehirn, wenn es ständig mit denselben Informationen konfrontiert wird, beginnt, diese Informationen als wahr anzusehen - ungeachtet widersprüchlicher oder gegenteiliger Beweise [Desinformation und reflexive Kontrolle: Der neue Kalte Krieg](https://georgetownsecuritystudiesreview.org/2017/02/01/disinformation-and-reflexive-control-the-new-cold-war/)
 
-> This means that when the New York Times, or any other publication, runs a headline like “[Trump Claims, With No Evidence, That ‘Millions of People Voted Illegally,’](http://www.nytimes.com/2016/11/27/us/politics/trump-adviser-steps-up-searing-attack-on-romney.html)” it perversely reinforces the very claim it means to debunk.
+> This means that when the New York Times, or any other publication, runs a headline like “[Trump Claims, With No Evidence, That ‘Millions of People Voted Illegally,’](https://www.nytimes.com/2016/11/27/us/politics/trump-adviser-steps-up-searing-attack-on-romney.html)” it perversely reinforces the very claim it means to debunk.
 > [Trump’s Lies vs. Your Brain](https://www.politico.com/magazine/story/2017/01/donald-trump-lies-liar-effect-brain-214658/)
 
 > Wenn wir mit falschen oder potenziell falschen Aussagen überschüttet werden, ist unser Gehirn ziemlich schnell so überlastet, dass wir aufhören, alles zu durchschauen. 

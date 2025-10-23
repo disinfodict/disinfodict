@@ -36,4 +36,4 @@ a[^denial-kramatorsk-1]
 
 [^denial-kramatorsk-2]:  Death at the Station: Russian Cluster Munition Attack in Kramatorsk. (2023, February 21). Human Rights Watch. Retrieved May 1, 2024, from [https://www.hrw.org/video-photos/interactive/2023/02/21/death-at-the-station/russian-cluster-munition-attack-in-kramatorsk](https://www.hrw.org/video-photos/interactive/2023/02/21/death-at-the-station/russian-cluster-munition-attack-in-kramatorsk)
 
-[^denial-kramatorsk-1]:  ZDFheute. (2023, February 21). Kramatorsk: Angriff war laut HRW-Bericht Kriegsverbrechen. ZDFheute. [https://www.zdf.de/nachrichten/politik/kramatorsk-streumunition-ukraine-krieg-russland-100.html](https://www.zdf.de/nachrichten/politik/kramatorsk-streumunition-ukraine-krieg-russland-100.html)
+[^denial-kramatorsk-1]:  ZDFheute. (2023, February 21). Kramatorsk: Angriff war laut HRW-Bericht Kriegsverbrechen. ZDFheute. [https://www.zdf.de/nachrichten/politik/kramatorsk-streumunition-ukraine-krieg-russland-100.html](https://web.archive.org/web/20230223012158/https://www.zdf.de/nachrichten/politik/kramatorsk-streumunition-ukraine-krieg-russland-100.html)
