@@ -6,18 +6,18 @@ abstract: >
 # Flight mh17 {#sec-denial-mh17}
 
 ::: {.callout-caution title="Myth"}
-- it never happened
-- the crash site was manipulated
-- it was responsibility of the air traffic controllers
-- it was ukrainian Pilots
-- it was the CIA
+- Flight mh17 was never shot down
+- The crash site of Flight mh17 was manipulated
+- The crash of Flight mh17 was responsibility of the air traffic controllers
+- Ukrainian Pilots crashed Flight mh17
+- The CIA crashed Flight mh17
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=mh17&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-- MH17 was shot down by a russian BUK-TELAR operated by pro-russian fighters under russian control
-- a dutch cout sentenced the russian Girkin and two others for murder of 298
-- European Court of Human Rights sentenced Russia responsible for downing of flight MH17
+- Flight MH17 was shot down by a russian BUK-TELAR operated by pro-russian fighters under russian control
+- a dutch cout sentenced the russian Girkin and two other russians for murder of 298
+- The European Court of Human Rights sentenced Russia responsible for downing of flight MH17
 [<br></br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17)
 :::
 

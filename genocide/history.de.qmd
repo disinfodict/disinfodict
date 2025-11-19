@@ -8,13 +8,13 @@ abstract: >
 # Geschichte des Völkermords {#sec-genocide-history}
 
 ::: {.callout-caution title="Mythos"}
-- Völkermord ist etwas Kapitalistisches, etwas Westliches, etwas Nazistisches.
-- Russland bekämpft Völkermord.
+- Völkermord ist etwas Kapitalistisches, etwas Westliches, etwas Nazistisches
+- Russland bekämpft Völkermord
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20russia&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland hat mehrere Völkermorde begangen, insbesondere mehrere gegen die Ukraine.
+Russland hat mehrere Völkermorde begangen, insbesondere mehrere gegen die Ukraine
 :::
 
 
@@ -55,7 +55,7 @@ Russland hat mehrere Völkermorde begangen, insbesondere mehrere gegen die Ukrai
 
 ## Holodomor 1932/33
 
-![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Holodomor)
+[![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Holodomor)
 
 *Holodomor* - wörtlich 'Hungermord' bezeichnet die von Stalin verantwortete Hungersnot in der Sowjetunion in den 1930er Jahren in der Ukrainischen Sozialistischen Sowjetrepublik, der zwischen drei und sieben Millionen Ukrainer zum Opfer fielen. Dass es sich um einen gezielten Völkermord zur Russifizierung der Ukraine handelte, sieht man an folgenden Tatsachen (siehe Applebaum:2017:de, Applebaum:2021:de):
 

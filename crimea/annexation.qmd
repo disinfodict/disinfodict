@@ -9,14 +9,14 @@ abstract: >
 \index{annexation}
 
 ::: {.callout-caution title="Myth"}
-Crimea was not annexed but peacefully reunited with Russia.
+Crimea was not annexed but peacefully reunited with Russia
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Crimea+annexation&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-- Crimea was militarily invaded by Russia. 
-- The annexation was illegal and violates international law.
-- The inhabitants of Crimea were not Russians, but wanted to be Ukrainians.
+- Crimea was militarily invaded by Russia
+- The annexation of Crimea was illegal and violates international law
+- The inhabitants of Crimea were not Russians, but wanted to be Ukrainians
 :::
 
 

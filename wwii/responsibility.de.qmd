@@ -1,30 +1,103 @@
 ---
 abstract: > 
-  Helfen Sie uns beim Schreiben: Wer hat den Zweiten Weltkrieg begonnen? Wussten Sie, dass Hitler und Stalin vereinbart hatten, Krieg gegen Polen zu führen? Lesen Sie mehr über den Molotow-Ribbentrop-Pakt.
+  Wer hat den Zweiten Weltkrieg begonnen? Wussten Sie, dass Hitler und Stalin vereinbart hatten, Krieg gegen Polen zu führen? Lesen Sie mehr über den Hitler-Stalin-Pakt.
+keywords: 
+  - Molotow-Ribbentrop-Pakt
 ---
 
-# WWII Verantwortung {#sec-ww2-responsibility}
+# WW2 Verantwortung {#sec-wwii-responsibility}
 
 ::: {.callout-caution title="Mythos"}
-Russland war ein unschuldiges Opfer des Zweiten Weltkriegs.
+Russland war ein unschuldiges Opfer des Zweiten Weltkriegs
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=WWII%20(responsibility%7Cresponsible)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Hitler und Stalin verbündeten sich, um andere europäische Länder zu erobern.
+- Russland löste den ersten Weltkrieg aus
+- Hitler und Stalin begannen den zweiten Weltkrieg gemeinsam mit einer Vereinbarung, Polen zwischen sich aufzuteilen
+- Deutschland wurde - zu Recht - zur Verantwortung gezogen, Russland wurde mit Gebietsgewinnen belohnt
 :::
 
 
-## A
+## Erster Weltkrieg
 
-{{< var todo >}}
+Das Attentat von Sarajevo auf den österreichisch-ungarischen Thronfolger Franz Ferdinand und seine Frau gilt als Auslöser für den Ersten Weltkrieg.
 
-## B
+> Mit dem Attentat wollten die von Russland unterstützten serbischen Panslawisten ihre Forderung nach einem von Österreich-Ungarn unabhängigen serbischen Nationalstaat noch einmal deutlich machen.[^wwii-responsibility-1] 
 
-{{< var todo >}}
 
-## C
+## Zweiter Weltkrieg
 
-{{< var todo >}}
+### Hitler-Stalin Pakt
 
-{{ reserved }}
+Der Hitler-Stalin-Pakt war auch bekannt unter dem Namen Molotow-Ribbentrop-Pakt:
+
+> Der Hitler-Stalin-Pakt hatte weitreichende Folgen für ganz Europa: Er ebnete nicht nur den Weg für den deutschen Überfall auf Polen am 1. September 1939, mit dem der Zweite Weltkrieg begann. Das geheime Zusatzprotokoll sah zudem die Aufteilung der Länder Ost- und Ostmitteleuropas in Einflusssphären zwischen Hitlerdeutschland und der Sowjetunion vor und markierte damit für Millionen Menschen den Beginn einer Zwangsherrschaft, die erst 1989/90 endete.[^wwii-responsibility-2]
+
+
+> Erst nach dem Zweiten Weltkrieg wurde das geheime Zusatzprotokoll des Hitler-Stalin-Paktes bekannt. In den Staaten des Warschauer Paktes wurde die Existenz der Vereinbarung bis 1989 bestritten. Dokumente, die seine Echtheit bewiesen, wurden als westliche Propaganda und Fälschung bezeichnet.[^wwii-responsibility-3]
+
+::: {layout-ncol=2}
+[![Hitler-Stalin-Pakt - Zusatzprotokoll[^wwii-responsibility-4]](SecretAdditionalProtocol_HitlerStalinPact1.jpg)](https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/der-zweite-weltkrieg/203800/zusatzprotokoll-hitler-stalin-pakt/)
+
+[![](SecretAdditionalProtocol_HitlerStalinPact2.jpg)](https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/der-zweite-weltkrieg/203800/zusatzprotokoll-hitler-stalin-pakt/)
+:::
+
+
+### Eroberungen
+
+Während des zweiten Weltkriegs verleibte sich Russland halb Europa ein, zum Teil getarnt durch Marionettenregime: 
+
+- Polen
+- Baltische Staaten (Estland, Lettland, Litauen)
+- Karelien
+- Bukowina und Bessarabien (Rumänien)
+- Transkarpatien
+- Ostpreußen mit Königsberg
+- Ostdeutschland
+- Tschechoslowakei
+- Ungarn
+- Rumänien
+- Bulgarien
+- Albanien
+
+Siehe auch @sec-russia-history.
+
+
+## Kalter Krieg
+
+Im "kalten" Krieg blieb das zerstörerische Imperium Russland nicht untätig, und führte unter dem Namen "Sowjetunion" alleine in Europa folgende "Militäroperationen" (= Krieg) durch [![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Liste_von_Milit%C3%A4roperationen_Russlands_und_der_Sowjetunion):
+
+- Blockade West-Berlins
+- Niederschlagung des Aufstands vom 17. Juni 1953 in der DDR
+- Niederschlagung des Ungarischen Volksaufstands 1956
+- Niederschlagung des Prager Frühlings
+
+
+## Zwischenkriegsphase
+
+Auch nach dem Zerfall der Sowjetunion versuchte Russland mit militärischer Gewalt "seine" Kolonien zu erweitern und zu beherrschen
+
+- Besetzung Transnistriens 1992
+- Zerstörung von Grozny im Ersten Tschetschenienkrieg 1994-1996
+- Erneute Zerstörung von Grozny im Zweiten Tschetschenienkrieg 1999 - 2009
+- Vorstoß nach Priština 1999 - 2003
+- Versuch die Grenze zur Ukraine zu verschieben, durch [Bau eines Staudamms zur Insel Tusla](https://de.wikipedia.org/wiki/Konflikt_um_die_Insel_Tusla_2003) 
+- Invasion der Krim und des Donbas mit nicht-offiziellen russichen Truppen und Söldnern 2014
+- Ungestrafte Verschiebung roter Linien mit Giftgaseinsätzen und Zerstörung mehrer Städte in Syrien 2015
+- Verschiebung roter Linien mit Giftgaseinsätzen und Zerstörung mehrer Städte in Syrien 2015
+
+
+## Dritter Weltkrieg
+
+Die unprovozierte, auf Eroberung und Vernichtung zielende russische Großinvasion der Ukraine wird dereinst von Historikern als Beginn des Dritten Weltkriegs gewertet werden [![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Russischer_%C3%9Cberfall_auf_die_Ukraine_seit_2022) 
+
+
+[^wwii-responsibility-1]: Landeszentrale für politische Bildung BW (Juli 2020) Der Erste Weltkrieg – Überblick. [https://www.lpb-bw.de/erster-weltkrieg-zusammenfassung](https://www.lpb-bw.de/erster-weltkrieg-zusammenfassung)
+
+[^wwii-responsibility-2]: Bundesstiftung Aufarbeitung (August 2021) Der Hitler-Stalin-Pakt. [https://www.bundesstiftung-aufarbeitung.de/de/recherche/dossiers/der-hitler-stalin-pakt](https://www.bundesstiftung-aufarbeitung.de/de/recherche/dossiers/der-hitler-stalin-pakt)
+
+[^wwii-responsibility-3]: Bundeszentrale für politische Bildung (Februar 2022) Vor 80 Jahren: Hitler-Stalin-Pakt
+[https://www.bpb.de/kurz-knapp/hintergrund-aktuell/190237/vor-80-jahren-hitler-stalin-pakt/](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/190237/vor-80-jahren-hitler-stalin-pakt/)
+
+[^wwii-responsibility-4]: Bundeszentrale für politische Bildung (September 2022) Zusatzprotokoll "Hitler-Stalin-Pakt". [https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/der-zweite-weltkrieg/203800/zusatzprotokoll-hitler-stalin-pakt/](https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/der-zweite-weltkrieg/203800/zusatzprotokoll-hitler-stalin-pakt/)

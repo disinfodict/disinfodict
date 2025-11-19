@@ -10,7 +10,8 @@ Russland hat eine der Ukraine überlegene Architektur
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Die ukrainische Architektur hat ihre ersten Wurzeln im ostslawischen Staat der Kyjiver Rus' und ist vielfältig, zum Beispiel die k. u. k. Architektur
+- Die ukrainische Architektur hat ihre ersten Wurzeln im ostslawischen Staat der Kyjiver Rus'
+- Die ukrainische Architektur ist reich und vielfältig
 - Russland hätte gerne die Kyjiver Rus', hat aber den sozialistischen Klassizismus und den Brutalismus 
 :::
 
@@ -21,3 +22,4 @@ https://de.wikipedia.org/wiki/Ukrainische_Architektur
 https://de.wikipedia.org/wiki/Brutalismus
 https://de.wikipedia.org/wiki/Sozialistischer_Klassizismus
 
+Zum Beispiel die k. u. k. Architektur

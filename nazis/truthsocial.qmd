@@ -11,12 +11,12 @@ abstract: >
 \index{Fascism}
 
 ::: {.callout-caution title="Myth"}
-*Truth Social* is true and social [![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Truth_Social)
+"Truth Social" is true and social [![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Truth_Social)
 :::
 
 ::: {.callout-tip title="Truth"}
-- The name *Truth Social* aligns with 5 of Umberto Eco's criteria for fascism (says Elon Musk's Grok)
-- The moderation and content of *Truth Social* aligns with all of Umberto Eco's criteria for fascism, with half of them strongly (says Elon Musk's Grok)
+- The name "Truth Social" aligns with five of Umberto Eco's criteria for fascism
+- The moderation and content of "Truth Social" aligns with all of Umberto Eco's criteria for fascism, with half of them strongly
 :::
 
 We asked Grok-3 to evaluate the name "Truth Social" in the context of Umberto Eco's 14 criteria of fascism.[^nazis-truthsocial-1-en] Grok concluded 

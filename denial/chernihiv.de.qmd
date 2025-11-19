@@ -7,13 +7,13 @@ abstract: >
 
 
 ::: {.callout-caution title="Mythos"}
-- Russia killed nine Nato officers and dozens of Ukrainian soldiers in Chernihiv [![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/?text=Chernihiv%20Soldiers&sort=relevance)
+- Russland hat in Tschernihiw neun NATO-Offiziere und Dutzende ukrainische Soldaten getötet [![Suche nach Thema in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/?text=Chernihiv%20Soldiers&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
 - Russland greift regelmäßig Zivilisten in Tschernihiw an
-- Russland hat ein Theater angegriffen und Besucher einer Kirche getötet [![Suche nach Thema in EUvsDisinfo](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/August_2023_Chernihiv_missile_strike)
-- Russland griff ein achtstöckiges Gebäude an, tötete 18 Menschen und verletzte 78
+- Russland hat ein Theater angegriffen und Besucher einer Kirche in Tschernihiw getötet [![Suche nach Thema in EUvsDisinfo](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/August_2023_Chernihiv_missile_strike)
+- Russland griff in Tschernihiw ein achtstöckiges Gebäude an, tötete 18 Menschen und verletzte 78
 :::
 
 ## März 2022

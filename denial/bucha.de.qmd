@@ -9,17 +9,16 @@ abstract: >
 \index{Irpin}
 
 ::: {.callout-caution title="Mythos"}
-Russland:  
-- es war inszeniert
-- es hat nicht stattgefunden
-- es waren nicht wir
-- es war die Ukraine
-- sie haben es verdient
+- Das Massaker von Butscha war inszeniert
+- Das Massaker von Butscha hat nicht stattgefunden
+- Das Massaker von Butscha war nicht Russland
+- Das Massaker von Butscha war die Ukraine selbst
+- Die Ukrainer haben das Massaker in Butscha verdient
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Bucha&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland beging schwere Gräueltaten
+Russland beging schwere Gräueltaten in Butscha
 :::
 
 Um seine Terroranschläge und die Tötung von Zivilisten zu verschleiern, behauptet Russland, dass es die ukrainische Armee sei, welche die Zivilbevölkerung vernichtet. Ein eklatantes Beispiel dafür, wie Russland die Schuld auf die Ukraine abwälzt, sind die abscheulichen Verbrechen, welche von russischen Truppen in Butscha begangen wurden. Am 3\. April veröffentlichte das russische Verteidigungsministerium eine Erklärung,[^denial-bucha.de-1] die später vom russischen Außenministerium erneut verbreitet wurde[^denial-bucha.de-2] und in der unmissverständlich behauptet wurde, dass “es sich bei den Fotos und Videoaufnahmen aus Butscha um eine Fälschung handele, eine Inszenierung und Provokation des Kiewer Regimes für die westlichen Medien”,[^denial-bucha.de-3] wobei die russische Schreibweise für die ukrainische Hauptstadt verwendet wurde.

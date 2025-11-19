@@ -12,8 +12,8 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Truth"}
-- Ukrainian society is fully engaged to defend against the russian war of annihilation. 
-- Ukraine pays the highest price possible: many Urainian lives.
+- Ukrainian society is fully engaged to defend against the russian war of annihilation
+- Ukraine pays the highest price possible: many Urainian lives
 - Ukraine defends itself effectively and builds up a strong arms industry
 :::
 

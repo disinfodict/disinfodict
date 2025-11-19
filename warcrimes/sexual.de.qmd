@@ -6,14 +6,17 @@ abstract: >
 # Kriegsverbrechen – sexuelle {#sec-warcrimes-sexual}
 
 ::: {.callout-caution title="Mythos"}
-{{< var todo >}}
+- Ukrainische Soldaten vergewaltigen und töten
+- Ukrainische Kinder werden im Dark Web für sexuelle Sklaverei und Organraub verkauft 
 [<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(sexual%7Crape%7Craped)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-{{< var todo >}}
+- Russland begeht systematische sexuelle Gewalt gegen Frauen, Männer, Kinder und Babys
+- Sexuelle Gewalt zielt darauf ab, Menschen zu brechen, Angst zu verbreiten und Fortpflanzung zu verhindern
 :::
 
+https://www.arte.tv/de/videos/117238-000-A/kriegswaffe-sexuelle-gewalt-gegen-maenner/
 
 ## A
 

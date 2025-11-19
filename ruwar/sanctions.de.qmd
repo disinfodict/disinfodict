@@ -13,10 +13,10 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Verzerrung, Ablenkung, Verunsicherung:
+- Russische Propaganda will Verzerrung, Ablenkung, Verunsicherung, Spaltung
 - Russische Propagandisten diskreditieren Sanktionen
-- Die russische Wirtschaft leidet
-- Russland will ein Ende der Sanktionen 
+- Die russische Wirtschaft leidet unter Sanktionen
+- Russland will ein Ende der Sanktionen
 :::
 
 ## Verzerrung, Ablenkung, Verunsicherung

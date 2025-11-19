@@ -13,9 +13,9 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Die Ukraine ist Europas letzte Bastion gegen Russland 
+- Die Ukraine ist Europas letzte Bastion gegen Russland
 - Die Ukraine verfügt über Ressourcen und die Ukrainer sind widerstandsfähig
-- Pro Kopf unterstützen viele andere Länder die Ukraine mit mehr Geld  
+- Pro Kopf, verglichen mit Detuschland, unterstützen viele andere Länder die Ukraine mit mehr Geld
 :::
 
 {{< var todo >}}

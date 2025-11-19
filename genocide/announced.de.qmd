@@ -6,12 +6,12 @@ abstract: >
 # Völkermord angekündigt {#sec-genocide-announced}
 
 ::: {.callout-caution title="Mythos"}
-Russland hat nicht vor, jemanden zu töten.
+Russland hat nicht vor, jemanden zu töten
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=denazification%20genocide&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland hat den Völkermord an allen und allem Ukrainischen angekündigt und begonnen.
+Russland hat den Völkermord an allen und allem Ukrainischen angekündigt und begonnen
 :::
 
 ## Faschistisches Manifest

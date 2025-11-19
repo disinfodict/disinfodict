@@ -15,7 +15,7 @@ abstract: >
 ::: {.callout-tip title="Wahrheit"}
 - Neue Mitglieder traten dem NATO-Verteidigungsbündnis bei, nachdem sie von Russland bedroht worden waren
 - Vier Jahre, nachdem die Ukraine sich für rechtlich bündnisfrei erklärt hatte, wurde sie von Russland überfallen
-- Niemand kann ein so großes Land wie Russland einkreisen
+- Niemand kann ein so großes Land wie Russland einkreisen, auch nicht die NATO
 [<br></br>![EUvsDisinfo: Der Mythos, der nicht sterben will: Der NATO die Schuld für Russlands Krieg geben](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/de/der-mythos-der-nicht-sterben-will-der-nato-die-schuld-fuer-russlands-krieg-geben/)
 [<br></br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Ukraine%E2%80%93NATO_relations)
 :::

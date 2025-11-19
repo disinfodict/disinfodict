@@ -5,16 +5,14 @@ abstract: >
 
 # Chernihiv strikes {#sec-denial-chernihiv}
 
-
-
 ::: {.callout-caution title="Myth"}
-- Russia killed nine Nato officers and dozens of Ukrainian soldiers in Chernihiv [![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/?text=Chernihiv%20Soldiers&sort=relevance)
+Russia killed nine Nato officers and dozens of Ukrainian soldiers in Chernihiv [![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/?text=Chernihiv%20Soldiers&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
 - Russia regularly attacks civilians in Chernihiv
-- Russia attacked a theater and killed visitors of a church [![Search for topic in EUvsDisinfo](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/August_2023_Chernihiv_missile_strike)
-- Russia attacked an eight-story building killing 18 and wounding 78
+- Russia attacked a theater and killed visitors of a church in Chernihiv [![Search for topic in EUvsDisinfo](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/August_2023_Chernihiv_missile_strike)
+- Russia attacked in Chernihiv an eight-story building killing 18 and wounding 78
 :::
 
 

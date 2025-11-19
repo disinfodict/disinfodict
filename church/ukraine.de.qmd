@@ -6,14 +6,14 @@ abstract: >
 # Kirche in Ukraine {#sec-church-ukraine}
 
 ::: {.callout-caution title="Mythos"}
-Die Ukraine bekämpft das orthodoxe Christentum.
+Die Ukraine bekämpft das orthodoxe Christentum
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=church%20ukraine&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Das slawische Christentum entstand auf ukrainischem Boden (Kyjiver Rus').
-Die Ukraine tolerierte mehrere Kirchen: die griechisch-orthodoxe, die ukrainisch-orthodoxe und sogar die russisch-orthodoxe Kirche.
-Aber die russisch-orthodoxe Kirche war von FSB-Agenten geleitet, die dort Waffen horteten.
+- Das slawische Christentum entstand auf ukrainischem Boden (Kyjiver Rus')
+- Die Ukraine tolerierte traditionell mehrere Kirchen: die griechisch-orthodoxe, die ukrainisch-orthodoxe und sogar die russisch-orthodoxe Kirche
+- Die russisch-orthodoxe Kirche war von FSB-Agenten geleitet, die dort Waffen horteten
 :::
 
 

@@ -11,12 +11,12 @@ abstract: >
 \index{Faschismus}
 
 ::: {.callout-caution title="Mythos"}
-*Truth Social* ist wahr und social [![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Truth_Social)
+"Truth Social" ist wahr und social [![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Truth_Social)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Der Name *Truth Social* stimmt mit 5 von Umberto Ecos Kriterien für Faschismus überein (sagt Elon Musks Grok)
-- Die Moderation und der Inhalt von *Truth Social* stimmen mit allen Kriterien von Umberto Eco für Faschismus überein, mit der Hälfte davon stark (sagt Elon Musk's Grok)
+- Der Name "Truth Social" stimmt mit fünf von Umberto Ecos Kriterien für Faschismus überein
+- Die Moderation und der Inhalt von "Truth Social" stimmen mit allen Kriterien von Umberto Eco für Faschismus überein, mit der Hälfte davon stark
 :::
 
 Wir baten Grok-3, den Namen „Truth Social“ im Zusammenhang mit Umberto Ecos 14 Kriterien des Faschismus zu bewerten.[^nazis-truthsocial-1-de] Grok kam zu dem Schluss 

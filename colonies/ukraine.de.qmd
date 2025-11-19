@@ -7,15 +7,15 @@ abstract: >
 
 ::: {.callout-caution title="Mythos"}
 - Die Ukraine ist ein Erfüllungsgehilfe der USA[^colonies-ukraine-5]
-- Die Ukraine ist eine polnische Kolonie
 - Die Ukraine ist ein Teil Russlands[^colonies-ukraine-8]
+- Die Ukraine ist eine polnische Kolonie
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=colonies%20ukraine&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Die Ukraine ist schon lange ein souveränder Staat
-- Der Westen förderte Reformen nicht nur in der Ukraine, sondern auch in Russland
-- Die Ukraine wollte Unabhängigkeit: mit guten Beziehungen zu Russland und dem Westen
+- Die Ukraine ist schon lange eine souveräne Nation
+- Die Ukraine wollte gute Beziehungen zu Russland und zum Westen
+- Der Westen förderte Reformen in der Ukraine und sogar in Russland
 [<br></br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Ukraine)
 :::
 

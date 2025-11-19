@@ -25,7 +25,7 @@ Stichworte:
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- In allen Regionen der Ukraine stimmte eine Mehrheit für die Unabhängigkeit 
+- In allen Regionen der Ukraine stimmte eine Mehrheit für die Unabhängigkeit
 - Bis zur russischen Invasion gab es in der Ukraine freie Wahlen und friedliche Regierungswechsel
 - Die Ukrainer wollen volle Demokratie als EU-Mitgliedstaat
 :::

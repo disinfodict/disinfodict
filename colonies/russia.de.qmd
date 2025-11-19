@@ -6,12 +6,14 @@ abstract: >
 # Russischer Kolonialismus {#sec-colonies-russia}
 
 ::: {.callout-caution title="Mythos"}
-Russland bekämpft den Kolonialismus des Westens.
+Russland bekämpft den Kolonialismus des Westens
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=colonies%20russia&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland ist das letzte Kolonialreich, es wächst durch die Russifizierung seiner Kolonien und beutet Kolonien in Afrika aus.
+- Russland ist das letzte Kolonialreich
+- Russland wuchst durch die Russifizierung seiner Kolonien 
+- Russland beutet seine Kolonien - auch in Afrika - aus
 :::
 
 ## Section 1

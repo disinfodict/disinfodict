@@ -1,29 +1,60 @@
 ---
 abstract: > 
-  Help us write: Who liberated Germany from Hitler's fascism? Did you know that the U.S. provided the Sowiet Union with weapons and even bread? Read on.
+  Who liberated Germany from Hitler's fascism? Did you know that the U.S. provided the Sowiet Union with weapons and even bread? Read on.
 ---
 
-# WWII liberation {#sec-ww2-liberation}
+# WW2 liberation {#sec-wwii-liberation}
 
 ::: {.callout-caution title="Myth"}
-Russia liberated Germany from the Nazis.
+Russia liberated Germany from the Nazis
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=WWII%20(liberation%7Cliberate)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-The allies liberated Germany from Fascism, the Soviet Union received weapons from the US, many Ukrainian soldiers died and the USSR occupied central Europe with Stalinism.
+- The Allies liberated Germany from fascism
+- The Soviet Union received massive amounts of weapons, trucks, and food from the USA
+- Many Ukrainian soldiers in particular gave their lives in the Red Army
+- the Sowiet Union (Russia) occupied Easter-Germany and turned it into a communist dictatorship
 :::
 
-## A
+## Entry of the USA into the war
 
-{{< var todo >}}
+The entry of the USA into the war, triggered by the attack on Pearl Harbor, marked a turning point in World War II.[^wwii-liberation-1]
 
-## B
 
-{{< var todo >}}
+## Arms deliveries
 
-## C
+The [Lend-Lease Act](https://en.wikipedia.org/wiki/Lend-Lease) enabled the United States to supply war-essential materials such as weapons, ammunition, vehicles, fuel, food, aircraft, etc. to any nation if the president deemed them vital to the security of the United States. The British and the Soviet Union in particular were supplied with massive amounts of weapons and relief supplies. The Soviet Union received:
 
-{{< var todo >}}
+- 302 submarine hunters and torpedo boats
+- 5,762 anti-aircraft guns
+- 11,432 tanks and armored vehicles
+- 16,430 aircraft and aircraft engines
+- 277,866 submachine guns and rifles
+- 375,585 field telephones and radio sets
+- 433,547 trucks and tractors
+- 15.4 million pairs of boots
 
-{{ reserved }}
+However, the majority of the supplies did not come in the form of weapons, but in the form of food, raw materials, machinery, and industrial equipment.
+
+
+## Contribution of Ukrainians
+
+Approximately seven million Ukrainians fought in the Red Army during World War II. At least 9.5 million Ukrainians died in World War II, including 3.5 million soldiers and 6 million civilians, among them approximately 1.5 million Jewish victims of the Holocaust.[^wwii-liberation-3] [^wwii-liberation-4] [^wwii-liberation-5] 
+
+Several tens of thousands of Ukrainians fought in the [Ukrainian Insurgent Army (UPA)](https://en.wikipedia.org/wiki/Ukrainian_Insurgent_Army), the military wing of the Organization of Ukrainian Nationalists (OUN). Hoping to establish a Ukrainian state, the UPA collaborated with the Germans at times, but later turned against the Wehrmacht. The UPA also fought against Soviet communist partisans and the Polish Home Army, and carried out the Volhynia and Eastern Galicia massacres, in which nearly 100,000 Polish civilians were murdered. After the war, the UPA continued its fight against the Soviet Union. From 1945 to 1946, the UPA managed to bring half of Ukraine under its control. In 1954, the UPA was finally crushed by troops from the Soviet Army and the Ministry of State Security.
+
+
+## Communist dictatorship
+
+The Soviet Union did not liberate Germany. Instead, after the Red Army was stopped by Western troops, it established a communist dictatorship, the [GDR](https://en.wikipedia.org/wiki/East_Germany), in the Soviet-controlled “zone.” As more and more people tried to flee the GDR to escape Russian-Soviet rule, those in power built the Wall and locked up the East German people.[^wwii-liberation-2] After decades of a planned economy, [Stasi](https://en.wikipedia.org/wiki/Stasi) surveillance, communist terror, and numerous “wall deaths” of people murdered while attempting to escape, the GDR collapsed due to the economic inefficiency of communism. On October 3, 1990, the GDR was absorbed into the Federal Republic of Germany. 
+
+
+
+[^wwii-liberation-1]: Dr. Daniel Niemetz  (02. Februar 2022) Warum in Stalingrad nicht der Zweite Weltkrieg entschieden wurde. MDR Geschichte. [https://www.mdr.de/geschichte/ns-zeit/zweiter-weltkrieg/verlauf/blitzkrieg-schlacht-stalingrad-moskau-kursk-wehrmacht-sowjetunion100.html](https://www.mdr.de/geschichte/ns-zeit/zweiter-weltkrieg/verlauf/blitzkrieg-schlacht-stalingrad-moskau-kursk-wehrmacht-sowjetunion100.html)
+
+[^wwii-liberation-2]: Bundestiftung Aufarbeitung (August 2020) Mauerbau am 13. August 1961. [https://www.bundesstiftung-aufarbeitung.de/de/recherche/dossiers/mauerbau-am-13-august-196](https://www.bundesstiftung-aufarbeitung.de/de/recherche/dossiers/mauerbau-am-13-august-1961)
+
+[^wwii-liberation-4]: Ukraїner International (May 4, 2024) Without Ukraine, there would have been no victory. What exactly is Russia’s lie regarding World War II? [https://www.ukrainer.net/en/world-war-ii/](https://www.ukrainer.net/en/world-war-ii/)
+
+[^wwii-liberation-5]: Petro Bodnar, Pavlo Solod'ko, Inna Gadzynska, Yuriy Shapoval, Yevhenia Drozdova, Yevhen Synchuk, Nadja Kelm (2021-06-21) OCCUPATION: Losses of Ukraine during World War II caused by the Nazi and the communists. [https://texty.org.ua/projects/103854/occupation_eng/](https://texty.org.ua/projects/103854/occupation_eng/)

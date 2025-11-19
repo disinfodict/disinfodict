@@ -12,12 +12,12 @@ abstract: >
 \index{Russki Mir}
 
 ::: {.callout-caution title="Mythos"}
-*russki mir* bringt Frieden in die Welt [![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Russki_Mir)
+"russki mir" bringt Frieden in die Welt [![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Russki_Mir)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Bei *russki mir* geht es um die Eroberung oder Zerstörung der Welt [^nazis-russkimir-2]
-- *russki mir* entspricht stark Umberto Ecos Kriterien für Faschismus (sagt Elon Musks Grok)
+- "russki mir" geht es um die Eroberung oder Zerstörung der Welt [^nazis-russkimir-2]
+- "russki mir" entspricht stark Umberto Ecos Kriterien für Faschismus
 :::
 
 Wir haben Grok-3 gebeten, den Namen "russki mir" im Kontext von Umberto Ecos 14 Kriterien des Faschismus zu bewerten.[^nazis-russkimir-1-de]

@@ -5,7 +5,7 @@ execute:
   enabled: false
 ---
 
-# Conribute
+# Contribute
 
 You can contribute to the Disinfo Dictionary in multiple ways
 
@@ -201,6 +201,165 @@ To shield you from any complexities with using the git command line, we suggest 
 
 
 # Deployment
+
+## Checking and extracting callout texts
+
+```{R}
+en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), c("index.qmd", "index.de.qmd", "impressum.qmd", "impressum.de.qmd", "404.qmd", "README.qmd"))
+en <- en[-grep('^status', en)]
+en <- en[-grep('^intro', en)]
+en <- en[-grep('^appendix', en)]
+de <- en[grep("[.]de[.]qmd$", en)]
+ua <- en[grep("[.]ua[.]qmd$", en)]
+en <- setdiff(en, c(de, ua))
+demiss <- setdiff(sub("[.]qmd", ".de.qmd", en), de)
+if (length(demiss)){
+  cat("Missing: .de.qmd\n")
+  print(demiss)
+}
+enmiss <- setdiff(de, sub("[.]qmd", ".de.qmd", en))
+if (length(enmiss)){
+  cat("Missing: .qmd\n")
+  print(enmiss)
+}
+names(en) <- sub("[.]qmd", "", en)
+names(de) <- sub("[.]de[.]qmd", "", de)
+stopifnot(sum(names(en)!= names(de))==0)
+entext <- lapply(en, function(i){
+  x <- readLines(i)
+  status <- ''; myth <- character(); truth <- character()
+  for (k in seq_along(x)){
+    if (length(grep('^\\s*:::\\s*$', x[k])) | length(grep('\\[<', x[k]))){
+      status <- ''
+      next
+    }    
+    if (status=='myth'){
+        myth <- c(myth, x[k])
+    }else if (status=='truth'){
+        truth <- c(truth, x[k])
+    }else{
+      if (length(grep(':::\\s*\\{[.]callout-caution', x[k]))){
+        status <- 'myth'
+      }
+      if (length(grep(':::\\s*\\{[.]callout-tip', x[k]))){
+        status <- 'truth'
+      }
+    }
+  }
+  if (!length(myth) || !length(truth))
+    cat(i, ' mythrows=', length(myth), ' truthrows=', length(truth), '\n')
+  list(myth=myth, truth=truth)
+})
+detext <- lapply(de, function(i){
+  x <- readLines(i)
+  status <- ''; myth <- character(); truth <- character()
+  for (k in seq_along(x)){
+    if (length(grep('^\\s*:::\\s*$', x[k])) | length(grep('\\[<', x[k]))){
+      status <- ''
+      next
+    }    
+    if (status=='myth'){
+        myth <- c(myth, x[k])
+    }else if (status=='truth'){
+        truth <- c(truth, x[k])
+    }else{
+      if (length(grep(':::\\s*\\{[.]callout-caution', x[k]))){
+        status <- 'myth'
+      }
+      if (length(grep(':::\\s*\\{[.]callout-tip', x[k]))){
+        status <- 'truth'
+      }
+    }
+  }
+  if (!length(myth) || !length(truth))
+    cat(i, ' mythrows=', length(myth), ' truthrows=', length(truth), '\n')
+  list(myth=myth, truth=truth)
+})
+if(sum(names(entext) != names(detext))>0){
+  print(setdiff(names(entext), names(detext)))
+  print(setdiff(names(detext), names(entext)))
+}
+entext <- unlist(entext)
+detext <- unlist(detext)
+if(!all(names(entext)%in%names(detext))){
+  print(setdiff(names(entext), names(detext)))
+}
+if(!all(names(detext)%in%names(entext))){
+  print(setdiff(names(detext), names(entext)))
+}
+# remove todo marks
+{i <- grep('\\{\\{< var todo >\\}\\}', entext); if (length(i)) entext <- entext[-i]}
+{i <- grep('\\{\\{< var todo >\\}\\}', detext); if (length(i)) detext <- detext[-i]}
+# remove source links
+{i <- grep('\\[<br', entext); if (length(i)) entext <- entext[-i]}
+{i <- grep('\\[<br', detext); if (length(i)) detext <- detext[-i]}
+{i <- grep('\\[!', entext); if (length(i)) entext <- entext[-i]}
+{i <- grep('\\[!', detext); if (length(i)) detext <- detext[-i]}
+entext <- sub('\\[!','', entext)
+detext <- sub('\\[!','', detext)
+# remove Footnotes
+entext <- sub('\\^\\[.*','', entext)
+detext <- sub('\\^\\[.*','', detext)
+# remove References
+entext <- sub('\\[\\^.*','', entext)
+detext <- sub('\\[\\^.*','', detext)
+# remove Hyphens
+entext <- sub('^\\s*-\\s*','', entext)
+detext <- sub('^\\s*-\\s*','', detext)
+# remove see also
+entext <- sub(',*\\s*see also\\s*.*','', entext)
+detext <- sub(',*\\s*siehe auch\\s*.*','', detext)
+# remove bracketed expressions
+entext <- sub('\\(.*','', entext)
+detext <- sub('\\(.*','', detext)
+# remove leading white space
+entext <- sub('^\\s','', entext)
+detext <- sub('^\\s','', detext)
+# remove trailing white space
+entext <- sub('\\s$','', entext)
+detext <- sub('\\s$','', detext)
+# remove emtpy lines
+entext <- entext[entext!='']
+detext <- detext[detext!='']
+if(sum(names(entext) != names(detext))>0){
+  print(setdiff(names(entext), names(detext)))
+  print(setdiff(names(detext), names(entext)))
+}
+entext <- unlist(entext)
+detext <- unlist(detext)
+if(!all(names(entext)%in%names(detext))){
+  print(setdiff(names(entext), names(detext)))
+}
+if(!all(names(detext)%in%names(entext))){
+  print(setdiff(names(detext), names(entext)))
+}
+stopifnot(all(names(detext)==names(entext)))
+enmyth <- entext[grep('[.]myth', names(entext))]
+demyth <- detext[grep('[.]myth', names(detext))]
+entruth <- entext[grep('[.]truth', names(entext))]
+detruth <- detext[grep('[.]truth', names(detext))]
+save(enmyth, demyth, entruth, detruth, file = "callout.RData")
+```
+
+
+```{R}
+load("callout.RData")
+enboth <- c(enmyth, enmyth)
+deboth <- c(demyth, demyth)
+grep('(not)|(none)|(neither)|(never)|(noone)|(nobody)', enboth, value = TRUE)
+grep('(nicht)|(nirgend)|(nein)|(kein)|(keine)|(keinen)|(keinem)|(keiner)|(weder)|(weder)|(noch)|(niemand)|(niemanden)|(niemandem)|(niemandes)|(nirgendwo)|(niemals)', deboth, value = TRUE)
+```
+
+
+```{R}
+# Check for single sentences (without dot)
+print(entext[grep('[^.][.]([^.]|$)', entext)])
+print(detext[grep('[^.][.]([^.]|$)', detext)])
+```
+
+```{R}
+summary(nchar(entext))
+```
 
 ## Measuring dictionary status
 
@@ -728,7 +887,6 @@ cat(paste("\n", rownames(d), d[,1], d[,2], sep=" "), file="~/test.txt")
 ```
 
 
-
 ## Curl check
 
 curl -I -L https://disdict.org/
@@ -823,6 +981,7 @@ for (i in grep("/", dir(pattern="[.]qmd", recursive=T), value=TRUE)){
    }
 }
 ```
+
 
 ### Checking formatted links
 

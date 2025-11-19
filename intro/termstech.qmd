@@ -167,6 +167,17 @@ the Russians in Ukraine are seriously threatened and put in physical danger, thu
 Crimea's “return” to the Russian Federation.
 
 
+## Information War (2016)
+
+Edward Lucas and Peter Pomerantsev wrote a working paper on counterstrategies to Russian propaganda in Central and Eastern Europe. The report (@LucasPomerantsev:2016a) and recommendations (@LucasPomerantsev:2016b) were published in 2016 in partnership with the Information Warfare Initiative of the Center for European Policy Analysis (CEPA).
+
+In an article linking many of her work, journalist Zarina Zabrisky, who was teached russian propaganda techniques at Pushkin Leningrad State University, stated (@Zabrisky:2017):
+
+> The main goal of spetz-propaganda is to cause confusion in the enemy’s population
+
+For a recent (August 2025) deconstruction of Kremlin’s Information Warfare see @Zabrisky:2025.
+ 
+
 ## Firehose of Falsehoods (2016)
 
 > New Russian propaganda entertains, confuses and overwhelms the audience
@@ -206,10 +217,15 @@ __How Do You Recognize Weaponized Narratives?__ Efforts by Russia to meddle in t
 
 ## Foreign Information Manipulation and Interference (FIMI)
 
-Foreign Information Manipulation and Interference (FIMI) – also often labelled as “disinformation” – is a growing political and security challenge for the European Union. Given the foreign and security policy component, the European External Action Service has taken a leading role in addressing the issue. We significantly built up capacity to address the FIMI challenge since 2015, when the problem first appeared on the EU’s political agenda.
+Foreign Information Manipulation and Interference (FIMI) – also often labelled as “disinformation” – is a growing political and security challenge for the European Union. 
 
+### Social Design Agency (SDA)
+
+Russia is investing billions in professional propaganda to divide and destabilize other countries (us). Russia operates troll factories, bot farms, and disinformation campaigns such as the doppelganger campaign, which fakes websites in order to refer to them when manipulating social networks (@Potter:2024). One of the largest propaganda companies, controlled directly by Putin via oligarch Viktor Medvedchuk, is the Social Design Agency (SDA) @FrommLitschko:2025. 
 
 ### European External Action Service (EEAS)
+
+Given the foreign and security policy component, the European External Action Service has taken a leading role in addressing the issue. We significantly built up capacity to address the FIMI challenge since 2015, when the problem first appeared on the EU’s political agenda.
 
 Defining FIMI: The [EEAS](https://www.eeas.europa.eu/eeas/tackling-disinformation-foreign-information-manipulation-interference_en) defines FIMI as a pattern of behaviour that threatens or has the potential to negatively impact values, procedures and political processes. Such activity is manipulative in character, conducted in an intentional and coordinated manner. Actors of such activity can be state or non-state actors, including their proxies inside and outside of their own territory.
 

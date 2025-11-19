@@ -10,7 +10,8 @@ Russia has architecture that is superior to Ukraine's
 :::
 
 ::: {.callout-tip title="Truth"}
-- Ukrainian architecture has its earliest roots in the East Slavic state of Kyiv Rus' and is diverse, for example, Habsburg architecture
+- Ukrainian architecture has its earliest roots in the East Slavic state of Kyiv Rus'
+- Ukrainian architecture is rich and diverse
 - Russia would have liked Kyiv Rus', but has socialist classicism and brutalism 
 :::
 
@@ -21,3 +22,4 @@ https://en.wikipedia.org/wiki/Ukrainian_architecture
 https://en.wikipedia.org/wiki/Brutalist_architecture
 https://en.wikipedia.org/wiki/Stalinist_architecture
 
+For example, Habsburg architecture

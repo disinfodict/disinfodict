@@ -6,12 +6,16 @@ abstract: >
 # Warcrimes – nature {#sec-warcrimes-nature}
 
 ::: {.callout-caution title="Myth"}
-{{< var todo >}}
+- Use of depleted uranium shells is a crime against humanity
+- UN denies water ecocide of Crimea by Ukraine 
+- The Russian army is targeting only military infrastructure in Ukraine
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20(nature%7Cecocide%7Cmines%7Cpoisened)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-{{< var todo >}}
+- The depleted uranium shells UK MoD is sending to Ukraine are not prohibited by any international agreement
+- According to international law, it is Russia, as the occupying country, that has the obligation to provide the occupied territories with everything necessary
+- Russia is targeting civilians, farms, fields, forests and nature reserves: russia commits genocide and ecocide
 :::
 
 See also @sec-warcrimes-sexual.
@@ -29,4 +33,4 @@ See also @sec-warcrimes-sexual.
 {{< var todo >}}
 
 
-
+https://emergencemagazine.org/essay/the-fallout/

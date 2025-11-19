@@ -12,7 +12,8 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Truth"}
-Russia is bombing civilian infrastructure and people's homes - a violation of international law, even if Russia were defending itself, which is not the case.
+- Russia is bombing civilian infrastructure and people's homes - a violation of international law
+- Even if Russia were defending itself, it must not bomb civil infrastructure
 :::
 
 

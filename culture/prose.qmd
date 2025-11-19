@@ -6,13 +6,13 @@ abstract: >
 # Literature {#sec-culture-prose}
 
 ::: {.callout-caution title="Myth"}
-Ukraine has no literature of its own, especially not before the Soviet era.
+Ukraine has no literature of its own, especially not before the Soviet era
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=literature)
 :::
 
 ::: {.callout-tip title="Truth"}
-- Russian literature serves Russian imperialism. 
-- Ukraine has a rich culture that  Moscow has repeatedly tried to destroy.
+- Russian literature serves Russian imperialism
+- Ukraine has a rich culture that  Moscow has repeatedly tried to destroy
 :::
 
 {{< var todo >}}

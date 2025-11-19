@@ -8,13 +8,16 @@ abstract: >
 ::: {.callout-caution title="Mythos"}
 - Russen und Ukrainer sind Brüder
 - Russen und Ukrainer haben eine gemeinsame Geschichte[^brothers-russia.de-9]
+- Das kleinrussische Brudervolk muss von Russland zivilisiert werden
 - Die Ukraine ist Teil der russischen Nation
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=brother%20nations&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
 - Brüder vergewaltigen, foltern und töten sich nicht gegenseitig
-- Und Brüder nennen sich nicht „Khokhols“
+- Brüder bezeichnen ihre Brüder nicht als „Khokhols“ (abwertende Bezeichnung für „Bauer“)
+- Ukraine ist die Wiege der Europäischen Zivilisation; Russland ist bis heute nicht zivilisiert
+- Die Ukraine mit Kyjiy als Hauptstadt gab es lange vor Moskaus Russland, siehe @sec-ukraine-kyiv
 :::
 
 

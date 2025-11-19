@@ -13,8 +13,7 @@ abstract: >
 
 ::: {.callout-tip title="Wahrheit"}
 - Viele als "russisch" bekannte Gerichte stammen aus der Ukraine (siehe @sec-culture-food)
-- Russland verantwortet auffällig viele Kannibalen, schlimmer: lässt sie frei
-[![Search for topic in EUvsDisinfo](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/List_of_incidents_of_cannibalism)
+- Russland verantwortet auffällig viele Kannibalen, schlimmer: lässt sie frei[![Search for topic in EUvsDisinfo](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/List_of_incidents_of_cannibalism)
 :::
 
 Jede russische Anschuldigung ist ein Geständnis: in Russland gibt es eine große Anzahl von Kannibalen, und schlimmer noch: Man lässt sie frei herumlaufen.

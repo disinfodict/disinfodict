@@ -7,7 +7,7 @@ abstract: >
 
 ::: {.callout-caution title="Myth"}
 - Willy Brand was the greatest appeaser ever
-- His appeasement brought freedom to East European countries 
+- His appeasement brought freedom to East European countries
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Willy%20Brandt&sort=relevance)
 :::
 

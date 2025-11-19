@@ -6,12 +6,12 @@ abstract: >
 # Clothing culture {#sec-culture-clothes}
 
 ::: {.callout-caution title="Myth"}
-Ukrainian and Belarusian national clothes as tools of destruction of the Russian state
+Ukrainian and Belarusian national clothes are tools of destruction of the Russian state
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/report/ukrainian-and-belarusian-national-clothes-are-aimed-to-destroy-the-russian-state/)
 :::
 
 ::: {.callout-tip title="Truth"}
-Ukrainians have their own traditional clothing, traditions, and nation.
+Ukrainians have their own traditional clothing, traditions, and nation
 :::
 
 {{< var todo >}}

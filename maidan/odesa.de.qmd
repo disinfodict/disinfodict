@@ -6,12 +6,12 @@ abstract: >
 # Maidan Odesa {#sec-maidan-odesa}
 
 ::: {.callout-caution title="Mythos"}
-In Odessa haben ukrainische Behörden friedliche Demonstranten verbrannt.
+Während des Maidan in Odessa haben ukrainische Behörden friedliche Demonstranten verbrannt
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=maidan%20ukraine%20(odesa%7Codessa)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-300 gut ausgerüstete pro-russische Anhänger griffen an diesem Tag einen Marsch von etwa 2.000 ukrainischen Patrioten in Odessa an und hatten wahrscheinlich Pech.
+Während des Maidan in Odessa griffen 300 gut ausgerüstete pro-russische Anhänger einen Marsch von etwa 2.000 ukrainischen Patrioten an und hatten wohl Pech
 :::
 
 

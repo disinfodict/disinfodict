@@ -9,12 +9,13 @@ keywords:
 # Deutsch-russische Beziehungen  {#sec-germany-russia}
 
 ::: {.callout-caution title="Mythos"}
-- Deutschland trägt eine historische Verantwortung gegenüber Russland.
+- Deutschland trägt eine historische Verantwortung gegenüber Russland
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20german&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Deutschland hat sich mehrfach mit Russland verschworen, um der Ukraine zu schaden.  
+- Deutschland hat sich mehrfach mit Russland verschworen, auf Kosten der Ukraine
+- Deutschland trägt eine historische Verantwortung gegenüber der Ukraine
 :::
 
 

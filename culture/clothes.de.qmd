@@ -11,7 +11,7 @@ Ukrainische und belarussische Nationaltrachten sind Instrumente zur Zerstörung 
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Die Ukrainer haben eigene Tracht, Tradition und Nation.
+Die Ukrainer haben eigene Tracht, Tradition und Nation
 :::
 
 {{< var todo >}}

@@ -17,7 +17,7 @@ Krimtataren lieben Russland
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russia is responsible for massive human rights violations against Crimean tatars and other Crimean inhabitantsRussland ist für massive Menschenrechtsverletzungen gegen Krimtataren und andere Bewohner der Krim verantwortlich.
+Russia is responsible for massive human rights violations against Crimean tatars and other Crimean inhabitants
 :::
 
 Zur Geschichte der Krim siehe @sec-crimea-history.

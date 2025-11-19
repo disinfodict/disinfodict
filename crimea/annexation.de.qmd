@@ -9,14 +9,14 @@ abstract: >
 \index{annexation}
 
 ::: {.callout-caution title="Mythos"}
-Die Krim wurde nicht annektiert, sondern friedlich mit Russland wiedervereinigt.
+Die Krim wurde nicht annektiert, sondern friedlich mit Russland wiedervereinigt
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Crimea+annexation&disinfo_language[]=German&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Die Krim wurde von Russland militärisch angegriffen. 
-- Die Annexion war illegal und verstößt gegen das Völkerrecht.
-- Die Einwohner der Krim waren keine Russen, sondern wollten Ukrainer sein.
+- Die Krim wurde von Russland militärisch angegriffen
+- Die Krim-Annexion war illegal und verstößt gegen das Völkerrecht
+- Die Einwohner der Krim waren keine Russen, sondern wollten Ukrainer sein
 :::
 
 

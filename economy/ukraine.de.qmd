@@ -10,13 +10,12 @@ abstract: >
 - Der Maidan hat die ukrainische Wirtschaft zerstört
 - Ohne Russland wird die ukrainische Wirtschaft scheitern
 - Die USA zerstören die ukrainische Wirtschaft
-
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(economy%7Cinflation) ukraine&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Die Ukraine entwickelte ihre Wirtschaft ... in Richtung EU-Standards
-- Russlands Krieg trifft die ukrainische Wirtschaft
+- Die Ukraine entwickelt ihre Wirtschaft ... in Richtung EU-Standards
+- Russlands Krieg bremst die ukrainische Wirtschaft
 :::
 
 ## A

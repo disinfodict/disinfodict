@@ -6,13 +6,13 @@ abstract: >
 # Kriegsverbrechen - Journalisten {#sec-kriegsverbrechen-journalisten}
 
 ::: {.callout-caution title="Mythos"}
-- Journalisten reisen in die Ukraine, um Verbrechen zu begehen.
-- Die Ukraine tötet Journalisten.
+- Journalisten reisen in die Ukraine, um Verbrechen zu begehen
+- Die Ukraine tötet Journalisten
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(crimes%7Ccriminals)%20(civilian%7Ccivilians)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland ermordete mehr als 100 Journalisten in der Ukraine.
+Russland ermordete mehr als 100 Journalisten in der Ukraine
 :::
 
 > Journalisten und ihre Ausrüstung genießen Immunität, erstere als Zivilisten, letztere aufgrund des allgemeinen Schutzes, den das humanitäre Völkerrecht zivilen Objekten gewährt. Diese Immunität ist jedoch nicht absolut. Journalisten sind nur so lange geschützt, wie sie nicht direkt an den Feindseligkeiten beteiligt sind. 
@@ -27,3 +27,5 @@ Siehe auch @sec-values-russia-poisoning.
 [^warcrimes-journalists.de-1]: ICRC 2025). Protection of Journalists. [https://casebook.icrc.org/case-study/protection-journalists](https://casebook.icrc.org/case-study/protection-journalists) 
 
 [^warcrimes-journalists.de-2]: The National Union of Journalists of Ukraine (2024, November 29). List of journalists killed since start of russia’s full-scale aggression (UPDATE). [https://nuju.org.ua/list-of-journalists-killed-since-start-of-russia-s-full-scale-aggression-update-2/](https://nuju.org.ua/list-of-journalists-killed-since-start-of-russia-s-full-scale-aggression-update-2/)
+
+[^warcrimes-journalists.de-3]: Adam Bienkov (21 August 2025) Russia Sanctions Byline Times Journalists and Contributors for Exposing Putin’s War Crimes. The Russian foreign ministry added multiple Byline Times and Byline TV contributors to its “stop list” following our award-winning investigations into the Putin regime. Byline Times. [https://bylinetimes.com/2025/08/21/russia-byline-times-sanctions-stop-list-ukraine-journalists-and-contributors-putin-war-crimes/](https://bylinetimes.com/2025/08/21/russia-byline-times-sanctions-stop-list-ukraine-journalists-and-contributors-putin-war-crimes/)

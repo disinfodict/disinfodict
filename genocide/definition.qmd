@@ -7,12 +7,12 @@ abstract: >
 # Genocide definition {#sec-genocide-definition}
 
 ::: {.callout-caution title="Myth"}
-What is Genocide? A Nazi thing!? 
+Genocide is a Nazi thing
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20holodomor&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-A genocide committed by the Russians was the reason for the invention of the term 'genocide'.
+A genocide committed by the Russians, the Holodomor, was the reason for the creation of the term 'genocide'
 :::
 
 ## Lemkin I

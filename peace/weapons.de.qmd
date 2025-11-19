@@ -6,14 +6,19 @@ abstract: >
 # Waffen {#sec-peace-weapons}
 
 ::: {.callout-caution title="Mythos"}
-Die Nachrüstung, um sich verteidigungsfähig zu machen, ist Kriegstreiberei.
+- Die Nachrüstung, um sich verteidigungsfähig zu machen, ist Kriegstreiberei
+- Wer Frieden will, darf nur "Defensivwaffen" benutzen
+- Die Bibel fordert: Schwerter zu Pflugscharen
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(arming%7Carms%7Cweapons)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Russland hat sich bis an die Zähne bewaffnet, um einen unprovozierten Krieg zu führen.
-- Die Forderung, nur "Defensivwaffen" einzusetzen, begünstigt den Anfreifer.
+- Russland hat sich bis an die Zähne bewaffnet, um einen unprovozierten Krieg zu führen
+- Die Forderung, nur "Defensivwaffen" einzusetzen, begünstigt den Angreifer
+- Selbst die Bibel lehrt: wenn nötig, Pflugscharen zu Schwertern
 :::
+
+
 
 ## Neue Waffen
 
@@ -29,4 +34,15 @@ Die Nachrüstung, um sich verteidigungsfähig zu machen, ist Kriegstreiberei.
 
 {{< var todo >}}
 
+## Was die Bibel sagt
 
+Fast jeder kennt das Bibelzitat „Pflugscharen zu Schwertern!“ (Micha oder Jesaja). Die Bibel würdigt die Bereitschaft zum Frieden, dafür steht das Zitat, aber auch die Bibel ist lernfähig:
+
+> „Macht aus euren Pflugscharen Schwerter und aus euren Sicheln Spieße! Auch der Schwache rufe: Ich bin stark!“ (Joel 4,10, Lutherübersetzung)
+
+Gegen einen bewaffneten Angreifer darf man sich verteidigen:  
+
+> In den Zeiten Joels ist man froh über 70 Jahre äußeren Frieden und singt Halleluja, zitiert die schönen Verheißungen Jesajas und Michas – aber wieder hat sich das Unrecht breit gemacht ... In der Zeit des Joel verstärkt sich die Ahnung von einer großen Katastrophe Israels. Und sie kam ja auch: Erst durch die Assyrer für das Nordreich, dann durch die Babylonier für Jerusalem und das Südreich.[^peace-weapons-1] 
+
+
+[^peace-weapons-1]: Pastor Günther Baum (August 2014) Pflugscharen zu Schwertern. Joel 4,10 - Predigt in der Bergkirche Osnabrück. [https://www.reformiert-info.de/Pflugscharen_zu_Schwertern-13476-0-84-9.html](https://www.reformiert-info.de/Pflugscharen_zu_Schwertern-13476-0-84-9.html)

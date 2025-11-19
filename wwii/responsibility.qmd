@@ -1,9 +1,11 @@
 ---
 abstract: > 
-  Help us write: Who started World War II? Did you know that Hitler and Stalin agreed to start war against Poland? Read about the Molotov–Ribbentrop Pact.
+  Who started World War II? Did you know that Hitler and Stalin had agreed to wage war against Poland? Read more about the Hitler-Stalin Pact.
+keywords: 
+  - Molotov-Ribbentrop Pact
 ---
 
-# WWII responsibility {#sec-ww2-responsibility}
+# WW2 responsibility {#sec-wwii-responsibility}
 
 ::: {.callout-caution title="Myth"}
 Russia was an innocent victim of the Second World War
@@ -11,20 +13,90 @@ Russia was an innocent victim of the Second World War
 :::
 
 ::: {.callout-tip title="Truth"}
-Hitler and Stalin joined to conquer other European countries
+- Russia triggered World War I
+- Hitler and Stalin started World War II together with an agreement to divide Poland between them
+- Germany was held accountable—rightly so—while Russia was rewarded with territorial gains
 :::
 
 
-## A
+## World War I
 
-{{< var todo >}}
+The assassination of Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, and his wife in Sarajevo is considered the trigger for World War I.
 
-## B
+> With the assassination, the Serbian Pan-Slavists, supported by Russia, wanted to once again make clear their demand for a Serbian nation state independent of Austria-Hungary.[^wwii-responsibility-1] 
 
-{{< var todo >}}
 
-## C
+## World War II
 
-{{< var todo >}}
+### Hitler-Stalin Pact
 
-{{ reserved }}
+The Hitler-Stalin Pact was also known as the Molotov-Ribbentrop Pact:
+
+> The Hitler-Stalin Pact had far-reaching consequences for the whole of Europe: it not only paved the way for the German invasion of Poland on September 1, 1939, which marked the beginning of World War II. The secret additional protocol also provided for the division of the countries of Eastern and Central Europe into spheres of influence between Hitler's Germany and the Soviet Union, marking the beginning of a period of tyranny for millions of people that did not end until 1989/90.[^wwii-responsibility-2]
+
+
+> It was not until after World War II that the secret additional protocol to the Hitler-Stalin Pact became known. In the Warsaw Pact countries, the existence of the agreement was denied until 1989. Documents proving its authenticity were dismissed as Western propaganda and forgeries.[^wwii-responsibility-3]
+
+::: {layout-ncol=2}
+[![Hitler-Stalin Pact - Additional Protocol[^wwii-responsibility-4]](SecretAdditionalProtocol_HitlerStalinPact1.jpg)](https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/der-zweite-weltkrieg/203800/zusatzprotokoll-hitler-stalin-pakt/)
+
+[![](SecretAdditionalProtocol_HitlerStalinPact2.jpg)](https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/der-zweite-weltkrieg/203800/zusatzprotokoll-hitler-stalin-pakt/)
+:::
+
+### Conquests
+
+During World War II, Russia annexed half of Europe, partly under the guise of puppet regimes: 
+- Poland 
+- Baltic States (Estonia, Latvia, Lithuania) 
+- Karelia 
+- Bukovina and Bessarabia (Romania) 
+- Transcarpathia 
+- East Prussia with Königsberg 
+- East Germany 
+- Czechoslovakia 
+- Hungary 
+- Romania 
+- Bulgaria 
+- Albania 
+
+See also @sec-russia-history.
+
+
+## Cold War
+
+During the Cold War, the destructive Russian Empire did not remain idle and carried out the following “military operations” (= war) in Europe alone under the name “Soviet Union” [![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Liste_von_Milit%C3%A4roperationen_Russlands_und_der_Sowjetunion):
+
+- Blockade of West Berlin
+- Suppression of the uprising of June 17, 1953, in the GDR
+- Suppression of the Hungarian uprising in 1956
+- Suppression of the Prague Spring
+
+
+## Interwar period
+
+Even after the collapse of the Soviet Union, Russia attempted to expand and control “its” colonies by military force
+
+- Occupation of Transnistria in 1992
+- Destruction of Grozny in the First Chechen War from 1994 to 1996
+- Renewed destruction of Grozny in the Second Chechen War 1999-2009
+- Advance on Priština 1999-2003
+- Attempt to shift the border with Ukraine by [building a dam to the island of Tusla](https://en.wikipedia.org/wiki/2003_Tuzla_Island_conflict)
+- Invasion of Crimea and Donbas with unofficial Russian troops and mercenaries in 2014
+- Unpunished crossing of red lines with the use of poison gas and destruction of several cities in Syria in 2015
+- Crossing of red lines with the use of poison gas and destruction of several cities in Syria in 2015
+
+
+## World War III
+
+The unprovoked, large-scale Russian invasion of Ukraine, aimed at conquest and destruction, will one day be regarded by historians as the beginning of World War III [![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Russo-Ukrainian_war_(2022–present)) 
+
+
+
+[^wwii-responsibility-1]: Landeszentrale für politische Bildung BW (Juli 2020) Der Erste Weltkrieg – Überblick. [https://www.lpb-bw.de/erster-weltkrieg-zusammenfassung](https://www.lpb-bw.de/erster-weltkrieg-zusammenfassung)
+
+[^wwii-responsibility-2]: Bundesstiftung Aufarbeitung (August 2021) Der Hitler-Stalin-Pakt. [https://www.bundesstiftung-aufarbeitung.de/de/recherche/dossiers/der-hitler-stalin-pakt](https://www.bundesstiftung-aufarbeitung.de/de/recherche/dossiers/der-hitler-stalin-pakt)
+
+[^wwii-responsibility-3]: Bundeszentrale für politische Bildung (Februar 2022) Vor 80 Jahren: Hitler-Stalin-Pakt
+[https://www.bpb.de/kurz-knapp/hintergrund-aktuell/190237/vor-80-jahren-hitler-stalin-pakt/](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/190237/vor-80-jahren-hitler-stalin-pakt/)
+
+[^wwii-responsibility-4]: Bundeszentrale für politische Bildung (September 2022) Zusatzprotokoll "Hitler-Stalin-Pakt". [https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/der-zweite-weltkrieg/203800/zusatzprotokoll-hitler-stalin-pakt/](https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/der-zweite-weltkrieg/203800/zusatzprotokoll-hitler-stalin-pakt/)

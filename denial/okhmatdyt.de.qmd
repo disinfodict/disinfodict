@@ -13,7 +13,7 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland feuerte eine Kh-101-Marschflugrakete auf das Okhmatdyt-Kinderkrankenhaus ab.
+Russland feuerte eine Kh-101-Marschflugrakete auf das Okhmatdyt-Kinderkrankenhaus ab
 :::
 
 

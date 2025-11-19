@@ -6,21 +6,21 @@ abstract: >
 # Genocide ongoing {#sec-genocide-ongoing}
 
 ::: {.callout-caution title="Myth"}
-- Genocide doesn't happen
-- It was not the Russians
-- It doesn't qualify for Genocide
-- The victims deserve it
-- The victims do it themselves
-- The victims do it to us (russians)
+- Genocide in Ukraine doesn't happen
+- Genocide in Ukraine is done by Ukrinians themselves
+- The victims of the genocide in Ukraine deserve it
+- The victims of the genocide in Ukraine are russians
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20ukraine&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-Russia has announced and started Genocide of everyone and everything Ukrainian.
+Russia has announced and started Genocide of everyone and everything Ukrainian
 :::
 
 
 > Genocide Watch is issuing an emergency alert regarding statements made by US President Donald Trump about the war in Ukraine ... Russian aggression and genocide will worsen if the US abandons Ukraine. Russia is engaged in every stage of genocide in Ukraine. Genocide Watch considers the statements made by the Trump administration to be aiding and abetting genocide. They are evidence of Stage 4: Dehumanization, Stage 5: Organization and Stage 6: Polarization. Trump’s rhetoric reflects Russian disinformation.[^genocide-ongoing-1]
+
+The international press is fixated on Gaza and massively underestimating the genocide being perpetrated by Russia in Ukraine.[^genocide-ongoing-2]
 
 
 ## Purges of Crimea, Donbas and Luhansk since 2014
@@ -64,6 +64,7 @@ See warcrimes:
 
 See warcrimes:
 
+- against civilians @sec-warcrimes-civilians and particularly [human safari](#sec-warcrimes-humansafari)
 - against civil infrastructure @sec-warcrimes-infrastructure
 - against nuclear facilities @sec-warcrimes-nuclear
 - systematic destruction of villages and towns @sec-warcrimes-urbicide
@@ -85,4 +86,6 @@ See @sec-warcrimes-children
 
 
 [^genocide-ongoing-1]: Ukraine Advocacy Task Force (Feb. 26, 2025). Genocide Watch. [https://www.genocidewatch.com/single-post/ukraine-genocide-emergency](https://www.genocidewatch.com/single-post/ukraine-genocide-emergency)
+
+[^genocide-ongoing-2]: Zarina Zabrisky (June 2, 2025). The Silence of the Headlines. [https://fresnoalliance.com/the-silence-of-the-headlines/](https://fresnoalliance.com/the-silence-of-the-headlines/)
 

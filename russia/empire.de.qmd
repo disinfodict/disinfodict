@@ -6,12 +6,12 @@ abstract: >
 # Russisches Imperium {#sec-russia-empire}
 
 ::: {.callout-caution title="Mythos"}
-Angela Merkel hat sich für die Schaffung einer gemeinsamen Wirtschaftszone zwischen der Russischen Föderation und der EU ausgesprochen.Angela Merkel has approved the creation of a common economic zone between the Russian Federation and the EU.
+Angela Merkel hat sich für die Schaffung einer gemeinsamen Wirtschaftszone zwischen der Russischen Föderation und der EU ausgesprochen
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Vladivostok%20(Lisbon%7CDublin)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland plant, sein Imperium von Wladiwostok bis Dublin/Lissabon auszudehnen.[^russia-empire-7]
+Russland plant, sein Imperium von Wladiwostok bis Dublin/Lissabon auszudehnen[^russia-empire-7]
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/INVED.png){height=2em}](https://www.inved-insight.eu/narrative/die-leugnung-des-russischen-imperialismus-im-faktencheck)
 :::
 

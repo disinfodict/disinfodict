@@ -6,12 +6,11 @@ abstract: >
 # Russophonie {#sec-language-russophonia}
 
 ::: {.callout-caution title="Mythos"}
-Wir dürfen die russische Sprache nicht an den Kreml ausliefern
+Förderer der russischen Sprache im Westen: wir dürfen die russische Sprache nicht an den Kreml ausliefern
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Die russische Sprache ist durch viele Jahrhunderte russischen Imperialismus und Faschismus vergiftet:  
-Finger weg!
+Die russische Sprache ist durch viele Jahrhunderte russischen Imperialismus und Faschismus vergiftet: Finger weg!
 :::
 
 ## Forschung?

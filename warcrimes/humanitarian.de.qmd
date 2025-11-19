@@ -6,12 +6,13 @@ abstract: >
 # Kriegsverbrechen – humanitäre {#sec-warcrimes-humanitarian}
 
 ::: {.callout-caution title="Mythos"}
-- Ukrainische Truppen lagern Waffen in Krankenhäusern.
+- Ukrainische Truppen lagern Waffen in Krankenhäusern
 [<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20(humanitarian%7Chospital%7Cambulance%7Cclinic)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-{{< var todo >}}
+- Russland nimmt Feuerwehrleute, Ärzte, Rettungssanitäter und Krankenhäuser ins Visier
+- Russland führt „Double-Tap“-Angriffe durch: Zuerst bombardieren sie, und wenn die Rettungskräfte eintreffen, bombardieren sie erneut
 :::
 
 

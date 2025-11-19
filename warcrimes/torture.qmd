@@ -6,12 +6,14 @@ abstract: >
 # Warcrimes – torture {#sec-warcrimes-torture}
 
 ::: {.callout-caution title="Myth"}
-{{< var todo >}}
+- UN report exposes torture of Russian POWs in Ukraine
+- Bucha is a cover up for Ukrainian fascists torturing Russian prisoners of war
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(torture%7Ctortured)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-{{< var todo >}}
+- Russia systematically tortures prisoners of war and civilians
+- Russia immediately set up torture prisons in all occupied territories
 :::
 
 
@@ -27,4 +29,11 @@ abstract: >
 
 {{< var todo >}}
 
+
+[^warcrimes-torture-1]: Zarina Zabrisky (3 October 2022). Russian War Crimes in Ukraine: Torture as a Propaganda Tool. Zarina Zabrisky talks to survivors of the newly liberated Kharkiv region and discovers a terrifying logic of ‘psyops’ in Russian atrocities. [https://bylinetimes.com/2022/10/03/russian-war-crimes-in-ukraine-torture-as-a-propaganda-tool/](https://bylinetimes.com/2022/10/03/russian-war-crimes-in-ukraine-torture-as-a-propaganda-tool/)
+
+[^warcrimes-torture-2]: Euromaidan Press Contributor (13/06/2023) Everyday Hell: Review of the documentary The Eastern Front: Terror and Torture in Ukraine. [https://euromaidanpress.com/2023/06/13/everyday-hell-review-of-the-documentary-the-eastern-front-terror-and-torture-in-ukraine/](https://euromaidanpress.com/2023/06/13/everyday-hell-review-of-the-documentary-the-eastern-front-terror-and-torture-in-ukraine/)
+
+[^warcrimes-torture-3]: Zarina Zabrisky (Fighting Putin's Propaganda on The Eastern Front: An Interview with Zarina Zabrisky
+On the eve of the US Premiere of Byline TV’s powerful documentary film, ‘The Eastern Front', Heidi Sigmund Cuda interviews one of the film's stars Zarina Zabrisky). [https://www.bylinesupplement.com/p/fighting-putins-propaganda-on-the](https://www.bylinesupplement.com/p/fighting-putins-propaganda-on-the)
 

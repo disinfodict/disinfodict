@@ -15,7 +15,7 @@ abstract: >
 ::: {.callout-tip title="Truth"}
 - New members joined the NATO defense alliance after being threatened by Russia
 - Four years after declaring itself legally non-aligned, Ukraine was invaded by Russia
-- No one can encircle a country as big as Russia
+- No one can encircle a country as large as Russia, not even NATO
 [<br></br>![EUvsDisinfo: The myth that won’t die: blaming NATO for Russia’s war](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/the-myth-that-wont-die-blaming-nato-for-russias-war/)
 [<br></br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Ukraine%E2%80%93NATO_relations)
 :::

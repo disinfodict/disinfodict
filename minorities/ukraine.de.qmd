@@ -6,12 +6,12 @@ abstract: >
 # Minderheiten in der Ukraine {#sec-minorities-ukraine}
 
 ::: {.callout-caution title="Mythos"}
-Die ukrainische Regierung diskriminiert nationale Minderheiten.
+Die ukrainische Regierung diskriminiert nationale Minderheiten
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Minorities%20Ukraine&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-In der Ukraine lebte eine Vielzahl von ethnischen Gruppen und Minderheiten. 
+Die Ukraine ist ein Schmelztiegel vieler ethnischer Gruppen und Minderheiten
 :::
 
 

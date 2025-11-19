@@ -8,7 +8,7 @@ abstract: >
 ::: {.callout-caution title="Myth"}
 - Ukraine does not exist
 - Ukraine is a divided country
-- Ukraine is part of the Russian Nation
+- Ukraine is part of the Russian nation
 - Ukrainian nation did only exist after the Bolshevik Revolution
 - Ukrainian nation only exists in western Ukraine
 - Ukrainian nation is underdeveloped
@@ -19,7 +19,7 @@ abstract: >
 
 ::: {.callout-tip title="Truth"}
 - Ukraine is the center of East Slavic civilization
-- The Ukrainian capital is Kyiv (and it is older than Moscow)
+- The Ukrainian capital is Kyiv and it is older than Moscow
 - Ukraine is ONE nation^[@Christ:2023b]
 - Russia has been trying to take over or destroy Ukraine for centuries
 - Ukrainian citizens are fighting for the values of their nation - Russians have no values to fight for

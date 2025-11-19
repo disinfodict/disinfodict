@@ -6,12 +6,13 @@ abstract: >
 # Warcrimes – food {#sec-warcrimes-food}
 
 ::: {.callout-caution title="Myth"}
-{{< var todo >}}
+- EU sanctions undermine global food security
+- Ukrainians burned 50,000 tons of grain in Mariupol on purpose
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(food%7Cgrain)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-{{< var todo >}}
+Russia steals grain, mines fields and destroys farms and harbors in Ukraine
 :::
 
 

@@ -14,17 +14,17 @@ keywords:
 ::: {.callout-caution title="Myth"}
 - Pro-russian fighters in Donbas are "seperatists"
 - The so-called separatists of Donbas are autonomists
-- Occupiers are a "People's Republic"
+- Occupiers in Donbas are a "People's Republic"
 - The Donetsk "People’s Republic" has been recognized by the US
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=donetsk%20(separatists%7Cseparatist)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-- The uprising in the Donbas was directed against Moscow (1989)
+- The uprising 1989 in the Donbas was directed against Moscow
 - Moscow gains control of the Donbas and twists history into its opposite
 - Pro-russian fighters in Donbas are paid mercenaries trained in Moscow and russian soldiers
-- Pro-russian fighters are equipped with heavy weapons from Russia 
-- The Occupiers are a "Kremlin's Republic" not recognized by nobody
+- Pro-russian fighters in Donbas are equipped with heavy weapons from Russia 
+- The Occupiers in Donbas are a "Kremlin's Republic" not recognized by anyone
 [<br></br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Russian_separatist_forces_in_Ukraine)
 :::
 
@@ -58,14 +58,18 @@ That the war in Donbas was unleashed by Russia is evidenced by the chronology �
 
 ## Russia invaded 2014
 
-Novoazovsk was openly captured by the Russian forces, as well as Ilovaisk where directly Russian, and not proxy, troops were deployed. 
-Malaysia Airlines Flight MH17 was downed by a missile launched from a Russian Buk air defense system by a Russian crew which was sent to Donetsk region 
-from the territory of Russia – this has been proved in court in the Netherlands, who found guilty [FSB officer Igor Girkin (alias Igor Strelkov)](https://en.wikipedia.org/wiki/Igor_Girkin), who played a key role in the Russian annexation of Crimea, and then in the Donbas War as an organizer of militant groups in the Donetsk People's Republic (DPR), see @sec-denial-mh17.
+Novoazovsk was openly captured by the Russian forces, as well as Ilovaisk where directly Russian, and not proxy, troops were deployed. Later, Russian soldiers were arrested there by Ukrainian forces.[^sec-donbas-separatists-9]
+
+Malaysia Airlines Flight MH17 was downed by a missile launched from a Russian Buk air defense system by a Russian crew which was sent to Donetsk region from the territory of Russia – this has been proved in court in the Netherlands, who found guilty [FSB officer Igor Girkin (alias Igor Strelkov)](https://en.wikipedia.org/wiki/Igor_Girkin), who played a key role in the Russian annexation of Crimea, and then in the Donbas War as an organizer of militant groups in the Donetsk People's Republic (DPR), see @sec-denial-mh17.
 
 
 ## Russia sent troops
 
-What is more, Russia sent in its troops and despite the phrase “they are not there,” which is already a meme, it actually never bothered to conceal this fact. 
+Because there were no significant numbers of separatists in Donbas, Igor Girkin, colonel in the Russian FSB and first “defense minister” of the self-proclaimed People's Republic of Donetsk, lamented:
+
+> that not even 1,000 Ukrainians can be found in the entire region who are willing to fight for Russia.[^sec-donbas-separatists-8]
+
+Instead of separatists, Moscow sent russian troops and despite the phrase “they are not there,” which is already a meme, it actually never bothered to conceal this fact. 
 For example, the mh17-terrorist Igor Girkin, said in 2014:
 
 > "I was the one who pulled the trigger of this war," Strelkov said in an interview published Thursday with Russia's Zavtra newspaper, which espouses imperialist views.  
@@ -109,3 +113,11 @@ but at the same time most popular Russian manipulations, because in fact it was 
 [^sec-donbas-separatists-4]: Putin speaks his mind. Russian President Vladimir Putin has admitted that military personnel were active in east Ukraine, criticized Turkey's leadership and mused on the future of Syria. He did it in front of some 1,400 journalists. (12/17/2015) Deutsche Welle. [https://www.dw.com/en/putin-basks-in-the-limelight-of-global-media/a-18924143](https://www.dw.com/en/putin-basks-in-the-limelight-of-global-media/a-18924143)
 
 [^sec-donbas-separatists-5]: Putin: Keine Versöhnung mit der Türkei. Bei seiner Jahrespressekonferenz teilte der russische Präsident ordentlich aus: Er sehe keinen Raum für eine Einigung mit der Türkei, so Putin. Kritik übte der Kremlchef auch an der Ukraine. Auf die USA ging er aber zu. (17.12.2015).  [https://www.dw.com/de/putin-schlie%C3%9Ft-vers%C3%B6hnung-mit-der-t%C3%BCrkei-aus/a-18924907](https://www.dw.com/de/putin-schlie%C3%9Ft-vers%C3%B6hnung-mit-der-t%C3%BCrkei-aus/a-18924907)
+
+[^sec-donbas-separatists-6]: Peter Schille (5.11.1989) »Perestroika - nur noch Gerede«. Der Spiegel.  [https://www.spiegel.de/politik/perestroika-nur-noch-gerede-a-ee5bb2fd-0002-0001-0000-000013496600](https://www.spiegel.de/politik/perestroika-nur-noch-gerede-a-ee5bb2fd-0002-0001-0000-000013496600)
+
+[^sec-donbas-separatists-7]: Gabriele Gorzka (1989) Arbeiterunruhen in der Sowjetunion -und wo stehen die Gewerkschaften? Gewerkschaftliche Monatshefte 40, 12, 797-807.   [https://library.fes.de/gmh/main/pdf-files/gmh/1989/1989-12-a-797.pdf](https://library.fes.de/gmh/main/pdf-files/gmh/1989/1989-12-a-797.pdf)
+
+[^sec-donbas-separatists-8]: Monterey (9. Februar 2025) Twitter thread with Girkin-Video. [https://x.com/Montrey82631182/status/1888895154808840413?s=20](https://x.com/Montrey82631182/status/1888895154808840413?s=20)
+
+[^sec-donbas-separatists-9]: Inform Napalm (03/27/2015) Internet Users Have Identified Russian Soldiers Captured Near Ilovaisk. [https://informnapalm.org/en/internet-users-have-identified-russian-soldiers-captured-near-ilovaisk/](https://informnapalm.org/en/internet-users-have-identified-russian-soldiers-captured-near-ilovaisk/)

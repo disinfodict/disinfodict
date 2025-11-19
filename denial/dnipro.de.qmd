@@ -7,16 +7,15 @@ abstract: >
 
 
 ::: {.callout-caution title="Mythos"}
-- Es war inszeniert.
-- Es ist nicht passiert.
-- Wir (Russland) waren es nicht.
-- Es war die Ukraine.
-- Sie haben es verdient.
+- Der Raketenangriff auf Dnipro war inszeniert
+- Der Raketenangriff auf Dnipro ist nie passiert
+- Russland hatte nichts mit dem Raketenangriff auf Dnipro zu tun 
+- Der Raketenangriff auf Dnipro war gerechtfertigt
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Bucha&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland beging schwere Kriegsverbrechen.
+Russland beging ein schweres Kriegsverbrechen mit dem Raketenangriff auf Dnipro
 :::
 
 

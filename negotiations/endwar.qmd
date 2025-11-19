@@ -6,12 +6,15 @@ abstract: >
 # Negotiations end war? {#sec-negotiations-endwar}
 
 ::: {.callout-caution title="Myth"}
-All wars are ended *through* negotiations.
+- All wars are ended THROUGH negotiations
+- Better to negotiate with Russia than to supply weapons to Ukraine
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=negotiations%20end%20war&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-Some wars end with victory. Other wars end __with__ negotiations - if both sides are willing to negotiate.
+- Some wars end with victory, other wars end WITH negotiations
+- You can only negotiate with an opponent who is willing to negotiate
+- Russia is not willing to negotiate and must be forced to do so with weapons
 :::
 
 ## Russia invaded while negotiating

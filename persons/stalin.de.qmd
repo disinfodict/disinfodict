@@ -6,7 +6,7 @@ abstract: >
 # Personen Stalin {#sec-persons-stalin}
 
 ::: {.callout-caution title="Mythos"}
-Stalin war ein großer Führer.
+Stalin war ein großer Führer
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Joseph%20Stalin&sort=relevance)
 :::
 

@@ -7,12 +7,12 @@ abstract: >
 # Genozid Definition {#sec-genocide-definition}
 
 ::: {.callout-caution title="Mythos"}
-Was ist Völkermord? Eine Nazi-Sache!?
+Völkermord ist eine Nazi-Sache
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20holodomor&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Ein von den Russen begangener Völkermord war der Grund für die Erfindung des Begriffs „Völkermord”.
+Ein von den Russen begangener Völkermord, der Holodomor, war der Grund für die Erschaffung des Begriffs „Völkermord”
 :::
 
 ## Lemkin I

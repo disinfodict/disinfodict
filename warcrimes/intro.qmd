@@ -6,8 +6,8 @@ abstract: >
 # Warcrimes – intro {#sec-warcrimes-intro}
 
 ::: {.callout-caution title="Myth"}
-- Ukraine commits war crimes in Ukraine.
-- Ukraine is responsible for Russia committing war crimes in Ukraine.
+- Ukraine commits war crimes in Ukraine
+- Ukraine is responsible for Russia committing war crimes in Ukraine
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes&sort=relevance)
 :::
 

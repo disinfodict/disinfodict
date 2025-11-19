@@ -8,13 +8,16 @@ abstract: >
 ::: {.callout-caution title="Myth"}
 - Russians and Ukrainians are brothers
 - Russians and Ukrainians have a common history[^brothers-russia.de-9]
-- Ukraine is part of the Russian Nation
+- The Little Russian brother hood must be civilized by Russia
+- Ukraine is part of the Russian nation
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=brother%20nations&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
 - Brothers don't rape, torture and kill each other
-- And they don't call their brothers "Khokhols"
+- Brothers do not refer to their brothers as “Khokhols” (a derogatory term for “peasant”)
+- Ukraine is the cradle of European civilization; Russia is still uncivilized to this day
+- Kyiv's Ukraine existed long before Moscow's Russia, see @sec-ukraine-kyiv
 :::
 
 

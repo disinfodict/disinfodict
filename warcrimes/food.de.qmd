@@ -6,12 +6,13 @@ abstract: >
 # Kriegsverbrechen – Lebensmittel {#sec-warcrimes-food}
 
 ::: {.callout-caution title="Mythos"}
-{{< var todo >}}
+- EU-Sanktionen untergraben die globale Ernährungssicherheit
+- Ukrainer haben in Mariupol absichtlich 50.000 Tonnen Getreide verbrannt
 [<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(food%7Cgrain)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-{{< var todo >}}
+Russland stiehlt Getreide, verminnt Felder und zerstört Bauernhöfe und Häfen in der Ukraine
 :::
 
 

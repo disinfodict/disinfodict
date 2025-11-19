@@ -12,7 +12,7 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland führt einen hybriden Krieg gegen Europa.
+Russland führt einen hybriden Krieg gegen Europa
 :::
 
 

@@ -1,44 +1,45 @@
 ---
 abstract: > 
-  Help us: explaining why Ukraine belongs to the European family and how the EU benefits from Ukraine
+  Hilf zu schreiben: Warum die Ukraine zur europäischen Familie gehört und wie die EU von der Ukraine profitiert.
 ---
 
-# Family of Ukraine {#sec-brothers-ukraine}
+# Familie der Ukraine {#sec-brothers-ukraine}
 
 ::: {.callout-caution title="Mythos"}
-Ukrainians belong to the Russian family.
+- Die Ukrainer gehören zur russischen Familie
+- Die Europäische Union hat die EU-Mitgliedschaft der Ukraine abgelehnt
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=brothers%20(ukrainians|ukraine)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Ukraine belongs to the European family
-The EU will benefit from Ukraine
+- Die Ukraine gehört zur europäischen Familie
+- Die EU wird von der Ukraine profitieren
 :::
 
-## Melting pot Europe 
+## Schmelztiegel Europa 
 
 {{< var todo >}}
 
-See @sec-minorities-ukraine
+Siehe @sec-minorities-ukraine
 
-## European Culture
-
-{{< var todo >}}
-
-See @sec-culture-ukraine
-
-## Ukrainian Language
+## Europäische Kultur
 
 {{< var todo >}}
 
-See @sec-language-ukraine
+Siehe @sec-culture-ukraine
 
-## Ukrainian People
+## Ukrainische Sprache
 
 {{< var todo >}}
 
-See @sec-democracy-ukraine
+Siehe @sec-language-ukraine
 
-## EU Accession
+## Ukrainisches Volk
+
+{{< var todo >}}
+
+Siehe @sec-democracy-ukraine
+
+## EU-Beitritt
 
 {{< var todo >}}

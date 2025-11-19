@@ -13,10 +13,10 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Truth"}
-Distort, Distract, Dismay
+- Russian propaganda wants to Distort, Distract, Dismay  and Divide
 - Russian propagandists discredit sanctions
-- Russian economy suffers
-- Russia wants end of sanctions 
+- Russian economy suffers from sanctions
+- Russia wants an end of sanctions
 :::
 
 ## Distort, Distract, Dismay

@@ -6,11 +6,11 @@ abstract: >
 # Carpets {#sec-culture-carpets}
 
 ::: {.callout-caution title="Mythos"}
-Ukraine has no traditions of its own.
+Ukraine has no traditions of its own
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Ukraine is a melting pot of traditions that date back to before the time of Moscow.
+Ukraine is a melting pot of traditions that date back to before the time of Moscow
 :::
 
 {{< var todo >}}

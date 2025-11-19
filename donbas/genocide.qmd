@@ -12,6 +12,7 @@ keywords:
 # Donbas genocide? {#sec-donbas-genocide}
 
 ::: {.callout-caution title="Myth"}
+- Donbas is russian territory
 - Ukraine started the war in Donbas
 - Kyiv plans a genocide in Donbas
 - Ukraine shells civilians in Donbas
@@ -20,11 +21,11 @@ keywords:
 :::
 
 ::: {.callout-tip title="Truth"}
-- Donbas is Ukraine
+- Donbas is ukrainian territory
 - Russia started the war against Ukraine in Donbas[^donbas-genocide-27]
-- Ukraine defended its territory
-- Ukraine did not conduct genocide
-- Russia planned and conducts genocide in Ukraine
+- Ukraine defended its territory in Donbas
+- Ukraine did not conduct genocide in Donbas
+- Russia planned and realizes genocide in Donbas
 - Russia shells civilians in Donbas
 - Russia destroys complete cities in Donbas
 :::

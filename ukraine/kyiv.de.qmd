@@ -46,12 +46,19 @@ Wenn man wie Putin das Völkerrecht über Bord wirft und mit historischen Anspr�
 
 Um Kyjiw, das Zentrum der ostslawischen Zivilisation, für Russland zu beanspruchen, hat die russische Propaganda - namentlich der Historiker und Propagandist Tarik Cyril Amar - die folgende absurde Geschichte konstruiert (um uns über die Absurdität zu täuschen, nennt er sie akademisch hochtrabend „Paradoxon“ und versucht und uns mit 500 Seiten Unsinn aus russischen Archiven zu blenden):
 
-::: {.callout-caution title="Propaganda (widerlegt)"}
-- wenn es eine ukrainische Nation gibt, dann nur in der Westukraine, und ihre Hauptstadt ist Lemberg (**die Kyjiwer Rus' war viel größer als die Westukraine und ihre Hauptstadt ist natürlich Kyjiw**)
-- diese West-Ukrainische Nation (man beachte den Widerspruch) hat vor der Sowjetunion nicht existiert (**absolut lächerlich, man muss nur durch das geschichtsträchtige Lviv (deutscher Name Lemberg) spazieren und sich die habsburgische Architektur, die alte armenische Kirche, die jüdische Kultur, etc. etc. ansehen**)
-- das dominierende Merkmal der Westukraine seien "Bandera-Nazis" (**in Wirklichkeit waren es weniger als 3% für rechte Parteien, siehe @sec-nazis-ukraine**)
+::: {.callout-caution title="Mythos"}
+- wenn es eine ukrainische Nation gäbe, dann nur in der Westukraine, und ihre Hauptstadt ist Lemberg
+- diese West-Ukrainische Nation habe vor der Sowjetunion nicht existiert
+- das dominierende Merkmal der Westukraine seien "Bandera-Nazis"
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Lemberg%7CLviv)%20capital&sort=relevance)
 :::
+
+::: {.callout-tip title="Wahrheit"}
+- Die Kyjiwer Rus' war viel größer als die Westukraine, und ihre Hauptstadt ist, natürlich, Kiew
+- Die reiche Geschichte der Ukraine zeigt sich in ihrem Schmelztiegel Lviv (deutscher Name Lemberg) mit seiner Habsburger Architektur, der alten armenischen Kirche und der jüdischen Kultur
+- Weniger als 3% der Ukrainer haben für rechte Parteien gestimmt, von so wenig Nazis würden andere europäische Länder träumen, siehe @sec-nazis-ukraine
+:::
+
 
 Siehe auch @sec-ukraine-nation.
 

@@ -6,14 +6,14 @@ abstract: >
 # Mariupol theater {#sec-denial-mariupol}
 
 ::: {.callout-caution title="Myth"}
-- the bombing was staged
+- The bombing of the theater in Mariupol was staged
 - Russia never attacks civilian targets
-- Ukrainian Nazis did it
+- Ukrainian Nazis bombed the theater in Mariupol
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=mariupol&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-The bombing of the theater was part of the intended Russian genocide against the civilian population of Mariupol.
+The bombing of the theater was part of the intended Russian genocide against the civilian population in Mariupol
 [<br></br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Mariupol_theatre_airstrike)
 :::
 

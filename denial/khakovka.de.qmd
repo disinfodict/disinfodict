@@ -6,7 +6,7 @@ abstract: >
 # Kachowka-Damm {#sec-denial-kakhovka}
 
 ::: {.callout-caution title="Mythos"}
-- Russland warnte die UNO
+- Russland warnte die UNO vor der Zerstörung des Kachowka-Damms
 - Die Ukraine zerstörte den Kachowka-Damm
 - Die Ukraine plant die Zerstörung eines weiteren Damms
 - Westliche Waffen zerstörten den Kachowka-Damm
@@ -14,10 +14,10 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Russland drohte, den Damm zu sprengen
-- Nur Russland hatte die Kontrolle über den Damm
-- Nur jemand, der die Kontrolle über den Damm hatte, konnte ihn sprengen
-- Russland sprengte den Damm
+- Russland drohte, den Kachowka-Damm zu sprengen
+- Nur Russland hatte die Kontrolle über den Kachowka-Damm
+- Nur jemand, der die Kontrolle über den Kachowka-Damm hatte, konnte ihn sprengen
+- Russland sprengte den Kachowka-Damm
 :::
 
 

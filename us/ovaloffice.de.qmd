@@ -6,15 +6,15 @@ abstract: >
 # Oval Office Operation {#sec-us-ovaloffice}
 
 ::: {.callout-caution title="Mythos"}
-Zelenskij hat das Oval Office nicht respektiert und das Seltene-Erden-Abkommen nicht unterzeichnet, weil er keinen Frieden will.
+Zelenskij hat das Oval Office nicht respektiert und das Seltene-Erden-Abkommen nicht unterzeichnet, weil er keinen Frieden will
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Trump%7CVance)%20(Zelenskyj%7CZelenskyi)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Der demokratische Führer Zelenskyj eines Landes, das unter Krieg und Völkermord leidet, wurde von Donald Trump und J.D. Vance respektlos belästigt und weigerte sich mutig, einen Vertrag zu unterzeichnen, mit dem sich amerikanische Oligarchen schutzlos der ukrainischen Rohstoffe bemächtigen wollten.[^us-ovaloffice-1]
+Der demokratische Führer Zelenskyj eines Landes, das unter Krieg und Völkermord leidet, wurde von Donald Trump und J.D. Vance respektlos belästigt und weigerte sich mutig, einen Vertrag zu unterzeichnen, mit dem sich amerikanische Oligarchen schutzlos der ukrainischen Rohstoffe bemächtigen wollten[^us-ovaloffice-1]
 :::
 
-Lasse Sie uns mit zwei Zitaten beginnen:
+Lassen Sie uns mit zwei Zitaten beginnen:
 
 > Ich glaube, was wir heute im Oval Office gesehen haben, war der beschämendste Moment in der amerikanischen Geschichte. Natürlich gab es auch andere beschämende Momente. Wir haben unsere Verbündeten schon früher verraten. Aber noch nie haben wir das getan, während wir sie vor der ganzen Welt schikanierten und demütigten, weil wir dachten, das würde „gutes Fernsehen“ machen."[^us-ovaloffice-9]
 
@@ -79,7 +79,7 @@ All das, was Trump und Vance gesagt haben, hatte Russland schon vorher gesagt. V
 
 Wir haben die komplette 50-minütige Aufzeichnung ausgewertet und finden noch viel schlimmere Versäumnisse (Auszüge, kein vollständiges Transkript).[^us-ovaloffice-1] 
 
-::: {.callout-tip title=„Zusammenfassung“}
+::: {.callout-note title=„Zusammenfassung“}
 Zelenskyj hat es mit einem narzisstischen US-Präsidenten zu tun, der nichts getan hat, um Putin zu stoppen oder an die Sicherheit der Ukraine zu denken. Sein *einziges* Interesse war es, ein Geschäft mit seltenen Erden abzuschließen ... und für sein eigendes Versagen Putin zu stoppen, Zelenskyj verantwortlich zu machen, mittels Vance.
 :::
 

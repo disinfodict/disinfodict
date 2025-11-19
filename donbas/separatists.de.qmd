@@ -13,18 +13,18 @@ keywords:
 
 ::: {.callout-caution title="Mythos"}
 - Pro-russische Kämpfer im Donbas sind „Separatisten“
-- Die sogenannten Separatisten im Donbas sind Autonomisten
-- Die Besatzer sind eine „Volksrepublik“
+- Die Separatisten im Donbas sind Autonomisten
+- Die Besatzer im Donbas sind eine „Volksrepublik“
 - Die Donezker „Volksrepublik“ wurde von den USA anerkannt
 [<br></br>![Suche nach Thema in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=donetsk%20(separatists%7Cseparatist)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Der Aufstand im Donbas richtete sich gegen Moskau (1989)
+- Der Aufstand 1989 im Donbas richtete sich gegen Moskau
 - Moskau erkämpft Kontrolle über den Donbas und verdreht die Geschichte ins Gegenteil
 - Pro-russische Kämpfer im Donbas sind bezahlte, in Moskau ausgebildete Söldner und russische Soldaten
-- Pro-russische Kämpfer sind mit schweren Waffen aus Russland ausgerüstet 
-- Die Besatzer sind eine „Kreml-Republik“ die von niemandem anerkannt wird
+- Pro-russische Kämpfer im Donbas sind mit schweren Waffen aus Russland ausgerüstet 
+- Die Besatzer im Donbas sind eine „Kreml-Republik“ die von niemandem anerkannt wird
 [<br></br>![Link zu Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Volksmiliz_(Russland))
 :::
 
@@ -58,13 +58,18 @@ Dass der Krieg im Donbass von Russland entfesselt wurde zeigt die Chronologie: D
 
 ## Russland marschierte ein
 
-Novoazovsk wurde offen von den russischen Streitkräften erobert, ebenso wie Ilovaisk, wo direkt russische und nicht Separatisten-Truppen stationiert waren. 
+Novoazovsk wurde offen von den russischen Streitkräften erobert, ebenso wie Ilovaisk, wo direkt russische und nicht Separatisten-Truppen stationiert waren. Später wurden dort von ukrainischen Kräften russische Soldaten festgenommen.[^sec-donbas-separatists-9]
+
 Der Flug MH17 der Malaysia Airlines wurde durch eine Rakete abgeschossen, die von einem russischen Buk-Luftabwehrsystem abgefeuert wurde, das von einer russischen Besatzung in die Region Donezk geschickt wurde. Dies wurde vor einem niederländischen Gericht bewiesen, das den [FSB-Offizier Igor Girkin (alias Igor Strelkov)](https://de.wikipedia.org/wiki/Igor_Wsewolodowitsch_Girkin) für schuldig befand, der eine Schlüsselrolle bei der russischen Annexion der Krim und dann im Donbas-Krieg als Organisator militanter Gruppen in der Donezker Volksrepublik (DVR) spielte, siehe @sec-denial-mh17.
 
 
 ## Russland schickte Truppen
 
-Darüber hinaus hat Russland seine Truppen entsandt, und trotz der Phrase „sie sind nicht da“, die bereits ein Mem ist, hat es sich nie die Mühe gemacht, diese Tatsache zu verbergen. Zum Beispiel sagte der mh17-Terrorist Igor Girkin 2014:
+Weil es im Donbas keine nennenswerte Anzahl Separatisten gab, beklagte Igor Girkin, Oberst des russischen FSB und erster „Verteidigungsminister“ der selbsternannten Volksrepublik Donezk:
+
+> dass sich in der gesamten Region nicht einmal 1.000 Ukrainer finden lassen, die bereit sind, für Russland zu kämpfen.[^sec-donbas-separatists-8]
+
+Statt Separatisten hat Moskau russische Truppen entsandt, und trotz der Phrase „sie sind nicht da“, die bereits ein Mem ist, hat es sich nie die Mühe gemacht, diese Tatsache zu verbergen. Zum Beispiel gab der mh17-Terrorist Igor Girkin 2014 zu:
 
 > „Ich war derjenige, der den Auslöser dieses Krieges betätigt hat“, sagte Strelkow in einem am Donnerstag veröffentlichten Interview mit der russischen Zeitung Zavtra, die imperialistische Ansichten vertritt.  
 >  
@@ -108,3 +113,7 @@ aber gleichzeitig auch eine der beliebtesten russischen Manipulationen, denn in 
 [^sec-donbas-separatists-6]: Peter Schille (5.11.1989) »Perestroika - nur noch Gerede«. Der Spiegel.  [https://www.spiegel.de/politik/perestroika-nur-noch-gerede-a-ee5bb2fd-0002-0001-0000-000013496600](https://www.spiegel.de/politik/perestroika-nur-noch-gerede-a-ee5bb2fd-0002-0001-0000-000013496600)
 
 [^sec-donbas-separatists-7]: Gabriele Gorzka (1989) Arbeiterunruhen in der Sowjetunion -und wo stehen die Gewerkschaften? Gewerkschaftliche Monatshefte 40, 12, 797-807.   [https://library.fes.de/gmh/main/pdf-files/gmh/1989/1989-12-a-797.pdf](https://library.fes.de/gmh/main/pdf-files/gmh/1989/1989-12-a-797.pdf)
+
+[^sec-donbas-separatists-8]: Monterey (9. Februar 2025) Twitter thread with Girkin-Video. [https://x.com/Montrey82631182/status/1888652634405376507?s=20](https://x.com/Montrey82631182/status/1888652634405376507?s=20)
+
+[^sec-donbas-separatists-9]: Inform Napalm (03/27/2015) Internet Users Have Identified Russian Soldiers Captured Near Ilovaisk. [https://informnapalm.org/en/internet-users-have-identified-russian-soldiers-captured-near-ilovaisk/](https://informnapalm.org/en/internet-users-have-identified-russian-soldiers-captured-near-ilovaisk/)

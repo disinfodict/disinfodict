@@ -1,31 +1,161 @@
 ---
 abstract: > 
-  Isn't it fun to chase and kill kids with drones and grenades? Russians think so and enjoy human safari in Cherson.
+  Isn't it fun to chase and kill kids with drones and grenades? Russians think so and enjoy human safari in Kherson.
 ---
 
 
 # Warcrimes – safari {#sec-warcrimes-humansafari}
 
 ::: {.callout-caution title="Myth"}
-{{< var todo >}}
+Ukrainian army organizes hunting of pro-Russian civilians in Donbas for rich people
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=safari&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-{{< var todo >}}
+- The Russian army is hunting civilians with drones in cities near the front line
+- Russian drone pilots are training to hunt, injure, and kill civilians
+- Hunting civilians is a war crime, just like the use of anti-personnel mines
+- The Russian manhunt for civilians is ordered from the very top.
+- If the international community continues to tolerate human safari, the world will descend into chaos and destruction 
 :::
 
 
-## A
+## Siege ...
 
-{{< var todo >}}
+Moscow likes to remind people of the suffering of the population of St. Petersburg during the Nazi siege. 
+Moscow likes to keep quiet about the Mongol and Russian destruction of entire cities, see @sec-warcrimes-urbicide, and its own use of hunger as a weapon of war, and worse, to exterminate Ukrainians, see @sec-genocide-history. 
 
-## B
+## ... of Kherson
 
-{{< var todo >}}
+Since 2024 Russia has been besieging the Ukrainian city of Kherson (and other frontline cities) with drones. Fiber-optic-controlled drones that cannot be electronically jammed control all roads to and from Kherson. Kherson is now only accessible by one road. This road is lined with bombed-out cars, trucks, and emergency vehicles. The road is only usable because it is covered with nets, which make it difficult for Russian drones to attack passing vehicles. Nevertheless, every trip is dangerous because Russia is also bombing the road with rockets, cruise missiles, and guided bombs (FABs). The few aid organizations that still dare to enter the city only do so if they have enough fuel to get out again, because supplies in the city are unreliable.[^warcrimes-humansafari-5] 
 
-## C
 
-{{< var todo >}}
+## Bombing terror
 
+In November 2025, 77,000 people still live in Kherson, more than a year ago, because Russia has made the surrounding villages completely uninhabitable. The civilian population in Kherson not only has to contend with supply difficulties, but the people are also exposed to daily terror. Russia is bombing the city with artillery and glide bombs, causing devastating damage.  
+
+
+## Human Safari
+
+Since May 2024, Russia has invented a new war crime: [Human Safari](https://en.wikipedia.org/wiki/Human_safari_(terror_campaign)), the targeted hunting of civilians with drones. Russia attacks pedestrians, cyclists, motorists, children on their way to school, babies in their cradles through open windows. The result: more and more dead and injured civilians, fear and terror, the city becoming increasingly uninhabitable. We are witnessing a ruthless urbicide in real time. The NGO Truth Hounds has investigated Human Safari systematically, some important citations of their report follow: 
+
+> For example, in March 2025 alone, the city of Kherson was undergoing about 600-700 drone attacks per week, and between March and May of the same year, at least 313 civilians, 135 vehicles (including emergency services vehicles), and 106 residential buildings in the city were affected by drone attacks.
+
+> The study has found that Russian attacks against civilians are systematic and have become a consistent element of Russian forces’ tactics in this territory. The pattern of attacks, including regular attacks against civilians, strikes on civilian vehicles, first responders, medics, and volunteers, indicates that the Russian military disregards the principle of distinction and, in many cases, deliberately targets civilians and civilian facilities.
+
+> Russian sources have repeatedly emphasized that any transport and individuals spotted by a drone in the red zone will be attacked. This insistence that any movement is perceived as a legitimate target, essentially justifies systematic violations of international humanitarian law.
+
+> At the same time, public rhetoric and the inaction of the Russian command indicate that not only the direct perpetrators, but also their commanders should be brought to justice.
+
+> Studying these practices could provide useful guidance for communities that are just beginning to face a similar threat in other armed conflicts where drone use is likely to become more widespread.
+
+> The increasing use of short-range drones against civilians requires an immediate response from the global community not only to IHL violations connected with the use of drones against civilians in Ukraine, but also to the very need to develop a technological, regulatory, and security response to the challenges that arise from the transformation of armed conflicts, where unmanned aerial systems have a growing impact on the nature of warfare and threat to the civilian population.
+
+You are encouraged to read the complete report of Truth Hounds, particularly the recommendations at the end.[^warcrimes-humansafari-15]
+
+The documentary film *Kherson: Human Safari* is also well worth watching and freely available:[^warcrimes-humansafari-1]
+
+[![Zarina Zabrisky (2025) Kherson: Human Safari. Documentary. Screenshot of Trailer](warcrimes.humansafari.KhersonHumanSafariTrailerScreenshot.jpg)](https://khersonhumansafari.com)
+
+
+## Hunting methods
+
+No one can walk safely on the streets of Kherson anymore. In addition to the constant risk of the building you are in being hit by a grenade or completely destroyed by a bomb, every step you take on the street is life-threatening. First, you look up at the sky: are there any drones? But looking at the sky is not enough. Russia has dropped small anti-personnel mines from drones among the autumn leaves on the streets, which can cost you a leg or your life. The use of anti-personnel mines against civilians is prohibited under international law and is a war crime.  
+
+Russia is testing a whole range of new methods of terror on civilians in the city:
+
+- Direct attacks on civilians with FPV kamikaze drones
+- Reuse of drones by dropping
+- - Explosive grenades
+- - Fragmentation grenades
+- - Anti-personnel mines[^warcrimes-humansafari-7] [^warcrimes-humansafari-9]
+- - Phosphorus or napalm[^warcrimes-humansafari-8]
+- Combined dropping
+- - of grenades to blow holes in roofs 
+- - and then setting the house on fire with dropped phosphorus
+- Double-tap[^warcrimes-humansafari-10]
+- - first attack on civilians
+- - then attack on rescue workers rushing to the scene
+
+
+Human Rights Watch has documented some of these hunting methods in detail:[^warcrimes-humansafari-2]  
+
+[![Listen, Run, Hide. Screenshot from Human Rights Watch](warcrimes.humansafari.hrw-listen-run-hide-screenshot.jpg)](https://www.hrw.org/feature/2025/06/03/listen-run-hide/how-russia-uses-quadcopter-drones-hunt-kill-kherson)
+
+
+## Hunting goals 
+
+Russia is pursuing several goals simultaneously with its drone terror:[^warcrimes-humansafari-3]
+
+- Sadistic manhunt for fun[^warcrimes-humansafari-6]
+- Training drone pilots on civilians without exposing themselves to the risk of military retaliation
+- Destroying urban infrastructure (water, electricity, hospitals, schools, shops)
+- Genocidal extermination of the population near the front lines
+- Spreading fear and terror
+- Triggering waves of refugees
+
+
+## Clear war crime
+
+The United Nations Commission of Inquiry rules in May 2025:
+
+> the Independent International Commission of Inquiry on Ukraine concludes that Russian armed forces have committed the crimes against humanity of murder and the war crimes of attacking civilians, through a months-long pattern of drone attacks targeting civilians on the right bank of the Dnipro River in Kherson Province, in Ukraine. It also found that these acts were committed with the primary purpose to spread terror among the civilian population, in violation of international humanitarian law.[^warcrimes-humansafari-4]
+
+As usual, Russia accuses the other side of its own crimes, but every Russian accusation is a confession:
+
+> The Commission also examined allegations by Russian authorities of drone attacks by Ukrainian armed forces against civilian targets in Kherson Province. However, it was unable to corroborate them because of lack of cooperation by Russian authorities.
+
+> The Independent International Commission of Inquiry on Ukraine spent months collecting evidence. They gathered roughly 500 videos from the affected regions, verified 247 of them, and interviewed 226 survivors and witnesses.[^warcrimes-humansafari-11]
+
+The United Nations Commission of Inquiry finally ruled in October 2025:
+
+> Russian authorities committed crimes against humanity targeting civilian population through drone attacks as well as war crimes of forcible transfer and deportation of civilians[^warcrimes-humansafari-13]
+
+> Erik Møse, Chair of the UN Commission of Inquiry on Ukraine, which has declared Russia’s drone terror a crime against humanity, explains how investigators traced a direct chain of command—from drone operators on the Dnipro’s left bank to the Kremlin itself.[^warcrimes-humansafari-12] 
+
+
+## Further reading
+
+Ukraїner has psublished an excellent documentation on Kherson, three years after liberation.[^warcrimes-humansafari-14]
+
+For more articles related to human safari in Kherson see from [Zarina Zabrisky](https://en.wikipedia.org/wiki/Zarina_Zabrisky) at [Euromaidan Press](https://euromaidanpress.com/author/zarinazabrisky/?post-all=1) and at [Community Alliance](https://fresnoalliance.com/author/zarina-zabrisky/). 
+
+A regularly updated list of publications on Human Safari in Kherson can be found at [Linktree](https://linktr.ee/Kherson_Human_Safari). 
+
+
+
+
+
+
+[^warcrimes-humansafari-1]: Zarina Zabrisky (25. Juni 2025) Kherson: Human Safari. Documentary. [https://khersonhumansafari.com/](https://khersonhumansafari.com/)
+
+[^warcrimes-humansafari-2]: Human Rights Watch (June 3, 2025) Listen, Run, Hide. How Russia uses quadcopter drones hunt kill Kherson [https://www.hrw.org/feature/2025/06/03/listen-run-hide/how-russia-uses-quadcopter-drones-hunt-kill-kherson](https://www.hrw.org/feature/2025/06/03/listen-run-hide/how-russia-uses-quadcopter-drones-hunt-kill-kherson)
+
+[^warcrimes-humansafari-3]: Human Rights Watch (June 3, 2025) Hunted From Above Russia’s Use of Drones to Attack Civilians in Kherson, Ukraine. [https://www.hrw.org/report/2025/06/03/hunted-from-above/russias-use-of-drones-to-attack-civilians-in-kherson-ukraine](https://www.hrw.org/report/2025/06/03/hunted-from-above/russias-use-of-drones-to-attack-civilians-in-kherson-ukraine)
+
+[^warcrimes-humansafari-4]: United Nations Human Rights office of the High Commissioner (28 May 2025) Independent International Commission of Inquiry on Ukraine, Human Rights Council, Fifty-ninth session. [https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/coiukraine/a-hrc-59-crp2-en.pdf](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/coiukraine/a-hrc-59-crp2-en.pdf)
+
+[^warcrimes-humansafari-5]: Zarina Zabrisky (23/09/2025) Highway of fire: Russian drones turn Kherson’s lifeline road into a death trap. Russia’s drone siege turns every car ride into a death lottery. [https://euromaidanpress.com/2025/09/23/we-pity-no-one-russian-drone-pilots-terrorize-kherson-drivers-on-death-highway/](https://euromaidanpress.com/2025/09/23/we-pity-no-one-russian-drone-pilots-terrorize-kherson-drivers-on-death-highway/)
+
+[^warcrimes-humansafari-6]: Zarina Zabrisky (28/05/2025). The UN confirmed what I saw in Kherson: Russia is hunting civilians for sport. What I witnessed wasn’t random violence—it was systematic hunting. [https://euromaidanpress.com/2025/05/28/i-walked-the-streets-where-russias-drones-hunt-civilians-the-un-just-confirmed-its-a-war-crime/](https://euromaidanpress.com/2025/05/28/i-walked-the-streets-where-russias-drones-hunt-civilians-the-un-just-confirmed-its-a-war-crime/)
+
+[^warcrimes-humansafari-7]: Zarina Zabrisky (13/08/2024). Russian drones now drop anti-personnel landmines on civilians in Kherson
+Russia’s drone hunt for civilians in Kherson has intensified: now, the remaining residents of the city can have their legs blown off on a Lepestok. [https://euromaidanpress.com/2025/05/28/i-walked-the-streets-where-russias-drones-hunt-civilians-the-un-just-confirmed-its-a-war-crime/](https://euromaidanpress.com/2025/05/28/i-walked-the-streets-where-russias-drones-hunt-civilians-the-un-just-confirmed-its-a-war-crime/)
+
+[^warcrimes-humansafari-8]: Zarina Zabrisky (October 2, 2024) ‘Human safari’ – Kherson civilians hunted down by Russian drones. [https://kyivindependent.com/human-safari-kherson-civilians-hunted-down-by-russian-drones/](https://kyivindependent.com/human-safari-kherson-civilians-hunted-down-by-russian-drones/)
+
+[^warcrimes-humansafari-9]: Zarina Zabrisky (30/06/2025) “Every object is a maybe.” Russia’s cheapest traps are killing Ukraine’s scarce bomb experts. “Could be any of this,” the sapper said, pointing to my phone and a Sprite can. In Kherson, he lost his foot finding out.  [https://euromaidanpress.com/2025/06/30/russian-traps-kill-ukraine-bomb-experts/](https://euromaidanpress.com/2025/06/30/russian-traps-kill-ukraine-bomb-experts/)
+
+[^warcrimes-humansafari-10]: Zarina Zabrisky (27/03/2025) “First they shell, then they hunt”: Russia’s savage new civilian terror strategy debuts in Kherson Ambulances, first responders, and civilians became prey in Russia’s calculated new warfare technique that turned Kherson into a killing zone on Thursday. [https://euromaidanpress.com/2025/03/27/first-they-shell-then-they-hunt-dispatches-from-todays-russian-attack-on-kherson/](https://euromaidanpress.com/2025/03/27/first-they-shell-then-they-hunt-dispatches-from-todays-russian-attack-on-kherson/)
+
+[^warcrimes-humansafari-11]: Maxim Volovich (28/10/2025) Russian drones hunted Ukrainian civilians with cameras, then struck. UN now calls it a crime against humanity. Civilians hunted by coordinated drone attacks across 300km of the Ukrainian-held territory.  [https://euromaidanpress.com/2025/10/28/un-report-russia-drones-hunted-ukrainian-civilians-crimes-against-humanity/](https://euromaidanpress.com/2025/10/28/un-report-russia-drones-hunted-ukrainian-civilians-crimes-against-humanity/)
+
+[^warcrimes-humansafari-12]: Zarina Zabrisky (11/11/2025) UN traces Kherson’s “human safari” up the chain of command — to Putin himself
+Erik Møse, Chair of the UN Commission of Inquiry on Ukraine, which has declared Russia’s drone terror a crime against humanity, explains how investigators traced a direct chain of command—from drone operators on the Dnipro’s left bank to the Kremlin itself. [https://euromaidanpress.com/2025/11/11/three-years-after-liberation-un-traces-khersons-human-safari-to-putin/](https://euromaidanpress.com/2025/11/11/three-years-after-liberation-un-traces-khersons-human-safari-to-putin/)
+
+[^warcrimes-humansafari-13]: United Nations Human Rights office of the High Commissioner (21 October 2025) Independent International Commission of Inquiry on Ukraine, Human Rights Council, Fifty-ninth session. [https://www.ohchr.org/en/hr-bodies/hrc/iicihr-ukraine/index](https://www.ohchr.org/en/hr-bodies/hrc/iicihr-ukraine/index)
+
+[^warcrimes-humansafari-14]: Ukraїner (November 10, 2025) Frontline towns - Kherson: petals of roses and mines. To the third anniversary of liberation. [https://www.ukrainer.net/en/pryfrontovi-mista-kherson/](https://www.ukrainer.net/en/pryfrontovi-mista-kherson/)
+
+[^warcrimes-humansafari-15]: Truth Hounds (November 17 2025) Killzone: How Russian Drones Are Devastating the River Dnipro’s Right Bank. [https://truth-hounds.org/en/cases/killzone-how-russian-drones-are-devastating-the-river-dnipros-right-bank/](https://truth-hounds.org/en/cases/killzone-how-russian-drones-are-devastating-the-river-dnipros-right-bank/)
 

@@ -11,7 +11,7 @@ Throughout its history, Russia has never attacked anyone
 :::
 
 ::: {.callout-tip title="Truth"}
-Russia expanded its empire by attacking and russifying its neighbors with ruthless methods that they adopted from the Mongols.[![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%96%D0%BC%D0%BF%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%96%D0%B7%D0%BC)
+Russia expanded its empire by attacking and russifying its neighbors with ruthless methods that they adopted from the Mongols [![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%96%D0%BC%D0%BF%D0%B5%D1%80%D1%96%D0%B0%D0%BB%D1%96%D0%B7%D0%BC)
 :::
 
 This chapter is about the history of the muscovite empire, which only late in history renamed itself to the "russian" empire, in order to to lay claim to Kyiv Rus', see @sec-ukraine-kyiv. For the future plans of of the russian empire see @sec-russia-empire.

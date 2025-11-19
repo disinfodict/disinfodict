@@ -1,29 +1,62 @@
 ---
 abstract: > 
-  Helfen Sie uns beim Schreiben: Wer hat Deutschland vom Hilter-Faschismus befreit? Wussten Sie, dass die USA die Sowjetunion mit Waffen und sogar Brot versorgt haben? Lesen Sie weiter.
+  Wer hat Deutschland vom Hilter-Faschismus befreit? Wussten Sie, dass die USA die Sowjetunion mit Waffen und sogar Brot versorgt haben? Lesen Sie weiter.
 ---
 
-# WWII Befreiung {#sec-ww2-liberation}
+# WW2 Befreiung {#sec-wwii-liberation}
 
 ::: {.callout-caution title="Mythos"}
-Russland hat Deutschland von den Nazis befreit.
+Russland hat Deutschland von den Nazis befreit
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=WWII%20(liberation%7Cliberate)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Die Alliierten befreiten Deutschland vom Faschismus, die Sowjetunion erhielt Waffen aus den USA, viele ukrainische Soldaten starben und die UdSSR eroberte Mitteleuropa mit dem Stalinismus.
+- Die Alliierten befreiten Deutschland vom Faschismus
+- Die Sowjetunion erhielt massiv Waffen, Lastwagen und Nahrungsmittel aus den USA
+- Vor allem viele ukrainische Soldaten gaben ihr Leben in der Roten Armee
+- Die Sowjetunion (Russland) besetzte Ostdeutschland und verwandelte es in eine kommunistische Diktatur.
 :::
 
-## A
+## Kriegseintritt der USA
 
-{{< var todo >}}
+Der durch den Angriff von Pearl Harbor ausgelöste Kriegseintritt der USA brachte die Wende im zweiten Weltkrieg.[^wwii-liberation-1]
 
-## B
 
-{{< var todo >}}
+## Waffenlieferungen
 
-## C
+Das [Leih- und Pachtgesetz ("Lend-Lease Act")](https://de.wikipedia.org/wiki/Leih-_und_Pachtgesetz) ermöglichte den Vereinigten Staaten, kriegswichtiges Material wie Waffen, Munition, Fahrzeuge, Treibstoffe, Nahrungsmittel, Flugzeuge etc. an jede Nation zu liefern, wenn der Präsident diese als lebenswichtig für die Sicherheit der Vereinigten Staaten einstufte. Insbesondere die Briten und die Sowjetunion wurden massiv mit Waffen und Hilfgütern versorgt. Die Sowjetunion erhielt:
 
-{{< var todo >}}
+- 302 U-Boot-Jäger und Torpedo-Boote
+- 5.762 Flugabwehrgeschütze
+- 11.432 Panzer und gepanzerte Fahrzeuge
+- 16.430 Flugzeuge und Flugzeugmotoren
+- 277.866 Machinenpistolen, und -gewehre
+- 375.585 Feldtelefone und Funkgeräte
+- 433.547 Lastwagen und Zugmaschinen
+- 15,4 Millionen Paar Stiefel
 
-{{ reserved }}
+Der größte Teil der Lieferung kam aber nicht in Form von Waffen, sondern in Form von Nahrungsmitteln, Rohstoffen, Maschinen und Industrieausrüstungen.
+
+
+## Beitrag der Ukrainer
+
+Etwa sieben Millionen Ukrainer kämpften im Zweiten Weltkrieg in der Roten Armee. Mindestens 9.5 Millionen Ukrainer starben im Zweiten Weltkrieg, davon 3.5 Millionen Soldaten und 5.5 Millionen Zivilisten, darunter etwa 1.5 Millionen jüdische Opfer des Holocaust.[^wwii-liberation-3] [^wwii-liberation-4] [^wwii-liberation-5] 
+
+In der [Ukrainische Aufständische Armee (UPA)](https://de.wikipedia.org/wiki/Ukrainische_Aufst%C3%A4ndische_Armee), dem militärische Flügel der Organisation Ukrainischer Nationalisten (OUN), kämpften einige Zehntausend Ukrainer. In der Hoffnung auf die Gründung eines Ukrainischen Staates kollaborierte die UPA zeitweise mit den Deutschen, wandte sich später gegen die Wehrmacht. Die UPA kämpfte auch gegen Sowjetisch-kommunistische Partisanen und gegen die Polnische Heimatarmee, und verübte das Massaker von Wolhynien und Ostgalizien, bei dem annähernd 100.000 polnische Zivilisten ermordet wurden. Nach dem Krieg setzte die UPA ihren Kampf gegen die Sowjetunion fort. Von 1945 bis 1946 gelang es der UPA, die Hälfte der Ukraine unter ihre Kontrolle zu bringen. 1954 wurde die UPA von Truppen der Sowjetarmee und des Ministeriums für Staatssicherheit endgültig zerschlagen.
+
+
+## Kommunistische Diktatur
+
+Die Sowjetunion befreite Deutschland nicht, sondern, nachdem die Rote Armee von westlichen Truppen gestoppt worden war, errichtete eine kommunistische Diktatur, die [DDR](https://de.wikipedia.org/wiki/Deutsche_Demokratische_Republik), in der Sowjetisch kontrollierten "Zone". Nachdem immer mehr Menschen versuchten, vor der russisch-sowjetischen Herrschaft aus der DDR zufliehen, bauten die Machthaber die Mauer und sperrten das ost-deutsche Volk ein.[^wwii-liberation-2]. Nach Jahrzehnten von Planwirtschaft, [Stasi](https://de.wikipedia.org/wiki/Ministerium_f%C3%BCr_Staatssicherheit)-Bespitzelung, Kommunistischem Terror und etlichen bei Fluchversuchen ermordeten "Mauertoten", zerbrach die DDR der wirtschaftlichen Ineffizienz des Kommunismus. Am 3. Oktober 1990 ging die DDR in der Bundesrepublik Deutschland auf. 
+
+
+
+[^wwii-liberation-1]: Dr. Daniel Niemetz  (02. Februar 2022) Warum in Stalingrad nicht der Zweite Weltkrieg entschieden wurde. MDR Geschichte. [https://www.mdr.de/geschichte/ns-zeit/zweiter-weltkrieg/verlauf/blitzkrieg-schlacht-stalingrad-moskau-kursk-wehrmacht-sowjetunion100.html](https://www.mdr.de/geschichte/ns-zeit/zweiter-weltkrieg/verlauf/blitzkrieg-schlacht-stalingrad-moskau-kursk-wehrmacht-sowjetunion100.html)
+
+[^wwii-liberation-2]: Bundestiftung Aufarbeitung (August 2020) Mauerbau am 13. August 1961. [https://www.bundesstiftung-aufarbeitung.de/de/recherche/dossiers/mauerbau-am-13-august-1961](https://www.bundesstiftung-aufarbeitung.de/de/recherche/dossiers/mauerbau-am-13-august-1961)
+
+[^wwii-liberation-3]: Oleksandra Bienert (8. Mai 2020) Auf den Spuren ukrainischer Rotarmisten. Ukraine verstehen. [https://ukraineverstehen.de/bienert-ukrainer-in-der-roten-armee/](https://ukraineverstehen.de/bienert-ukrainer-in-der-roten-armee/)
+
+[^wwii-liberation-4]: Ukraїner International (May 4, 2024) Without Ukraine, there would have been no victory. What exactly is Russia’s lie regarding World War II? [https://www.ukrainer.net/en/world-war-ii/](https://www.ukrainer.net/en/world-war-ii/)
+
+[^wwii-liberation-5]: Petro Bodnar, Pavlo Solod'ko, Inna Gadzynska, Yuriy Shapoval, Yevhenia Drozdova, Yevhen Synchuk, Nadja Kelm (2021-06-21) Besatzung: Verluste der Ukraine im Zweiten Weltkrieg angerichtet durch Kommunisten und Nationalsozialisten. [https://texty.org.ua/projects/103857/okupaciya_de/](https://texty.org.ua/projects/103857/okupaciya_de/)

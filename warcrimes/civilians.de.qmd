@@ -6,12 +6,12 @@ abstract: >
 # Kriegsverbrechen – Zivilisten {#sec-warcrimes-civilians}
 
 ::: {.callout-caution title="Mythos"}
-Russland schützt die Zivilbevölkerung.
+Russland schützt die Zivilbevölkerung
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(crimes%7Ccriminals)%20(civilian%7Ccivilians)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland begeht vorsätzlich Kriegsverbrechen, indem es Zivilisten angreift - auch mit Streubomben. 
+Russland begeht vorsätzlich Kriegsverbrechen, indem es Zivilisten angreift - auch mit Streubomben
 :::
 
 Ohne jegliche Beachtung der Norm, dass *“die Zivilbevölkerung und einzelne Zivilpersonen allgemeinen Schutz vor den Gefahren militärischer Operationen genießen sollen”*,[^warcrimes-civilians.de-1] hat das russische Militär schreckliche Verbrechen gegen Zivilisten begangen. 

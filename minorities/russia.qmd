@@ -12,7 +12,7 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Truth"}
-- Russia kills not only minorities but all Ukrainians. 
+- Russia kills all Ukrainians, whether minority or not
 - Russia discriminates against women, sexual minorities and prefers to send ethnic minorities as cannon fodder to the front line
 :::
 

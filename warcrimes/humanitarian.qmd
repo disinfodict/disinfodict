@@ -11,7 +11,8 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Truth"}
-{{< var todo >}}
+- Russia targets firefighters, doctors, paramedics, hospitals
+- Russia performs "double tap" strikes: first they bomb, and when emergency personnel arrives, they bomb again
 :::
 
 

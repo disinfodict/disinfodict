@@ -12,13 +12,13 @@ abstract: >
 \index{tatars} 
 
 ::: {.callout-caution title="Myth"}
-Crimea historically belongs to Russia. 
+Crimea historically belongs to Russia
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Crimea+history&disinfo_language%5B%5D=English&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-- Crimea has tatarian and ukrainian roots.^[Aliev:2023]
-- The russian empire tried multiple times to invade and russify Crimea against the will of Crimeans.
+- Crimea has tatarian and ukrainian roots^[Aliev:2023]
+- The russian empire tried multiple times to invade and russify Crimea against the will of Crimeans
 :::
 
 For the annexation of Crimea see @sec-crimea-annexation.

@@ -10,7 +10,7 @@ Ukraine hat keine eigenen Traditionen
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Die Ukraine ist ein Schmelztiegel von Traditionen, die vor die Zeit Moskaus zurückreichen.
+Die Ukraine ist ein Schmelztiegel von Traditionen, die vor die Zeit Moskaus zurückreichen
 :::
 
 {{< var todo >}}

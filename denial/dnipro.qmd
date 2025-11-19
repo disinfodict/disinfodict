@@ -7,16 +7,15 @@ abstract: >
 
 
 ::: {.callout-caution title="Myth"}
-- it was staged
-- it didn't happen
-- it wasn't us (Russia)
-- it was Ukraine
-- they deserved it
+- The Dnipro missile strike was staged
+- The Dnipro missile strike never happened
+- The Dnipro missile strike wasn't done by Russia
+- The missile attack on Dnipro was justified
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Bucha&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-Russsia committed severe atrocities
+Russia committed severe atrocities with the Dnipro missile strike
 :::
 
 

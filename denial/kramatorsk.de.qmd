@@ -6,15 +6,15 @@ abstract: >
 # Kramatorsker Bahnhof {#sec-denial-kramatorsk}
 
 ::: {.callout-caution title="Mythos"}
-- Die Bombardierung des Bahnhofs hat nie stattgefunden.
-- Die getöteten Zivilisten waren Soldaten.
-- Das ukrainische Militär hat es getan.
-- Ukrainische Faschisten haben es getan.
+- Die Bombardierung des Kramatorsker Bahnhof hat nie stattgefunden
+- Die getöteten Zivilisten am Kramatorsker Bahnhof waren Soldaten
+- Das ukrainische Militär hat den Kramatorsker Bahnhof bombardiert
+- Ukrainische Faschisten haben den Kramatorsker Bahnhof bombardiert
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Kramatorsk&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland bombardierte an diesem Tag mehrere Bahnhöfe.
+Russland hat am Tag, an dem es Zivilisten am Bahnhof von Kramatorsk getötet hat, mehrere Bahnhöfe bombardiert
 :::
 
 \index{Cluster-Munition}

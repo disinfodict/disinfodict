@@ -6,15 +6,15 @@ abstract: >
 # Azerbaijan Airlines {#sec-denial-azerbaijan}
 
 ::: {.callout-caution title="Myth"}
-- it was birds
-- it didn't happen
-- it wasn't us (Russia)
-- it was Ukraine
-- sorry, that's war
+- Downing of Azerbaijan Airlines flight 8243 was caused by birds
+- Downing of Azerbaijan Airlines flight 8243 didn't happen
+- Downing of Azerbaijan Airlines flight 8243 wasn't russian fault
+- Downing of Azerbaijan Airlines flight 8243 was Ukraine's fault
+- Downing of Azerbaijan Airlines flight 8243: shit happens in war
 :::
 
 ::: {.callout-tip title="Truth"}
-Russsia shot the airplane then denyied emergency landing
+Russsia shot Azerbaijan Airlines flight 8243 then denied emergency landing
 [<br></br>![Link to Wikipedia: Azerbaijan Airlines Flight 8243](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Azerbaijan_Airlines_Flight_8243)
 :::
 

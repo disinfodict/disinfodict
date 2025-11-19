@@ -15,7 +15,7 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Russland diffamiert Nationalisten als Nazis: Rechtsextreme Parteien spielen in der Ukraine keine Rolle
+- Russland diffamiert Nationalisten als Nazis: rechtsextreme Parteien spielen in der Ukraine keine Rolle
 - Deutschland schuldet vor allem der Ukraine den Kampf gegen Völkermord
 :::
 

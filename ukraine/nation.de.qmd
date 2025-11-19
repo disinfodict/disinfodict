@@ -19,7 +19,7 @@ abstract: >
 
 ::: {.callout-tip title="Wahrheit"}
 - Die Ukraine ist das Zentrum der ostslawischen Zivilisation
-- Die ukrainische Hauptstadt ist Kyjiw (und sie ist älter als Moskau)
+- Die ukrainische Hauptstadt ist Kyjiw und sie ist älter als Moskau
 - Die Ukraine ist EINE Nation^[@Christ:2023b]
 - Russland hat seit Jahrhunderten versucht, die Ukraine zu übernehmen oder zu zerstören
 - Die ukrainischen Bürger kämpfen für die Werte ihrer Nation - die Russen haben keine Werte, für die sie kämpfen können

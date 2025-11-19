@@ -6,12 +6,11 @@ abstract: >
 # Leugnung Einleitung {#sec-denial-intro}
 
 ::: {.callout-caution title="Mythos"}
-Russland:  
-- es war inszeniert
-- es hat nicht stattgefunden
-- es waren nicht wir
-- es war die Ukraine
-- sie haben es verdient
+- Diese Gräueltat wurde inszeniert
+- Diese Gräueltat hat nie stattgefunden
+- Diese Gräueltat wurde nicht von Russland begangen
+- Diese Gräueltat wurde von der Ukraine begangen
+- Die Opfer verdienten diese Gräueltat
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(alleged%7Cdenied%7Cconfessed)&sort=relevance)
 :::
 

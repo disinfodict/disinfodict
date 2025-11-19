@@ -11,7 +11,7 @@ Ukraine hat keine eigene Kunst
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Ukraine hat eine vielfältige farbenfrohe bildene Kunst. 
+Ukraine hat eine vielfältige farbenfrohe bildene Kunst 
 :::
 
 {{< var todo >}}

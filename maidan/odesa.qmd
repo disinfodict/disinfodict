@@ -6,12 +6,12 @@ abstract: >
 # Maidan Odesa {#sec-maidan-odesa}
 
 ::: {.callout-caution title="Myth"}
-In Odesa Ukrainian authorities burned peaceful demonstrators
+During Maidan in Odesa, Ukrainian authorities burned peaceful demonstrators
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=maidan%20ukraine%20(odesa%7Codessa)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-300 well-equipped pro-Russian supporters attacked a march of around 2,000 Ukrainian patriots in Odesa that day and were probably unlucky.
+During Maidan in Odesa, 300 well-equipped pro-Russian supporters attacked a march of around 2,000 Ukrainian patriots and were apparently unlucky
 :::
 
 

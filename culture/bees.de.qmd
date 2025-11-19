@@ -6,12 +6,12 @@ abstract: >
 # Bienenzucht {#sec-culture-bees}
 
 ::: {.callout-caution title="Mythos"}
-Die einzigen Dinge, die die Ukraine nach Europa exportieren kann, sind Nüsse, Stroh und Wolle.
+Die einzigen Dinge, die die Ukraine nach Europa exportieren kann, sind Nüsse, Stroh und Wolle
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/report/the-only-things-that-ukraine-can-export-to-europe-are/)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Die Ukraine exportiert eine Menge, darunter auch Honig. Der Ukraine verdanken wir die moderne Imkerei.
+Die Ukraine exportiert eine Menge, darunter auch Honig: der Ukraine verdanken wir die moderne Imkerei
 :::
 
 

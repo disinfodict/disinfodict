@@ -6,15 +6,19 @@ abstract: >
 # Kriegsverbrechen – Natur {#sec-warcrimes-nature}
 
 ::: {.callout-caution title="Mythos"}
-{{< var todo >}}
+- Der Einsatz von Geschossen mit abgereichertem Uran ist ein Verbrechen gegen die Menschlichkeit
+- Die UNO bestreitet den Wasser-Ökozid der Krim durch die Ukraine
+- Die russische Armee greift ausschließlich militärische Infrastruktur in der Ukraine an
 [<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20crimes%20(nature%7Cecocide%7Cmines%7Cpoisened)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-{{< var todo >}}
+- Die vom britischen Verteidigungsministerium an die Ukraine gelieferten Geschosse mit abgereichertem Uran sind durch kein internationales Abkommen verboten
+- Nach internationalem Recht ist Russland als Besatzungsmacht verpflichtet, die besetzten Gebiete mit allem Notwendigen zu versorgen
+- Russland greift Zivilisten, Bauernhöfe, Felder, Wälder und Naturschutzgebiete an: Russland begeht Völkermord und Ökozid
 :::
 
-Siehe auch @sec-warcrimes-sexual.
+Siehe auch @sec-warcrimes-civilians, @sec-warcrimes-food 
 
 ## A
 
@@ -29,4 +33,4 @@ Siehe auch @sec-warcrimes-sexual.
 {{< var todo >}}
 
 
-
+https://emergencemagazine.org/essay/the-fallout/

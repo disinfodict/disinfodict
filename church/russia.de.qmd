@@ -6,12 +6,12 @@ abstract: >
 # Kirche in Russland? {#sec-church-russia}
 
 ::: {.callout-caution title="Mythos"}
-Die russisch-orthodoxe Kirche verteidigt traditionelle Familienwerte.
+Die russisch-orthodoxe Kirche verteidigt traditionelle Familienwerte
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=church%20russia&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Die russisch-orthodoxe Kirche ist eine KGB/FSB-Organisation, die dabei hilft, Russen zu unterdrücken und Krieg gegen ukrainische Christen zu führen.
+Die russisch-orthodoxe Kirche ist eine KGB/FSB-Organisation, die dabei hilft, Russen zu unterdrücken und Krieg gegen ukrainische Christen zu führen
 :::
 
 Siehe auch das Kapitel über russische Werte @sec-russia-values.

@@ -6,16 +6,15 @@ abstract: >
 # Azerbaijan Airlines {#sec-denial-azerbaijan}
 
 ::: {.callout-caution title="Mythos"}
-Russland:  
-- es waren Vögel
-- es ist nicht passiert
-- es waren nicht wir
-- es war die Ukraine
-- so ist Krieg halt
+- Der Absturz des Fluges 8243 der Azerbaijan Airlines wurde durch Vögel verursacht
+- Der Absturz des Fluges 8243 der Azerbaijan Airlines ist nicht passiert
+- Der Absturz des Fluges 8243 der Azerbaijan Airlines war nicht die Schuld Russlands
+- Der Absturz des Fluges 8243 der Azerbaijan Airlines war die Schuld der Ukraine
+- Absturz des Fluges 8243 der Azerbaijan Airlines: Im Krieg passieren solche Dinge nun einmal
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland schoss auf das Flugzeug und verweigerte die Notlandung
+Russland schoss auf Flug 8243 der Azerbaijan Airlines und verweigerte die Notlandung
 [<br></br>![Link zu Wikipedia: Azerbaijan Airlines Flug 8243](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Azerbaijan-Airlines-Flug_8243)
 :::
 

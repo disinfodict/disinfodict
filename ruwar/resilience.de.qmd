@@ -12,8 +12,8 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Die ukrainische Gesellschaft ist voll engagiert, um sich gegen den russischen Vernichtungskrieg zu wehren. 
-- Die Ukraine zahlt den höchstmöglichen Preis: viele ukrainische Leben.
+- Die ukrainische Gesellschaft ist voll engagiert, um sich gegen den russischen Vernichtungskrieg zu wehren
+- Die Ukraine zahlt den höchstmöglichen Preis: viele ukrainische Leben
 - Die Ukraine verteidigt sich effektiv und baut eine starke Rüstungsindustrie auf
 :::
 

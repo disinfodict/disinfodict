@@ -23,8 +23,8 @@ keywords:
 :::
 
 ::: {.callout-tip title="Truth"}
-- In all regions of Ukraine a majority voted for independence 
-- Until russian invasion, Ukraine has had free elections and peaceful change of governments
+- In all regions of Ukraine a majority voted for independence
+- Until the russian invasion, Ukraine has had free elections and peaceful change of governments
 - Ukrainians want full democracy as a EU member state
 :::
 

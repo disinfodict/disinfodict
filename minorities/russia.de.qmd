@@ -12,8 +12,8 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Russland tötet nicht nur Minderheiten, sondern alle Ukrainer. 
-- Russland diskriminiert Frauen und sexuelle Minderheiten und schickt ethnische Minderheiten bevorzugt als Kanonenfutter an die Front.
+- Russland tötet alle Ukrainer, egal ob sie einer Minderheit angehören oder nicht
+- Russland diskriminiert Frauen und sexuelle Minderheiten und schickt ethnische Minderheiten bevorzugt als Kanonenfutter an die Front
 :::
 
 ## A

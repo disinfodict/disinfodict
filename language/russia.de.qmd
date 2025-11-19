@@ -6,14 +6,17 @@ abstract: >
 # Russische Sprache {#sec-language-russia}
 
 ::: {.callout-caution title="Mythos"}
-Russische Sprache ist in der Ukraine verboten
+- Russischsprachige in der Ukraine sind Russen
+- Die Russische Sprache ist in der Ukraine verboten
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20language&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- In der modernen Ukraine waren Russisch und Ukrainisch die offiziellen Sprachen.
-- Nach einer Geschichte der russischen Unterdrückung und der vollständigen russischen Invasion wenden sich viele Ukrainer von der russischen Sprache ab.
-- Russisch ist immer noch erlaubt
+- Russischsprachige Menschen in der Ukraine identifizieren sich als Ukrainer
+- Russischsprachige Menschen in der Ukraine haben für die Unabhängigkeit der Ukraine gestimmt
+- In der modernen Ukraine waren Russisch und Ukrainisch die offiziellen Sprachen
+- Nach einer Geschichte der russischen Unterdrückung und der vollständigen russischen Invasion wenden sich viele Ukrainer von der russischen Sprache ab
+- Russisch ist in der Ukraine immer noch erlaubt
 :::
 
 > Auch das Bild vom "ethnischen Russen" wird in Deutschland oft bemüht. Wer Russisch als Muttersprache spricht, gehöre dem russischen Volk an "Ethnische Russen" würden in der Ukraine unterdrückt und hofften darauf, Hilfe aus Moskau zu bekommen. Die Ursprünge für solche Positionen liegen in der durch die russische Fremdherrschaft geprägten Geschichte der Ukraine und in einer imperialen Außensicht auf das Land ... Niemand wűrde den Deutschschweizern zuschreiben, dass sie eher bundesdeutsche als innerschweizerische Positionen teilen würden. Kein Mensch käme auf die Idee, dass die deutschsprachige Gemeinschaft in Belgien Hilfe aus Berlin benötigen würde, um als Minderheit in Belgien zu ihrem Recht zu kommen.^[Christ:2023a]

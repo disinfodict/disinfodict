@@ -13,7 +13,7 @@ abstract: >
 
 ::: {.callout-tip title="Truth"}
 - Russia does refuse a ceasefire
-- Russia would use a ceasefire to prearm further and continue the genocide in the occupied territories
+- Russia would use a ceasefire to further arm itself and continue the genocide in the occupied territories
 - If Russia wanted peace, it would have never invaded
 :::
 

@@ -5,18 +5,16 @@ abstract: >
 
 # Hroza Angriff {#sec-denial-hroza}
 
-
 ::: {.callout-caution title="Mythos"}
-- Es war inszeniert.
-- Es ist nicht passiert.
-- Wir (Russland) waren es nicht.
-- Es war die Ukraine.
-- Sie haben es verdient.
+- Der Raketenangriff auf Hroza war inszeniert
+- Der Raketenangriff auf Hroza ist nie passiert
+- Russland hatte nichts mit dem Raketenangriff auf Hroza zu tun 
+- Der Raketenangriff auf Hroza war gerechtfertigt
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Bucha&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland hat schwere Kriegsverbrechen begangen.
+Russland beging ein schweres Kriegsverbrechen mit dem Raketenangriff auf Hroza
 :::
 
 

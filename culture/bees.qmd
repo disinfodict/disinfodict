@@ -6,12 +6,12 @@ abstract: >
 # Beekeeping {#sec-culture-bees}
 
 ::: {.callout-caution title="Myth"}
-The only things that Ukraine can export to Europe are nuts, straw and wool.
+The only things that Ukraine can export to Europe are nuts, straw and wool
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/report/the-only-things-that-ukraine-can-export-to-europe-are/)
 :::
 
 ::: {.callout-tip title="Truth"}
-Ukraine exports a lot, including honey. We owe modern beekeeping to Ukraine.
+Ukraine exports a lot, including honey: we owe modern beekeeping to Ukraine
 :::
 
 Few people know this, but this story changed the world of beekeeping! 🐝

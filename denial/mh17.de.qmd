@@ -6,18 +6,18 @@ abstract: >
 # Flug mh17 {#sec-denial-mh17}
 
 ::: {.callout-caution title="Mythos"}
-- Es ist nie passiert.
-- Die Absturzstelle wurde manipuliert.
-- Es war die Verantwortung der Fluglotsen.
-- Es waren ukrainische Piloten.
-- Es war die CIA.
+- Flug MH17 wurde nie abgeschossen
+- Die Absturzstelle von Flug MH17 wurde manipuliert
+- Der Absturz von Flug MH17 war die Verantwortung der Fluglotsen
+- Ukrainische Piloten haben Flug MH17 zum Absturz gebracht
+- Die CIA hat Flug MH17 zum Absturz gebracht
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=mh17&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- MH17 wurde von einer russischen BUK-TELAR abgeschossen, die von pro-russischen Kämpfern unter russischer Kontrolle betrieben wurde
-- Ein niederländisches Gericht verurteilte den Russen Girkin und zwei weitere Personen wegen Mordes an 298 Menschen
-- Der Europäische Gerichtshof für Menschenrechte hat Russland für den Abschuss des Fluges MH17 verantwortlich gemacht.
+- Flug MH17 wurde von einer russischen BUK-TELAR abgeschossen, die von pro-russischen Kämpfern unter russischer Kontrolle betrieben wurde
+- Ein niederländisches Gericht verurteilte den Russen Girkin und zwei weitere Russen wegen Mordes an 298 Menschen
+- Der Europäische Gerichtshof für Menschenrechte verurteilte Russland wegen des Abschusses von Flug MH17
 [<br></br>![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Malaysia-Airlines-Flug_17)
 :::
 

@@ -12,10 +12,10 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Truth"}
-- ZNPP was occupied by Russia and under Russia's control.
-- Dark Smoke emerged from two cooling towers of ZNPP one day after Zelenskyy admitted Kursk. 
-- The dark smoke indicates that russia has brought burnable Material into the cooling tower.
-- The IAEA did not finde unburnt material in one tower and Russia denied the IAEA access to the other tower. 
+- ZNPP was occupied by Russia and under Russia's control
+- Dark Smoke emerged from two cooling towers of ZNPP one day after Zelenskyy admitted Kursk
+- The dark smoke indicates that russia has brought burnable Material into the cooling tower
+- The IAEA did not find unburned material in one tower and Russia denied the IAEA access to the other tower
 :::
 
 [https://www.bbc.com/news/articles/c984l87l2w6o](https://www.bbc.com/news/articles/c984l87l2w6o)

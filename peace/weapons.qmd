@@ -6,13 +6,16 @@ abstract: >
 # Weapons {#sec-peace-weapons}
 
 ::: {.callout-caution title="Myth"}
-Rearming to make yourself defensible is warmongering
+- Rearming to make yourself defensible is warmongering
+- Those who want peace may only use defensive weapons
+- The Bible demands: swords to be beaten into plowshares
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(arming%7Carms%7Cweapons)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-- Russia has armed itself to the teeth to conduct an unprovoked war
-- The demand to use only “defensive weapons” favors the aggressor.
+- Russia has armed itself to the teeth in order to wage an unprovoked war
+- The demand to use only "defensive weapons" favors the aggressor
+- Even the Bible teaches: if needed, turn plowshares into swords
 :::
 
 ## New weapons
@@ -30,3 +33,15 @@ Rearming to make yourself defensible is warmongering
 {{< var todo >}}
 
 
+## What the Bible says
+
+Almost everyone knows the Bible quote “plowshares into swords!” (Micah or Isaiah). The Bible praises the willingness to make peace, which is what the quote stands for, but the Bible is also capable of learning:
+
+> "Make your plowshares into swords and your sickles into spears! Even the weak shall say, 'I am strong!'" (Joel 4:10, Luther Translation)
+
+It is permissible to defend oneself against an armed attacker:  
+
+> In Joel's time, people are happy about 70 years of external peace and sing Hallelujah, quoting the beautiful promises of Isaiah and Micah – but once again, injustice has spread ... In Joel's time, the premonition of a great catastrophe for Israel intensified. And it did come: first through the Assyrians for the northern kingdom, then through the Babylonians for Jerusalem and the southern kingdom.[^peace-weapons-1]
+
+
+[^peace-weapons-1]: Pastor Günther Baum (August 2014) Plowshares into swords. Joel 4:10 - Sermon in the Bergkirche Osnabrück. [https://www.reformiert-info.de/Pflugscharen_zu_Schwertern-13476-0-84-9.html](https://www.reformiert-info.de/Pflugscharen_zu_Schwertern-13476-0-84-9.html)

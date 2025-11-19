@@ -12,11 +12,12 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Russland ist eine korrupte, fossile Diktatur, die nichts außer Waffen produziert.
-- Russlands fossile Wirtschaft ist durch die globale Erwärmung bedroht.
-- Russland leidet unter einer massiven Abwanderung von Fachkräften.
-- Die Inflation in Russland ist hoch.
-- Der russische Transportsektor bricht trotz Militärtransporten ein.
+- Russland ist eine korrupte, fossile Diktatur, die nichts außer Waffen produziert
+- Russlands fossile Wirtschaft ist durch die globale Erwärmung bedroht
+- Russland leidet unter einer massiven Abwanderung von Fachkräften
+- Die Inflation in Russland ist hoch
+- Der russische Transportsektor bricht trotz Militärtransporten ein
+- Russland kann seine Bevölkerung nicht einmal ausreichend mit Benzin versorgen
 :::
 
 A

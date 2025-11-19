@@ -13,8 +13,7 @@ abstract: >
 
 ::: {.callout-tip title="Truth"}
 - Many dishes known as “Russian” originate from Ukraine (see @sec-culture-food)
-- Russia is responsible for a striking number of cannibals, and worse: it lets them go free
-[![Search for topic in EUvsDisinfo](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/List_of_incidents_of_cannibalism)
+- Russia is responsible for a striking number of cannibals, and worse: it lets them go free[![Search for topic in EUvsDisinfo](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/List_of_incidents_of_cannibalism)
 :::
 
 Every russian accusation is a confession: russia has a huge number of cannibals, and worse: let's them go free.

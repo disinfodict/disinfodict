@@ -6,12 +6,15 @@ abstract: >
 # Verhandlungen beenden den Krieg? {#sec-negotiations-endwar}
 
 ::: {.callout-caution title="Mythos"}
-Alle Kriege werden *durch* Verhandlungen beendet.
+- alle Kriege werden DURCH Verhandlungen beendet
+- besser mit Russland verhandeln als der UKraine Waffen liefern
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=negotiations%20end%20war&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Manche Kriege enden mit einem Sieg. Andere Kriege enden __mit__ Verhandlungen - wenn beide Seiten bereit sind zu verhandeln.
+- Manche Kriege enden mit einem Sieg, andere Kriege enden MIT Verhandlungen
+- Verhandeln kann man nur mit einem Gegner, der zu Verhandlungen bereit ist
+- Russland ist nicht zu Verhandlungen bereit, muss mit Waffen dazu gezwungen werden
 :::
 
 ## Russland marschierte während Verhandlungen ein

@@ -13,7 +13,7 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Die Ukraine hat eine ältere Geschichte als die Moskowiter.
+Die Ukraine hat eine ältere Geschichte als die Moskowiter
 :::
 
 

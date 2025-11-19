@@ -11,7 +11,7 @@ Ukraine has no art of its own
 :::
 
 ::: {.callout-tip title="Truth"}
-Ukraine has a diverse and colorful visual arts scene. 
+Ukraine has a diverse and colorful visual arts scene
 :::
 
 {{< var todo >}}

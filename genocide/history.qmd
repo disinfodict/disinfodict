@@ -8,13 +8,13 @@ abstract: >
 # Genocide history {#sec-genocide-history}
 
 ::: {.callout-caution title="Myth"}
-Genocide is something capitalistic, of the west, of the Nazis. 
-Russia fights genocide.
+Genocide is something capitalistic, of the west, of the Nazis 
+Russia fights genocide
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20russia&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-Russia committed multiple genocides, particularly multiple against Ukraine.
+Russia committed multiple genocides, particularly multiple against Ukraine
 :::
 
 
@@ -55,7 +55,7 @@ Russia committed multiple genocides, particularly multiple against Ukraine.
 
 ## Holodomor 1932/33
 
-![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Holodomor)
+[![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Holodomor)
 
 *Holodomor* – literally ‘murder by starvation’ – refers to the famine in the Soviet Union in the 1930s in the Ukrainian Soviet Socialist Republic, for which Stalin was responsible and which claimed the lives of between three and seven million Ukrainians. The following facts show that this was a deliberate genocide aimed at Russifying Ukraine (see Applebaum:2017:en, Applebaum:2021:en):
 

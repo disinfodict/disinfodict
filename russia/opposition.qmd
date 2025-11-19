@@ -12,12 +12,12 @@ abstract: >
 
 ::: {.callout-tip title="Truth"}
 - Russian opposition can't be trusted
-- is supporting russian imperialism
-- absolves the Russian people
-- calls for an end to sanctions
-- misleads the West
-- is teethless in Russia
-- steals support from Ukraine
+- Russian opposition is supporting russian imperialism
+- Russian opposition absolves the Russian people
+- Russian opposition calls for an end to sanctions
+- Russian opposition misleads the West
+- Russian opposition is teethless in Russia
+- Russian opposition steals support from Ukraine
 :::
 
 ## Russian opposition can't be trusted

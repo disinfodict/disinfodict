@@ -47,12 +47,19 @@ If, like Putin, you throw international law overboard and argue with historical 
 
 In order to claim Kyiv, the center of East Slavic civilization, for Russia, Russian propaganda - namely the historian and propagandist Tarik Cyril Amar - has constructed the following absurd story (in order to deceive us about its absurdity, he calls it an academically pompous “paradox” and tries to dazzle us with 500 pages of nonsense from Russian archives):
 
-::: {.callout-caution title="Propaganda (debunked)"}
-- if a Ukrainian nations exists, then only in western ukraine, and its capital is Lviv (**Kyiv Rus' was much bigger than Western Ukraine and its capital is, of course, Kyiv**)
-- this Western Ukrainian nation (note the contradiction) did not exist before the Soviet Union (**absolutely ridiculous, you just need to walk through history rich Lviv (German name Lemberg) and look at the Habsburg architecture, the old armenian church, the jewish culture, etc. etc.**)
-- the dominant feature of western Ukraine would be "Bandera Nazi" inhabitants (**in fact there were less than 3% for right wing parties, see @sec-nazis-ukraine**)
+::: {.callout-caution title="Myth"}
+- if a Ukrainian nations exists, then only in western Ukraine, and its capital is Lviv 
+- this non-existing Western Ukrainian nation did not exist before the Soviet Union 
+- the dominant feature of western Ukraine would be "Bandera Nazi" inhabitants
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Lemberg%7CLviv)%20capital&sort=relevance)
 :::
+
+::: {.callout-tip title="Truth"}
+- Kyiv Rus' was much bigger than Western Ukraine and its capital is, of course, Kyiv
+- Ukraine's rich history can be seen in its melting pot Lviv (German name Lemberg) with its Habsburg architecture, the old armenian church, the jewish culture
+- Less than 3% of Ukrainians voted for right-wing parties; other European countries would dream of having so few Nazis, see @sec-nazis-ukraine
+:::
+
 
 See also @sec-ukraine-nation.
 

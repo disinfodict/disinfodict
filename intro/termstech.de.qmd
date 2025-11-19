@@ -154,6 +154,17 @@ Die russische Invasion auf der Krim und im Donbas sind eindeutige Beispiele für
 > Mit dem Beginn der Krim-Krise kam es zu neuen Einschränkungen des freien Zugangs zu Informationen. Medienbeobachter wiesen auf einen erheblichen Anstieg der Propaganda im Fernsehen der Russischen Föderation hin, die sich parallel zu den Entwicklungen auf und um die Krim entwickelte. Es wurden auch Fälle von Hasspropaganda gemeldet. Dmitri Kiselev, russischer Journalist und kürzlich zum stellvertretenden Generaldirektor der staatlichen russischen Fernseh- und Rundfunkanstalt ernannt, hat in den Hauptnachrichten des Fernsehkanals „Rossija“ die Ukraine als „von gewalttätigen Faschisten überranntes Land“ dargestellt, Informationen über Kiewer Ereignisse verschleiert und behauptet, dass die Russen in der Ukraine ernsthaft bedroht und in physische Gefahr geraten seien, was die „Rückkehr“ der Krim in die Russische Föderation rechtfertige.
 
 
+## Informationskrieg (2016)
+
+Edward Lucas und Peter Pomerantsev verfassten ein Arbeitspapier zu Gegenstrategien der russischen Propaganda in Mittel- und Osteuropa. Der Bericht (@LucasPomerantsev:2016a) und die Empfehlungen (@LucasPomerantsev:2016b) wurden 2016 in Partnerschaft mit der Information Warfare Initiative des Center for European Policy Analysis (CEPA) veröffentlicht.
+
+In einem Artikel, der viele ihrer Arbeiten miteinander verknüpft, erklärte die Journalistin Zarina Zabrisky, die an der Leningrader Staatlichen Puschkin-Universität russische Propagandatechniken studiert hatte (@Zabrisky:2017):
+
+> Das Hauptziel der Spetz-Propaganda ist es, Verwirrung in der Bevölkerung des Feindes zu stiften.
+
+Eine aktuelle (August 2025) Demontage der Informationskriegsführung des Kremls finden Sie unter @Zabrisky:2025.
+
+
 ## Firehose of Falsehoods (2016)
 
 > Die neue russische Propaganda unterhält, verwirrt und überwältigt das Publikum
@@ -192,9 +203,15 @@ __Wie erkennt man Waffenartige Narrative?__ Die Bemühungen Russlands, sich in d
 
 ## Foreign Information Manipulation and Interference (FIMI)
 
-Die Manipulation und Beeinflussung ausländischer Informationen (Foreign Information Manipulation and Interference - FIMI) - oft auch als „Desinformation“ bezeichnet - ist eine wachsende politische und sicherheitspolitische Herausforderung für die Europäische Union. In Anbetracht der außen- und sicherheitspolitischen Komponente hat der Europäische Auswärtige Dienst eine führende Rolle bei der Auseinandersetzung mit diesem Thema übernommen. Seit 2015, als das Problem erstmals auf der politischen Agenda der EU auftauchte, haben wir unsere Kapazitäten zur Bewältigung der FIMI-Herausforderung erheblich ausgebaut.
+Die Manipulation und Beeinflussung ausländischer Informationen (Foreign Information Manipulation and Interference - FIMI) - oft auch als „Desinformation“ bezeichnet - ist eine wachsende politische und sicherheitspolitische Herausforderung für die Europäische Union. 
+
+### Social Design Agency (SDA)
+
+Russland steckt Milliarden professionale Propaganda, um anderen Länder (uns) zu spalten und zu destabilisieren. Russland betreibt Trollfabriken, Bot-Farmen, Desinformationskampagnen wie die Doppelgängerkampagne, welche Websiten fälscht um bei Manipulationen in sozialen Netzwerken auf diese verweisen zu können (@Potter:2024). Einer der größten propagandafirmen, über den Olifarechen Viktor Medwetschuk direkt von Putin gesteuert, ist die Social Design Agency (SDA) @FrommLitschko:2025. 
 
 ### Europäischer Auswärtiger Dienst – EAD
+
+In Anbetracht der außen- und sicherheitspolitischen Komponente hat der Europäische Auswärtige Dienst eine führende Rolle bei der Auseinandersetzung mit diesem Thema übernommen. Seit 2015, als das Problem erstmals auf der politischen Agenda der EU auftauchte, haben wir unsere Kapazitäten zur Bewältigung der FIMI-Herausforderung erheblich ausgebaut.
 
 Definition von FIMI: Der [EAD](https://www.eeas.europa.eu/eeas/tackling-disinformation-foreign-information-manipulation-interference_en?etrans=de) definiert FIMI als ein Verhaltensmuster, das Werte, Verfahren und politische Prozesse bedroht oder negativ beeinflussen kann. Solche Aktivitäten haben einen manipulativen Charakter und werden absichtlich und koordiniert durchgeführt. Akteure dieser Tätigkeit können staatliche oder nichtstaatliche Akteure sein, einschließlich ihrer Stellvertreter innerhalb und außerhalb ihres eigenen Hoheitsgebiets. 
 

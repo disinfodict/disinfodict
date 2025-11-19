@@ -12,10 +12,10 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Das Kernkraftwerk Zaporizhzhya (ZNPP) wurde von Russland besetzt und stand unter russischer Kontrolle.
-- Einen Tag, nachdem Selenskyj Kursk zugegeben hatte, stieg dunkler Rauch aus zwei Kühltürmen des ZNPP auf.
-- Der dunkle Rauch deutet darauf hin, dass Russland brennbares Material in den Kühlturm gebracht hat.
-- Die IAEO fand in einem Turm kein unverbranntes Material, und Russland verwehrte der IAEO den Zugang zum anderen Turm.
+- Das Kernkraftwerk Zaporizhzhya (ZNPP) wurde von Russland besetzt und stand unter russischer Kontrolle
+- Einen Tag, nachdem Selenskyj Kursk zugegeben hatte, stieg dunkler Rauch aus zwei Kühltürmen des ZNPP auf
+- Der dunkle Rauch deutet darauf hin, dass Russland brennbares Material in den Kühlturm gebracht hat
+- Die IAEO fand in einem Turm kein unverbranntes Material, und Russland verwehrte der IAEO den Zugang zum anderen Turm
 :::
 
 [https://www.bbc.com/news/articles/c984l87l2w6o](https://www.bbc.com/news/articles/c984l87l2w6o)

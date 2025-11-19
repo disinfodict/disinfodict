@@ -12,18 +12,20 @@ keywords:
 # Donbas Genozid? {#sec-donbas-genocide}
 
 ::: {.callout-caution title="Mythos"}
+- Donbas sei russisches Territorium
 - Die Ukraine habe den Krieg im Donbas begonnen
 - Kiew plane einen Völkermord im Donbas
 - Ukraine beschieße Zivilisten im Donbas
-- Russische Truppen stoppten Völkermord im Donbas [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(donbas|donetsk|luhansk)%20genocide&sort=relevance)
+- Russische Truppen stoppten Völkermord im Donbas
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(donbas|donetsk|luhansk)%20genocide&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Donbas ist Ukraine
+- Donbas ist ukrainisches Territorium
 - Russland begann den Krieg gegen die Ukraine im Donbas[^donbas-genocide.de-27]
-- Die Ukraine hat ihr Gebiet verteidigt
-- Die Ukraine hat keinen Völkermord begangen
-- Russland plante und führt Völkermord in der Ukraine durch
+- Die Ukraine hat im Donbas ihr Gebiet verteidigt
+- Die Ukraine hat im Donbas keinen Völkermord begangen
+- Russland plante und realisierte Völkermord im Donbas
 - Russland beschießt Zivilisten im Donbas
 - Russland zerstört ganze Städte im Donbas
 :::

@@ -10,12 +10,13 @@ abstract: >
 \index{Geschichte}
 
 ::: {.callout-caution title="Mythos"}
-Die Krim gehört historisch gesehen zu Russland. [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Crimea+history&disinfo_language%5B%5D=German&sort=relevance)
+Die Krim gehört historisch gesehen zu Russland
+[<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Crimea+history&disinfo_language%5B%5D=German&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Die Krim hat tatarische und ukrainische Wurzeln.^[Aliev:2023] 
-- Das russische Reich hat mehrfach versucht, die Krim gegen den Willen der Krimbewohner zu erobern und zu russifizieren.
+- Die Krim hat tatarische und ukrainische Wurzeln^[Aliev:2023] 
+- Das russische Reich hat mehrfach versucht, die Krim gegen den Willen der Krimbewohner zu erobern und zu russifizieren
 :::
 
 Zur Annexion der Krim siehe @sec-crimea-annexation.

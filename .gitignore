@@ -10,4 +10,8 @@ _book (Kopie)
 /.quarto/
 zzz_memo.txt
 chapters.ods
-
+in_header.pages.dev.html
+callout.RData
+callout_embedding.RData
+callout_experiment.RData
+EXPERIMENT.qmd

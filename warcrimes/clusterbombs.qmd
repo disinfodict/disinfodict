@@ -13,7 +13,6 @@ keywords:
 ::: {.callout-caution title="Myth"}
 - Russia never uses cluster munitions in Ukraine because of humanitarian concerns
 - Ukraine shouldn't use forbidden cluster munitions because that puts civilians at risk in Ukraine
-
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=war%20(crimes%7Ccriminals)%20cluster&sort=relevance)
 :::
 
@@ -36,5 +35,7 @@ keywords:
 ## Ukrainian examples
 
 {{< var todo >}}
+
+
 
 

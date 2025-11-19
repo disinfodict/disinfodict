@@ -1,71 +1,87 @@
 ---
 abstract: > 
-  Helfen Sie uns beim Schreiben: Erfahren Sie, warum Russland Krieg führt: Russland will expandieren, und Putin braucht den Krieg, um an der Macht zu bleiben.
+  Erfahren Sie, warum Russland Krieg führt: Russland will expandieren, zerstören, und Putin braucht den Krieg, um an der Macht zu bleiben.
 ---
 
 # Russlands Ziele {#sec-ruwar-goals}
 
 ::: {.callout-caution title="Mythos"}
-- Russland hat in der Ukraine ausschließlich Verteidigungsinteressen.
-- Der Westen will Russland erobern.
+- Russland hat in der Ukraine ausschließlich Verteidigungsinteressen
+- Der Westen will Russland erobern
 [<br></br>![Stichwortsuche in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Ukraine%20conquer&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland will Land, natürliche Ressourcen und Menschen erobern und alles Ukrainische zerstören.
+- Putin braucht Krieg, um seine Diktatur innenpolitisch zu „rechtfertigen“
+- Russland will Land erobern
+- Russland will natürliche Ressourcen erobern
+- Russland will Sklaven für seinen Krieg erobern
+- Russland will strategische Expansion nach Westen
+- Russland will Kyjiv, das historische Zentrum der slawischen Zivilisation, erobern
+- Russische Faschisten wollen die ukrainische Nation, Kultur und Bevölkerung auslöschen
+- Russsen langweilen sich ohne Krieg
 :::
+
 
 ## Machterhaltung
 
-Jedes Mal, wenn Putin einen Krieg begonnen hat, sind seine Zustimmungswerte gestiegen. Für Putin ist Krieg ein wichtiges Instrument zur Machterhaltung.
-
-https://orb-international.com/elections-in-russia-a-legitimate-sham-or-a-self-fulfilling-prophecy/
+Es wird angenommen, das Putin mit vom [FSB inszenierten Sprengstoffanschlägen](https://de.wikipedia.org/wiki/Sprengstoffanschl%C3%A4ge_auf_Wohnh%C3%A4user_in_Russland) einen Vorwand für den zweiten Tschetschenienkrieg geschaffen hat: das hat ihm als starken Mann den Gewinn seiner ersten Wahl gesichert.[^ruwar-goals-1]  Jedes Mal, wenn Putin einen Krieg begonnen hat, sind seine Zustimmungswerte gestiegen.[^ruwar-goals-2] Für Putin ist Krieg ein wichtiges innenpolitisches Instrument zur Machterhaltung.[^ruwar-goals-5]
 
 
 ## Land erobern
 
-Bei dieser Eroberung geht es um Land, wegen seines Wertes und wegen der Fläche für erneuerbare Energien, wenn das Geschäft mit fossilen Brennstoffen zu Ende geht.
+> Die russische Welt hat keine Grenzen (Vladislav Sourkov)
 
-{{< var todo >}}
+Seit der Erbauung Moskaus strebt der russische Imperialismus nach Eroberung, siehe @sec-russia-history. Das russische Imperium ("Russki Mir"), getarnt als "russischer Friede" kennt keine Grenzen bei er Eroberung der "russichen Welt", siehe  @sec-russia-empire.
 
 
 ## Natürliche Ressourcen
 
-Die Ukraine ist reich an natürlichen Ressourcen.
-
-
-{{< var todo >}}
+Bei dieser Eroberung geht es nicht nur um Land, wegen seines Wertes, sondern auch um Fläche für erneuerbare Energien, denn das Geschäft mit fossilen Brennstoffen geht zu Ende, und es geht um Ukrainische Rohstoffe, den die Ukraine ist reich an natürlichen Ressourcen.
 
 
 ## Menschen einfangen
 
-Russland braucht Menschen, die es ausbeuten kann und die es als Kanonenfutter für seine Kriege einsetzen kann:
-
-{{< var todo >}}
+Russland braucht Menschen, die es ausbeuten kann, als Arbeitssklaven und als Kanonenfutter für seine Kriege.
 
 
 ## Strategischer Wert
 
-All dies dient Russlands Bestreben, sein Imperium zu erweitern.
+> Eurasien von Lissabon bis Dublin (Alexander Dugin)
 
-{{< var todo >}}
+> Eurasien von Lissabon bis Wladiwostok (Dmitry Medvedev)
+
+Je größer Russlands Anteil am "Eurasischen Raum", und desto kleiner der verbleibende freie Westen Europas, desto leichter wird es für Russland, ganz Europa zu erobern. Desto weiter sich Russland nach Westen ausdehnt, desto schwieriger und teuerer wird es für das sich verteidigende Europa, noch die Waffenfabriken im Osten Russlands zu zerstören. Von der Frontlinie am Dnepr geht das gerade noch, aber nicht mehr wenn die Ukraine fällt.
 
 
 ## Völkermordziele
 
+> Entnazifizierung wird unweigerlich eine Entukrainisierung sein (Timofej Sergejzew)
+
 Russland führt einen Vernichtungskrieg, es hat Völkermord angekündigt @sec-genocide-announced und nutzt jede Gelegenheit, um Völkermord zu begehen @sec-genocide-ongoing.
 
-https://time.com/6219200/what-russia-wants-ukraine/
 
+## Faschistische Ziele  
 
-## Faschistische Ziele  Russland hat sich zu einer faschistischen Gesellschaft verwandelt und verfolgt faschistische Ziele, siehe das Kapitel über den russischen Faschismus (@sec-nazis-russia).
+> Russland will die Ukraine wieder in den Keller der Sowjetunion sperren[^ruwar-goals-3]
 
-https://time.com/6219200/what-russia-wants-ukraine/
+Russland hat sich zu einer faschistischen Gesellschaft verwandelt und verfolgt faschistische Ziele, siehe das Kapitel über den russischen Faschismus (@sec-nazis-russia).
 
 
 ## Zynismus und Langeweile
 
-[https://www.euronews.com/my-europe/2024/12/19/putins-2024-end-of-year-presser-when-everything-is-quiet-and-calm-we-are-getting-bored](https://www.euronews.com/my-europe/2024/12/19/putins-2024-end-of-year-presser-when-everything-is-quiet-and-calm-we-are-getting-bored)
+> Wenn alles ruhig, gemessen und stabil ist, langweilen wir uns, dann wollen alle Action (Wladimir Putin)[^ruwar-goals-4]
 
-{{< var todo >}}
+Die russische DNA wurde in 800 Jahren der Eroberung von Königreichen, der Sklaverei und der Langeweile geprägt, siehe @sec-russia-life, @sec-russia-soul, @sec-russia-values und @sec-warcrimes-intro.
 
+
+
+[^ruwar-goals-1]: Gesine Dornblüth (10.12.2019) Tschetschenien und die Folgen. Deutschlandfunk. [https://www.deutschlandfunk.de/kriegsbeginn-vor-25-jahren-tschetschenien-und-die-folgen-100.html](https://www.deutschlandfunk.de/kriegsbeginn-vor-25-jahren-tschetschenien-und-die-folgen-100.html)
+
+[^ruwar-goals-2]: ORB International. (2024-04-18) Elections in Russia – a legitimate sham or a self-fulfilling prophecy? [https://orb-international.com/elections-in-russia-a-legitimate-sham-or-a-self-fulfilling-prophecy/](https://web.archive.org/web/20240418173701/https://orb-international.com/elections-in-russia-a-legitimate-sham-or-a-self-fulfilling-prophecy/)
+
+[^ruwar-goals-5]: Thomas Franke (15.8.2024) Wie Putin Politik durch Kriege macht – Tschetschenien, Syrien, Ukraine. SWR. [https://www.swr.de/swrkultur/wissen/wie-putin-politik-durch-kriege-macht-tschetschenien-syrien-ukraine-104.html](https://www.swr.de/swrkultur/wissen/wie-putin-politik-durch-kriege-macht-tschetschenien-syrien-ukraine-104.html)
+
+[^ruwar-goals-3]: Peter Pomerantsev (October 4, 2022) Russia Wants to Lock Ukraine Back in the Soviet Cellar. Time. [https://time.com/6219200/what-russia-wants-ukraine/](https://time.com/6219200/what-russia-wants-ukraine/)
+
+[^ruwar-goals-4]: Sasha Vakulina ( 19/12/2024) Putin’s 2024 end-of-year presser: ‘When everything is quiet and calm, we are getting bored’. [https://www.euronews.com/my-europe/2024/12/19/putins-2024-end-of-year-presser-when-everything-is-quiet-and-calm-we-are-getting-bored](https://www.euronews.com/my-europe/2024/12/19/putins-2024-end-of-year-presser-when-everything-is-quiet-and-calm-we-are-getting-bored)

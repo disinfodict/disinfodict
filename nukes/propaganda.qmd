@@ -12,7 +12,7 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Truth"}
-Russian TV is threatening NATO to nuke their capitals, but that's propaganda nonsense: nobody nukes anyone else without further ado.
+Russian TV is threatening NATO to nuke their capitals, but that's propaganda nonsense: nobody nukes anyone else without further ado
 :::
 
 The following are examples from Julia Davies Russian Media Monitor:

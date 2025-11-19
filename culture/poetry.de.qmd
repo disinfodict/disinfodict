@@ -11,7 +11,7 @@ Puschkin ist der Nationaldichter aller Slawen
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Die Ukraine hat zwei eigene Nationaldichter(innen): Taras Shevchenko und Lessja Ukrajinka
+Die Ukraine hat zwei eigene NationaldichterInnen: Taras Shevchenko und Lessja Ukrajinka
 :::
 
 {{< var todo >}}

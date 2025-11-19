@@ -1,6 +1,6 @@
 ---
 abstract: > 
-  Help us write: Learn why Russia wages war: Russia wants to expand and Putin needs the war to stay in power. 
+  Learn why Russia wages war: Russia wants to expand, to destroy, and Putin needs the war to stay in power. 
 ---
 
 # Russia's goals {#sec-ruwar-goals}
@@ -12,59 +12,70 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Truth"}
-Russia wants to conquer land, natural resources and people and destroy everything Ukrainian.
+- Putin needs war to “justify” his dictatorship domestically.
+- Russia wants to conquer land
+- Russia wants to conquer natural resources
+- Russia wants to conquer slaves for its war
+- Russia wants strategic expansion to the west
+- Russia wants to conquer Kyiv, the historic center Slavic civilization
+- Russian fascists want to wipe out the Ukrainian nation, culture, and population
+- Russians are bored without war
 :::
+
 
 ## Maintaining power
 
-Every time Putin has started a war, his approval ratings have risen. For Putin, war is an important instrument for maintaining power.
-
-https://orb-international.com/elections-in-russia-a-legitimate-sham-or-a-self-fulfilling-prophecy/
+It is assumed that Putin used [explosive attacks staged by the FSB](https://en.wikipedia.org/wiki/1999_Russian_apartment_bombings) to create a pretext for the second Chechen War: this secured him victory in his first election as a strong leader.[^ruwar-goals-1] Every time Putin has started a war, his approval ratings have risen.[^ruwar-goals-2] For Putin, war is an important instrument for maintaining domestic power.[^ruwar-goals-5] 
 
 
 ## Conquering land
 
-This conquest is about land, because of the value of the land and because of the area for renewable energies when the fossil fuel business comes to an end.
+> The Russian world has no borders (Vladislav Sourkov)
 
-{{< var todo >}}
+Since the founding of Moscow, Russian imperialism has strived for conquest, see @sec-russia-history. The Russian Empire (“Russki Mir”), disguised as “Russian peace,” knows no boundaries in its conquest of the “Russian world,” see  @sec-russia-empire.
 
 
 ## Natural resources
 
-UKraine is rich in natural resources
-
-{{< var todo >}}
+This conquest is not only about land, because of its value, but also about space for renewable energies, because the fossil fuel business is coming to an end, and it is about Ukrainian raw materials, because Ukraine is rich in natural resources.
 
 
-## Capturing People
+## Capturing people
 
-Russia needs people to exploit and as canon fudder for its wars:
-
-{{< var todo >}}
+Russia needs people it can exploit as slave labor and as cannon fodder for its wars.
 
 
-## Stategic value
+## Strategic value
 
-All of the above serve Russia's desire to expand its empire. 
+> Eurasia from Lisbon to Dublin (Alexander Dugin)
 
-{{< var todo >}}
+> Eurasia from Lisbon to Vladivostok (Dmitry Medvedev)
+
+The larger Russia's share of the “Eurasian space” and the smaller the remaining free West of Europe, the easier it will be for Russia to conquer all of Europe. The further Russia expands westward, the more difficult and expensive it will be for a defensive Europe to destroy the weapons factories in eastern Russia. From the front line on the Dnieper, this is still possible, but not if Ukraine falls.
 
 
-## Genocidal goals
+## Fascist Goals
 
-Russia fights a ewar of annihilation, it has announced genocide @sec-genocide-announced and uses every opportunity to conduct genocide @sec-genocide-ongoing.
+> Russia Wants to Lock Ukraine Back in the Soviet Cellar[^ruwar-goals-3]
 
-https://time.com/6219200/what-russia-wants-ukraine/
+Russia has transformed itself into a fascist society and pursues fascist goals, see the chapter on Russian fascism (@sec-nazis-russia).
 
-## Fascist goals
 
-Russia has turned in a fascist society and pursues fascist goals, see the chapter on russian fascism (@sec-nazis-russia).
+## Cynicism and Boredom
 
-https://time.com/6219200/what-russia-wants-ukraine/
+> When everything is calm, measured, stable, we are bored, this is when everyone wants action (Vladimir Putin)[^ruwar-goals-4]
 
-## Cynicism and boredom
+The Russian DNA was formed in 800 years of conquering kingdom, slavedom, and boredom, see @sec-russia-life, @sec-russia-soul, @sec-russia-values, and @sec-warcrimes-intro.
 
-[https://www.euronews.com/my-europe/2024/12/19/putins-2024-end-of-year-presser-when-everything-is-quiet-and-calm-we-are-getting-bored](https://www.euronews.com/my-europe/2024/12/19/putins-2024-end-of-year-presser-when-everything-is-quiet-and-calm-we-are-getting-bored)
 
-{{< var todo >}}
+
+[^ruwar-goals-1]: Gesine Dornblüth (10.12.2019) Tschetschenien und die Folgen. Deutschlandfunk. [https://www.deutschlandfunk.de/kriegsbeginn-vor-25-jahren-tschetschenien-und-die-folgen-100.html](https://www.deutschlandfunk.de/kriegsbeginn-vor-25-jahren-tschetschenien-und-die-folgen-100.html)
+
+[^ruwar-goals-2]: ORB International. (2024-04-18) Elections in Russia – a legitimate sham or a self-fulfilling prophecy? [https://orb-international.com/elections-in-russia-a-legitimate-sham-or-a-self-fulfilling-prophecy/](https://web.archive.org/web/20240418173701/https://orb-international.com/elections-in-russia-a-legitimate-sham-or-a-self-fulfilling-prophecy/)
+
+[^ruwar-goals-5]: Thomas Franke (15.8.2024) Wie Putin Politik durch Kriege macht – Tschetschenien, Syrien, Ukraine. SWR. [https://www.swr.de/swrkultur/wissen/wie-putin-politik-durch-kriege-macht-tschetschenien-syrien-ukraine-104.html](https://www.swr.de/swrkultur/wissen/wie-putin-politik-durch-kriege-macht-tschetschenien-syrien-ukraine-104.html)
+
+[^ruwar-goals-3]: Peter Pomerantsev (October 4, 2022) Russia Wants to Lock Ukraine Back in the Soviet Cellar. Time. [https://time.com/6219200/what-russia-wants-ukraine/](https://time.com/6219200/what-russia-wants-ukraine/)
+
+[^ruwar-goals-4]: Sasha Vakulina ( 19/12/2024) Putin’s 2024 end-of-year presser: ‘When everything is quiet and calm, we are getting bored’. [https://www.euronews.com/my-europe/2024/12/19/putins-2024-end-of-year-presser-when-everything-is-quiet-and-calm-we-are-getting-bored](https://www.euronews.com/my-europe/2024/12/19/putins-2024-end-of-year-presser-when-everything-is-quiet-and-calm-we-are-getting-bored)
 

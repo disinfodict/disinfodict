@@ -6,13 +6,14 @@ abstract: >
 # Personen Brandt {#sec-persons-brandt}
 
 ::: {.callout-caution title="Mythos"}
-- Willy Brandt war der größte Beschwichtiger aller Zeiten.
-- Seine Beschwichtigungspolitik brachte den osteuropäischen Ländern Freiheit.[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Willy%20Brandt&sort=relevance)
+- Willy Brandt war der größte Beschwichtiger aller Zeiten
+- Seine Beschwichtigungspolitik brachte den osteuropäischen Ländern Freiheit
+[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Willy%20Brandt&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
 - Brand war immer der Meinung, dass Diplomatie und Abschreckung Hand in Hand gehen
-- Es war der Bankrott der UdSSR welcher den osteuropäischen Ländern Freiheit brachte
+- Es war der Bankrott der UdSSR, welcher den osteuropäischen Ländern Freiheit brachte
 :::
 
 

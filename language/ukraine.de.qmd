@@ -11,8 +11,8 @@ Ukrainisch ist keine eigenständige Sprache, sondern ein Dialekt der russischen 
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Ukrainisch unterscheidet sich vom Russischen und ist dem Polnischen und Weißrussischen näher.
-- Im Laufe der Geschichte gab es mehrere Versuche Russlands, die ukrainische Sprache zu unterdrücken und ihre Sprecher zu verfolgen.
+- Ukrainisch unterscheidet sich vom Russischen und ist dem Polnischen und Weißrussischen näher
+- Im Laufe der Geschichte gab es mehrere Versuche Russlands, die ukrainische Sprache zu unterdrücken und ihre Sprecher zu verfolgen
 :::
 
 ## Leugnung der ukrainischen Sprache

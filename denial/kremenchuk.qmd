@@ -6,16 +6,15 @@ abstract: >
 # Kremenchuk Shopping {#sec-denial-kremenchuk}
 
 ::: {.callout-caution title="Myth"}
-- it was staged
-- it didn't happen
-- it wasn't us (Russia)
-- it was Ukraine
-- they deserved it
+- The missile strike at the shopping center in Kremenchuk never happened
+- The missile strike at the shopping center in Kremenchuk was staged
+- The missile strike at the shopping center in Kremenchuk was done by Ukraine
+- The missile strike at the shopping center in Kremenchuk was justified
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Kramatorsk&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-Russsia committed severe atrocities
+Russsia committed severe atrocities with the missile strike at the shopping center in Kremenchuk
 :::
 
 On June 27, 2022, Russian missiles fired at the “Amstor” shopping center in Kremenchuk, 22 people died, and more than a hundred were injured.[^denial-kremenchuk-1] 

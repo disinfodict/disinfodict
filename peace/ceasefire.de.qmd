@@ -14,7 +14,7 @@ abstract: >
 ::: {.callout-tip title="Wahrheit"}
 - Russland lehnt einen Waffenstillstand ab
 - Russland würde einen Waffenstillstand nutzen, um sich weiter zu bewaffnen und den Völkermord in den besetzten Gebieten fortzusetzen
-- Wenn Russland Frieden wollte, hätte es niemals eine Invasion durchgeführt
+- Wenn Russland Frieden wollte, wäre es niemals einmarschiert
 :::
 
 {{< var todo >}}

@@ -6,12 +6,12 @@ abstract: >
 # Oval Office operation {#sec-us-ovaloffice}
 
 ::: {.callout-caution title="Myth"}
-Zelenskyy disrespected the Oval Office and did not sign the rare-earth deal because he does not want peace.
+Zelenskyy disrespected the Oval Office and did not sign the rare-earth deal because he does not want peace
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(Trump%7CVance)%20(Zelenskyy%7CZelenskyi)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-The democratic leader Zelenskyy of a country suffering war and genocide, was disrespectfully harassed by Donald Trump and J.D. Vance and bravely refused to sign a contract with which American oligarchs wanting to seize Ukrainian raw materials without offering protection.[^us-ovaloffice-1]
+The democratic leader Zelenskyy of a country suffering war and genocide, was disrespectfully harassed by Donald Trump and J.D. Vance and bravely refused to sign a contract with which American oligarchs wanting to seize Ukrainian raw materials without offering protection[^us-ovaloffice-1]
 :::
 
 Let's start with two quotes:
@@ -80,8 +80,8 @@ All that has been said by Trump and Vance had before said by Russia. From the US
 
 We evaluated the complete 50 minute recording and find much more worse failures (excerpts, not a full transcript).[^us-ovaloffice-1] 
 
-::: {.callout-tip title="Summary"}
-Zelenskyy is facing a narcissistic President of the US who did not do anything to stop Putin or think about security for Ukraine. His *only* interest was getting a deal on rare earths ... and having Vance blaming Zelenskyy for his Trumps failure to stop Putin.
+::: {.callout-note title="Summary"}
+Zelenskyy is facing a narcissistic President of the US who did not do anything to stop Putin or think about security for Ukraine. His *only* interest was getting a deal on rare earths ... and having Vance blaming Zelenskyy for his Trumps failure to stop Putin
 :::
 
 

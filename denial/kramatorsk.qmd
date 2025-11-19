@@ -6,15 +6,15 @@ abstract: >
 # Kramatorsk Railway {#sec-denial-kramatorsk}
 
 ::: {.callout-caution title="Myth"}
-- the bombing of the railway station never happened
-- the killed civilians were soldiers
-- Ukrainian military did it
-- Ukrainian fascists did it
+- the bombing of the Kramatorsk railway station never happened
+- the killed civilians at the Kramatorsk railway station were soldiers
+- Ukrainian military did bomb the Kramatorsk railway station
+- Ukrainian fascists did bomb the Kramatorsk railway station
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Kramatorsk&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-Russia bombed multiple railway stations on that day
+Russia bombed multiple railway stations on the day it killed civilians at the Kramatorsk railway station
 :::
 
 \index{Cluster munitions}

@@ -6,14 +6,14 @@ abstract: >
 # Persons Navalny {#sec-persons-navalny}
 
 ::: {.callout-caution title="Myth"}
-Navalny is an enemy of Putin, hence a friend of Ukraine  
+Navalny is an enemy of Putin, hence a friend of Ukraine
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Alexei%20Navalny&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
 - The enemy of our enemy is not our friend
 - Navalny and his group are pursuing russian imperialistic goals
-- The russian "opposition" is not helpful
+- The russian "opposition" is not helpful for Ukraine or Europe
 :::
 
 ## "I will not return Crimea to Kyiv"

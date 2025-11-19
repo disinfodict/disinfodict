@@ -6,7 +6,7 @@ abstract: >
 # Russian language {#sec-language-russia}
 
 ::: {.callout-caution title="Myth"}
-- Russian speakers are russians
+- Russian speakers in UKraine are russians
 - Russian language is forbidden in Ukraine
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20language&sort=relevance)
 :::

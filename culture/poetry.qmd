@@ -6,7 +6,7 @@ abstract: >
 # Ukrainian poetry {#sec-culture-poetry}
 
 ::: {.callout-caution title="Myth"}
-Pushkin is the national poet of all Slavs.
+Pushkin is the national poet of all Slavs
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=Shevchenko&sort=relevance)
 :::
 

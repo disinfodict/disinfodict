@@ -6,18 +6,18 @@ abstract: >
 # Russische Opposition {#sec-russia-opposition}
 
 ::: {.callout-caution title="Mythos"}
-- Die russische Opposition ist unsere Hoffnung für ein friedliches Russland.
+- Die russische Opposition ist unsere Hoffnung für ein friedliches Russland
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20opposition%20&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-- Der russischen Opposition kann man nicht trauen.
-- Sie unterstützt den russischen Imperialismus.
-- Sie spricht das russische Volk frei.
-- Sie fordert ein Ende der Sanktionen.
-- Sie führt den Westen in die Irre.
-- Sie ist in Russland zahnlos.
-- Sie stiehlt der Ukraine Unterstützung.
+- Der russischen Opposition kann man nicht trauen
+- Die russische Opposition unterstützt den russischen Imperialismus
+- Die russische Opposition spricht das russische Volk frei
+- Die russische Opposition fordert ein Ende der Sanktionen
+- Die russische Opposition führt den Westen in die Irre
+- Die russische Opposition ist in Russland zahnlos
+- Die russische Opposition stiehlt der Ukraine Unterstützung
 :::
 
 ## Der russischen Opposition kann man nicht trauen

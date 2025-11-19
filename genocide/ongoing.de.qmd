@@ -6,21 +6,21 @@ abstract: >
 # Völkermord läuft {#sec-genocide-ongoing}
 
 ::: {.callout-caution title="Mythos"}
-- Völkermord findet nicht statt
-- Es waren nicht die Russen
-- Es ist kein Völkermord
-- Die Opfer haben es verdient
-- Die Opfer tun es selbst
-- Die Opfer tun es uns (Russen) an
+- Ein Völkermord in der Ukraine findet nicht statt
+- Den Völkermord in der Ukraine begehen die Ukrainer an sich selbst
+- Die Opfer den Völkermords in der Ukraine haben es verdient
+- Die Opfer den Völkermords in der Ukraine sind Russen
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=genocide%20ukraine&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Russland hat den Völkermord an allen und allem Ukrainischen angekündigt und begonnen.
+Russland hat den Völkermord an allen und allem Ukrainischen angekündigt und begonnen
 :::
 
 
 > Genocide Watch gibt einen Notfallalarm zu den Äußerungen von US-Präsident Donald Trump über den Krieg in der Ukraine heraus ... Die russische Aggression und der Völkermord werden sich verschlimmern, wenn die USA die Ukraine im Stich lassen. Russland ist in jeder Phase des Völkermordes in der Ukraine tätig. Genocide Watch betrachtet die Aussagen der Trump-Administration als Beihilfe zum Völkermord. Sie sind ein Beweis für Stufe 4: Entmenschlichung, Stufe 5: Organisation und Stufe 6: Polarisierung. Trumps Rhetorik spiegelt russische Desinformation wider.[^genocide-ongoing-1]
+
+Die internationale Presse beißt sich an Gaza fest, und unterschätzt massiv den von Russland in der Ukraine vorangetriebenen Genozid.[^genocide-ongoing-2]
 
 
 ## Säuberungen auf der Krim, im Donbas und in Luhansk seit 2014
@@ -64,6 +64,7 @@ Siehe Kriegsverbrechen:
 
 Siehe Kriegsverbrechen:
 
+- gegen Zivilisten @sec-warcrimes-civilians und insbesondere [Menschenjagd](#sec-warcrimes-humansafari)
 - gegen zivile Infrastruktur @sec-warcrimes-infrastructure
 - gegen nukleare Einrichtungen @sec-warcrimes-nuclear
 - systematische Zerstörung von Dörfern und Städten @sec-warcrimes-urbicide
@@ -84,4 +85,5 @@ Siehe @sec-warcrimes-children
 
 [^genocide-ongoing-1]: Ukraine Advocacy Task Force (Feb. 26, 2025). Genocide Watch. [https://www.genocidewatch.com/single-post/ukraine-genocide-emergency](https://www.genocidewatch.com/single-post/ukraine-genocide-emergency)
 
+[^genocide-ongoing-2]: Zarina Zabrisky (June 2, 2025). The Silence of the Headlines. [https://fresnoalliance.com/the-silence-of-the-headlines/](https://fresnoalliance.com/the-silence-of-the-headlines/)
 

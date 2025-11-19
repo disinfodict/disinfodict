@@ -6,11 +6,11 @@ abstract: >
 # Denial intro {#sec-denial-intro}
 
 ::: {.callout-caution title="Myth"}
-- it was staged
-- it didn't happen
-- it wasn't us (Russia)
-- it was Ukraine
-- they deserved it
+- This atrocity was staged
+- This atrocity never took place
+- This atrocity was not committed by Russia
+- This atrocity was committed by Ukraine
+- The victims deserved this atrocity
 [<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(alleged%7Cdenied%7Cconfessed)&sort=relevance)
 :::
 
@@ -19,6 +19,5 @@ Every Russian accusation is a confession
 :::
 
 The claim that Ukraine staged "false flag" operations to blame Russia is not only unfounded but also serves to obscure the announced (@sec-genocide-announced) and systematically committed (@sec-warcrimes-intro) Russian terror against the civilian population, infrastructure and culture, which has been extensively documented through satellite imagery and on-site investigations.
-
 
 The following chapters show the audacity of Russian disinformation.

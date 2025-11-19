@@ -12,7 +12,7 @@ abstract: >
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Das russische Fernsehen droht der NATO, ihre Hauptstädte mit Atomwaffen zu bombardieren, aber das ist Propaganda-Unsinn: Niemand bombardiert ohne Weiteres irgendjemand anderen.
+Das russische Fernsehen droht der NATO, ihre Hauptstädte mit Atomwaffen zu bombardieren, aber das ist Propaganda-Unsinn: Niemand bombardiert ohne Weiteres irgendjemand anderen
 :::
 
 Die folgenden Beispiele stammen von Julia Davies Russian Media Monitor:

@@ -15,9 +15,9 @@ abstract: >
 
 ::: {.callout-tip title="Truth"}
 - Gorbachev had no choice because the USSR was bancrupt
-- Gorbachev messed up with Chornobyl 
-- Gorbachev was yet another russian leader commiting crimes against its neighbors
-- Gorbachev welcomed Russia's invasion of Crimea 
+- Gorbachev messed up with Chornobyl
+- Gorbachev was yet another russian leader committing crimes against its neighbors
+- Gorbachev welcomed Russia's invasion of Crimea
 :::
 
 Mikhail Gorbachev was indeed one of the most prominent politicians of the 20th century, and his efforts to modernize the Soviet economy, increase political openness, and contribute to the end of the Cold War are often regarded as positive steps toward reform and diplomatic engagement. However, in many aspects, this view of his legacy is rather one-sided, and his policy is subject to fair criticism, especially in Ukraine.

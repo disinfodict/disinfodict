@@ -6,14 +6,17 @@ abstract: >
 # Verhandlungen Russland {#sec-negotiations-russia}
 
 ::: {.callout-caution title="Mythos"}
-Russland ist bereit, über den Frieden zu verhandeln.
+- Russland ist bereit, über den Frieden zu verhandeln
+- Der Westen will Waffen statt Verhandlungen
 [<br></br>![Suche nach Stichwort in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=(russia%7Cmoscow%7Cputin)%20(negotiate%7Cnegotiations)&sort=relevance)
 :::
 
 ::: {.callout-tip title="Wahrheit"}
 - Russland marschierte während der Verhandlungen ein[^negotiations-russia.de-3]
+- Russland will nicht verhandeln sondern erobern
+- Für Russland sind Verhandlungen ein Mittel der Verzögerung, Täuschung und Spaltung um den Krieg zu gewinnen
 - Russland verlangte immer die Kapitulation vor einem Waffenstillstand
-- Russland sagte, er werde nicht verhandeln, solange er seinen Krieg gewinnen kann
+- Putin sagte, er werde nicht verhandeln, solange er seinen Krieg gewinnen kann
 :::
 
 Putin und andere russische Beamte haben regelmäßig fälschlicherweise behauptet, dass der Kreml bereit sei, Verhandlungen zur Beendigung des Krieges zu führen, während gleichzeitig signalisiert wird, dass der Kreml an seinen maximalistischen Zielen für die Ukraine festhält, einschließlich territorialer Ansprüche und eines Regierungswechsels. In einem kürzlich geführten Interview sagte der russische Präsident Wladimir Putin: “Es ist irgendwie lächerlich von unserer Seite, jetzt zu verhandeln, nur weil ihnen die Patronen ausgehen”.[^negotiations-russia.de-1] Dies deutet darauf hin, dass die russische Regierung nur dann verhandelt, wenn sie auf dem Schlachtfeld eine Niederlage erleidet. Zu dieser Einschätzung kommt auch das *“Institute for the Study of War”* im Juni 2024.[^negotiations-russia.de-2] Ukrainische Beamte hingegen haben ihre Bereitschaft zu Verhandlungen mit Russland bekundet, sobald Russland seine Truppen aus dem international anerkannten Territorium der Ukraine, einschließlich Donbas und Krim, abzieht.
