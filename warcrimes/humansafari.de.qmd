@@ -55,9 +55,13 @@ Die Nichtregierungsorganisation Truth Hounds hat Human Safari systematisch unter
 
 Wir empfehlen Ihnen, den vollständigen Bericht von Truth Hounds zu lesen, insbesondere die Empfehlungen am Ende.[^warcrimes-humansafari-15]
 
-Der Dokumentarfilm *Kherson: Human Safari* ist auch sehr sehenswert und frei verfügbar:[^warcrimes-humansafari-1]
+Der deutsche Kriegsreporter Arndt Ginzel war Im Osten der Ukraine und berichtet in einer Video-Reortage u.a. aus Cherson:[^warcrimes-humansafari-16] 
 
-[![Zarina Zabrisky (2025) Kherson: Human Safari. Documentary. Screenshot of Trailer](warcrimes.humansafari.KhersonHumanSafariTrailerScreenshot.jpg)](https://khersonhumansafari.com)
+[![Arndt Ginzel (2025) Niemand ist sicher. Screenshot des ZDF frontal Videos auf Youtube.](warcrimes.humansafari.NiemandIstSicher.jpg){width=67%}](https://www.youtube.com/watch?v=Q9zAhuMagec&t=760s)
+
+Der aufwendig gedrehte Dokumentarfilm *Kherson: Human Safari* von Zarina Zabrisky ist sehr sehenswert und frei verfügbar:[^warcrimes-humansafari-1]
+
+[![Zarina Zabrisky (2025) Kherson: Human Safari. Documentary. Screenshot of Trailer](warcrimes.humansafari.KhersonHumanSafariTrailerScreenshot.jpg){width=67%}](https://khersonhumansafari.com)
 
 
 ## Jagdmethoden
@@ -157,4 +161,4 @@ Erik Møse, Chair of the UN Commission of Inquiry on Ukraine, which has declared
 
 [^warcrimes-humansafari-15]: Truth Hounds (November 17 2025) Killzone: How Russian Drones Are Devastating the River Dnipro’s Right Bank. [https://truth-hounds.org/en/cases/killzone-how-russian-drones-are-devastating-the-river-dnipros-right-bank/](https://truth-hounds.org/en/cases/killzone-how-russian-drones-are-devastating-the-river-dnipros-right-bank/)
 
-
+[^warcrimes-humansafari-16]: Arndt Ginzel (20.11.2025) Niemand ist sicher. Wie Russlands Drohnenkrieg das Leben in der Ukraine verändert. ZDF frontal. [https://www.youtube.com/watch?v=Q9zAhuMagec&t=760s](https://www.youtube.com/watch?v=Q9zAhuMagec&t=760s)
