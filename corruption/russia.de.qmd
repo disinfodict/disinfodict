@@ -59,6 +59,7 @@ Siehe auch das Kapitel über russische Werte @sec-russia-values.
 
 Die Behauptung, dass der Lebensstandard in Russland höher sei als in westlichen Ländern, ist falsch. Laut dem Human Development Index (HDI)[^corruption-russia.de-11] , einem von den Vereinten Nationen entwickelten Maßstab zur Bewertung der sozialen und wirtschaftlichen Entwicklung, belegt die Schweiz den ersten Platz bei der Lebensqualität. Norwegen ist auf dem zweiten Platz, gefolgt von Island auf dem dritten Platz. Weitere Länder in den Top Ten des HDI-Rankings sind Hongkong, Australien, Dänemark, Schweden, Irland, Deutschland und die Niederlande. Die Vereinigten Staaten rangieren auf dem 21\. Platz, Österreich auf dem 25\. Platz. Diese Nationen erzielen hohe Werte in den Bereichen Gesundheitsversorgung, Einkommen und Bildung und bieten ihren Bürgern eine überlegene Lebensqualität. Russland hingegen liegt deutlich niedriger auf dem 51\. Platz.
 
+Für mehr Details siehe @sec-russia-life.
 
 
 [^corruption-russia.de-1]:  2023 Corruption Perceptions Index \- Explore Russia’s results. (2024, January 30). Transparency.org. [https://www.transparency.org/en/cpi/2023/index/rus](https://www.transparency.org/en/cpi/2023/index/rus)

@@ -15,6 +15,11 @@ abstract: >
 Russia fights  a hybrid war against Europe
 :::
 
+
+## Shadow warfare
+
+
+
 ##  Attacks in Ukraine
 
 
@@ -41,4 +46,12 @@ Russia fights  a hybrid war against Europe
 
 {{< var todo >}}
 
+
+[^ruwar-hybrid-1]: 	Piotr Arak (November 20, 2025) Russia’s shadow war: How the Kremlin uses sabotage to wear down Europe. [https://www.atlanticcouncil.org/blogs/new-atlanticist/russias-shadow-war-how-the-kremlin-uses-sabotage-to-wear-down-europe/](https://www.atlanticcouncil.org/blogs/new-atlanticist/russias-shadow-war-how-the-kremlin-uses-sabotage-to-wear-down-europe/)
+
+[^ruwar-hybrid-2]: Seth G. Jones (March 18, 2025) Russia’s Shadow War Against the West, Center for Strategic and International Studies (CSIS) [https://www.csis.org/analysis/russias-shadow-war-against-west](https://www.csis.org/analysis/russias-shadow-war-against-west)
+
+[^ruwar-hybrid-3]:  CEPA Program Democratic Resilience (14 January 2025)  Defend, Deny, Deter: Countering Russia’s Shadow War. Center for European Policy Analysis’s (CEPA). [https://cepa.org/programs/democratic-resilience/countering-russias-shadow-war/](https://cepa.org/programs/democratic-resilience/countering-russias-shadow-war/)
+
+[^ruwar-hybrid-4]: Sam Greene (14 January 2025) War Without End: Russia’s Shadow Warfare. Center for European Policy Analysis’s (CEPA) [https://cepa.org/comprehensive-reports/war-without-end-russias-shadow-warfare/](https://cepa.org/comprehensive-reports/war-without-end-russias-shadow-warfare/)
 

@@ -53,7 +53,7 @@ Das *Desinfo-Lexikon* geht auf diese Herausforderungen ein, durch
 
 - bereitstellen kuratierter Wahrheiten im Kontext des russischen Krieges in der Ukraine
 - aufklären über die Muster der Propaganda
-- verlinken zu offiziell diagnostizierter und widerlegter Desinformation auf [![EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/)
+- verlinken zu offiziell diagnostizierter und widerlegter Desinformation auf [![EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/)
 - Stichwortnavigation und Suchfunktion die Wahrheit schnell zu finden
 - rasches Widerlegen der Lügen mittels Verlinkung oder Copy-Paste der Wahrheiten
 - schneller impliziert höheren Durchsatz und daher bessere Skalierung^[obwohl die Skalierung von Desinformation viel billiger ist, es sei denn, die Regulierung erzwingt algorithmische Gegenmaßnahmen]
@@ -70,4 +70,5 @@ Wenn Sie sich nach unserem Logo fragen, es ist so hergeleitet
 und ist schließlich
 
 ![DifD Logo](../all_common_img/DisinfoDict_logo_1x1_trans.png){width=30%}
+
 [^intro-preface-1]: Inna Hadzynska and Bohdana Bakay and Nadya Kelm (3.7.2025). Russians are writing their own encyclopedia: Ruwiki, from which they are crossing out war. texty.org. [https://texty.org.ua/articles/115275/klon-vikipediyi-na-sluzhbi-propahandy-yak-ruviki-perepysuye-realnist-dlya-rosiyan/](https://texty.org.ua/articles/115275/klon-vikipediyi-na-sluzhbi-propahandy-yak-ruviki-perepysuye-realnist-dlya-rosiyan/)

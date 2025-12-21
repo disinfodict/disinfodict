@@ -58,6 +58,8 @@ See also the chapter on russian values @sec-russia-values.
 
 The claim that the standard of living in Russia is higher than in Western countries is false. According to the Human Development Index (HDI)[^corruption-russia-11] a measure developed by the United Nations to assess social and economic development, Switzerland ranks highest for quality of life. Norway is in second place, followed by Iceland in third. Other countries in the top ten of the HDI rankings include Hong Kong, Australia, Denmark, Sweden, Ireland, Germany, and the Netherlands. The United States ranks 21st, and Austria is 25th. These nations achieve high scores in healthcare, income, and education, offering their citizens a superior quality of life. Russia, on the other hand, is significantly lower at 51st.
 
+For more details see @sec-russia-life.
+
 
 
 [^corruption-russia-1]:  2023 Corruption Perceptions Index \- Explore Russia’s results. (2024, January 30). Transparency.org. [https://www.transparency.org/en/cpi/2023/index/rus](https://www.transparency.org/en/cpi/2023/index/rus) 

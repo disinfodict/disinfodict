@@ -1,0 +1,57 @@
+---
+abstract: >
+  Get involved in the fight for a free Europe: donate to Ukraine.
+format:
+  html:
+    link-external-newwindow: true
+---
+
+# Help and donate {.unnumbered #sec-appendix-act}
+
+
+## Nets save lives
+
+> Cast your nets for a catch — Luke 5:4
+
+Since May 2024, Kherson has been under constant attack from drones launched from the Russian-occupied bank of the Dnipro River. These drones are deliberately targeted at civilians, hospitals, residential buildings, and civilian vehicles. This [“human safari”](#sec-warcrimes-humansafari) can be countered by placing nets over roads and buildings: drones get caught in the nets (which are difficult for drone cameras to detect) instead of exploding at their target, or they stay away when they detect the nets. In this way, many lives can be saved with manageable effort.[^appendix-act-1] 
+
+Old used fishing nets are collected and provided free of charge by Carl Futtrup in Denmark. Transport to Kherson in southern Ukraine costs around €3,000 per trip. As of December 20th 2025, 11 Semi-trailer trucks with 20 tons nets have been transported by *Fellas for Europe e.V.* together with *Osteuropahilfe der Landkreise Starnberg, Bad Tölz-Wolfratshausen und München e.V.*[^appendix-act-2] More are needed to save lives.
+
+
+:::: {.content-visible when-format="html:js"}
+::: {layout-ncol=2}
+![Appeal to humanity (Video (7.5 MB))  
+](/all_common_img/nets-save-lives-1.mp4)  
+[![Screeenshot of The Kyiv Independent’s report on youtube  
+](/all_common_img/nets-save-lives-3.jpg)  
+The Kyiv Independent’s report on Youtube  
+(Francis Farrell and Olena Zashko)](https://www.youtube.com/watch?v=lmyslTMbkkE)  
+
+![Loading a semi-trailer truck with nets (Video (2.8 MB))](/all_common_img/nets-save-lives-2.mp4)  
+:::  
+::::  
+
+
+## Donate here
+
+> Fellas for Europe e.V.  
+> IBAN **DE89 8306 5408 0005 3206 40**  
+> Reference: “Nets”
+
+
+::: {layout-ncol=2}
+[![Link to Fellas for Europe e.V.](../all_common_img/Fellas4Europe_Logo.png)](https://fellas4europe.org/)
+
+[![Link to Osteuropahilfe der Landkreise Starnberg, Bad Tölz-Wolfratshausen und München e.V.](../all_common_img/Osteuropahilfe.png){width="50%"}](https://www.osteuropa-hilfe.de/)
+:::  
+
+
+
+[^appendix-act-1]:   Olga Tokariuk  (15. December 2025). A ‘human safari’: The Russian drones targeting Ukraine’s civilians. Ukrainians on the frontline in Kherson tell Olga Tokariuk how they withstand daily enemy attacks – by sheltering under trees, staying indoors on clear days and with netting over the roads. Chatham Hause. 
+ [https://www.chathamhouse.org/publications/the-world-today/2025-12/human-safari-russian-drones-targeting-ukraines-civilians](https://www.chathamhouse.org/publications/the-world-today/2025-12/human-safari-russian-drones-targeting-ukraines-civilians)
+
+[^appendix-act-2]: Rubryka (28 Nov 2025) United to win: Danish volunteer delivers ninth truckload of fishing nets to Kherson. 
+[https://rubryka.com/en/2025/11/28/herson-otrymav-vid-volontera-z-daniyi-dev-yatu-furu-z-rybalskymy-sitkamy/](https://rubryka.com/en/2025/11/28/herson-otrymav-vid-volontera-z-daniyi-dev-yatu-furu-z-rybalskymy-sitkamy/)
+
+
+

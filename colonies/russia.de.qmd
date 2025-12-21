@@ -1,6 +1,6 @@
 ---
 abstract: > 
-  Helfen Sie uns beim Schreiben: Wie Russland ein Kolonialreich ist und wie es seine Kolonien unterwirft und ausbeutet.
+  Helfen Sie uns beim Schreiben: Wie Russland ein Kolonialreich ist und wie es seine Kolonien unterwirft und ausbeutet: Mafia mit Ideologie und Staat.
 ---
 
 # Russischer Kolonialismus {#sec-colonies-russia}
@@ -20,16 +20,83 @@ Russland bekämpft den Kolonialismus des Westens
 
 {{< var todo >}}
 
-## Section 2
 
-{{< var todo >}}
+## Russifizierung
 
-## Section 3
+### Statthalter
 
-{{< var todo >}}
+Die erste Maßnahme der Unterwerfung der Kolonie ist die Plazierung eines russichen Statthalters, der mit absoluter, militärischer Macht ausgestattet ist.
+
+### Schlüsselpositionen
+
+Die zweite Maßnahme der Unterwerfung der Kolonie ist die Besetzung von Schlüsselpositionen mit Russen
+
+
+
+### Filtration
+
+Die Bewohner der Kolonie werden durch Filtrationslager geschleust, und nach dem Grad Ihrer Gefährlichkeit für das Imperium sortiert, wie in Auschwitz an der Rampe: 
+
+- einige direkt ermordet
+- einige werden verhaftet und gefoltert
+- einige eingeschüchtert und als Sklaven "freigelassen"
+
+
+### Erzählungen
+
+> Andruchowytsch schildert, wie Russland im Lauf seiner Geschichte immer wieder Simulakren schuf, um sich und seine Expansion zu legitimieren – von der Zarenzeit, in der ein russisches Imperium erfunden wurde, bis hin zum ukrainischen Präsidentschaftswahlkampf im Jahr 2004, wo die Erzählung von den Nazis in der Ukraine ersonnen wurde.
+
+
+### Sprache
+
+> Die Grenzen meiner Sprache sind die Grenzen meiner Welt — Ludwig Wittgenstein
+
+Was wie abstrakte Philosophie klingt, kann in einer harten Wähtung gemessen werden: wenn das Imperium die Sprache der Metropole durchsetzt, bestimmt dies, welche Bücher, Zeitungen, Radio- und Fernsehsendungen. Die Ukrainer pflegen ihre Kultur zu einem großen Teil in der ukrainischen Sprache, die gewaltsame Durchsetzung der russichen Sprache schneidet die Ukrainer von ihremkulturen Erbe ab. Dafür muss man nicht mal Bücher verbieten. Siehe @sec-language-ukraine. 
+
+
+### Ideologie
+
+Faschistische Herrschaft braucht Ideologie. Kontrolle der Köpfe ist essentiell. Welche Ideologie ist dabei zweirangig. Nicht einmal Logik in der Ideologie ist dabei nötig. Ganz im Gegenteil: wenn eine Ideologie logische Brüche aufweist, ergeben sich vortreffliche Gelgenheiten, den Gehorsam der Sklaven zu testen: jene die aufmerken, aufmucken gegen logische (und moralische) Brüche, werden aussortiert, behalten werden jene, die sich konsequent unterwerfen, ihr eigenes Denken der Ideologie unterordnen. Jene, die sich perfekt korrumoieren lassen.
+
+> Der Nationalsozialismus beruht darauf, dass noch die kleinste Dinge von der Kindheit bis ins hohe Alter von der politischen Ideologie unterworfen werden. Alles, was man tut, welche Musik man hört, welche Kleidung man trägt, wird eingepasst in die nationalsozialistische Ideologie. Und der Nationalsozialismus hat es verstanden, den Menschen eine bestimmte Form von Harmlosigkeit anzubieten auch als Ablenkung von der Barbarei, also das Kraft-durch-Freude-Programm oder auch scheinbar ganz unpolitische Filmproduktionen und insofern kann man sagen, und das ist eine der Pointen von George Mosse, es gab da keinen harmlosen Alltag.[^colonies-russia-2]
+
+### Korruption
+
+Eines der wirksamsten Mittel zur Zerstörung der regelbasierten Ordnung ist der Export der russischen Korruption, siehe @sec-corruption-russia. Die Korruption kann rein anreizbezogen mit Geld funktionieren, aber Russland hilft gerne mit Gewalt nach:
+
+- durch Sammeln und Erzeugen von Kompromat
+- durch Vorenthalten von Medikamenten, Lebensmitteln, Wohnungen, Ausbildungen, Arbeit, der eigenen Kinder bei Verweigerungen eines russischen Passes
+- durch Folter
+
+
+### Deportation
+
+Menschen, die durch die erwähnten Gewaltmaßnahmen aus russischer Sicht nicht genügend kooperieren, werden entwurzelt und in entfernte Kolonien deportiert (Sibirien usw.). Dort landen sie in Straflagern, Arbeitslagern, bestenfalls dürfen sie "frei" als Sklaven arbeiten. 
+
+### Mord
+
+Die Metropole behält sich vor, ihre Sklaven jederzeit zu ermorden, unter der Folter, in Lagern, oder durch Tee und Fensterstürze. 
+
+
+### Besiedelung
+
+Langfristig wird die Bevölkerung in der Kolonie nicht "nur" mir russischen Pässen ausgestattet und umerzogen, sondern auch durch ethnische Russen ersetzt. Jeder Aufstand in der Kolonie wird mit Hinweis auf den "Schutz" russischer Bürger 
+
+
+### Annexion
+
+Hinreichend attraktive Kolonien werden vom Imperium annektiert, wimit die imperiale Kolonisierung abgeschlossen ist. Das betrifft in ersten Linie die Ukraine, dem Herz der slawischen Christianisierung und Ziviliserung: die Kyjiver Rus', siehe @sec-ukraine-kyiv. 
+
+
 
 ## Section 4
 
 {{< var todo >}}
 
+
+[^colonies-russia-1]: Botakoz Kassymbekova & Annette Werberger (14. September 2025) Russland führt einen ideologischen Krieg. [https://geschichtedergegenwart.ch/russland-fuehrt-einen-ideologischen-krieg/](https://geschichtedergegenwart.ch/russland-fuehrt-einen-ideologischen-krieg/)
+
+[^colonies-russia-2]: Andreas Beckmann (13.06.2019) Kongress zum 100. Geburtstag von George MosseWie die Kulturwissenschaft europäischen Faschismus erklärt. Deutschlandfunk. [https://www.deutschlandfunk.de/kongress-zum-100-geburtstag-von-george-mosse-wie-die-100.html](https://www.deutschlandfunk.de/kongress-zum-100-geburtstag-von-george-mosse-wie-die-100.html)
+
+[^colonies-russia-3]:  Jens Uthoff (28.11.2023) Essays des Ukrainers Juri Andruchowytsch: Hellsichtiger Realist. [https://taz.de/Essays-des-Ukrainers-Juri-Andruchowytsch/!5972515/](https://taz.de/Essays-des-Ukrainers-Juri-Andruchowytsch/!5972515/)
 

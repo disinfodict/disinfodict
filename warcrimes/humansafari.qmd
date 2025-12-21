@@ -4,7 +4,7 @@ abstract: >
 ---
 
 
-# Warcrimes – safari {#sec-warcrimes-humansafari}
+# Warcrimes – Human Safari {#sec-warcrimes-humansafari}
 
 ::: {.callout-caution title="Myth"}
 Ukrainian army organizes hunting of pro-Russian civilians in Donbas for rich people
@@ -56,6 +56,8 @@ You are encouraged to read the complete report of Truth Hounds, particularly the
 German war reporter Arndt Ginzel was in eastern Ukraine and reports in a video report from Kherson, among other places:[^warcrimes-humansafari-16] 
 
 The elaborately filmed documentary *Kherson: Human Safari* by Zarina Zabrisky is well worth watching and freely available:[^warcrimes-humansafari-1]
+
+[![Zarina Zabrisky (2025) Kherson: Human Safari. Documentary. Screenshot of Trailer. Click to film.](warcrimes.humansafari.KhersonHumanSafariTrailerScreenshot.jpg){width=67%}](https://khersonhumansafari.com)
 
 
 ## Hunting methods
@@ -109,21 +111,29 @@ As usual, Russia accuses the other side of its own crimes, but every Russian acc
 
 The United Nations Commission of Inquiry finally ruled in October 2025:
 
-> Russian authorities committed crimes against humanity targeting civilian population through drone attacks as well as war crimes of forcible transfer and deportation of civilians[^warcrimes-humansafari-13]
+> Russian authorities committed crimes against humanity targeting civilian population through drone attacks as well as war crimes of forcible transfer and deportation of civilians  
+> UN Menschrechtskommision [^warcrimes-humansafari-17] [^warcrimes-humansafari-13] [^warcrimes-humansafari-18]
 
 > Erik Møse, Chair of the UN Commission of Inquiry on Ukraine, which has declared Russia’s drone terror a crime against humanity, explains how investigators traced a direct chain of command—from drone operators on the Dnipro’s left bank to the Kremlin itself.[^warcrimes-humansafari-12] 
 
 
+## Day of Action
+
+On December 13 and 14, 2025, a global day of action called “STOP HUMAN SAFARI - SAVE KHERSON” took place. 
+
+[![STOP HUMAN SAFARI - SAVE KHERSON - Humans Are Not Targets - #HumansAreNotTargets - #StopHumanSafari - #SaveKherson](stop-human-safari-mother-child.jpeg){width=67%}](https://www.humansafari.org)
+
+See [here](#sec-appendix-act) to donate for live-saving nets. 
+
+
+
 ## Further reading
 
-Ukraїner has psublished an excellent documentation on Kherson, three years after liberation.[^warcrimes-humansafari-14]
+Ukraїner has published an excellent documentation on Kherson, three years after liberation.[^warcrimes-humansafari-14]
 
-For more articles related to human safari in Kherson see from [Zarina Zabrisky](https://en.wikipedia.org/wiki/Zarina_Zabrisky) at [Euromaidan Press](https://euromaidanpress.com/author/zarinazabrisky/?post-all=1) and at [Community Alliance](https://fresnoalliance.com/author/zarina-zabrisky/). 
+For more articles related to human safari in Kherson see from [Zarina Zabrisky](https://en.wikipedia.org/wiki/Zarina_Zabrisky) auf [Byline Times July 2024](https://bylinetimes.com/2024/07/29/kherson-ukraine-drone-attacks-civilians/), [March 2025](https://bylinetimes.com/2025/03/06/caught-in-the-net-star-wars-tactics-and-geopolitical-struggles-in-kherson/), [May 2025](https://bylinetimes.com/2025/05/29/un-confirms-russian-drone-attacks-on-kherson-are-crimes-against-humanity-and-war-crimes/), [July 2027](https://bylinetimes.com/2025/07/28/aerial-terror-in-kherson-a-city-under-drone-siege/), [October 2025](https://bylinetimes.com/2025/10/28/russia-is-using-drones-and-deportations-to-empty-southern-ukraine-un-confirms/), undat [Euromaidan Press](https://euromaidanpress.com/author/zarinazabrisky/?post-all=1) and at [Community Alliance](https://fresnoalliance.com/author/zarina-zabrisky/). 
 
 A regularly updated list of publications on Human Safari in Kherson can be found at [Linktree](https://linktr.ee/Kherson_Human_Safari). 
-
-
-
 
 
 
@@ -132,8 +142,6 @@ A regularly updated list of publications on Human Safari in Kherson can be found
 [^warcrimes-humansafari-2]: Human Rights Watch (June 3, 2025) Listen, Run, Hide. How Russia uses quadcopter drones hunt kill Kherson [https://www.hrw.org/feature/2025/06/03/listen-run-hide/how-russia-uses-quadcopter-drones-hunt-kill-kherson](https://www.hrw.org/feature/2025/06/03/listen-run-hide/how-russia-uses-quadcopter-drones-hunt-kill-kherson)
 
 [^warcrimes-humansafari-3]: Human Rights Watch (June 3, 2025) Hunted From Above Russia’s Use of Drones to Attack Civilians in Kherson, Ukraine. [https://www.hrw.org/report/2025/06/03/hunted-from-above/russias-use-of-drones-to-attack-civilians-in-kherson-ukraine](https://www.hrw.org/report/2025/06/03/hunted-from-above/russias-use-of-drones-to-attack-civilians-in-kherson-ukraine)
-
-[^warcrimes-humansafari-4]: United Nations Human Rights office of the High Commissioner (28 May 2025) Independent International Commission of Inquiry on Ukraine, Human Rights Council, Fifty-ninth session. [https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/coiukraine/a-hrc-59-crp2-en.pdf](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/coiukraine/a-hrc-59-crp2-en.pdf)
 
 [^warcrimes-humansafari-5]: Zarina Zabrisky (23/09/2025) Highway of fire: Russian drones turn Kherson’s lifeline road into a death trap. Russia’s drone siege turns every car ride into a death lottery. [https://euromaidanpress.com/2025/09/23/we-pity-no-one-russian-drone-pilots-terrorize-kherson-drivers-on-death-highway/](https://euromaidanpress.com/2025/09/23/we-pity-no-one-russian-drone-pilots-terrorize-kherson-drivers-on-death-highway/)
 
@@ -153,10 +161,18 @@ Russia’s drone hunt for civilians in Kherson has intensified: now, the remaini
 [^warcrimes-humansafari-12]: Zarina Zabrisky (11/11/2025) UN traces Kherson’s “human safari” up the chain of command — to Putin himself
 Erik Møse, Chair of the UN Commission of Inquiry on Ukraine, which has declared Russia’s drone terror a crime against humanity, explains how investigators traced a direct chain of command—from drone operators on the Dnipro’s left bank to the Kremlin itself. [https://euromaidanpress.com/2025/11/11/three-years-after-liberation-un-traces-khersons-human-safari-to-putin/](https://euromaidanpress.com/2025/11/11/three-years-after-liberation-un-traces-khersons-human-safari-to-putin/)
 
-[^warcrimes-humansafari-13]: United Nations Human Rights office of the High Commissioner (21 October 2025) Independent International Commission of Inquiry on Ukraine, Human Rights Council, Fifty-ninth session. [https://www.ohchr.org/en/hr-bodies/hrc/iicihr-ukraine/index](https://www.ohchr.org/en/hr-bodies/hrc/iicihr-ukraine/index)
 
 [^warcrimes-humansafari-14]: Ukraїner (November 10, 2025) Frontline towns - Kherson: petals of roses and mines. To the third anniversary of liberation. [https://www.ukrainer.net/en/pryfrontovi-mista-kherson/](https://www.ukrainer.net/en/pryfrontovi-mista-kherson/)
 
 [^warcrimes-humansafari-15]: Truth Hounds (November 17 2025) Killzone: How Russian Drones Are Devastating the River Dnipro’s Right Bank. [https://truth-hounds.org/en/cases/killzone-how-russian-drones-are-devastating-the-river-dnipros-right-bank/](https://truth-hounds.org/en/cases/killzone-how-russian-drones-are-devastating-the-river-dnipros-right-bank/)
 
 [^warcrimes-humansafari-16]: Arndt Ginzel (20.11.2025) Niemand ist sicher. Wie Russlands Drohnenkrieg das Leben in der Ukraine verändert. ZDF frontal. (in German, you can activate english subtitles) [https://www.youtube.com/watch?v=Q9zAhuMagec&t=760s](https://www.youtube.com/watch?v=Q9zAhuMagec&t=760s)
+
+[^warcrimes-humansafari-4]: United Nations Human Rights office of the High Commissioner (28 May 2025) Independent International Commission of Inquiry on Ukraine, Human Rights Council, Fifty-ninth session. [https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/coiukraine/a-hrc-59-crp2-en.pdf](https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/coiukraine/a-hrc-59-crp2-en.pdf)
+
+[^warcrimes-humansafari-17]: United Nations Human Rights office of the High Commissioner (23 August 2023) Conference Room Paper of the Independent International Commission of Inquiry on Ukraine. [https://www.ohchr.org/en/hr-bodies/hrc/iicihr-ukraine/reports/hrc52crp4](https://www.ohchr.org/en/hr-bodies/hrc/iicihr-ukraine/reports/hrc52crp4) [direct link to 170 page pdf](https://www.ohchr.org/sites/default/files/2023-08/A_HRC_52_CRP.4_En%20%28003%29.pdf)
+
+[^warcrimes-humansafari-13]: United Nations Human Rights office of the High Commissioner (21 October 2025) Independent International Commission of Inquiry on Ukraine, Human Rights Council, Fifty-ninth session. [https://www.ohchr.org/en/hr-bodies/hrc/iicihr-ukraine/index](https://www.ohchr.org/en/hr-bodies/hrc/iicihr-ukraine/index) [direct link to ]()
+
+[^warcrimes-humansafari-18]: United Nations Human Rights office of the High Commissioner (27 October 2025) Report of the Independent International Commission of Inquiry on Ukraine to the UN General Assembly (A/80/497). [https://www.ohchr.org/en/hr-bodies/hrc/iicihr-ukraine/reports/report-independent-international-commission-inquiry-ukraine-un-general-assembly-a80497](https://www.ohchr.org/en/hr-bodies/hrc/iicihr-ukraine/reports/report-independent-international-commission-inquiry-ukraine-un-general-assembly-a80497)
+

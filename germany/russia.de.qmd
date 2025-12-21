@@ -28,9 +28,13 @@ keywords:
 
 {{< var todo >}}
 
+>  Die Kollaboration reichte bis zur Angleichung der nationalistisch bis chauvinistisch ausgerichteten Kultur- und Medienkanäle, aus denen das Wort „Faschismus“ verschwand. Sergej Eisenstein inszenierte Wagner am Bolschoi-Theater, die Bibliotheken der UdSSR wurden gesäubert, antifaschistische Werke von Thomas und Heinrich Mann oder Franz Werfel (und sogar diejenigen kommunistischer Autoren wie Willi Bredel, Hans Marchwitza und Erich Weinert) verschwanden genauso wie die Emigrantenzeitungen.[^germany-russia-1]
+
 
 ## Nordstream
 
 {{< var todo >}}
 
+
+[^germany-russia-1]: Bernhard H. Bayerlein (8. Juni 2025) Stalin-Hitler-Pakt reloaded. Deutsch-russische Kollaborationen im 20. und 21. Jahrhundert. [https://geschichtedergegenwart.ch/20643-2/](https://geschichtedergegenwart.ch/20643-2/)
 

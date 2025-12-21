@@ -17,9 +17,10 @@ Russia wants peace
 - Russia even wants to conquer the US
 :::
 
-The russian empire was born from the learnings of the mongol empire, see @sec-russia-history. 
 
-Rule 5 of the Mongol laws of war (Yassa) reads:
+> Peace—that's a rather insidious word. Everyone wants peace. Even the aggressor wants peace, because even for the aggressor, war is only a means to an end. It is astonishingly rare—if ever—to find a monster in the world who declares that he wants war rather than peace.[^peace-russia-5]
+
+The names of these monsters range from Genghis Khan to Putin: the russian empire was born from the learnings of the mongol empire, see @sec-russia-history. And rule 5 of the Mongol laws of war (Yassa) reads:
 
 > It is forbidden to ever make peace with a monarch, a prince or a people who have not submitted.[^peace-russia-4]
 
@@ -66,3 +67,7 @@ Khrushchev was overheard to say, "at the final reception" for the polish leader:
 [https://lmelliott.com/book_landing_page_historical/walls/educators-guide-media-literacy-walls](https://lmelliott.com/book_landing_page_historical/walls/educators-guide-media-literacy-walls)
 
 [^peace-russia-4]: ICRC Global Affairs Team (04/07/2024) Mongol Laws of War. [https://blogs.icrc.org/religion-humanitarianprinciples/mongol-laws-of-war/](https://blogs.icrc.org/religion-humanitarianprinciples/mongol-laws-of-war/)
+
+[^peace-russia-5]: Juri Andruchowytsch (2023) „Der Preis unserer Freiheit. Essays“. Aus dem Ukrainischen von Sabine Stöhr. Suhrkamp, Berlin.
+
+

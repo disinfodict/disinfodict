@@ -44,6 +44,8 @@ Die Russen haben das mit Plünderungen, Vergewaltigungen und anderen Kriegsverbr
 
 > Viele der Soldaten sind schmutzig-arm und schlecht ausgebildet, viele sind ohne Zugang zu modernen Annehmlichkeiten aufgewachsen. Viele sind zu den Streitkräften gegangen, weil sie in ihren Hinterhofstädten keine Zukunft haben ... Bei der Besetzung von Gebieten haben viele viel getrunken und ihre Quartiere in Schutt und Asche gelegt oder sind herumgezogen und haben alles geplündert, was ihnen in die Hände fiel."[^russia-life-4]
 
+
+
 ## OECD Better Life Index
 
 Wie ist also das Leben für gewöhnliche russische Bürger?
@@ -59,7 +61,6 @@ hat die OECD 11 Dimensionen identifiziert, die für das Wohlergehen wesentlich s
 Umwelt, persönliche Sicherheit und allgemeine Lebenszufriedenheit, sowie traditionellere Maßstäbe wie das Einkommen. 
 
 Russland schneidet auf dem [OECD Better Life Index](https://www.oecdbetterlifeindex.org/) deutlich schlechter ab als die meisten europäischen Länder.
-
 
 [![OECD Better Life Index](BetterLife.jpg)](https://www.oecdbetterlifeindex.org/)
 
@@ -119,6 +120,15 @@ Im Folgenden sehen Sie Russland (farbig) im Vergleich zu Deutschland. Russland i
 ## Freizeit
 
 ![OECD Better Life Index - Russland: Freizeit](BetterLifeRussiaWorkLifeBalance.png)
+
+
+
+## Pressefreiheit
+
+Reporter ohne Grenzen bewertet jedes Jahr Länder und erstellt einen [Pressefreiheitsindex](https://www.reporter-ohne-grenzen.de/rangliste/). Im Jahr 2025 bewertete RSF die Lage der Presse in Russland als „sehr ernst”. Russland belegte Platz 162 von 180 (im Vergleich zu Platz 62 für die Ukraine und Platz 11 für Deutschland).
+
+[![RSF-Index zur Pressefreiheit](ReportersWithoutBorders_WorldPressFreedomIndex_Russia.jpg)](https://rsf.org/en/index)  
+
 
 <!-- cia-key="fb8dc7bd2d4e2e1a0fbe47e618980daf0150fc1b4987855489ba7f35106d3d9467910a7822e5a2ba9c39d9128135bc8c2e862439b072759eb55848cb7665e5fc" -->
 

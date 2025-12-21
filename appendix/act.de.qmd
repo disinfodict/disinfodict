@@ -1,0 +1,61 @@
+---
+abstract: > 
+  Engagieren Sie sich für ein freies Europa: spenden Sie für die Ukraine.
+format:
+  html:
+    link-external-newwindow: true
+---
+
+# Helfen und Spenden {.unnumbered #sec-appendix-act}
+
+
+## Netze retten Leben 
+
+> Werft Eure Netze zum Fang aus — Lukas 5,4
+
+Seit Mai 2024 wird Cherson permanent vom russisch besetzten Ufer des Dnipro aus mit Drohnen angegriffen. Diese Drohnen werden gezielt gegen zivile Passanten, Krankenhäuser, Wohnhäuser und zivile Fahrzeuge gerichtet.[^appendix-act-3] [^appendix-act-4] Diese [„Jagd auf Menschen“ („Human Safari“)](#sec-warcrimes-humansafari) kann durch Netze über Straßen und Gebäuden gebremst werden: Drohnen verfangen sich in den (für Drohnenkameras schlecht erkennbaren) Netzen, statt an ihrem Ziel zu explodieren bzw. bleiben fern, wenn sie die Netze erkennen. So werden mit überschaubarem Aufwand viele Menschenleben gerettet.[^appendix-act-1] 
+
+Alte gebrauchte Fischernetze werden kostenlos von Carl Futtrup in Dänemark gesammelt und zur Verfügung gestellt. Der Transport nach Cherson in der Südukraine kostet je Fahrt etwa 3000 €. Bis zum 20. Dezember 2025 wurden 11 Sattelzüge mit je 20 Tonnen Netzen von *Fellas for Europe e.V.* zusammen mit *Osteuropahilfe der Landkreise Starnberg, Bad Tölz-Wolfratshausen und München e.V.* transportiert.[^appendix-act-5] [^appendix-act-2] Es werden mehr gebraucht um Leben zu retten.
+
+
+:::: {.content-visible when-format="html:js"}
+::: {layout-ncol=2}
+![Appell an die Menschlichkeit (Video (7.5 MB))  
+](/all_common_img/nets-save-lives-1.mp4)  
+[![Screeenshot des Berichts des Kyiv Independent auf youtube  
+](/all_common_img/nets-save-lives-3.jpg)  
+Der Bericht vom Kyiv Independent auf Youtube  
+(Francis Farrell and Olena Zashko)](https://www.youtube.com/watch?v=lmyslTMbkkE)  
+
+![Beladung eines Sattelzugs mit Netzen (Video (2.8 MB))](/all_common_img/nets-save-lives-2.mp4)  
+:::  
+::::  
+
+
+## Hier spenden
+
+> Fellas for Europe e.V.  
+> IBAN **DE89 8306 5408 0005 3206 40**  
+> Stichwort: "Netze"
+
+
+::: {layout-ncol=2}
+[![Link zu Fellas for Europe e.V.](../all_common_img/Fellas4Europe_Logo.png)](https://fellas4europe.org/)
+
+[![Link zu Osteuropahilfe der Landkreise Starnberg, Bad Tölz-Wolfratshausen und München e.V.](../all_common_img/Osteuropahilfe.png){width="50%"}](https://www.osteuropa-hilfe.de/)
+:::  
+
+
+
+[^appendix-act-1]:   Olga Tokariuk  (15. December 2025). A ‘human safari’: The Russian drones targeting Ukraine’s civilians. Ukrainians on the frontline in Kherson tell Olga Tokariuk how they withstand daily enemy attacks – by sheltering under trees, staying indoors on clear days and with netting over the roads. Chatham Hause. 
+ [https://www.chathamhouse.org/publications/the-world-today/2025-12/human-safari-russian-drones-targeting-ukraines-civilians](https://www.chathamhouse.org/publications/the-world-today/2025-12/human-safari-russian-drones-targeting-ukraines-civilians)
+
+[^appendix-act-2]: Rubryka (28 Nov 2025) United to win: Danish volunteer delivers ninth truckload of fishing nets to Kherson. 
+[https://rubryka.com/en/2025/11/28/herson-otrymav-vid-volontera-z-daniyi-dev-yatu-furu-z-rybalskymy-sitkamy/](https://rubryka.com/en/2025/11/28/herson-otrymav-vid-volontera-z-daniyi-dev-yatu-furu-z-rybalskymy-sitkamy/)
+
+[^appendix-act-3]: Artem Perfilov (20.8.2025) Im Zickzack vor der Drohne fliehen. Die Stadt Cherson in der Südukraine wird täglich mit Drohnen beschossen. Zur Sicherheit der Menschen hat die Stadt Verhaltensregeln plakatiert. TAZ. [https://taz.de/1273-Tage-Krieg-in-der-Ukraine-/!6106956/](https://taz.de/1273-Tage-Krieg-in-der-Ukraine-/!6106956/)
+
+[^appendix-act-4]: Robert Putzbach (01.11.2025) Wie russische Truppen mit Drohnen Zivilisten jagen. Die UN sprechen von „gezielter Vertreibung“: In der Südukraine machen russische Soldaten mit Drohnen Jagd auf Zivilisten – und verspotten ihre Opfer auf Telegram. FAZ. [https://www.faz.net/aktuell/politik/ukraine/russlands-drohnen-jagd-auf-zivilisten-wir-haben-ein-weiteres-haus-niedergebrannt-accg-110759463.html](https://www.faz.net/aktuell/politik/ukraine/russlands-drohnen-jagd-auf-zivilisten-wir-haben-ein-weiteres-haus-niedergebrannt-accg-110759463.html)
+
+[^appendix-act-5]: Juri Konkewitsch (31.7.2025) „Tunnel des Lebens“ für die Front. Netze, die in Dänemark, Polen und den Niederlanden zum Fischfang genutzt wurden, schützen jetzt ukrainische Soldaten vor russischen Drohnenangriffen. 
+[https://taz.de/Drohnenkrieg-in-der-Ukraine/!6099721/](https://taz.de/Drohnenkrieg-in-der-Ukraine/!6099721/)

@@ -32,17 +32,18 @@ There you see the success of your work and can detect and correct mistakes. To d
 
 - install R from [CRAN](https://cran.r-project.org/)
 - install RStudio from [posit](https://posit.co/download/rstudio-desktop/)
-- install TinyTex from the terminal in RStudio
+- install TinyTex from the terminal in RStudio: quarto install tool tinytex
 - install the Segoe UI fonts (or change `mainfont: "Segoe UI"` to a font you have or comment that line out)
 
 ```{}
-quarto install TinyTex
-quarto update TinyTex
+quarto install tool TinyTex
+quarto update tool TinyTex
 ```
 
 - install R packages
 
 ```{R}
+tinytex::tlmgr_install("babel-german")
 install.packages("servr")
 install.packages("quarto")
 install.packages("pak")
@@ -200,12 +201,19 @@ To shield you from any complexities with using the git command line, we suggest 
 - create a "pull request" from your github branch to the disinfodict repository (if OK, the disinfodict maintainer will merge your branch and delete it) 
 
 
+# Optimization
+
+Here are some tips regarding performance. It's mostly about using .svg or well compressed images. 
+
+https://emilhvitfeldt.com/post/quarto-performance/
+
+
 # Deployment
 
 ## Checking and extracting callout texts
 
 ```{R}
-en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), c("index.qmd", "index.de.qmd", "impressum.qmd", "impressum.de.qmd", "404.qmd", "README.qmd"))
+en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), c("index.qmd", "index.de.qmd", "404.qmd", "README.qmd", "EXPERIMENT.qmd"))
 en <- en[-grep('^status', en)]
 en <- en[-grep('^intro', en)]
 en <- en[-grep('^appendix', en)]
@@ -364,7 +372,7 @@ summary(nchar(entext))
 ## Measuring dictionary status
 
 ```{R}
-en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), c("impressum.qmd", "impressum.de.qmd", "404.qmd", "README.qmd"))
+en <-  setdiff(dir(pattern="[.]qmd$", recursive=T), c("404.qmd", "README.qmd", "EXPERIMENT.qmd"))
 de <- en[grep("[.]de[.]qmd$", en)]
 ua <- en[grep("[.]ua[.]qmd$", en)]
 en <- setdiff(en, c(de, ua))
@@ -492,7 +500,6 @@ load("status.RData")
 
 - Babelquarto copied 404.html to <cc> folders. To avoid duplicates we delete those and later rename all links to the canonical one.
 - Babelquarto has index.html redirected to index.<cc>.html. Google doesn't like redirection. Hence we delete index.html and later rename all <cc>.index.<cc>.html to <cc>.index.html.
-- Babelquarto copied impressum.html to <cc> folders, instead of compipiling impressum.<cc>.qmd. To avoid duplicates we delete those copies and later copy from impressum.<cc>.html
 - Babelquarto copied (broken) sitemap.xml. Hence we delete them all and later synthesize one multilingual sitemap.
 
 ```{R}
@@ -500,11 +507,7 @@ load("status.RData")
 if (dofixhtml) for (cc in ccs[-1]){
   file.remove(paste0("_book/", cc, "/404.html"))        
   file.remove(paste0("_book/", cc, "/index.html"))      # we still have index.<cc>.html
-  file.remove(paste0("_book/", cc, "/impressum.html"))  # impressum.<cc>.qmd not compiled, we later copy impressum.<cc>.html
   file.remove(paste0("_book/", cc, "/sitemap.xml"))     # the remaining sitemap.xml is replaced with a synthesized sitemap.xml later
-  for (cc in ccs[-1]){
-    file.copy(paste0('impressum.', cc, '.html'), paste0('_book/', cc, '/impressum.', cc, '.html'))
-  }
 }
 ```
 
@@ -516,8 +519,9 @@ Note that we assum now, that each html has a corresponding qmd file.
 ```{R}
 htmlfilenames_onlydefault = c("404.html")
 htmlfiles <- dir("_book", "[.]html", recursive=TRUE, include.dirs = TRUE, full.names = TRUE)
+qmdfiles <- character()
 for (cc in ccs[-1]){
-  qmdfiles <- sub(paste0('^', cc, '/'), '', sub('[.]html','.qmd', substr(htmlfiles, 7, nchar(htmlfiles))))
+  qmdfiles <- c(qmdfiles, sub(paste0('^', cc, '/'), '', sub('[.]html','.qmd', substr(htmlfiles, 7, nchar(htmlfiles)))))
 }
 htmlfilenames <- basename(htmlfiles)
 qmdfilenames <- basename(qmdfiles)
@@ -547,12 +551,6 @@ for (i in seq_along(htmlfiles)){
       lines <- gsub(paste0('("', baseurl, '/', cc,  ')(/index[.]', cc , '[.]html")'), '\\1/index.html"', lines)
       # fix relative index paths
       lines <- gsub(paste0('("[^h][^"]*)(/index[.]', cc, '[.]html")'), '\\1/index.html"', lines)
-      # -- links impressum.html in impressum.<cc>.html umwandeln --
-      if (length(grep(paste0('/', cc, '/'), h))){
-        l <- grep('<a class="nav-link" href="[.][.]?/impressum.html">', lines)
-        if (length(l))
-          lines[l] <- gsub('(<a class="nav-link" href="[.][.]?)(/impressum.html)">', paste0('\\1/impressum.',cc,'.html">'), lines[l])
-      }
     }
     if (hn %in% htmlfilenames_onlydefault){
       l <- grep('<link rel="alternate" hreflang=', lines)
@@ -566,10 +564,8 @@ f <- paste0('_book/', cc, '/search.json')
 lines <- readLines(f)
 l <- grep('"objectID":', lines)
 lines[l] <- sub(paste0('index[.]', cc, '[.]html'), 'index.html', lines[l])
-lines[l] <- sub('impressum[.]html', paste0('impressum.', cc, '.html'), lines[l])
 l <- grep('"href":', lines)
 lines[l] <- sub(paste0('index[.]', cc, '[.]html'), 'index.html', lines[l])
-lines[l] <- sub('impressum[.]html', paste0('impressum.', cc, '.html'), lines[l])
 if (dofixhtml) for (cc in rev(ccs[-1])){
   writeLines(lines, f)
 }
@@ -645,7 +641,6 @@ cloudflare[i] <- sub('/index[.]html', '/', cloudflare[i])
 cloudflare[i] <- sub('[.]html', '', cloudflare[i])
 links <- cbind(links, cloudflare, NA)
 colnames(links) <- c("source","url","cloudflare","ret")
-links[grep('impressum', links[,"cloudflare"]),]
 ```
 
 
@@ -657,7 +652,7 @@ links[grep('impressum', links[,"cloudflare"]),]
 - Sitemap can be checked after a deployment at https://technicalseo.com/tools/hreflang/ or at https://www.xml-sitemaps.com/validate-xml-sitemap.html 
 
 ```{R}
-files <- setdiff(htmlfiles, paste0('_book/', c(htmlfilenames_onlydefault, 'impressum.html')))  # hold out rather technical pages
+files <- setdiff(htmlfiles, paste0('_book/', c(htmlfilenames_onlydefault)))  # hold out rather technical pages
 urls <- sub('_book', baseurl, files)
 defurls <- urls
 for (cc in ccs[-1]){
@@ -668,9 +663,11 @@ if (dofiltersitemap){
    status <- rowSums(dictionarystatus[,-ncol(dictionarystatus)])/2
    names(status) <- paste0(baseurl, '/', names(status), '.html')
    i <- status[defurls] > 99.9
-   files <- files[i]
-   urls <- urls[i]
-   defurls <- defurls[i]
+   if (any(i)){
+     files <- files[i]
+     urls <- urls[i]
+     defurls <- defurls[i]
+   }
 }
 xhtml <- rbind(defurls)
 langs <- rbind(rep(ccs[1], length(defurls)))
@@ -681,11 +678,6 @@ for (cc in ccs[-1]){
 xhtml <- paste0('    <xhtml:link rel="alternate" hreflang="',langs ,'" href="', xhtml,'"/>')
 dim(xhtml) <- dim(langs)
 xhtml <- apply(xhtml, 2, function(x)paste0(x, collapse='\n'))
-
-# We do not mark impressum as priority
-#xhtml <- c(xhtml, '')
-#files <- c(files, '_book/impressum.html')
-#urls <- c(urls, paste0(baseurl, '/impressum.html'))
 
 formatteddates <- paste0(format(dates[files], '%Y-%m-%dT%H:%M:%S', tz="GMT"), '.000Z')
 
@@ -860,7 +852,7 @@ for (h in htmlfiles){
 ```
 
 
-## Check the links
+## post-deployment link-check
 
 ```{R}
 todo <- seq_len(nrow(links))[is.na(links[,"ret"]) | links[,"ret"]!="200"]
@@ -887,7 +879,7 @@ cat(paste("\n", rownames(d), d[,1], d[,2], sep=" "), file="~/test.txt")
 ```
 
 
-## Curl check
+## Manual curl check
 
 curl -I -L https://disdict.org/
 

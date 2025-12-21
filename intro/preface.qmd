@@ -54,7 +54,7 @@ The *Disinformation Dictionary*  addresses these challenges somewhat by
 
 - providing curated truths in the context of the russian war in Ukraine
 - teaching about propaganda patterns
-- linking to officially diagnosed and debunked disinfo at [![EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/)
+- linking to officially diagnosed and debunked disinfo at [![EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/)
 - finding truth fast via keyword navigation and search function
 - debunking the lies fast by linking or copy-pasting the truths
 - fast implies higher throughput and therefore better scaling^[although disinfo scaling is much cheaper unless regulation enforces algorithmic countermeasures]

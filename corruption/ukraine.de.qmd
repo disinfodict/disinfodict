@@ -44,6 +44,11 @@ Diese Reformen und die Verpflichtung zur Korruptionsbekämpfung haben wesentlich
 
 Trotz des Krieges würdigte die OECD im März 2024 die Umsetzung der Antikorruptionspolitik der Ukraine als “hoch”,[^corruption-ukraine.de-4] und dies zeitigt Ergebnisse: laut dem Korruptionswahrnehmungsindex (CPI) von Transparency International[^corruption-ukraine.de-5] hat sich das Ansehen der Ukraine auf der internationalen Bühne in den letzten Jahren allmählich, aber stetig verbessert, so dass sie mit anderen EU-Bewerbern wie Serbien, Albanien oder Bosnien und Herzegowina gleichgezogen hat.[^corruption-ukraine.de-6]
 
+Im Gegensatz zu anderen Ländern wie Deutschland ist das Nationale Antikorruptionsbüro der Ukraine (NABU) nicht weisungsgebunden, kann unabhängig ermitteln und geht sogar gegen hochrangige Regierungsbeamte vor. Im Jahr 2025 deckte es die „Operation Midas“ auf: Das ukrainische Parlament entließ zwei Minister (davon haben wir in letzter Zeit beispielsweise in Deutschland, Ungarn oder den USA nichts gehört): 
+
+> In der Ukraine ermittelt der Staat selbst gegen die Regierung, das Kabinett und sogar die engsten Berater des Präsidenten. Im Gegensatz dazu ist es unvorstellbar, dass Kash Patels FBI gegen jemanden im Weißen Haus unter Trump ermittelt. Jeder Russe, der gegen Putin ermittelt, kommt ins Gefängnis.[^corruption-ukraine-8]
+
+
 *Weitere Informationen über die Bemühungen der Ukraine zur Korruptionsbekämpfung finden Sie in @tdcenter:2023*
 
 ![* Ukraine und Trends im Korruptionswahrnehmungsindex. Source:  [https://www.transparency.org/en/countries/ukraine](https://www.transparency.org/en/countries/ukraine)* 
@@ -66,3 +71,6 @@ Trotz des Krieges würdigte die OECD im März 2024 die Umsetzung der Antikorrupt
 [^corruption-ukraine.de-6]:  Mattia Nelles, 2023\. Die Ukraine ist ein korruptes Land In: N. Pryhornytska, K. Pavlova, ed. Ukraine im Fokus. Propaganda erkennen, Fakten verstehen. Berlin: CRISP, pp. 53-59.
 
 [^corruption-ukraine-7]: Nico Lange (2024) Aber die NATO! 10 populäre Mythen über Putins Krieg gegen die Ukraine, Kapitel 7. Münchener Sicherheitskonferenz, Zeitenwende on tour.  [https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=28](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=28)
+
+[^corruption-ukraine-8]: Anne Applebaum (December 7, 2025) Trumpian Corruption Is Worse Than Ukrainian Corruption. The people of Ukraine want an honest government, even as American and Russian kleptocrats circle their country.
+[https://www.theatlantic.com/international/2025/12/ukraine-fighting-corruption-trump/685162/](https://www.theatlantic.com/international/2025/12/ukraine-fighting-corruption-trump/685162/)

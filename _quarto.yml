@@ -30,15 +30,17 @@ book:
     collapse-level: 1
     logo: all_common_img/DisinfoDict_logo_1x1_trans.png
     title: "search. read. share."
-  #body-header: | 
-  #  ::: {.callout-important title="BREAKING" appearance="default" collapse="false"}
-  #  These are breaking NEWS
-  #  :::
-  page-footer:
-    background: "grey"
-    center:
-      - text: "Impressum"
-        href: impressum.qmd
+  body-header: |
+   ::::: {.content-visible when-format="html:js"}
+   :::: {.callout-important title="NETZE RETTEN LEBEN — NETS SAVE LIVES — click to learn ![click icon](../all_common_img/iconpacks-click-2384.svg){height=1.2em}" appearance="default" collapse="true"}
+   [![Link to Action Website](/all_common_img/nets-save-lives-0.jpg)](#sec-appendix-act)
+   ::::
+   :::::
+  # page-footer:
+  #   background: "grey"
+  #   center:
+  #     - text: "Impressum"
+  #       href: impressum.qmd
 
   chapters:
   - index.qmd
@@ -260,7 +262,9 @@ book:
     - wwii/responsibility.qmd
     - wwii/liberation.qmd
   appendices:  
+    - appendix/act.qmd
     - appendix/about.qmd
+    - appendix/impressum.qmd
     - appendix/recommendations.qmd
     - appendix/references.qmd
 
@@ -336,6 +340,6 @@ babelquarto:
 title-de: Desinfo-Lexikon
 subtitle-de: Ein Lexikon der Mythen und Wahrheiten
 #description-de: Dieses Lexikon konsolidiert und entkräftet chronische Desinformations-Narrative, die von verschiedenen Fact-Checking-Organisationen festgestellt wurden.
-author-de: NAFO & Partner
+author-de: Fellas & Partner
 lang: en
 

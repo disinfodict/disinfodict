@@ -1,6 +1,6 @@
 ---
 abstract: > 
-  Help us to write: How Russia is a colonial empire and how it subdues and exploits its colonies
+  Help us to write: How Russia is a colonial empire and how it subdues and exploits its colonies: Mafia with ideology and state.
 ---
 
 # Russian colonialism {#sec-colonies-russia}
@@ -12,7 +12,7 @@ Russia fights the colonialism of the west
 
 ::: {.callout-tip title="Truth"}
 - Russia is the last colonial empire
-- Russia growed by russifing its colonies 
+- Russia growed by russifying its colonies 
 - Russia exploits its colonies, including those in Africa
 :::
 

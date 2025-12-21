@@ -17,9 +17,9 @@ Russland will Frieden
 - Russland will sogar die USA erobern
 :::
 
-Das russische Reich entstand aus den Lehren des mongolischen Reiches, siehe @sec-russia-history. 
+> Frieden – das ist ein ziemlich hinterhältiges Wort. Frieden wollen alle. Auch der Aggressor will Frieden, denn sogar für den Aggressor ist der Krieg nur das Mittel zum Zweck. Erstaunlich selten – wenn überhaupt – findet sich auf der Welt ein Unhold, der erklärt, dass er nicht Frieden, sondern Krieg will.[^peace-russia-5]
 
-Regel 5 der mongolischen Kriegsgesetze (Yassa) lautet:
+Die Namen der Unholde reichen von Dschingis-Khan bis Putin: das russische Reich entstand aus den Lehren des mongolischen Reiches, siehe @sec-russia-history. Und Regel 5 der mongolischen Kriegsgesetze (Yassa) lautet:
 
 > Es ist verboten, jemals Frieden mit einem Monarchen, einem Prinzen oder einem Volk zu schließen, die sich nicht unterworfen haben.[^peace-russia-4]
 
@@ -66,3 +66,6 @@ Chruschtschow wurde bei der „Abschlussfeier“ für den polnischen Staatschef 
 [https://lmelliott.com/book_landing_page_historical/walls/educators-guide-media-literacy-walls](https://lmelliott.com/book_landing_page_historical/walls/educators-guide-media-literacy-walls)
 
 [^peace-russia-4]: ICRC Global Affairs Team (04/07/2024) Mongol Laws of War. [https://blogs.icrc.org/religion-humanitarianprinciples/mongol-laws-of-war/](https://blogs.icrc.org/religion-humanitarianprinciples/mongol-laws-of-war/)
+
+[^peace-russia-5]: Juri Andruchowytsch (2023) „Der Preis unserer Freiheit. Essays“. Aus dem Ukrainischen von Sabine Stöhr. Suhrkamp, Berlin.
+

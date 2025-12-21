@@ -1,0 +1,46 @@
+# Impressum {.unnumbered #sec-appendix-impressum}
+
+Information pursuant to §5 TMG (German Telemedia Act)
+
+## Owner and responsible for content
+
+Fellas for Europe e.V.
+c/o Dr. Valentin Spernath
+Münchener Straße 6
+83022 Rosenheim
+
+Headquarters: München;
+VR 209917, Amtsgericht München
+
+Board members:
+
+Valentin Spernath (1st Chair)  
+Tamara Okhrimenko (2nd Chair)  
+
+
+## Contact
+
+<a href="mailto:info@fellas4europe.org">info@fellas4europe.org</a>
+
+## Liability disclaimer
+
+Despite careful content control, we assume no liability for the content of external links. The operators of linked sites are solely responsible for their content. Please notify us of any illegal content on linked third-party sites. If we discover that specific content to which we have provided a link triggers civil or criminal liability, we will remove the reference to this content.
+
+## Privacy policy
+
+__Comments:__ When visitors leave comments on the site, we collect the data shown in the comments form, as well as the visitor's IP address and user agent string (used to identify the browser) to help detect spam. An anonymized string (also called a hash) may be created from your email address and provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After your comment is approved, your profile picture is publicly visible in the context of your comment.
+
+__Media:__ If you are a registered user and upload photos to this website, you should avoid uploading photos with EXIF GPS location data. Visitors to this website could download photos stored on this website and extract their location information.
+
+__Cookies:__ When you write a comment on our website, this may constitute consent to store your name, email address, and website in cookies. This is a convenience feature so that you do not have to re-enter all this information when you write another comment. These cookies are stored for one year. If you have an account and log in to this website, we will set a temporary cookie to determine whether your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. If you log in, we will set up some cookies to store your login information and display options. Login cookies expire after two days, and display option cookies expire after one year. If you select “Stay logged in” when you log in, your login will be maintained for two weeks. Logout cookies are deleted when you log out of your account. When you edit or publish an article, an additional cookie is stored in your browser. This cookie does not contain any personal data and only refers to the post ID of the article you have just edited. The cookie expires after one day.
+
+__Embedded content from other websites:__ Posts on this website may contain embedded content (e.g., videos, images, posts, etc.). Embedded content from other websites behaves in exactly the same way as if the visitor had visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking services, and record your interaction with this embedded content, including your interaction with the embedded content if you have an account and are logged in to that website.
+
+__Sharing data:__ If you request a password reset, your IP address will be included in the reset email.
+
+__Duration of data storage:__ When you write a comment, it is stored indefinitely, including metadata. This allows us to automatically recognize and approve follow-up comments instead of holding them in a moderation queue. For users who register on our website, we also store the personal information they provide in their user profiles. All users can view, change, or delete their personal information at any time (the username cannot be changed). Website administrators can also view and change this information.
+
+__Rights to your own data:__ If you have an account on this website or have posted comments, you can request an export of your personal data from us, including all data you have provided to us. In addition, you can request the deletion of all personal data we have stored about you. This does not include data that we are required to retain for administrative, legal, or security reasons.
+
+__Where is data sent:__ Visitor comments may be checked by an automated spam detection service.
+

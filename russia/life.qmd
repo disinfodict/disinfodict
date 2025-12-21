@@ -45,6 +45,7 @@ Russians have proven this with looting, raping and other war crimes in Ukraine (
 > Many of the soldiers are dirt-poor and badly educated, with many growing up without access to modern amenities. Many joined the armed forces because they have no future in their backwater towns ... When occupying areas, many drank heavily, turning their quarters into shambles, or went around looting anything barely valuable they could get their hands on.[^russia-life-4]
 
 
+
 ## OECD Better Life Index
 
 So how is life for Ordinary Russian Citizens? 
@@ -113,6 +114,15 @@ In the following you see Russia (colored) compared to Germany. Russia is much wo
 ## Work-Life Balance
 
 ![OECD Better Life Index - Russia: Work-Life Balance](BetterLifeRussiaWorkLifeBalance.png)
+
+
+## Freedom of Press
+
+The Reporter without Borders evaluate countries each year and calculate a [Freedom of Press Index](https://rsf.org/en/index). 2025, RSF evaluated the situation of the press in Russia as "very serious".  Russia was ranked 162th of 180 (compared to 62nd for Ukraine, and 11th for Germany). 
+
+
+[![RSF Freedom of Press Index](ReportersWithoutBorders_WorldPressFreedomIndex_Russia.jpg)](https://rsf.org/en/index)  
+
 
 <!-- cia-key="4e5aa26216016d6d1beab7b99f8b0e4b2dc8371afc76cb25a6428addf3e97bbba21362e56cae3b34cf46ef6a33f823df0f32fab3d715d6b42901d68b05171cce" -->
 
