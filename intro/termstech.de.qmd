@@ -317,7 +317,7 @@ Fehlinformationen im Internet treten oft in Form von Behauptungen oder Meinungen
 Die Bekämpfung einzelner Fehlinformationsbehauptungen ist zeitaufwändig und reaktiv, während das Prebunking breiter angelegter Narrative die Grundlagen mehrerer Behauptungen auf einmal entkräften kann und viel effektiver ist, wenn es darum geht, Widerstand gegen neue Behauptungen zu leisten, die diese falsche Grundlage teilen.
 
 
-### Dezentrale Informationskriegsführung
+### Dezentrale Informationskriegsführung {#sec-preface-termstech-nafo}
 
 Bis zum vollständigen Einmarsch Russlands in die Ukraine litten die westlichen Demokratien weitgehend hilflos unter der russischen Desinformation, die sich mit der Popularität der Fragmentierung privater Online-Presseorgane und insbesondere sozialer Netzwerke noch verschlimmerte. 
 
@@ -334,7 +334,7 @@ Mit dem vollständigen Einmarsch Russlands in die Ukraine trat ein neues Phänom
 
 - 2026-04-20: [(Kon-)Trolling der russischen Informationskriegsführung: Der digitale Aktivismus der Nordatlantischen Allianz gegen Moskaus Kriegsmaßnahmen](https://newstrategycenter.ro/wp-content/uploads/2026/04/ConTrolling-the-Russian-Information-Warfare-Efforts-1.pdf)
 
-Die AfD hat - wie die russische Propaganda - versucht, die NAFO zu diffamieren, als CIA-gesteuertes Cybermobbing. Eine Untersuchung der Deutschen Bundesregierung kommt zu dem Schluss (@Bundesregierung:2025): 
+Die AfD hat - wie die russische Propaganda - versucht, die NAFO zu diffamieren, als CIA-gesteuertes Cybermobbing. Um russischer Diffamierung den Wind aus den Segeln zu nehmen, bezeichnen sich die 'Fellas' scherzhaft als "hirnamputierte Hunde", die alle in Langley (bei der CIA) wohnen. Eine Untersuchung der Deutschen Bundesregierung kommt zu dem Schluss (@Bundesregierung:2025): 
 
 > Die Bundesregierung macht sich die in der Vorbemerkung enthaltene Bewertung des Internetphänomens „NAFO“ als Diffamierung bzw. Cybermobbing ausdrücklich nicht zu eigen. Genauso wenig teilt sie die Einschätzung der Fragestellenden zu nachrichtendienstlicher Zusammenarbeit.
 

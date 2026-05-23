@@ -332,7 +332,7 @@ Misinformation encountered online often comes in the form of claims or opinions 
 Tackling individual misinformation claims is timeconsuming and reactive, while prebunking broader narratives can dismantle the foundations of multiple claims at once and be much more effective at building resilience to new claims that share this false foundation.
 
 
-## Decentralized Information Warfare
+## Decentralized Information Warfare {#sec-preface-termstech-nafo}
 
 Until Russia's full-scale invasion of Ukraine, Western democracies suffered largely helplessly from Russian disinformation, which worsened with the popularity of the fragmentation of private online press organs and social networks in particular. 
 
@@ -349,7 +349,7 @@ With Russia's full invasion into Ukraine a new phenomenon appeared: Decentralize
 
 - 2026-04-20: [(Con)Trolling the Russian Information Warfare Efforts: North Atlantic Fella Organization’s Digital Activism against Moscow’s Wartime Efforts](https://newstrategycenter.ro/wp-content/uploads/2026/04/ConTrolling-the-Russian-Information-Warfare-Efforts-1.pdf)
 
-The AfD - like Russian propaganda - has tried to defame NAFO as CIA-controlled cyberbullying. An investigation by the German government concludes (@Bundesregierung:2025): 
+The AfD - like Russian propaganda - has tried to defame NAFO as CIA-controlled cyberbullying. To take the wind out of Russia’s defamatory claims, the “Fellas” jokingly refer to themselves as “brain-damaged dogs” who all live in Langley (at the CIA). An investigation by the German government concludes (@Bundesregierung:2025): 
 
 > The Federal Government expressly does not adopt the assessment of the internet phenomenon “NAFO” as defamation or cyberbullying contained in the preliminary remark expressly not its own. Nor does it share the questioner's assessment of intelligence cooperation.
 

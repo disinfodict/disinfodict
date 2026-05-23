@@ -31,7 +31,7 @@ Die Moskauer Großfürsten beziehungsweise Zaren Iwan III. und Iwan IV., ließen
 
 Auf Leibniz folgten weitere namhafte Mathematiker wie Daniel Bernoulli und Leonard Euler.[^germany-russia-26] Mit keinen anderen westeuropäischen Ausländern hatten Russen seit dem 18. Jahrhundert so zahlreiche und vielfältige Verbindungen wie mit Deutschen. Ab 1698 begann an der Universität Halle die geregelte Unterrichtung in Russischer Sprache. Bis heute pflegt die Universität Halle besonders enge Beziehungen zu Russland und beherbergt und schützt einen der bekanntesten pro-russischen Professoren Deutschlands, der in schöner Regelmäßigkeit wie John Mearsheimer immer wieder fordert, die Ukrainer müssten dem Frieden zuliebe kapitulieren. 
 
-Seit jeher diente der deutsch-russische Kultur- und Wissenschaftsaustausch als Deckmäntelchen für wirtschaftlich-militärische Zusammenarbeit. So ging das 1921 eingerichtete Büro für ausländische Wissenschaft und Technik (BINT) bei der sowjetischen Handelsvertretung in Berlin mit der geheimen militärischen Zusammenarbeit unter dem Vertrag von Rapallo Hand in Hand, siehe @sec-germany-russia-militarycooperation. Dabei hatte die angeblich "anti-faschistische" Sowjetunion keine Berührungsangst mit faschistischer Theorie und praxis: Im Jahr 1928 wurde ein Russisch-Deutsches Komitee für Rassenforschung gegründet.
+Seit jeher diente der deutsch-russische Kultur- und Wissenschaftsaustausch als Deckmäntelchen für wirtschaftlich-militärische Zusammenarbeit. So ging das 1921 eingerichtete Büro für ausländische Wissenschaft und Technik (BINT) bei der sowjetischen Handelsvertretung in Berlin mit der geheimen militärischen Zusammenarbeit unter dem Vertrag von Rapallo Hand in Hand, siehe @sec-germany-russia-militarycooperation. Dabei hatte die angeblich "anti-faschistische" Sowjetunion keine Berührungsangst mit faschistischer Theorie und Praxis: Im Jahr 1928 wurde ein Russisch-Deutsches Komitee für Rassenforschung gegründet.
 
 
 
@@ -44,7 +44,7 @@ Im [Großen Nordischen Krieg](https://de.wikipedia.org/wiki/Gro%C3%9Fer_Nordisch
 > ...  
 > Mit viel Empathie für die Situation des Zaren begründete er seine Entscheidung, aus dem gerade mit England-Hannover geschlossenen Bündnis keine Allianzpolitik gegen den Zaren folgen zu lassen ... Sie basierte auf einer ähnlich feindseligen Wahrnehmung der englisch-hannoverschen Politik (ein Vorläufer des Antiamerikanismus) und hatte eine mächtepolitische Verwurzelung in einem gemeinsamen Interesse an einer dauerhaften Schwächung Polens (bzw. der Ukraine). auf dieser Basis trafen sich der Zar und der Soldatenkönig, als sie im Februar 1720, etwa ein halbes Jahrhundert vor der ersten Teilung Polens, erstmals einen Vertrag unterzeichneten (ähnlich den Verträgen von Rapallo und dem Hitler-Stalin-Pakt), der ein ganzes Bündel anti-polnischer Bestimmungen enthielt ... Friedrich Wilhelm garantierte in einer persönlichen Deklaration, die er selbst vor seinen Ministern geheim hielt, nicht an der Seite Englands in den Krieg gegen Russland einzutreten.[@Schulze_Wessel:2023, S. 41f, unsere Anmerkungen in Klammern]
 
-Ohne preussische (und polnische) Verbündete hatte die Containementpolitik Londons gegen Russland keine Chance.  Ingermanland, Estland, Livland und ein Teil von Finnland gingen in den Besitz Russland über. Russland beherrschte nun die Ostsee und löste Schweden als Hegemonialmacht im Nordosten Europas ab. 
+Ohne preußische (und polnische) Verbündete hatte die Containementpolitik Londons gegen Russland keine Chance.  Ingermanland, Estland, Livland und ein Teil von Finnland gingen in den Besitz Russland über. Russland beherrschte nun die Ostsee und löste Schweden als Hegemonialmacht im Nordosten Europas ab. 
 
 > In der dramatischen Endphase des Nordischen Krieges hatten sich zwei unterschiedliche Muster herausgebildet, auf Russland als neuen europäischen Machtfaktor zu reagieren: englisches Containement und preußische Russlandbindung zur gemeinsamen Beherrschung Polens. In einer bemerkenswerten Pfadabhängigkeit griffen London und Berlin bis zum ersten Weltkrieg immer wieder auf diese Muster zurück. Die britischen Politik betrieb antirussisches Containement vor allem in der orientalischen Frage, so im letzten Viertel des 18. Jahrhunderts und dann im Krimkrieg, sowie in der Konkurrenz mit Russland in Zentralasien ... Umgekehrt folgte die preussische Politik bis zur Reichsgründung 1870/71 fast durchgehend einem Primat der Russlandbidung, wobei die Kontrolle Polens den zweck des russisch-preussischen Bündnisses bildete.
 [@Schulze_Wessel:2023, S. 42].
@@ -67,7 +67,7 @@ Das Deutsche Kaiserreich spielte ab 1915 eine entscheidende, teils steuernde Rol
 
 > Der Zusammenfall der deutschen imperialen Interessen und der Interessen Lenins war im Revolutionsjahr 1917 weder für Freund noch Feind zu übersehen.[^germany-russia-23]
 
-Während Lenin sich 1917 in seinen April-Thesen gegen die Annexionspolitik des - jetzt sowjetischen - Russischen Imperiums (gegenüber Polen, der Ukraine) aussprach,[^germany-russia-24] zerschlug er die 1918 frisch gegründete [Ukrainische Volksrepublik](https://de.wikipedia.org/wiki/Ukrainische_Volksrepublik) und annektierte diese in das sowjet-russische Reich:
+Während Lenin sich 1917 in seinen April-Thesen gegen die Annexionspolitik des - jetzt sowjetischen - Russischen Imperiums (gegenüber Polen, der Ukraine) aussprach,[^germany-russia-24] zerschlug er die 1918 frisch gegründete [Ukrainische Volksrepublik](https://de.wikipedia.org/wiki/Ukrainische_Volksrepublik) und annektierte diese in das Sowjet-russische Reich:
 
 > Entgegen ursprünglicher Versprechen war Lenin keineswegs bereit, die Legitimität und Autonomie der Ukrainischen Volksrepublik anzuerkennen und bezeichnete sie als Feind der Revolution. In einem Memorandum im Dezember 1917 stellt der Rat der Volkskommissare der Ukraine ein Ultimatum. Sollte diese die geforderten Maßnahmen nicht innerhalb der nächsten 48 Stunden ergreifen, würde sich die neue revolutionäre Regierung in Russland im Kriegszustand mit der Ukrainischen Volksrepublik befinden. [![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Geschichte_der_Ukraine#20._Jahrhundert_bis_zur_Unabh%C3%A4ngigkeit_1991)  
 
@@ -124,19 +124,19 @@ Nur zwei Jahre nach Ende des Zweiten Weltkriegs gründete sich im Juni 1947 die 
 
 ### Adenauer (1949 - 1953)
 
-Die erste selbständige außenpolitische Handlung der souveränen Bundesrepublik war Adenauer's Reise am 8. September 1955 nach Moskau: im Glauben, deutsche Kriegsgefangene aus russischen Lagern zu befreien, tat Adenauer genau was Chruschtschow von ihm wollte ([Reflexive Kontrolle](#sec-intro-termstech-reflexivecontrol)): die Sowjetunion bekam diplomatische Anerkennung - trotz der Deutschen Teilung - und damit den Einstieg in wirtschaftliche (Korruption) und kulturelle (Indoktrination) Beziehungen: 1958 wurde im Weltsaal des Auswärtigen Amts in Bonn das erste Handelsabkommen zwischen der Bundesrepublik und der Sowjetunion unterzeichnet.[^germany-russia-16] [^germany-russia-17]
+Die erste selbständige außenpolitische Handlung der souveränen Bundesrepublik war Adenauers Reise am 8. September 1955 nach Moskau: im Glauben, deutsche Kriegsgefangene aus russischen Lagern zu befreien, tat Adenauer genau was Chruschtschow von ihm wollte ([Reflexive Kontrolle](#sec-intro-termstech-reflexivecontrol)): die Sowjetunion bekam diplomatische Anerkennung - trotz der Deutschen Teilung - und damit den Einstieg in wirtschaftliche (Korruption) und kulturelle (Indoktrination) Beziehungen: 1958 wurde im Weltsaal des Auswärtigen Amts in Bonn das erste Handelsabkommen zwischen der Bundesrepublik und der Sowjetunion unterzeichnet.[^germany-russia-16] [^germany-russia-17]
 
 
 ### Ehrhard (1953 - 1966)
 
-Während der Kanzlerschaft Erhards waren die Beziehungen zwischen Deutschland und der Sowjetunion zurückhaltend. Allerdings stürzte Ludwig Erhard 1966 über eine Note, die er "Deutsche Vorschläge für eine konstruktive Friedenspolitik" nannte und in der er der Sowjetunion und allen Ostblockstaaten den Austausch förmlicher Gewaltverzichtserklärungen, Abrüstung und Entspannung anbot - eine Aufweichung der [Hallstein-Doktrin](https://de.wikipedia.org/wiki/Hallstein-Doktrin) und Vorwegnahme der Brandt'schen Ostpolitik.[^germany-russia-18]
+Während der Kanzlerschaft Erhards waren die Beziehungen zwischen Deutschland und der Sowjetunion zurückhaltend. Allerdings stürzte Ludwig Erhard 1966 über eine Note, die er "Deutsche Vorschläge für eine konstruktive Friedenspolitik" nannte und in der er der Sowjetunion und allen Ostblockstaaten den Austausch förmlicher Gewaltverzichtserklärungen, Abrüstung und Entspannung anbot - eine Aufweichung der [Hallstein-Doktrin](https://de.wikipedia.org/wiki/Hallstein-Doktrin) und Vorwegnahme der Brandtschen Ostpolitik.[^germany-russia-18]
 
 Von 1959 bis 1964 wird die Druschba-Pipeline von Tartastan in die DDR gebaut. 
 
 
 ### Kiesinger (1966 - 1969)
 
-Georg Kiesinger wiederholt bei seinem Amtsantritt das Angebot Erhards und behauptet - in Verkennung der geschichtlichen Tatsachen - Deutschland sei jahrhundertelang die Brücke zwischen West- und Osteuropa gewesen. Auch mit Polen und der Tschechoslowakei wolle sich das deutsche Volk verständigen.[^germany-russia-19] Davon blieb nach dem [Prager Frühling](https://de.wikipedia.org/wiki/Prager_Fr%C3%BChling) wenig übrig. Während der kurzen Kanzlerschaft Kiesingers wurden wichtige Weichen in Richtung Entspannung (Appeasement) gegenüber der Sowjetunion gestellt, deren tiefere Gründe im Verhalten der USA und Frankreichts lagen, deshalb hier aus einem insgesamt sehr lesenwerten Artikel mehrere Passagen mit eindrucksvoller Ähnlichkeit zur russichen Invasionen in die Ukraine:
+Georg Kiesinger wiederholt bei seinem Amtsantritt das Angebot Erhards und behauptet - in Verkennung der geschichtlichen Tatsachen - Deutschland sei jahrhundertelang die Brücke zwischen West- und Osteuropa gewesen. Auch mit Polen und der Tschechoslowakei wolle sich das deutsche Volk verständigen.[^germany-russia-19] Davon blieb nach dem [Prager Frühling](https://de.wikipedia.org/wiki/Prager_Fr%C3%BChling) wenig übrig. Während der kurzen Kanzlerschaft Kiesingers wurden wichtige Weichen in Richtung Entspannung (Appeasement) gegenüber der Sowjetunion gestellt, deren tiefere Gründe im Verhalten der USA und Frankreichs lagen, deshalb hier aus einem insgesamt sehr lesenswerten Artikel mehrere Passagen mit eindrucksvoller Ähnlichkeit zur russischen Invasionen in die Ukraine:
 
 > Nach Bildung der Großen Koalition im Dezember 1966 war die Bundesregierung bereits so weit, Begründungen zu finden, die es rechtfertigten, zu allen Staaten des Ostblocks (wiederum mit Ausnahme der DDR) sogar volle diplomatische Beziehungen aufzunehmen. Man argumentierte jetzt, daß diese Ostblock-Staaten seit Gründung der DDR im Jahr 1949 zu dieser nur gezwungenermaßen diplomatische Beziehungen unterhalten hatten, und leitete daraus die Berechtigung ab, in solchen Sonderfällen gleichfalls diplomatische Beziehungen aufzunehmen, während man aber gegenüber Nicht-Ostblock-Staaten weiterhin mit großem Nachdruck am Alleinvertretungsanspruch festhielt.  
 >  ...  
@@ -161,7 +161,7 @@ Unter Willy Brand begannen die Deutsch-sowjetische Röhren-Erdgas-Geschäfte:
 
 ### Schmidt (1974-1982)
 
-Unter Kanzer Schmidt stiegen die Gasimporte auf 30 Prozent des Verbrauchs:
+Unter Kanzler Schmidt stiegen die Gasimporte auf 30 Prozent des Verbrauchs:
 
 > Die ansteigenden Gaslieferungen überdauerten schwere Krisen wie den sowjetischen Einmarsch in Afghanistan 1979 und das Ende 1981 in Polen verhängte Kriegsrecht. Die US-Regierung kritisierte erneut den Ausbau des deutsch-sowjetischen Gashandels. Sie verlangte Sanktionen gegen Moskau und eine Abkehr von dieser Abhängigkeit, was die Bundesregierung ablehnte. "Wer Handel miteinander treibt, schießt nicht aufeinander", argumentierte Helmut Schmidt.[^germany-russia-6] 
 
@@ -195,7 +195,7 @@ Während die Gorbimanie schlussendlich eine Gesamtdeutsche Verklärung Russlands
 
 ### Kohl (1992-1998)
 
-Unter Kohl kamen gut 2,3 Millionen russlanddeutsche (Spät-)Aussiedler aus der ehemaligen Sowjetunion nach Deutschland. Kohl versprach sich dankbare CDU-Wähler. Diese gefährliche Wette -- auf Menschen ohne jede Demokratieerfahrung -- ging zum Teil auf:
+Unter Kohl kamen gut 2,3 Millionen Russlanddeutsche (Spät-)Aussiedler aus der ehemaligen Sowjetunion nach Deutschland. Kohl versprach sich dankbare CDU-Wähler. Diese gefährliche Wette -- auf Menschen ohne jede Demokratieerfahrung -- ging zum Teil auf:
 
 > Beide Konstellationen – unauffällige Integration und fortbestehende Segregation – beschreiben die Realität unterschiedlicher Milieus innerhalb der Großgruppe "russlanddeutsche Spätaussiedler".[^germany-russia-34] 
 
@@ -208,9 +208,9 @@ Unter Schröder fand die Gorbimanie ihre Fortsetzung: in völliger Verkennung vo
 
 Gerhard Schröder und seine Frau Schröder-Köpf nahmen von Putin eine ganz besondere Gefälligkeit an: sie adoptierten zwei russische Kinder auf dem kurzen Dienstweg -- trotz fortgeschrittenen Alters und dreier gescheiterter Ehen Schröders.[^germany-russia-38]
 
-Unter Schröder wurde die Gegenspionage des BND gegen Russland eingestellt: man verzichtete -- ohne Not -- darauf, Agenten zu identifizieren und zu beobachten, was der russiche Geheimdienst tut.[^germany-russia-39] 
+Unter Schröder wurde die Gegenspionage des BND gegen Russland eingestellt: man verzichtete -- ohne Not -- darauf, Agenten zu identifizieren und zu beobachten, was der russische Geheimdienst tut.[^germany-russia-39] 
 
-Es wurde "Wandel durch Handel" gelogen, mit den Grünen stieg Schröder aus der Atomkraft aus, und schloß Vorverträge für Nordstream I: 
+Es wurde "Wandel durch Handel" gelogen, mit den Grünen stieg Schröder aus der Atomkraft aus, und schloss Vorverträge für Nordstream I: 
 
 > Gazprom wird zum verlängerten Arm, zur politischen Waffe Putins, Erpressungen und Drohungen gehören zum normalen Geschäftsgebaren. Auch wenn man in Deutschland damals kaum Notiz davon nimmt: Putin nutzt die Abhängigkeit von russischen Energielieferungen gegenüber anderen Staaten mit aller Brutalität.
 
@@ -220,9 +220,9 @@ Es wurde "Wandel durch Handel" gelogen, mit den Grünen stieg Schröder aus der 
 
 Unter 16 Jahren Merkel wurde so viel für Russland getan, dass hier eine Stichwortliste genügen muss:
 
-* Merkel inszenierte sich zu Beginn Ihrer Karriere als "Klimakanzlerin" bildgewaltig im roten Anorak in der Arktis, praktisch lobbyiierte sie für den Verbrenner, gegen die Verkehrswende, gegen die Energiewende und für russisches Gas ("Brückentechnologie", "Hybridheizungen") [^germany-russia-70]
+* Merkel inszenierte sich zu Beginn Ihrer Karriere als "Klimakanzlerin" bildgewaltig im roten Anorak in der Arktis, praktisch lobbyierte sie für den Verbrenner, gegen die Verkehrswende, gegen die Energiewende und für russisches Gas ("Brückentechnologie", "Hybridheizungen") [^germany-russia-70]
 * die Gegenspionage blieb eingestellt
-* die Bundeswehr wurde geschrumpft, kaputtgespart und die Wehrpflicht ausgesetzt
+* die Bundeswehr wurde geschrumpft, kaputt gespart und die Wehrpflicht ausgesetzt
 * Die Rede von Putin auf der Münchener Sicherheitskonferenz wurde nicht als das wahrgenommen, was sie war: eine Ansage des aggressiven russischen Imperialismus.[^germany-russia-50]
 * Merkel verhinderte 2008 (mit Frankreich) die NATO-Mitgliedschaft der Ukraine
 * Merkel unterlief die langfristig vereinbarte Abkehr von der Atomkraft, verlängerte 2010 die Laufzeiten der Atomkraftwerke, und zementierte 2011 die Abhängigkeit von russischem Gas durch den überhasteten Fukushima-Atomausstieg
@@ -244,13 +244,14 @@ Helmut Schmidt, mit der Autorität des "Altkanzlers", erklärt kontrafaktisch, d
 Kyjiv und die Kyjiver-Rus' und das Slavische Christentum waren nicht russisch, sondern Ukrainisch (@sec-ukraine-kyiv), den Russen gehört überhaupt kein Land natürlich, welches sie sich nicht mit Gewalt angeeignet hätten (@sec-russia-history) und die Krim war alles mögliche, aber nicht russisch, sondern wurde nach und nach russifiziert, samt Genozid an den Krim-Tataren (@sec-crimea-history), genauso wie die ukrainische Sprache und Kultur auf dem Gebiet der Kyjiver Rus' nach und nach mit Gewalt durch russische Sprache (@sec-language-russia, @sec-language-ukraine) ersetzt wurde, eine russische Kultur - außer die der Gewalt - gibt es ohnehin nicht (@sec-culture-russia).
 :::
 
+
 ### Merkel (2013-2021)
 
 * Während der Krim-Invasion bedrängte Merkel die Ukrainische Übergangsregierung, sich nicht gegen Russland zu wehren, berichtet der litauische Generalleutnant a. D. Jonas Vytautas Žukas, der von Juli 2014 bis 2019 militärischer Oberbefehlshaber der Litauischen Armee war.[^germany-russia-71]
 
 * Journalisten die kritisch über die Invasion berichten wollten, wurden unter Druck gesetzt.[^germany-russia-78] 
 
-* Vermeintlich kritische - faktisch anti-amerikanische - Kabarettisten unterstützten Russland: den Tiefpunkt deutscher Kabarettkunst bildete eine Sendung der "Die Anstalt", bei der 2014 Max Uthoff und Claus von Wagner unter dem Deckmantel des Pazifismus und zu Diensten des Totalitarismus[^germany-russia-82-de] verbreiteten russische Narrative zur "Verteidugung" der Krim-Invasion.[^germany-russia-79] Der Kabarettist Florian Schroeder diffamiert 2019 Volodymyr Zelenskyy,[^germany-russia-80] und die Kabarettistin Anny Hartmann verharmlost die Erderhitzung und betrieb 2025 Täter-Opfer-Umkehr im russischen Angriffskrieg.[^germany-russia-81]
+* Vermeintlich kritische - faktisch anti-amerikanische - Kabarettisten unterstützten Russland: den Tiefpunkt deutscher Kabarettkunst bildete eine Sendung der "Die Anstalt", bei der 2014 Max Uthoff und Claus von Wagner unter dem Deckmantel des Pazifismus und zu Diensten des Totalitarismus[^germany-russia-82-de] verbreiteten russische Narrative zur "Verteidigung" der Krim-Invasion.[^germany-russia-79] Der Kabarettist Florian Schroeder diffamiert 2019 Volodymyr Zelenskyy,[^germany-russia-80] und die Kabarettistin Anny Hartmann verharmlost die Erderhitzung und betrieb 2025 Täter-Opfer-Umkehr im russischen Angriffskrieg.[^germany-russia-81]
 
 * Putin erzeugt Flüchtlingswellen aus Syrien und Merkel holt sie ins Land und macht damit die AfD groß
 
@@ -264,7 +265,7 @@ Kyjiv und die Kyjiver-Rus' und das Slavische Christentum waren nicht russisch, s
 
 * Die Bayerische CSU-Regierung pflegte engste Beziehungen zu Putins Mann in der EU: Victor Orban, [^germany-russia-44] [^germany-russia-45] [^germany-russia-46] und unterstützte ein "Prestigeprojekt der russischen Führung": Sputnik V.[^germany-russia-47]
 
-* Während der Verunsicherung durch die Covid-Pandemie verlieren sich Teile der deutschen Bevölkerung in den Verschwörungs- und Desinformations-Welten der sozialen Netzwerke, verweigern Impfungen, erleiden ungeimpft reale Schäden durch  Infektionen. Viele finden nicht mehr in die Realität zurück. Russland befördert diese Entwicklung mit gezielter Propaganda: der eigenen Bevölkerung wird erzählt, Covid-Impfstoff sei sicher, der Deutschen Gesellschaft macht Russland Angst vor den Nebenwirkungen der lebensrettenden Impfstoffe.[^germany-russia-59] 
+* Während der Verunsicherung durch die Covid-Pandemie verlieren sich Teile der deutschen Bevölkerung in den Verschwörung- und Desinformations-Welten der sozialen Netzwerke, verweigern Impfungen, erleiden ungeimpft reale Schäden durch  Infektionen. Viele finden nicht mehr in die Realität zurück. Russland befördert diese Entwicklung mit gezielter Propaganda: der eigenen Bevölkerung wird erzählt, Covid-Impfstoff sei sicher, der Deutschen Gesellschaft macht Russland Angst vor den Nebenwirkungen der lebensrettenden Impfstoffe.[^germany-russia-59] 
 
 ::: {.callout-important title="Covid-Veschwörung"}
 21.03.202021 -- Corona-Desinformation: dieselben Muster. Nutzt Moskau die Coronakrise zu politischen Zwecken? Desinformations-Jäger der Europäischen Union listen Hunderte Falschmeldungen russischen Ursprungs über das neue Coronavirus und Covid-19.[^germany-russia-73]
@@ -273,7 +274,7 @@ Kyjiv und die Kyjiver-Rus' und das Slavische Christentum waren nicht russisch, s
 
 05.11.2021 -- Der russische Staatssender RT DE ist eine der wichtigsten Quellen für Corona-Leugner und "Querdenker" in Deutschland.[^germany-russia-75]
 
-14.11.2021 -- Propaganda-Boomerang von RT: In Russland für die Impfung, in Deutschland dagegen.[^germany-russia-76]
+14.11.2021 -- Propaganda-Bumerang von RT: In Russland für die Impfung, in Deutschland dagegen.[^germany-russia-76]
 
 11.04.2022 -- Analyse: Narrative russischer staatlicher Medien über Corona-Impfstoffe im Westen.[^germany-russia-77]
 :::
@@ -283,7 +284,7 @@ Kyjiv und die Kyjiver-Rus' und das Slavische Christentum waren nicht russisch, s
 
 Mit Merkels Abgang waren Putins Kriegsvorbereitungen abgeschlossen, und Russland überfiel die ganze Ukraine. 
 
-* Trotz klarer Warnungen der Geheimdienste vor einer russischen Invasion macht Scholz eine unfähige SPDlerin zur Verteidungungsministerin
+* Trotz klarer Warnungen der Geheimdienste vor einer russischen Invasion macht Scholz eine unfähige SPD-lerin zur Verteidigungsministerin
 
 * Angesichts des bevorstehenden russischen Überfalls auf die Ukraine sendet Deutschland der Ukraine lediglich 5000 Helme als Feigenblatt und als Signal an Moskau: man will es sich nicht mit den Russen verscherzen 
 
@@ -315,7 +316,7 @@ Die von Deutschland gelieferten Flugabwehrpanzer Gepard erwiesen sich als unerwa
 * große Teil der intellektuellen "Elite" Deutschlands, allen voran der Moralphilosoph Jürgen Habermas, der Möchtegern Philosoph Richard David Precht, die Verfassungsrichterin Julia Zeh und die Feministin Alice Schwarzer haben versucht mit offenen Briefen, Eskalationsangst und angeblich zu wenig diplomatischen Bemühungen eine tatsächliche Unterstützung der Ukraine zu unterminieren.
 
 ::: {.callout-important title="Intellektuelle Enttäuschung: Jürgen Habermas"}
-Die größte Enttäuschung der Intellektuellen Elite Deutschlands war die Haltung des moralphilosphischen Autorität Jürgen Habermas, dessen "Diskursethik" in der Bewährungsprobe in moralische Beliebigkeit zerlaufen ist, der im entscheidenden Moment des "Nie wieder Faschismus" in den Chor der Appeaser Russlands eingeschwenkt ist, die unter dem Zeichen der Friedenstaube "Nie wieder Krieg" gerufen haben, und damit meinten, man solle der Ukraine keine Waffen liefern, die Ukrainer sollten sich dem völkermordenden Russland ergegeben, angeblich um weiteres Blutvergießen zu verhindern. Dieser Beitrag von Habermas wird als Höhepunkt Deutscher Dummheit, Deutscher Doppelmoral und Deutschen Duckmäusertums in die Geschichtsbücher eingehen.  
+Die größte Enttäuschung der Intellektuellen Elite Deutschlands war die Haltung des moralphilosophischen Autorität Jürgen Habermas, dessen "Diskursethik" in der Bewährungsprobe in moralische Beliebigkeit zerlaufen ist, der im entscheidenden Moment des "Nie wieder Faschismus" in den Chor der Appeaser Russlands eingeschwenkt ist, die unter dem Zeichen der Friedenstaube "Nie wieder Krieg" gerufen haben, und damit meinten, man solle der Ukraine keine Waffen liefern, mit der Konsequenz, die Ukrainer sollten sich dem völkermordenden Russland ergeben, angeblich um weiteres Blutvergießen zu verhindern.  
 :::
 
 ::: {.callout-tip title="Intellektueller Höhepunkt: Marko Martin"}
@@ -331,22 +332,22 @@ Hier die Rede im Wortlaut[^germany-russia-53] und ein Interview mit Marko Martin
 Die Regierungspartei SPD weigert sich den Putin-Freund und Gazprom-Lobbyisten Gerhard Schröder aus der Partei auszuschließen, die Nordstream-Freundin Manuela Schwesig bleibt weiter Ministerpräsidentin von Mecklenburg-Vorpommern, die SPD macht den Russland-Freund Rolf Mützenich zum Fraktionsvorsitzenden, usw., usw.
 :::
 
-* Olaf Scholz hat dem Wunsch Bidens und Putins entsprochn, und den wegen Mordes verurteilten FSB Tiergartenmörder gegen angebliche russische Oppositionelle auszutauschen, die nach ihrer Freilassung nichts Besseres zu tun hatten, als sofort das Einstellen der Sanktionen und Reisefreiheit in der EU für das so leidende russische Tätervolk zu fordern. 
-* Den Gipfes deutschen Mitgefühls erhielt dann die Witwe des imperial-russisch Oppositionellen Nawalny ("die Krim ist unser"), als dieser erwartungsgemäß ein zweites Mal vergiftet wurde, nachdem sie ihn nach Russland zurückgeschickt hatte.   
+* Olaf Scholz hat dem Wunsch Bidens und Putins entsprochen, und den wegen Mordes verurteilten FSB Tiergartenmörder gegen angebliche russische Oppositionelle auszutauschen, die nach ihrer Freilassung nichts Besseres zu tun hatten, als sofort das Einstellen der Sanktionen und Reisefreiheit in der EU für das so leidende russische Tätervolk zu fordern. 
+* Den Gipfel deutschen Mitgefühls erhielt dann die Witwe des imperial-russisch Oppositionellen Nawalny ("die Krim ist unser"), als dieser erwartungsgemäß ein zweites Mal vergiftet wurde, nachdem sie ihn nach Russland zurückgeschickt hatte.   
 
 * deutsche Kulturfreunde, genauer Freunde der russischen imperialen "Kultur", haben es sich auch nach Butcha nicht nehmen lassen, Putins Freundin Anna Netrebko ("Nach Berlin") zuzujubeln, und Ukrainischen Gegendemonstranten den Stinkefinger zu zeigen.
 
 ::: {.callout-important title="Rimski-Korsakow: Die Nacht vor Weihnachten"}
-Eine als Weihnachtsmärchen von Gogol verkleidete Oper des russischen Nationalisten Rismki-Korsakov, welche die Ukrainer als niedliche Bauerntrampel diffamiert und dem russischen Imperium huldigt, die 1940 zum Hitler-Stalin-Pakt in Deutschland uraufgeführt wurde, und auf die seitdem in Deutschland gut verzichtet werden konnte, muss ausgerechnet im Winter 2021 und den Folgejahren wieder in Deutschland aufgeführt werden, um die deutsch-russiche Seele zu rühren und zu erinnern, wie friedlich und groß die russische Kultur doch sei (der zweckentfremdete Gogol war gebürtiger Ukrainer).
+Eine als Weihnachtsmärchen von Gogol verkleidete Oper des russischen Nationalisten Rimski-Korsakov, welche die Ukrainer als niedliche Bauerntrampel diffamiert und dem russischen Imperium huldigt, die 1940 zum Hitler-Stalin-Pakt in Deutschland uraufgeführt wurde, und auf die seitdem in Deutschland gut verzichtet werden konnte, muss ausgerechnet im Winter 2021 und den Folgejahren wieder in Deutschland aufgeführt werden, um die deutsch-russische Seele zu rühren und zu erinnern, wie friedlich und groß die russische Kultur doch sei (der zweckentfremdete Gogol war gebürtiger Ukrainer).
 :::
 
 * Die Regierung Scholz verhinderte eine Freigabe der eingefrorenen russischen Gelder an die Ukraine, stattdessen wurden nur Zinserträge freigegeben[^germany-russia-51]
 
 * Die Dresdener Sozialbürgermeisterin entzieht die Fördergelder für einen erfolgreichen Deutschlandweit bekannten mustergültigen Selbsthilfe-Verein, um sie einem russisch beeinflussten Verein zuschustern: zukünftig sollen ukrainische Kriegsflüchtlinge von Russen betreut werden.[^germany-russia-54] [^germany-russia-55]
 
-* Ein schwäbischer von einem Unternehmer dominierter Verein gibt einen "Gorbatschow-Friedenspreis Löwenherz" an die pro-russsische Propagandistin Krone-Schmalz, die für den russischen Sieg agitiert.
+* Ein schwäbischer von einem Unternehmer dominierter Verein gibt einen "Gorbatschow-Friedenspreis Löwenherz" an die pro-russische Propagandistin Krone-Schmalz, die für den russischen Sieg agitiert.
 
-* Deutschland und ander EU-Länder importieren russisches Flüssiggas,[^germany-russia-67] exportieren munter weiter sanktionierte und nicht-sanktionierte kriegsrelevante Güter an Russland auf dem Umweg über Kasachstan, die Türkei, China, und machen weiter Geschäft in Russland (siehe @sec-economy-world).
+* Deutschland und andere EU-Länder importieren russisches Flüssiggas,[^germany-russia-67] exportieren munter weiter sanktionierte und nicht-sanktionierte kriegsrelevante Güter an Russland auf dem Umweg über Kasachstan, die Türkei, China, und machen weiter Geschäft in Russland (siehe @sec-economy-world).
 
 * Die Verhängung und Durchsetzung von Sanktionen gegen Russland leidet offensichtlich immer noch am fehlenden politischen Willen bzw. an deutscher Korruption.
 
@@ -373,7 +374,7 @@ Für ausführlichere Analysen siehe die Berichte von [b4ukraine.org](https://b4u
 ::: {.callout-important title="Nicht-sanktioniertes Aluminium aus Irland"}
 Aughinish Alumina liegt im Westen Irlands, rund 40 Autominuten von Limerick entfernt. Rund zwei Millionen Tonnen  Aluminiumoxid (Alumina) werden hier pro Jahr produziert. Rund zwei Drittel der Jahresproduktion gehen nach Russland. Dort wird das Oxid durch Schmelzverfahren zu Aluminium verarbeitet, das die Rohstoffbasis für Putins Drohnen und Raketen bildet.  
 
-Die North Atlantic Fella Organization (NAFO) fordert, dass die EU Aluminium nach Russland sanktioniert. Um russischer Diffamierung den Wind aus den Segeln zu nehmen, bezeichnen sich die 'Fellas' scherzhaft als "hirnamputierte Hunde", die alle in Langley (bei der CIA) wohnen.[^germany-russia-62]
+Die [North Atlantic Fella Organization (NAFO)](#sec-preface-termstech-nafo) fordert, dass die EU Aluminium nach Russland sanktioniert, und sammelt Unterstützer aus dem Europäischen Parlament: Stand 23. Mai 2026 waren deutsche (und französische) MEPs deutlich unterrepräsentiert bei der geforderten Definition/Durchsetzng von Sanktionen.[^germany-russia-62]
 :::
 
 
