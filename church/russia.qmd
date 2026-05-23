@@ -6,54 +6,111 @@ abstract: >
 # Church in Russia? {#sec-church-russia}
 
 ::: {.callout-caution title="Myth"}
-Russian Orthodox Church defends traditional family values
-[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=church%20russia&sort=relevance)
+Russian Orthodox Church defends traditional family values [![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/?text=church%20russia&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-The Russian Orthodox Church is a KGB/FSB organization that helps to oppress Russians and wage war against Ukrainian Christians
+The Russian Orthodox Church is a KGB/FSB organization that helps to oppress Russians and wage war against Ukrainian Christians [![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Russian_Orthodox_Church)
 :::
 
 See also the chapter on russian values @sec-russia-values.
 
 
+## Christianity in Kyivan Rus'
 
-[https://en.wikipedia.org/wiki/Russian_Orthodox_Church](https://en.wikipedia.org/wiki/Russian_Orthodox_Church)
+Christianity was brought to the slavic people on Ukrainian soil: 
 
-## TODO
+> In 988, Prince Volodymyr of Kyiv embraced Christianity, leading to its establishment as the state religion of Kyivan Rus. Concurrently, the Patriarchate of Constantinople founded the Metropolis of Kyiv. The Metropolis of Kyiv  (Greek: μητρo — mother, πολίτης — city), founded during the Rus-Ukraine Baptism, became the foundational church for all dioceses that emerged in modern Belarus and Russia.[^church-russia-0]
 
-[^church-russia-7]
 
-{{< var todo >}}
+## Metropolis of Moscow
 
-## WWII and NKVD
+The russian orthodox church was founded by an act of terror:
 
-{{< var todo >}}
+
+> The first attempts to divide the metropolis and separate the northern (modern Russia) dioceses from the Kyivan centre took place during the reign of Prince Andrey Bogolyubsky of Suzdal, whose army captured, destroyed, and looted Kyiv in 1169. Among the stolen shrines was the icon of the Virgin of Vyshhorod (believed to be miraculous), which ended up in modern Vladimir. — ibid.
+
+Russian prosecuted the Metropolis of Kyiv and tried to russify Ukrainians under the Metropolis of Moscow, see @sec-church-ukraine.
+
+
+## Orthodoxy under the Soviets
+
+The secular communists persecuted religion:
+
+> Between 1917 and 1935, 130,000 Eastern Orthodox priests were arrested. Of these, 95,000 were put to death[![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Russian_Orthodox_Church) 
+
+> Many church buildings were converted into warehouses or clubhouses, and quite a few monasteries into prisons. Countless clergymen were imprisoned. In 1931, Moscow's largest church, the Church of Christ the Savior, built after Napoleon's defeat, was blown up ... In 1939, there were only about 100 cathedrals and parish churches left in the whole of Russia, and in Ukraine only three percent of the pre-revolutionary churches remained.[^church-russia-1]
+
+
+After hefty persecution, during the "Great patriotic war" (see @sec-wwii-responsibility) Joseph Stalin revived the Russian Orthodox Church to intensify patriotic support for the war effort:
+
+> the Moscow Patriarchate restored its structures in 1943, and the word “Rossiyskaya” (“российская” in Russian) in the Church’s name was replaced by “Russian”(“русская” in Russian) to emphasise its claim to the heritage of all ancient Rus. — ibid.
+
+> The Local Council of the Russian Orthodox Church, in which Moscow's Patriarch was elected in 1945, was held under the control of the People's Commissariat of State Security (NKVD), which was the Soviet KGB predecessor ... To this end, it was necessary to identify “persons who enjoy religious authority among the clergy and believers, and at the same time are the persons proven in the intelligence or patriotic work”. “It is important to ensure that among the nominated candidates the NKGB agents were prevailing to pursue our strategy at the Council,”[^church-russia-8]
+
+Quote in detail (our emphasis):
+
+> In accordance with the foregoing, in further work on clergymen, the NKGB bodies should be guided by the following:  
+> 1. Do not prevent the clergy from carrying out official decisions of Patriarch Sergius and the Synod concerning the appointments and movement of priests in dioceses, the opening of theological courses, candle factories, the distribution of printed publications of the Patriarch and the Synod.  
+> 2. At the same time, **ensure unrelenting agent surveillance of the activities of bishops and the rest of the clergy of the Orthodox Church, suppressing possible attempts on their part, exceeding the rights granted to them or using these rights for anti-Soviet purposes**.  
+> 3. **Each newly opened church is provided with a proven agent from among the clergy or church asset**.  
+> 4. Until the special instructions of the NKGB of the USSR shall not allow the collapse of the Renovationist Church and the transition of the Renovational clergy to the jurisdiction of the Moscow Patriarchate, by giving the appropriate instructions to our agents from among the leadership of the clergy. Reennabines do not allow any attacks or active hostile actions against the Sergius Church.  
+> 5. **To strengthen the undercover work among other church currents and sectarians, especially in illegal church, organizations and groups, suppressing possible provocations** and attempts to intensify anti-Soviet work on their part in connection with the decisions taken against the Sergiev Orthodox Church.[^church-russia-9]  
+
 
 ## Persecution under Khrushchev
 
-While the Russian Orthodox Church was brutally persecuted under Stalin, it experienced a revival after his death, albeit under strict control by the KGB and later the FSB. Under Stalin, religious institutions were heavily suppressed, and their members persecuted. [^church-russia-1]
+In Western countries, including the Federal Republic of Germany, Khrushchev was particularly appreciated for his policy of “de-Stalinization.” In contrast, the media hardly took into account the fact that the worst persecution of the Church took place under his rule:
+
+> A new and widespread persecution of the Christians was subsequently instituted under the leadership of Nikita Khrushchev and Leonid Brezhnev ... The number of Orthodox churches fell from around 22,000 in 1959 to around 8,000 in 1965; priests, monks and faithful were killed or imprisoned and the number of functioning monasteries was reduced to less than twenty. [![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://de.wikipedia.org/wiki/Russisch-Orthodoxe_Kirche#Engagement_im_Zweiten_Weltkrieg) 
+
 
 ## Glasnost and KGB
 
-After Stalin's death, the Church was formally recognized again, but the KGB used it to control the population and closely monitored its activities. [^church-russia-2] This control continued under the FSB, and high-ranking church officials such as Patriarch Kirill had connections with the KGB.[^church-russia-3] 
+Beginning in the late 1980s, under Mikhail Gorbachev, the new political and social freedoms resulted in the return of many church buildings to the church. However, the russian Orthodoxy remained under full control of the FSB and tried to eliminate all competing churches not under the control of the FSB:
+
+> The Orthodox Church wants to fight against its Catholic rivals... Stalin therefore established his model of the Moscow Patriarchate—the KGB protected it in every way, and so the Church has stayed the same to this day. It was practically a branch of the KGB, with most of the leaders and senior clergy being denouncers. Orthodoxy has always been opposed to the West; at least ideologically, there is a desire to re-erect the Iron Curtain ... It is said that 70 to 80 percent of the population are believers, but the whole problem and the peculiarity in our country is that the majority are not interested in what goes on in the church at all. Characteristically, at least Russian Orthodoxy believes primarily in ritual. A believer comes to church, lights a candle, buys an icon, prays, crosses himself, and fasts. However, merely performing the ritual is a sign of pure paganism, a spiritual perversion, a primitive belief ... Our whole suffering lies in the fact that in our Constantinopolitan model, the tsar was always the head of the church. The church was and is a faithful servant of the government.[^church-russia-2]
+
+As a branch of the KGB and subordinate to the Tsar, the Russian Orthodox Church was also responsible for propaganda and historical revisionism: in a typical colonialist cultural appropriation, the Russian Orthodox Church celebrated in 1988 the 1000th anniversary of the Slavic Christianization in Kyiv Rus', the Metropolis of Kiev, which it persecuted and whose values it trampled underfoot.
+
 
 ## Warmonger Kirill
 
-Patriarch Kirill of the Russian Orthodox Church, while urging the clergy to abandon “flashy and provocative luxury,” possesses multiple million-dollar properties.[^church-russia-4] Kirill, who was spying for the KGB in Switzerland in the 1970s,[^church-russia-5] publicly supported Russia’s aggression against Ukraine. His predecessor, Patriarch Alexy II was a KGB agent as well.[^church-russia-6]
+Patriarch Alexy II (codename “Drozdov”) and Patriarch Kirill (codename “Mikhailov”) of the Russian Orthodox Church both are a KGB agents[^church-russia-6] and - of course - corrupt. Patriarch Kirill while urging the clergy to abandon “flashy and provocative luxury,” possesses multiple million-dollar properties[^church-russia-4] and was caught spying for the KGB in Switzerland in the 1970s. [^church-russia-en-3] Patriarch Kirill publicly supports Russia’s aggression against Ukraine:
+
+> On March 27, 2024, the World Russian People’s Council (WRPC) issued its most contentious document in 30 years: the Order (Nakaz) on the Present and Future of the Russian World. The document’s first article frames Russia’s “special military operation” in Ukraine as a “holy war,” presenting it as part of the historical “national liberation” struggle of the Russian World against the “collective West”.[^church-russia-7]
 
 
+Putin transformed the Church into a tool of intelligence collection, influence operations, and hybrid warfare against the West:
+
+> A coordinated influence operation portraying Ukraine’s national security actions toward Moscow-linked Orthodox institutions as “religious persecution” reached the U.S. Congress in November and December 2025 through faith-branded advocacy and organized political access.  
+> At the core of this operation is deception: Ukraine’s actions are falsely framed as a “ban on Orthodoxy,” when in fact they are national-security measures targeting a Moscow-subordinated institution tied to Russia’s genocidal war and intelligence apparatus—misleading Western audiences unfamiliar with Ukraine’s church structures into believing a fabricated narrative of religious repression.[^church-russia-10]
+
+> Any good assault deploys concealment, deception, and concentrated firepower. And this utilized all three: a virtuous message of religious liberty, (feigned) concern for Ukrainians, and the amplification of an online ecosystem of entities recently created for this purpose.[^church-russia-11]
+
+> The SSU told Ukrainska Pravda that 180 criminal cases into unlawful activities by UOC priests have been opened since the full-scale war began. Among the suspects are 23 bishops. The offences committed range from treason and justification of Russian aggression against Ukraine to child abuse and smuggling citizens across the border. So far, 38 UOC priests have been convicted by Ukrainian courts.[^church-russia-12]
+
+
+[^church-russia-0]: Ukraїner (January 6, 2024) The Orthodox Church of Ukraine: the path to independence from Moscow. [https://www.ukrainer.net/en/orthodox-church-ukraine-crisis/?PageSpeed=noscript](https://www.ukrainer.net/en/orthodox-church-ukraine-crisis/?PageSpeed=noscript)
 
 [^church-russia-1]:  Döpmann, H. D. (n.d.). Stalin und die Russische Orthodoxe Kirche. [https://www.kommunismusgeschichte.de/jhk/jhk-2003/article/detail/stalin-und-die-russische-orthodoxe-kirche](https://www.kommunismusgeschichte.de/jhk/jhk-2003/article/detail/stalin-und-die-russische-orthodoxe-kirche)
 
-[^church-russia-2]:  Steiner, E. (2003, January 22).  Gleb Jakunin: “Orthodoxie War Filiale Des KGB. ” DIE FURCHE. [https://www.furche.at/wirtschaft/gleb-jakunin-orthodoxie-war-filiale-des-kgb-1295599](https://www.furche.at/wirtschaft/gleb-jakunin-orthodoxie-war-filiale-des-kgb-1295599) 
+[^church-russia-2]:  Steiner, E. (2003, January 22).  Gleb Jakunin: “Orthodoxie War Filiale Des KGB” DIE FURCHE. [https://www.furche.at/wirtschaft/gleb-jakunin-orthodoxie-war-filiale-des-kgb-1295599](https://www.furche.at/wirtschaft/gleb-jakunin-orthodoxie-war-filiale-des-kgb-1295599) 
 
-[^church-russia.de-3]:  Domradio, (2023, February 7).  Schweizer Bundespolizei sieht Kyrill I. als Ex-KGB-Agent.  [https://www.domradio.de/artikel/schweizer-bundespolizei-sieht-kyrill-i-als-ex-kgb-agent](https://www.domradio.de/artikel/schweizer-bundespolizei-sieht-kyrill-i-als-ex-kgb-agent)
+[^church-russia-en-3]:  (2023, February 6). Russian Patriarch Kirill spied in Switzerland for KGB in 70s – Media. The Moscow Times. [https://www.themoscowtimes.com/2023/02/06/russian-patriarch-kirill-spied-in-switzerland-for-kgb-in-70s-media-a80151](https://www.themoscowtimes.com/2023/02/06/russian-patriarch-kirill-spied-in-switzerland-for-kgb-in-70s-media-a80151) 
 
 [^church-russia-4]:  (2023, July 20). Russian Orthodox leader calls on clerics to forgo luxurious lifestyles. The Moscow Times. [https://www.themoscowtimes.com/2023/07/20/russian-orthodox-leader-calls-on-clerics-to-forgo-luxurious-lifestyles-a81907](https://www.themoscowtimes.com/2023/07/20/russian-orthodox-leader-calls-on-clerics-to-forgo-luxurious-lifestyles-a81907) 
-
-[^church-russia-5]:  (2023, February 6). Russian Patriarch Kirill spied in Switzerland for KGB in 70s – Media. The Moscow Times. [https://www.themoscowtimes.com/2023/02/06/russian-patriarch-kirill-spied-in-switzerland-for-kgb-in-70s-media-a80151](https://www.themoscowtimes.com/2023/02/06/russian-patriarch-kirill-spied-in-switzerland-for-kgb-in-70s-media-a80151) 
 
 [^church-russia-6]:  (1999, February 12). Russian Patriarch 'was KGB spy'. The Guardian. [https://www.theguardian.com/world/1999/feb/12/1](https://www.theguardian.com/world/1999/feb/12/1) 
 
 [^church-russia-7]:  Mikhail Suslov (November 13, 2024) How the Russian Orthodox Church Conceptualizes the Ukraine War. [https://russiapost.info/politics/roc_war](https://russiapost.info/politics/roc_war)
+
+[^church-russia-8]: Religious Information Service of Ukraine (RISU) (12.12.2017) Moscow Patriarchate created by NKVD agents, according to SBU documents. [https://risu.ua/en/moscow-patriarchate-created-by-nkvd-agents-according-to-sbu-documents_n88167](https://risu.ua/en/moscow-patriarchate-created-by-nkvd-agents-according-to-sbu-documents_n88167)
+
+[^church-russia-9]: Religious Information Service of Ukraine (RISU) (12.12.2017) Зачатие московской патриархии (Concept of the Moscow Patriarchate) [https://risu.ua/zachatie-moskovskoy-patriarhii_n88170](https://risu.ua/zachatie-moskovskoy-patriarhii_n88170)
+
+[^church-russia-10]: Olga Lautman & Luchkov Andrii (Dec 28, 2025) Russia’s Orthodox Influence Operation Hits Washington: How the “Christian Persecution” Disinformation Reached Congress. A Deep-Dive Investigation Into Russia's Orthodox Church Networks, Oligarch Money, Disinformation Operations, and Congressional Outreach. Malign Influence Operations (MIO). [https://maligninfluenceoperations.substack.com/p/russias-orthodox-influence-operation](https://maligninfluenceoperations.substack.com/p/russias-orthodox-influence-operation)
+
+[^church-russia-11]: John Jackson (Dec 27, 2025) Anatomy of Deception: The Influence Operation Behind an Anti-Ukraine Lobbying Blitz on Capitol Hill. How an advocacy team behind the Ukrainian Orthodox Church utilized misleading statements, outright lies, and information-laundering techniques to astroturf its way onto MAGA's centerstage. John’s Substack. [https://johnjackson404.substack.com/p/anatomy-of-deception-the-influence](https://johnjackson404.substack.com/p/anatomy-of-deception-the-influence)
+
+[^church-russia-12]: Anhelina Strashkulych (11 September) The devil in disguise: the Ukrainian Orthodox priests who work with Russian secret services and justify the war. Ukrainska Pravda. [https://www.pravda.com.ua/eng/articles/2025/09/11/7530266/](https://www.pravda.com.ua/eng/articles/2025/09/11/7530266/)

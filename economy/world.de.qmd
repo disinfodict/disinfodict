@@ -1,0 +1,24 @@
+---
+abstract: > 
+  Geschäft mit Krieg und Völkermord? Immer noch Blutsteuer an Russland zahlen? Morden und foltern für den Profit? Welche Firmen man boykottieren und sanktionieren sollte!
+---
+
+# Geschäft in Russland {#sec-economy-world}
+
+::: {.callout-caution title="Mythos"}
+Geschäft und Politik kann man trennen
+:::
+
+::: {.callout-tip title="Wahrheit"}
+- Unternehmen, die mit Russland Geschäfte machen, helfen Russland dabei, einen blutigen Krieg zu führen
+- Unternehmen, die in Russland Geschäfte machen, zahlen eine Blutsteuer an das Reich des Bösen
+:::
+
+
+![Länder, aus denen die meisten Unternehmen weiterhin in Russland tätig sind (Quelle: leave-russia.org)](leave-russia.png)
+
+* einige Länder haben ihre Geschäfte in Russland kaum reduziert (China, Indien, Türkei, UAE)
+* die USA haben ihre Geschäfte in Russland stark reduziert, Deutschland deutlich weniger
+
+Für Details zu einzelnen LÄndern siehe [leave-russia.org](https://leave-russia.org/)
+

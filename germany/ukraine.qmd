@@ -21,6 +21,11 @@ abstract: >
 {{< var todo >}}
 
 
+::: {.callout-tip title="German generosity"}
+When Ukrainian refugees began arriving following the full-scale invasion, German civil society demonstrated an incredible degree of generosity. Those who were able to help did so by assisting with reception efforts, providing translations, and helping with administrative procedures, and many families took in refugees.[^germany-ukraine-3] 
+:::
+
+
 [^germany-ukraine-1]:  Nico Lange (2024) Aber die NATO! 10 populäre Mythen über Putins Krieg gegen die Ukraine, Kapitel 4. Münchener Sicherheitskonferenz, Zeitenwende on tour.  [https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=16](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=16)
 
 [^germany-ukraine-2]: Nico Lange (2024) Aber die NATO! 10 populäre Mythen über Putins Krieg gegen die Ukraine, Kapitel 6. Münchener Sicherheitskonferenz, Zeitenwende on tour.  [https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=24](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=24)

@@ -47,7 +47,7 @@ tinytex::tlmgr_install("babel-german")
 install.packages("servr")
 install.packages("quarto")
 install.packages("pak")
-pak::pak("ropensci-review-tools/babelquarto")
+#pak::pak("ropensci-review-tools/babelquarto")
 ```
 
 ## Without github account
@@ -286,6 +286,14 @@ detext <- lapply(de, function(i){
 if(sum(names(entext) != names(detext))>0){
   print(setdiff(names(entext), names(detext)))
   print(setdiff(names(detext), names(entext)))
+}
+stopifnot(length(entext)==length(detext))
+for (i in seq_along(entext)){
+  cat("checking", i, "\n")
+  if(length(unlist(entext[i]))!=length(unlist(detext[i]))){
+    print(entext[i])
+    print(detext[i])
+  }
 }
 entext <- unlist(entext)
 detext <- unlist(detext)
@@ -772,13 +780,29 @@ if (dofixhtml){
 A Cloudflare Pages _redirects file is not needed, because Cloudflare Pages signals its trailing-slash policy with 308 codes
 
 ```{R}
-#f <- file("_book/_redirects", "w")
-#writeLines(paste(paste0(baseurl, '/'), baseurl, 301), f)
-#for (cc in ccs[-1]){
-#  writeLines(paste(paste0(baseurl, '/', cc), paste0(baseurl, '/', cc, '/'), 301), f)
-#}
-#writeLines(paste(paste0(baseurl, '/*'), paste0(baseurl, '/:splat/'), 301), f)
-#close(f)
+f <- file("_book/_redirects", "w")
+writeLines('
+https://disinfodict.org* https://disdict.org{$1} 301
+
+https://disdict.org*.html* https://disdict.org{$1}{$2} 301
+
+https://disdict.org/ https://disdict.org 301
+https://disdict.org/de https://disdict.org/de/ 301
+
+https://disdict.org/index* https://disdict.org 30
+https://disdict.org/de/index* https://disdict.org/de/ 301
+
+https://disdict.org/Disinfor-Dictionary.pdf https://disdict.org/Disinfo-Dictionary.pdf 301
+
+https://disdict.org/de/appendix/references.html https://disdict.org/de/appendix/references.de 301
+https://disdict.org/de/impressum.de https://disdict.org/de/appendix/impressum.de 301
+https://disdict.org/de/disinfodisorder.de https://disdict.org/de/us/disinfodisorder.de 301
+https://disdict.org/de/appendix/recommendations https://disdict.org/de/appendix/recommendations.de
+https://disdict.org/de/ovaloffice.de https://disdict.org/de/us/ovaloffice.de
+
+https://disdict.org/cdn-cgi/l/email-protection https://disdict.org/404 410
+', f)
+close(f)
 ```
 
 
@@ -799,17 +823,9 @@ https://*.pdf
 https://*.epub
   X-Robots-Tag: noindex
 
-https://disinfodict.org/index*
+https://disdict.org/cdn-cgi/l/email-protection
   X-Robots-Tag: noindex
 
-https://disdict.org/index*
-  X-Robots-Tag: noindex
-
-https://disinfodict.org/de/index*
-  X-Robots-Tag: noindex
-
-https://disdict.org/de/index*
-  X-Robots-Tag: noindex
 ', f)
 close(f)
 ```
@@ -818,8 +834,10 @@ close(f)
 ## Fix html file dates
 
 ```{R}
-if (dofixhtml)
-  Sys.setFileTime(htmlfiles, dates[htmlfiles])
+if (dofixhtml){
+  i <- htmlfiles != "_book/sitemap.xml"
+  Sys.setFileTime(htmlfiles[i], dates[htmlfiles[i]])
+}
 ```
 
 
@@ -869,6 +887,8 @@ for (i in todo){
     cat("     OK ", o, "\n")
   }
 } 
+i <- is.na(links[,"ret"]) | links[,"ret"]!="200"
+paste(links[i,"ret"], links[i,"url"])
 ```
 
 ```{R}
@@ -882,6 +902,12 @@ cat(paste("\n", rownames(d), d[,1], d[,2], sep=" "), file="~/test.txt")
 ## Manual curl check
 
 curl -I -L https://disdict.org/
+
+
+## Search for links
+
+grep -rnil  "searchtext"  "path" 
+
 
 
 # Expert use only

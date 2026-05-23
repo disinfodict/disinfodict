@@ -12,21 +12,18 @@ abstract: >
 - Claire Wardle's [Information Disorder Glossary](https://journalistsresource.org/politics-and-government/information-disorder-glossary-fake-news/)
 
 
+## Learning materials {#sec-appendix-recommendations-learning}
+
+- EUvsDisinfo has a [learning page](https://euvsdisinfo.eu/learn/) in multiple languages
+- The website [https://fakefrei. jff.de/](https://fakefrei.jff.de/) - Fake-free: tools, ideas and methods from the [Bavarian Alliance Against Disinformation](https://www.stmd.bayern.de/themen/bayern-allianz-desinformation/) offers learning and exercise materials for children, young people and adults (in German)
+- DW Akadmie has a [learning guide for experts](https://akademie.dw.com/en/tackling-disinformation-a-learning-guide/s-67264807) (in english)
+
+
 ## Teaching materials
 
 - Guidelines for teachers and educators on tackling disinformation and promoting digital literacy through education and training (@ECDE:2022:en)
 - How to spot and fight disinformation - Toolkit for teachers (@ECDC:2024:en)
 - EU teaching materials for [pupils aged 9 and under](https://learning-corner.learning.europa.eu/learning-materials/tackling-disinformation-and-promoting-digital-literacy_en) and for [pupils aged 15 and over](https://learning-corner.learning.europa.eu/learning-materials/how-spot-and-fight-disinformation_en)   
-
-## NGOs
-
-- [fellas4europe](https://fellas4europe.org/)
-- [EUvsDisinfo](https://euvsdisinfo.eu/ukraine/)
-- [StopFake](https://www.stopfake.org/en)
-- [MIMIKAMA - think first - then click](https://www.mimikama.org/en/)
-- [OPORA](https://oporaua.org/en/category/viyna/antipropaganda/)
-- [VoxCheck](https://voxukraine.org/en/)
-- [Mediendienst Integration](https://mediendienst-integration.de/en/english/facts-figures.html) is an information platform of the german “Council for Migration e.V.” on the topics of flight, migration and discrimination, and provides some pages in English. However, be aware that they pretend to know only about right-wing extremism, not about left-wing extremism or problems with Russian infiltration of German institutions.
 
 ## Media
 
@@ -38,6 +35,15 @@ abstract: >
 - [CNN facts first](https://edition.cnn.com/politics/fact-check)
 - [Arte politics an society](https://www.arte.tv/en/videos/politics-and-society/)
 
+## NGOs
+
+- [fellas4europe](https://fellas4europe.org/)
+- [EUvsDisinfo](https://euvsdisinfo.eu/ukraine/)
+- [StopFake](https://www.stopfake.org/en)
+- [MIMIKAMA - think first - then click](https://www.mimikama.org/en/)
+- [OPORA](https://oporaua.org/en/category/viyna/antipropaganda/)
+- [VoxCheck](https://voxukraine.org/en/)
+- [Mediendienst Integration](https://web.archive.org/web/20241224191620/https://mediendienst-integration.de/en/english/facts-figures.html) is an information platform of the german “Council for Migration e.V.” on the topics of flight, migration and discrimination, and provides some pages in English. However, be aware that they pretend to know only about right-wing extremism, not about left-wing extremism or problems with Russian infiltration of German institutions.
 
 ## Ukraine War Archive (UWA)
 
@@ -70,4 +76,10 @@ DRN provides a platform for experts from various fields such as political scienc
 
 On 2024 November 29, under the title [Foreign Interference, Subversion & Disinformation](https://www.disinforesilience.eu/2024/12/09/foreign-interference-and-disinformation-conference-in-vienna-analyzes-the-local-and-international-situation/) experts, diplomats, and representatives from politics and civil society gathered for an exchange of views.
 
+The website [hold these truths](https://herzinger.org/) of the publicist [Richard Herzinger](https://de.wikipedia.org/wiki/Richard_Herzinger), who passed away on October 5, 2025, contains many excellent, well-thought-out articles.
+
+
+## Legal Concepts
+
+The website [Make Liars Pay](https://makeliarspay.pages.dev) draws an analogy with road traffic regulations to propose a scalable system of administrative penalties for the dissemination of debunked false facts, as well as criminal penalties for deepfakes.
 

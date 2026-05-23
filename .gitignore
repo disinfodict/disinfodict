@@ -15,3 +15,5 @@ callout.RData
 callout_embedding.RData
 callout_experiment.RData
 EXPERIMENT.qmd
+
+**/*.quarto_ipynb

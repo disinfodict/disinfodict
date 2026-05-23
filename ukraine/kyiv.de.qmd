@@ -89,6 +89,21 @@ Weitere Einzelheiten finden Sie unter @sec-ukraine-history und @sec-russia-mosco
 
 Im 14. Jahrhundert fiel Kyjiw an das Großherzogtum Litauen, 1569 dann an die Polnisch-Litauische Gemeinschaft und wurde zu einem Zentrum des orthodoxen Widerstands gegen den katholischen Einfluss. Das 17. Jahrhundert brachte mit dem Kosakenaufstand unter der Führung von Bohdan Chmelnyzky, der 1649 triumphal in Kyjiw einzog, einen Umbruch. 
 
+[Gerhard Mercator](https://de.wikipedia.org/wiki/Gerhard_Mercator), der Erfinder der berühmten [Mercator-Projektion](https://de.wikipedia.org/wiki/Mercator-Projektion), erstellte eine Karte der Ukraine und der Krim mit dem Titel „Taurica Chersonesus“. Dieser Druck von [Jodocus Hondius d.Ä.](https://de.wikipedia.org/wiki/Jodocus_Hondius) aus dem Jahr 1606 zeigt das Kerngebiet der Kyjiver Rus' (orange koloriert) und deutlich davon abgegrenzt Russland (gelb koloriert).[^ukraine-kyiv-4] Mercators Karte zeigt, dass neben der linguistisch irreführenden Aneignung des Wikingerwortes „Rus'“ durch die Moskowiter auch geographisch Rus' und Russland zwei völlig verschiedene Gebiete sind. Mercators Karte ist der Vorläufer von Blaeus zweiblättriger Karte „Die Dnipro-Region der Ukraine von Tscherkassy bis zur Mündung ins Schwarze Meer“.[^ukraine-kyiv-4]
+
+![Mercator: Taurica Chersonesus (1606 gedruckt und koloriert von Jodocus Hondius d.Ä.)](Mercator_1606_Taurica_Chersonesus.jpg)
+
+<!-- https://davidrumsey.oldmapsonline.org/maps/4b4ddc80-e8d8-5e69-ba18-b66715058ddf/view -->
+
+Im Jahr 1613 tauchte der geografische Name „Ukraina“ zum ersten Mal auf einer gedruckten Karte auf, Magni Ducatus Lithuaniae, caeterarumque regionum illi adiacentium exacta descriptio, in deutscher Übersetzung „Das Großfürstentum Litauen und die angrenzenden Regionen mit ihrer genauen Beschreibung“. Diese berühmte Wandkarte wird gemeinhin als die Radziwiłł- (oder Radvila-)Karte bezeichnet (ebenda).
+
+[![Blaeu (1613) Magni Ducatus Lithuaniae (Wikimedia)](Magni_Ducatus_Lithuaniae_Main_768x768.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4c/Magni_Ducatus_Lithuaniae_Main.jpg)
+
+Beauplan, der das Gebiet des Polnisch-Litauischen Commonwealth und die Länder des Kosakenhetmanats im Rahmen von Feldzügen gegen Kosaken und Krimtataren durchquert und weite Teile des heutigen Ukraine-Gebiets bereist hatte, zeichnete 1948 eine detaillierte Karte mit dem Titel „Allgemeine Darstellung der verlassenen Ebenen, gemeinhin als Ukraine bezeichnet, zusammen mit ihren benachbarten Provinzen“ (ebenda).
+
+[![Beauplan (1648) Camporum Desertorum vulgo Ukraina (Wikimedia)](Beauplan_1648_Camporum_Desertorum_vulgo_Ukraina_988x768.png)](https://upload.wikimedia.org/wikipedia/commons/3/3b/General_Depiction_of_the_Empty_Plains_%28in_Common_Parlance%2C_the_Ukraine%29_Together_with_its_Neighboring_Provinces_WDL79.png)
+
+
 ### Wiederaufstieg und Russifizierung
 
 Nach dem 1648 begonnenen Chmelnyzkyj-Aufstand wurde Kyjiw Hauptstadt des Hetmanats der Saporoger Kosaken. Diese unterstellten sich 1654 im erzwungenen Abkommen von Perejaslaw dem Moskauer Zaren. Unter der Herrschaft des Kosakenhetmans Iwan Masepa wurden zahlreiche wichtige Bauwerke erneuert und Schulen gegründet. Das Kyjiwer Höhlenkloster, die Sophienkathedrale und das St. Michaelskloster erhielten ihr heutiges Aussehen im Stil des ukrainischen Barocks. 
@@ -118,4 +133,9 @@ Nach Orangener Revolution und Euro-Maidan ist Kyjiw ein Symbol für die Widersta
 [^ukraine-kyiv-2]: Kyjiw - Niedergang (2025 March 29) German Wikipedia. [https://de.wikipedia.org/wiki/Kiew#Niedergang](https://de.wikipedia.org/wiki/Kiew#Niedergang)
 
 [^ukraine-kyiv-3]: Vladimir-Suzdal (2025 March 29) English Wikipedia. [https://en.wikipedia.org/wiki/Vladimir-Suzdal](https://en.wikipedia.org/wiki/Vladimir-Suzdal)
+
+[^ukraine-kyiv-4]: Heiko Muhr (February 24, 2023) Lines of Latitude: Putting Ukraine on the map (and keeping it there). UC Berkeley Library. [https://update.lib.berkeley.edu/2023/02/24/lines-of-latitude-putting-ukraine-on-the-map-and-keeping-it-there/](https://update.lib.berkeley.edu/2023/02/24/lines-of-latitude-putting-ukraine-on-the-map-and-keeping-it-there/)
+
+[^ukraine-kyiv-5]: Benjamin van der Linde (15.12.2020) Von den angewandten Farben zur funktionalen Kolorierungsmethode. MEMO – Medieval and Early Modern Material Culture Online. [https://memo.imareal.sbg.ac.at/wsarticle/memo_quer/2020-quer-1-vanderlinde-kolorierungsmethode/](https://memo.imareal.sbg.ac.at/wsarticle/memo_quer/2020-quer-1-vanderlinde-kolorierungsmethode/)
+
 

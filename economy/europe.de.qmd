@@ -28,6 +28,16 @@ Auch die Kosten der Sanktionen für den Energiesektor erschienen nicht hoch. Die
 Trotz Bemühungen, die Lieferungen zu reduzieren, haben die russischen Exporte von Flüssigerdgas (LNG) in die EU seit der Invasion der Ukraine zugenommen.[^economy-europe.de-10] Die in Brüssel ansässige wirtschaftswissenschaftliche Denkfabrik Bruegel hat in einer umfassenden Studie nachgewiesen, dass die EU ohne russisches LNG auskommen kann, und politische Optionen vorgestellt, um dies zu erreichen.[^economy-europe.de-11]
 
 
+Laut [russiafossiltracker.com](https://www.russiafossiltracker.com/) hat Russland seit Kriegsbeginn Einnahmen in Höhe von 1070 Milliarden Euro aus dem Export fossiler Brennstoffe erzielt. Die Länder der Europäischen Union haben davon Exporte im Wert von mehr als 230 Milliarden Euro gekauft (Stand: 21.05.2026).
+
+::: {.content-visible when-format="html:js"}
+Weitere Details finden Sie hier im eingebetteten Russia Fossil Tracker:
+```{=html}
+<iframe width="780" height="500" src="https://www.russiafossiltracker.com/" title="Embedded Russia Fossil Tracker"></iframe>
+```
+:::
+
+
 [^economy-europe.de-2]:  McWilliams, B., Sgaravatti, G., Tagliapietra, S., & Zachmann, G. (2023, March). *How would the European Union fare without Russian energy?* ScienceDirect. [https://doi.org/10.1016/j.enpol.2022.113413n](https://doi.org/10.1016/j.enpol.2022.113413n)
 
 [^economy-europe.de-3]:  McWilliams, B., Sgaravatti, G., Tagliapietra, S., & Zachmann, G . (2024, February 22). *The European Union-Russia energy divorce: state of play*. Bruegel. Retrieved May 2, 2024, from [https://www.bruegel.org/analysis/european-union-russia-energy-divorce-state-play](https://www.bruegel.org/analysis/european-union-russia-energy-divorce-state-play)

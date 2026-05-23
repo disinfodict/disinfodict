@@ -134,6 +134,7 @@ book:
   - part: "Economy"
     part-de: "Wirtschaft"
     chapters:
+    - economy/world.qmd
     - economy/europe.qmd
     - economy/ukraine.qmd
     - economy/russia.qmd
@@ -263,9 +264,9 @@ book:
     - wwii/liberation.qmd
   appendices:  
     - appendix/act.qmd
+    - appendix/recommendations.qmd
     - appendix/about.qmd
     - appendix/impressum.qmd
-    - appendix/recommendations.qmd
     - appendix/references.qmd
 
 callout-appearance: simple
@@ -291,7 +292,7 @@ format:
     css: styles.css
     number-sections: true
     toc: true
-    toc-depth: 3
+    toc-depth: 4
     toc-expand: 1
     email-obfuscation: javascript
     link-external-icon: false
@@ -326,7 +327,7 @@ format:
   epub:
     accessibilitySummary: "This publication conforms to WCAG 2.0 Level AA."
     toc: true
-    toc-depth: 3
+    toc-depth: 4
     number-sections: true
 
 babelquarto:

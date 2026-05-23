@@ -28,6 +28,17 @@ The cost of sanctions on the energy sector did not appear high as well. For exam
 
 Although Russia's exports of liquefied natural gas (LNG) to the EU have increased since the invasion of Ukraine despite efforts to cut down supplies.[^economy-europe-9] The Brussels-based economic think tank Bruegel conducted extensive research showing that the EU can manage without Russian LNG, presenting policy options for achieving this.[^economy-europe-10]
 
+According to [russiafossiltracker.com](https://www.russiafossiltracker.com/), since the beginning of the war, Russia earned EUR 1070 billion in revenue from fossil fuel exports. European Union countries purchased for more than EUR 230 billion of these exports (Last updated on: 2026-05-21).
+
+::: {.content-visible when-format="html:js"}
+For more details see this embedded Russia Fossil Tracker:
+```{=html}
+<iframe width="100%" height="100%" src="https://www.russiafossiltracker.com/" title="Embedded Russia Fossil Tracker"></iframe>
+```
+:::
+
+
+
 
 [^economy-europe-1]:  McWilliams, B., Sgaravatti, G., Tagliapietra, S.,  & Zachmann, G. (2023, March). *How would the European Union fare without Russian energy?* ScienceDirect. [https://doi.org/10.1016/j.enpol.2022.113413n](https://doi.org/10.1016/j.enpol.2022.113413n)
 

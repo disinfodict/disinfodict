@@ -115,7 +115,7 @@ Since then, Russian dictators use brutal psychological warfare to expand the Rus
 For more details see @Galeotti:2019 @Darczewska:2017
 
 
-## Reflexive Control (1967)
+## Reflexive Control (1967) {#sec-intro-termstech-reflexivecontrol}
 
 Modern psychological warfare is a mixture of these brutal and more subtle methods. Soviet mathematical psychologist Vladimir Lefebvre developed the concept of *Reflexive Control* 1967 (@Goeij:2023).  According to @Kamphuis:2018, the elements of *Reflexive Control* are: 
 
@@ -165,6 +165,10 @@ Company, while leading news on the TV Channel “Rossiya” has portrayed Ukrain
 “country overrun by violent fascists”, disguising information about Kyiv events, claimed that
 the Russians in Ukraine are seriously threatened and put in physical danger, thus justifying
 Crimea's “return” to the Russian Federation.
+
+Meanwhile, even the sluggish German foreign intelligence service, the BND, is beginning to recognize the danger of hybrid warfare (@Spiegel:2026): 
+
+> Russia reportedly has up to 60,000 intelligence operatives at its disposal worldwide, “not to mention an even larger number of co-opted individuals—former military personnel, procurement assistants, and other proxies.” The Federal Criminal Police Office recorded 321 suspected cases of sabotage in 2025. “It is likely that Russian actors and their Telegram agents are behind many of these incidents.”
 
 
 ## Information War (2016)
@@ -223,6 +227,161 @@ Foreign Information Manipulation and Interference (FIMI) – also often labelled
 
 Russia is investing billions in professional propaganda to divide and destabilize other countries (us). Russia operates troll factories, bot farms, and disinformation campaigns such as the doppelganger campaign, which fakes websites in order to refer to them when manipulating social networks (@Potter:2024). One of the largest propaganda companies, controlled directly by Putin via oligarch Viktor Medvedchuk, is the Social Design Agency (SDA) @FrommLitschko:2024. 
 
+
+### Telegram
+
+Telegram is a Russian messenger service that has become a social network. Although it is supposedly based in Dubai, independent of Russia, its infrastructure is controlled by the Russian secret service FSB, which can read all user messages [@Schurter:2025;@Anin:2025], and 50% of its content is controlled by Russia Today [@Dobrokhotov:2026]. 
+
+
+### Academic Infiltration
+
+Russian infiltration naturally focuses on information multipliers and people with decision influence, i.e. CEOs, politicians, opinion leaders such as journalists, bloggers and ... professors. The latter are particularly interesting, because they represent information authority, are much cited by other researchers, interviewed by journalists, and their disinformation is difficult to disprove. Disproving academic publications requires deep knowledge, much work, privileged access to journals and original archives, and financial resources to replicate studies. Worse: replicating or disproving work of others doesn't make an academic career, so nobody actually does that. As the cherry on top, tenure professors are almost impossible to remove from their positions and financed be the "enemies" tax payer. Hence they are ideal influence agents for destabilizing a society, and huge russian networks make sure that their candidates get the interesting positions.
+
+> Russian secret services have been promoting historical myths and designing disinformation operations aimed at changing a target country’s strategies and shaping public opinion and people’s psyches. The belief has been that this approach would help Russia achieve superiority in all spheres (informational, psychological, and ideological), damage the communications infrastructure of a target country, and shape the psychological profile and ideological preferences of its military personnel and population.  
+> The most prominent historical myths that Russia promotes include: its role as a liberating victor in WWII that vanquished the Nazis the Ukrainians’ mass collaboration with Nazi Germany and their organic antisemitism as the dominant trend in Ukraine’s history; and, most recently: the Ukrainian nation with no legitimate right to exist; contemporary Ukraine as a fascist state, engaging in “memory wars” and writing “nationalistic historical narratives”; the North Atlantic Treaty Organization (NATO)’s aggression, threating Russian national security; and the West conducting subversive activities against the Russian Federation. Reinforced domestically through Russian legislation and distributed abroad through active measures, these state-sponsored historical narratives have been playing a significant role in Russian memory politics.  
+> ... Few if any reputable international scholarly conventions, forums, or conferences are held today without the invisible presence of Russian agents of influence or agents working for the secret services, be they guests who mingle with the scholarly audience or scholars of various ethnicities and citizenships presenting their research at these events.
+> — @Bertelsen:2023
+
+Russian infiltration covers not only persons, but also academic infrastructure such as journals and conferences, reviewer power, control over grants and finally careers. As a random example we take "Berghahn Journals / New York Oxford", a publishing house founded around the time of the Crimea invasion, that masquerades as home of academic journals, but actually allows spread of russian propaganda like in this example about [alleged proxy war in Ukraine](https://www.berghahnjournals.com/view/journals/focaal/2024/98/fcl980110.xml), see also @sec-ruwar-proxy.
+
+
+
+## Countermeasures
+
+Russian information warfare is state-sponsored, centralized, and offensive. Western democracies do not operate state-sponsored, centralized troll factories that spread disinformation (and never will). Western democracies are defensive and therefore at a disadvantage in information warfare. Here is an overview of the inadequate resilience status of Western democracies:
+
+- Education: Media literacy ✅
+- Debunking: Fact checks ✅
+- Prebunking: Immunization ❌
+- Crowding: Decentralized information warfare ❌
+- Realtime: Infrastructure for combating disinformation in real time ❌
+- Penalties: Punishment of the creators and disseminators of malicious disinformation ❌
+
+The EU has realized, that the past countermeasures were not enough (@EUvsDisinfo:2026):
+
+> For years, the standard response to FIMI was to debunk it: find the lie, correct the record, move on. This is insufficient, as it keeps counter-FIMI actors on the back foot, reacting while the next attack is already being prepared. What is needed instead is a shift from reacting to disrupting – targeting the foundations by identifying critical nodes across infrastructures, intermediaries, and supply chains
+
+The core problem with *all* measures funded to date (education, debunking, prebunking) is that they cannot keep pace with the volume of disinformation – some of which is produced on an industrial scale. We need countermeasures that are cost-effective and can be scaled up or automated. 
+
+
+
+
+### Education
+
+Media literacy is (admittedly) an important building block in the fight against disinformation, e.g. this set of rules of conduct [@MPF:DontBeFooled:2022]:
+
+1. **Watch out**: Watch out for information, images or other material that you find upsetting or frightening, or that evoke strong feelings. Antagonistic foreign powers frequently play on your emotions to influence you.
+2. **Think twice**: Avoid becoming a part of the spread of disinformation, misleading information and propaganda. Think twice before sharing information with friends or on social media.
+3. **Check the source**: Learn how digital platforms work and be critical of sources. In a time when algorithms control much our feeds, it is easy to get drawn into a specific narrative – but remember to take a step back and double check the information.
+4. **Look for verified information**. Pay attention to information from authorities and stay up to date. This is particularly important when something happens that evokes strong emotions.
+
+But media literacy shifts all the work of combating disinformation onto citizens, who must repeatedly filter out lies. The higher the proportion of industrially disseminated disinformation, the less feasible this approach becomes. We don't expect citizens to test bread they buy for harmful substances before eating it. It is enlightening to see how extensive such teaching materials are, depending on the target group, e.g., from the Swedish Psychological Association:
+
+1. **Citizen**: 24 pages [DON’T BE FOOLED. A handbook to help you recognise and deal with disinformation, misleading information, and propaganda.](https://mpf.se/psychological-defence-agency/publications/archive/2023-12-04-dont-be-fooled---handbook)
+2. **Communicator**: 25 pages [COUNTERING INFORMATION INFLUENCE ACTIVITIES - A HANDBOOK FOR COMMUNICATORS](https://mpf.se/psychological-defence-agency/publications/archive/2018-10-02-countering-information-influence-activities----a-handbook-for-communicators)
+3. **Journalist**: 48 pages [Countering information influence activities. A handbook for journalists](https://mpf.se/psychological-defence-agency/publications/archive/2024-03-01-countering-information-influence-activities)
+4. **Expert**: 258 pages [PSYCHOLOGICAL DEFENCE AND INFORMATION INFLUENCE – A TEXTBOOK ON THEORY AND PRACTICE](https://mpf.se/psychological-defence-agency/publications/archive/2026-01-19-psychological-defence-and-information-influence----a-textbook-on-theory-and-practice)
+
+The cost for the individual is open-ended.
+
+
+### Debunking
+
+Fact checks are (admittedly) an important tool in the fight against disinformation, but fact checks have two problems
+
+1. Fact checks always come too late. 
+2. No one can read through all the refutations of all the lies. The central database of [EUvsDisinfo.eu](https://euvsdisinfo.eu/disinformation-cases/) alone contains 20,000 entries. 
+
+As a result, almost no one reads fact checks. This is particularly bad in the case of fact checks after a live broadcast, where propagandists first reach an audience of millions, and the next day only a tiny minority reads a fact check that is usually incomplete anyway. In this way, public broadcasting in Germany has made the extremist parties AfD and BSW big. 
+
+
+### Prebunking
+
+Preemptive immunization against propaganda is an attempt to be faster than debunking, to prepare people for lies so that they don't fall for them. Preemptive immunization is (admittedly) an important component in the fight against disinformation, but it has a lot of problems:
+
+1. It is impossible to prepare people for the infinite number of possible lies.
+2. Very few people have the time (and training) to master misinformation techniques to such an extent that they can reliably recognize misinformation, especially since this requires domain knowledge.
+3. No one can acquire enough knowledge in advance in all domains to be able to recognize every lie as contradicting their knowledge. Anyone who had this knowledge would no longer need to read the news (the Oracle of Delphi).
+
+
+#### Prebunking Deep Dive
+
+
+[prebunking.withgoogle.com](https://prebunking.withgoogle.com/), is a a collaborative effort between the University of Cambridge, Jigsaw (Google) and BBC Media Action. The University of Cambridge’s Social Decision-Making Lab has been at the forefront of developing prebunking approaches, based on inoculation theory, designed to build people’s resilience to mis- and disinformation. 
+
+the website explains [Common Manipulation Techniques](https://prebunking.withgoogle.com), explains [How To Prebunk](https://prebunking.withgoogle.com/how-to-prebunk/), lists [Resources and Case Studies](https://prebunking.withgoogle.com/resources/) and [Current Initiatives](https://prebunking.withgoogle.com/eu-prebunking/) and features a [Quiz](https://prebunking.withgoogle.com/quiz/). The short descriptions here are taken from their website and their The full [Practical Guide to Prebunking Misinformation](https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf).
+
+Prebunking is a technique to preempt manipulation online. Prebunking messages are designed to help people identify and resist manipulative content. By forewarning people and equipping them to spot and refute misleading arguments, these messages help viewers gain resilience to being misled in the future.
+
+There are two predominant forms of prebunking that address misinformation at a higher level
+beyond specific misinformation claims. They both address different types of misinformation:
+
+- Misinformation techniques
+- Misinformation narratives
+
+
+#### Misinformation techniques
+
+Technique-based prebunking focuses on the tactics used to spread misinformation. While the information that is used to manipulate and influence individuals online can widely vary, the techniques that are used to mislead are often repeated across topics and over time. 
+
+
+#### Misinformation narratives
+
+Misinformation encountered online often comes in the form of claims or opinions about a particular topic. However, individual misinformation claims can often feed into broader narratives. Issue-based prebunking tackles the broader, persistent narratives of misinformation beyond specific claims.
+
+Tackling individual misinformation claims is timeconsuming and reactive, while prebunking broader narratives can dismantle the foundations of multiple claims at once and be much more effective at building resilience to new claims that share this false foundation.
+
+
+## Decentralized Information Warfare
+
+Until Russia's full-scale invasion of Ukraine, Western democracies suffered largely helplessly from Russian disinformation, which worsened with the popularity of the fragmentation of private online press organs and social networks in particular. 
+
+With Russia's full invasion into Ukraine a new phenomenon appeared: Decentralized Information Warfare. An international grassroots movement called the [Nordatlantic Fella Organisation (NAFO)](https://nafo-ofan.org/pages/we-are-nafo) emerged: engaged citizens worldwide fight russian disinformation and support the Ukrainian fight for freedom and peace. Here some articles about NAFO:
+
+
+- 2023-01-25: [Decentralisation is NAFO’s greatest strength](https://emerging-europe.com/opinion/why-decentralisation-is-nafos-greatest-strength/)
+- 2023-12-23: [Opinion: NAFO is waging Ukraine's meme war](https://kyivindependent.com/opinion-nafo-and-ukraines-meme-war/)
+
+- 2024-06-24: [NAFO CLAIMS ANOTHER HIGH-PROFILE VICTIM](https://www.lucorg.com/nafo-claims-another-high-profile-victim/)
+- 2024-07-01: [NAFO fordert ein weiteres prominentes Opfer: Kampf gegen Desinformation](https://hackernoon.com/lang/de/Nafo-fordert-im-Kampf-gegen-Desinformation-ein-weiteres-prominentes-Opfer)
+- 2024-12-11: [The Age of Decentralized Information Warfare is Here](https://irregularwarfare.org/articles/the-age-of-decentralized-information-warfare-is-here/)
+- 2024-10-08: [Military Lessons for NATO from the Russia-Ukraine War](https://henryjacksonsociety.org/publications/military-lessons-for-nato-from-the-russia-ukraine-war-preparing-for-the-wars-of-tomorrow/)
+
+- 2026-04-20: [(Con)Trolling the Russian Information Warfare Efforts: North Atlantic Fella Organization’s Digital Activism against Moscow’s Wartime Efforts](https://newstrategycenter.ro/wp-content/uploads/2026/04/ConTrolling-the-Russian-Information-Warfare-Efforts-1.pdf)
+
+The AfD - like Russian propaganda - has tried to defame NAFO as CIA-controlled cyberbullying. An investigation by the German government concludes (@Bundesregierung:2025): 
+
+> The Federal Government expressly does not adopt the assessment of the internet phenomenon “NAFO” as defamation or cyberbullying contained in the preliminary remark expressly not its own. Nor does it share the questioner's assessment of intelligence cooperation.
+
+Ultimately, however, the same applies to decentralised information warfare waged by volunteers: it is merely a drop in the ocean. Dedicated volunteers cannot (and should not) compete with state-funded and coordinated disinformation tools, such as troll farms, bots and AI agents. We need methods that scale more effectively and are better able to curb the vast volume of disinformation. 
+
+
+### Penalties
+
+According to conventional wisdom, criminal measures against disinformation would be too costly (and, in the view of propagandists, criminal measures would constitute a restriction on freedom of expression, even though there is no constitutional right to spread lies, hatred and incitement). In 2020, media lawyer Chan-jo Jun pointed out that, firstly, administrative offence law has the potential for scalable, automated sanctions against disinformation, hate speech and incitement (@Jun:2020), and that a provision already exists today that would permit such application ([Administrative Offences Act (OWiG) § 118 Disturbance of the public](https://www.gesetze-im-internet.de/owig_1968/__118.html)). Two years later, in 2022, the press reported [Daum:2022]:
+
+
+> Speeding is not a criminal offence, but an administrative offence. Administrative offences are dealt with by fines authorities (and only in the event of an appeal by the courts and public prosecutors). Anything else would be far too cumbersome and slow.  
+> ...  
+> Jun therefore proposes establishing a system of administrative offences on the internet. A fines authority could be set up. And a catalogue of fines could be drawn up for less serious offences that do not need to be prosecuted under criminal law. In difficult cases, prosecutors could assist in weighing up fundamental rights.  
+>   
+> Jun’s proposal sounds simple, but it is nuanced. He does not want insults or incitement to hatred to be downgraded from criminal offences to administrative offences. He wants to supplement them. Example: In the case of online insults, the main perpetrator should still be prosecuted under criminal law. But what about someone who shares the insult, i.e. disseminates it further?  
+>   
+> Such offences occur frequently, and the justice system currently has no milder means of dealing with them than criminal law. That means a great deal of effort. Consequently, authorities often ignore such offences. Under Jun’s proposal, someone who shares an insult would receive a fine. That’s it.  
+>   
+> Other acts could also be classified as administrative offences: the dissemination of proven false news, for example. Or repeated, spam-like harassment with messages that do not cross the threshold for criminal liability. Criminal law would continue to apply to more serious offences. There would be a smooth transition from administrative offences to criminal offences. Just as in road traffic.
+>   
+> Jun’s proposal would have two advantages: it would relieve the burden on the judiciary. And it would strengthen the public’s rather battered sense of justice. It would be clear to everyone: action is followed by reaction. Those who incite hatred will pay. One could look it up in a catalogue of fines: liked a piece of fake news? 50 euros. Spread an insult? 70 euros. Word gets around. 
+
+Two years later, in 2024, a detailed proposal on the subject was published [NAFU:de:2024], which, like lawyer Jun, advocates implementing a fluid transition between administrative offences and traditional criminal law, depending on the severity (and reach) of the offence. 
+
+Two years later still, in 2026, nothing has happened. The legislature is asleep. The executive is asleep. The judiciary is asleep. Putin and the extremist parties loyal to him are delighted.
+
+
+
+## Institutions against disinformation
+
+
 ### European External Action Service (EEAS)
 
 Given the foreign and security policy component, the European External Action Service has taken a leading role in addressing the issue. We significantly built up capacity to address the FIMI challenge since 2015, when the problem first appeared on the EU’s political agenda.
@@ -230,6 +389,11 @@ Given the foreign and security policy component, the European External Action Se
 Defining FIMI: The [EEAS](https://www.eeas.europa.eu/eeas/tackling-disinformation-foreign-information-manipulation-interference_en) defines FIMI as a pattern of behaviour that threatens or has the potential to negatively impact values, procedures and political processes. Such activity is manipulative in character, conducted in an intentional and coordinated manner. Actors of such activity can be state or non-state actors, including their proxies inside and outside of their own territory.
 
 Since 2015, the East Stratcom Task Force (ESTF) has been running the [EUvsDisinfo](https://www.euvsdisinfo.eu) campaign to monitor, analyse and respond to pro-Kremlin disinformation, information manipulation and interference. The campaign’s flagship initiative is the database of pro-Kremlin disinformation cases, regularly updated and debunked.
+
+
+### Alliance for Securing Democracy (ASD)
+
+The Alliance for Securing Democracy (ASD), currently housed at the German Marshall Fund (GMF) provides the website [https://securingdemocracy.gmfus.org/](https://securingdemocracy.gmfus.org/) with useful tools to analyse FIMI. 
 
 
 ### FIMI-ISAC
@@ -244,6 +408,12 @@ FIMI-ISAC has published 2024 its first report on foreign influence on elections:
 The [European Union Agency for Cybersecurity (ENISA)](https://www.enisa.europa.eu/) works with organisations and businesses to strengthen trust in the digital economy, boost the resilience of the EU’s infrastructure, and, ultimately, keep EU citizens digitally safe. It does this by sharing knowledge, developing staff and structures, and raising awareness. The EU Cybersecurity Act has strengthened the agency’s work.
 
 See also "Foreign Information Manipulation and Interference (FIMI) and Cybersecurity – Threat Landscape" (@ENISA:FIMI:2022:en)
+
+
+### Bavarian Alliance Against Disinformation
+
+The German state of Bavaria runs the [Bavarian Alliance Against Disinformation](https://www.stmd.bayern.de/themen/bayern-allianz-desinformation/); see also [recommendations for learning](#sec-appendix-recommendations-learning). 
+
 
 
 <!--
@@ -263,58 +433,4 @@ Henin:2023
 [https://alliance4europe.eu](https://alliance4europe.eu)
 [https://www.disarm.foundation/framework](https://www.disarm.foundation/framework)
 -->
-
-
-## Prebunking
-
-[prebunking.withgoogle.com](https://prebunking.withgoogle.com/), is a a collaborative effort between the University of Cambridge, Jigsaw (Google) and BBC Media Action. The University of Cambridge’s Social Decision-Making Lab has been at the forefront of developing prebunking approaches, based on inoculation theory, designed to build people’s resilience to mis- and disinformation. 
-
-the website explains [Common Manipulation Techniques](https://prebunking.withgoogle.com), explains [How To Prebunk](https://prebunking.withgoogle.com/how-to-prebunk/), lists [Resources and Case Studies](https://prebunking.withgoogle.com/resources/) and [Current Initiatives](https://prebunking.withgoogle.com/eu-prebunking/) and features a [Quiz](https://prebunking.withgoogle.com/quiz/). The short descriptions here are taken from their website and their The full [Practical Guide to Prebunking Misinformation](https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf).
-
-Prebunking is a technique to preempt manipulation online. Prebunking messages are designed to help people identify and resist manipulative content. By forewarning people and equipping them to spot and refute misleading arguments, these messages help viewers gain resilience to being misled in the future.
-
-There are two predominant forms of prebunking that address misinformation at a higher level
-beyond specific misinformation claims. They both address different types of misinformation:
-
-- Misinformation narratives
-- Misinformation techniques
-
-### Misinformation narratives
-
-Misinformation encountered online often comes in the form of claims or opinions about a particular topic. However, individual misinformation claims can often feed into broader narratives. Issue-based prebunking tackles the broader, persistent narratives of misinformation beyond specific claims.
-
-Tackling individual misinformation claims is timeconsuming and reactive, while prebunking broader narratives can dismantle the foundations of multiple claims at once and be much more effective at building resilience to new claims that share this false foundation.
-
-### Misinformation techniques
-
-Technique-based prebunking focuses on the tactics used to spread misinformation. While
-the information that is used to manipulate and influence individuals online can widely
-vary, the techniques that are used to mislead are often repeated across topics and over
-time. 
-
-
-## Decentralized Information Warfare
-
-Russian information warfare is state sponsored, centralized and offensive. Western democracies do not run state sponsored and centralized troll factories that disseminate disinformation (and never will). Western democracies are for sure defensive and hence disadvantaged in the information warfare. Western democracies so far do not 
-
-- run offensive prebunking campaigns
-- run large-scale entities that counter disinformation in realtime
-- penalize the creators and disseminators of malign disinformation
-
-Until Russia's full-scale invasion of Ukraine, Western democracies suffered largely helplessly from Russian disinformation, which worsened with the popularity of the fragmentation of private online press organs and social networks in particular. 
-
-With Russia's full invasion into Ukraine a new phenomenon appeared: Decentralized Information Warfare. An international grassroots movement called the [Nordatlantic Fella Organisation (NAFO)](https://nafo-ofan.org/pages/we-are-nafo) emerged: engaged citizens worldwide fight russian disinformation and support the Ukrainian fight for freedom and peace. Here some articles about NAFO:
-
-
-- 2023-01-25: [Decentralisation is NAFO’s greatest strength](https://emerging-europe.com/opinion/why-decentralisation-is-nafos-greatest-strength/)
-- 2023-12-23: [Opinion: NAFO is waging Ukraine's meme war](https://kyivindependent.com/opinion-nafo-and-ukraines-meme-war/)
-
-- 2024-06-24: [NAFO CLAIMS ANOTHER HIGH-PROFILE VICTIM](https://www.lucorg.com/nafo-claims-another-high-profile-victim/)
-- 2024-07-01: [NAFO fordert ein weiteres prominentes Opfer: Kampf gegen Desinformation](https://hackernoon.com/lang/de/Nafo-fordert-im-Kampf-gegen-Desinformation-ein-weiteres-prominentes-Opfer)
-- 2024-12-11: [The Age of Decentralized Information Warfare is Here](https://irregularwarfare.org/articles/the-age-of-decentralized-information-warfare-is-here/)
-- 2024-10-08: [Military Lessons for NATO from the Russia-Ukraine War](https://henryjacksonsociety.org/publications/military-lessons-for-nato-from-the-russia-ukraine-war-preparing-for-the-wars-of-tomorrow/)
-
-The AfD - like Russian propaganda - has tried to defame NAFO as CIA-controlled cyberbullying. An investigation by the German government concludes (@Bundesregierung:2025): 
-
-> The Federal Government expressly does not adopt the assessment of the internet phenomenon “NAFO” as defamation or cyberbullying contained in the preliminary remark expressly not its own. Nor does it share the questioner's assessment of intelligence cooperation.
 

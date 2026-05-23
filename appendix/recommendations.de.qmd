@@ -13,6 +13,13 @@ abstract: >
 - Claire Wardles [Information Disorder Glossary](https://journalistsresource.org/politics-and-government/information-disorder-glossary-fake-news/)
 
 
+## Lernmaterialien {#sec-appendix-recommendations-learning}
+
+- EUvsDisinfo bietet eine [Lernseite](https://euvsdisinfo.eu/de/learn-de/) an, die in mehreren Sprachen verfügbar ist. 
+- Die Webseite [https://fakefrei.jff.de/](https://fakefrei.jff.de/) *fakefrei – Tools, Impulse und Methoden* der [Bayern-Allianz gegen Desinformation](https://www.stmd.bayern.de/themen/bayern-allianz-desinformation/) bietet Lern und Übungsmaterial für Kinder, Jugendliche und Erwachsene (auf Deutsch)
+- Die DW Akademie bietet einen [Lernleitfaden für Experten](https://akademie.dw.com/en/tackling-disinformation-a-learning-guide/s-67264807) (auf Englisch)
+
+
 ## Lehrmaterialien
 
 - Leitlinien für Lehrkräfte und pädagogische Fachkräfte zur Bekämpfung von Desinformation und zur Förderung der digitalen Kompetenz durch allgemeine und berufliche Bildung (@ECDE:2022:de)
@@ -21,12 +28,6 @@ abstract: >
 - Die Seite [Medienkompetenz stärken](https://www.bmfsfj.de/bmfsfj/themen/kinder-und-jugend/medienkompetenz/medienkompetenz-staerken-75350) des Bundesfamilienministeriums
 - Lehrmaterialien der EU für [Schüler bis zu 9 Jahren](https://learning-corner.learning.europa.eu/learning-materials/tackling-disinformation-and-promoting-digital-literacy_de) und für [Schüler von 15 Jahren und älter](https://learning-corner.learning.europa.eu/learning-materials/how-spot-and-fight-disinformation_de)   
 
-## NGOs
-- [fellas4europe](https://fellas4europe.org/)
-- [EUvsDisinfo](https://euvsdisinfo.eu/ukraine/)
-- [StopFake](https://www.stopfake.org/de)
-- [MIMIKAMA - zuerst denken - dann klicken](https://www.mimikama.org/)
-- [Mediendienst Integration](https://mediendienst-integration.de/) ist eine Informations-Plattform des "Rats für Migration e.V." zu den Themen Flucht, Migration und Diskriminierung, allerdings will der Mediendienst nur Rechts-Extremismus kennen, nicht aber Links-Extremismus oder Probleme mit russischer Unterwanderung deutscher Institutionen.
 
 ## Medien
 
@@ -40,6 +41,14 @@ abstract: >
 - [BBC reality check](https://www.bbc.com/news/reality_check)
 - [BBC information disorder](https://www.bbc.co.uk/mediaaction/our-work/information-disorder)
 - [CNN facts first](https://edition.cnn.com/politics/fact-check)
+
+
+## NGOs
+- [fellas4europe](https://fellas4europe.org/)
+- [EUvsDisinfo](https://euvsdisinfo.eu/ukraine/)
+- [StopFake](https://www.stopfake.org/de)
+- [MIMIKAMA - zuerst denken - dann klicken](https://www.mimikama.org/)
+- [Mediendienst Integration](https://mediendienst-integration.de/) ist eine Informations-Plattform des "Rats für Migration e.V." zu den Themen Flucht, Migration und Diskriminierung, allerdings will der Mediendienst nur Rechts-Extremismus kennen, nicht aber Links-Extremismus oder Probleme mit russischer Unterwanderung deutscher Institutionen.
 
 
 ## Ukraine War Archive (UWA)
@@ -85,4 +94,9 @@ DRN bietet eine Plattform für Experten aus verschiedenen Bereichen wie Politikw
 
 Am 29. November 2024 trafen sich unter dem Titel [Foreign Interference, Subversion & Disinformation](https://www.disinforesilience.eu/2024/12/09/foreign-interference-and-disinformation-conference-in-vienna-analyzes-the-local-and-international-situation/) Experten, Diplomaten und Vertreter aus Politik und Zivilgesellschaft zu einem Meinungsaustausch.
 
+Die Webseite [hold these truths](https://herzinger.org/) des 5. Oktober 2025 verstorbenen Publizisten [Richard Herzinger](https://de.wikipedia.org/wiki/Richard_Herzinger) enthält viele exzellente durchdachte Artikel.
 
+
+## Juristische Konzepte
+
+Die Webseite [Lasst Lügner Blechen](https://makeliarspay.pages.dev/de/) macht in Analogie zur Regulierung des Straßenverkehrs, Vorschläge für eine skalierbare Sanktionierung der Verbreitung widerlegter falscher Fakten als Ordnungswidrigkeit und der straffrechtlichen Sanktionierung von Deep Fakes.

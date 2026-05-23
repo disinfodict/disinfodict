@@ -10,51 +10,84 @@ Es gibt nichts, was die EU von der Ukraine lernen kann
 :::
 
 ::: {.callout-tip title="Wahrheit"}
-Die EU kann eine Menge darüber lernen, wie sie der russischen hybriden Kriegsführung begegnen kann. Hier konzentrieren wir uns auf die Bekämpfung von Desinformation.
+Die EU kann eine Menge darüber lernen, wie sie der russischen hybriden Kriegsführung begegnen kann. Hier konzentrieren wir uns auf die Bekämpfung von Desinformation: die EU hinkt gewaltig hinterher, dem was die Ukraine macht, als auch dem Machbaren angesichts des Erforderlichen.
 :::
 
 Der [Hybrid CoE Research Report](https://dfrlab.org/2024/01/24/how-ukraine-fights-russian-disinformation-beehive-vs-mammoth), ein gemeinsames Projekt des Europäischen Exzellenzzentrums für die Bekämpfung hybrider Bedrohungen und des Digital Forensic Research Lab (DFRLab), befasst sich mit den bewährten ukrainischen Praktiken bei der Bekämpfung von Desinformation, vor allem in der Zeit nach der russischen Invasion der Ukraine im Februar 2022 (FSI). Viele dieser Praktiken sind jedoch das Ergebnis einer Entwicklung, die sich über das Jahrzehnt seit der Euromaidan-Revolution erstreckt. In dem Bericht werden die folgenden zehn Lektionen genannt, die der Westen aus der einzigartigen ukrainischen Erfahrung lernen könnte.
 
-Hier zeigen wir die Zusammenfassung der Lehren, weitere Informationen finden Sie unter @Kalensky:2024.
+Hier zeigen wir die Zusammenfassung der Lehren, weitere Informationen finden Sie unter @Kalensky:2024. Kommentare (⌛	) vom Februar 2026.
 
 
 ## 1. Die Schaffung eines soliden Fundaments ist von grundlegender Bedeutung.
 
 Ein Überwachungssystem, das so umfangreich ist, dass es Überschneidungen erzeugt, ist ein Muss. Die rasche Widerlegung von Lügen, die Entlarvung von Desinformation und die Richtigstellung von Tatsachen sind notwendige Voraussetzungen für eine erfolgreiche Bekämpfung von Desinformationskampagnen. Aktionen jeglicher Art sollten Vorrang haben, Nachdenken darf die Bemühungen um Gegenmaßnahmen nicht lähmen, und Versuch und Irrtum sind erlaubt und erwünscht.
 
+⌛	 
+Die EU hat mit [EUvsDisinfo](https://EUvsDisinfo.eu) zwar einen guten zentralen Faktenchecker, der eine Datenbank pflegt und wöchentlich mit einem Newsletter die aktuellen Desinformations-Trends aufzeigt, aber u.W. keinen Infrastruktur zur Echtzeit-Erkennung von und Warnung vor konzertierten Desinformationskampagnen. Insgesamt unterschätzen die EU-Länder die Gefahr der Desinformation im Vergleich zu militärischer Bedrohung, entsprechend dünn ist die institutionelle Ausstattung. 
+
+
 ## 2. Zahlen sind entscheidend
 
 Zahlen spielen eine große Rolle, sei es bei den personellen und finanziellen Ressourcen, bei der Anzahl der verschiedenen Gegenmaßnahmen und der verschiedenen Akteure, die sie durchführen, oder bei der Wiederholung von Schlüsselnarrativen durch möglichst viele Sprecher. Obwohl die Ukrainer weitaus mehr Ressourcen in die Desinformationsbekämpfung stecken als die meisten westlichen Länder, wissen sie, dass der Aggressor ihnen immer noch überlegen ist.
+
+⌛	 Gegen die von Russland im industriellen Maßstab erzeugte und verbreitete Desinformation hat die EU kein Mittel gefunden, ja nicht einmal den Willen zu handeln. Mit den Möglichkeiten von KI und KI-Agenten wird das Desinformations-Problem erheblich schlimmer. Es fehlt der politische Wille und Mut, manipulative Medien und soziale Netzwerke effektiv zu regulieren und informationssuchende Bürger mit wirksamen Maßnahmen vor dem Ertrinken in einer Desinformationsflut zu schützen, etwa mit skalierbaren, automatisierten Ordnungswidrigkeitsverfahren, welche die Verbreitung von falschen Tatsachenbehauptungen als Belästigung der Öffentlichkeit sanktionieren und eindämmen [@Jun:2020;@Daum:2022].
 
 
 ## 3. Überschneidungen sind kein Nachteil, Starrheit hingegen schon
 
 Überschneidungen zwischen verschiedenen Überwachungs-, Entlarvungs- und Desinformationsbekämpfungsmaßnahmen werden gefördert, nicht vermieden. Mehr Akteure, die am selben Thema arbeiten, bedeuten zuverlässigere Ergebnisse, schnellere Reaktionen und Schutz vor dem Versagen eines der Akteure. Bei der Koordinierung erleichtern und beschleunigen der lockere Charakter und das Fehlen formeller Verfahren die Reaktionen.
 
+⌛  Zentralisierte Lösungen werden schnell zu einem Engpass und sind leichter anzugreifen. Bürokratische Starrheit macht Reaktionen langsam und wird zu einem Sicherheitsrisiko. Was es braucht sind sind loose kooperierende Strukturen.
+
+
 ## 4. Wertschätzung der Rolle der Zivilgesellschaft
 
 Keine Regierung der Welt kann das Problem der Desinformation allein bewältigen. Die Zivilgesellschaft ist absolut entscheidend. Die Ukraine hat gezeigt, wie eine lebendige, aktive und tatkräftige Zivilgesellschaft, die ständig neue Ideen einbringt, den Informationsraum geschützt hat, noch bevor die Regierung auf den Plan trat, und wie wichtig sie für viele Zielgruppen immer noch ist.
+
+⌛ Nur einzelne EU-Länder haben den Wert der Zviligesellschaft im Rahmen einer Gesamtverteidigung erkannt. Im Großen und Ganzen wägen sich die Europäischen Zivilgesellschaften in falscher Sicherheit, insbesondere in West- und Südeuropa.
+
 
 ## 5. Vorbereitung ist wichtig, aber kein Allheilmittel
 
 Die Vorbereitung auf den Konflikt war von entscheidender Bedeutung. Es ist nicht nur wichtig, Notfallpläne zu erstellen und dafür zu sorgen, dass die zuständigen Teams im Kriegsfall handlungsfähig sind, sondern auch die Krisenbotschaften und Backup-Kanäle vorzubereiten. Die Pläne dürfen jedoch nicht zu einem Dogma werden; Anpassungsfähigkeit ist ebenfalls entscheidend. Das ukrainische Beispiel dient auch als Warnung, denn es zeigt, dass sich eine Gesellschaft trotz eines langwierigen Konflikts weigern kann, an die schlimmsten Szenarien zu glauben.
 
+
+⌛  Wer nur reagiert ist im Nachteil. Von pro-aktivem Umgang mit Bedrohung durch Desinformation ist die EU meilenweit entfernt. Die Bereitschaft der Ukrainer, selbst nach 8 Jahren Krieg die Gefahr des sichtbaren Aufmarsches der Russen zu verdrängen muss der EU eine Warnung sein.
+
+
 ## 6. Strafrechtliche Maßnahmen sind ein Muss
 
 Es ist unmöglich, sich nur auf die Verteidigung und den Aufbau von Widerstandsfähigkeit gegen Angriffe zu verlassen. Strafmaßnahmen, die die Fähigkeiten der feindlichen Akteure einschränken oder zumindest zusätzliche Kosten für ihr Verhalten verursachen, müssen Teil des Pakets sein. Für viele ukrainische Praktiker sind diese Instrumente die wichtigsten, wenn es darum geht, den Informationsraum vor Angreifern zu schützen.
+
+⌛  Hybrider Krieg ist kein Spaß und Verbreitung von Desinformation ist kein Kavaliersdelikt. Die EU und EU-Länder scheuen sich immer noch, harte Gesetze gegen Personen zu erlassen, welche ihre Stellung, Reputation und Reichweite ausnutzen, um feindliche Desinformation zu verbreiten [@Daum:2022;@NAFU:de:2024].
+
 
 ## 7. Humor ist eine ernste Angelegenheit
 
 Inhalte, die zur Belustigung beitragen, werden von den Ukrainern sehr bewusst eingesetzt. Humor hilft, ein größeres Publikum zu erreichen, und humorvolle Inhalte verbreiten sich häufiger. Er trägt auch dazu bei, die Moral der Angegriffenen zu stärken und die Widerstandsfähigkeit gegen Angriffe sowohl im kinetischen als auch im Informationsbereich zu erhöhen. Und schließlich hilft es, den Desinformanten Kosten aufzuerlegen, indem man sie verspottet und lächerlich macht und ihre Glaubwürdigkeit beschädigt.
 
+⌛  Humor - insbesondere Galgenhumor - basiert auf einer Anerkennung der Tatsachen. Die Europäer haben zuviel "German Angst", um die Realitäten anzuerkennen und zu handeln. Also ducken sie sich, halten still und hoffen dass es verbeigeht. Das ist genau die Spaltung die Putin braucht, um Europa scheibchenweise  zu zerstören und zu erobern.
+
+
 ## 8. Taten sagen mehr als Worte
 
 Als die Gräueltaten ihr schrecklichstes Ausmaß erreichten, wurde es unmöglich, die Menschen mit Desinformationsnarrativen von einem „brüderlichen“ Russland zu überzeugen, das ausschließlich militärische Ziele angreift. Als die westlichen Länder ukrainische Flüchtlinge aufnahmen und begannen, militärische und finanzielle Hilfe zu leisten, wurde es unmöglich, erfolgreich zu behaupten, der Westen habe die Ukraine völlig im Stich gelassen. Das Publikum in den besetzten Gebieten, das von allen Quellen echter Informationen abgeschnitten ist, ist jedoch weiterhin bedroht.
+
+⌛  Die EU macht noch immer zu viele schöne Ansprachen und handelt zu wenig. Zuletzt zu beobachten bei der angst-getriebenen Entscheidung im Interesse Russlands, deren eingefrorenen Gelder *nicht* der Ukraine zur Verfgügung zu stellen 
+([Reflexive Kontrolle](#sec-intro-termstech-reflexivecontrol)).
+
 
 ## 9. Der Informationskrieg ist noch nicht vorbei - und wird auch nicht so bald enden
 
 Trotz einiger optimistischer Einschätzungen westlicher Kommentatoren ist in der Ukraine niemand der Ansicht, dass der Informationskrieg bereits gewonnen ist und die Bemühungen eingestellt werden können. Jedem ist klar, dass sich die russische Informationsaggression weiterhin an neue Umstände anpassen wird und dass es von größter Wichtigkeit ist, sie weiterhin zu bekämpfen.
 
+⌛  Angesichts der großen Summen, die Russland in Desinformationskampagnen (und Einflussagenten) investiert, wäre es naiv zu glauben, der Informationskrieg hätte das "Ende der Geschichte" erreicht. Dafür war er viel zu erfolgreich (Brexit, MAGA) und wird sich durch KI und KI-Agenten noch verschärfen. Angesichts dessen tut Europe zu wenig. 
+
+
 ## 10. Der Westen muss gegenüber der Ukraine aufholen
 
 Von den westlichen Partnern wünschen sich die Ukrainer, dass sie das tun, was die Ukraine in den letzten zehn Jahren getan hat: die russische Desinformation ernst nehmen und sich aktiv dagegen wehren. Die Ukrainer sind nach wie vor besorgt über den Erfolg der russischen Desinformation im Ausland. Als Nation, die angegriffen wird, schlagen sie außerdem einen „Informations-Ramstein“ vor, der nicht nur mit Waffen, sondern auch im Informationsraum Unterstützung bieten soll. Letztlich ist die ukrainische Zivilgesellschaft weiterhin auf die Unterstützung des Westens angewiesen.
+
+⌛  Auch im ureigensten Interesse sollte die EU die russische Desinformation ernst nehmen und sich pro-aktiv dagegen wehren. Dazu braucht es vor der Mitarbeit der Zivilgescellschaft gesetzliche Grundlagen, Institutionen, Geld und Geschwindikeit. 
+
+Da Capo al Fine

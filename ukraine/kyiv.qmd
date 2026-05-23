@@ -90,6 +90,22 @@ For more details, see @sec-ukraine-history and @sec-russia-moscow.
 
 In the 14th century, Kyiv fell to the Grand Duchy of Lithuania, then to the Polish-Lithuanian Commonwealth in 1569 and became a center of Orthodox resistance against Catholic influence. The 17th century brought a radical change with the Cossack uprising led by Bohdan Khmelnytsky, who triumphantly entered Kyiv in 1649. 
 
+[Gerardus Mercator](https://en.wikipedia.org/wiki/Gerardus_Mercator), the inventor of the famous [Mercator projection](https://en.wikipedia.org/wiki/Mercator_projection), created a map of Ukraine and Crimea titled “Taurica Chersonesus.” This 1606 print by [Jodocus Hondius the Elder](https://en.wikipedia.org/wiki/Jodocus_Hondius) shows the core territory of Kyivan Rus' (colored orange) and Russia (colored yellow), clearly demarcated from it.[^ukraine-kyiv-4] Mercator’s map shows that, in addition to the linguistically misleading appropriation of the Viking word “Rus’” by the Muscovites, Rus’ and Russia are also two completely different regions geographically. Mercator’s map is the precursor to Blaeu’s two-sheet map “The Dnipro Region of Ukraine from Cherkasy to the Mouth of the Black Sea”.[^ukraine-kyiv-4]
+
+
+![Mercator: Taurica Chersonesus (printed and colored in 1606 by Jodocus Hondius the Elder)](Mercator_1606_Taurica_Chersonesus.jpg)
+
+<!-- https://davidrumsey.oldmapsonline.org/maps/4b4ddc80-e8d8-5e69-ba18-b66715058ddf/view -->
+
+In 1613, the geographical name “Ukraina” appeared for the first time on a printed map, Magni Ducatus Lithuaniae, caeterarumque regionum illi adiacentium exacta descriptio, in English translation The Grand Duchy of Lithuania and the Surrounding Regions with Their Exact Description. This celebrated wall map is commonly identified as the Radziwiłł (or Radvila) map (ibid.).
+
+[![Blaeu (1613) Magni Ducatus Lithuaniae (Wikimedia)](Magni_Ducatus_Lithuaniae_Main_768x768.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/4c/Magni_Ducatus_Lithuaniae_Main.jpg)
+
+Beauplan, who had crisscrossed the territory of the Polish-Lithuanian Commonwealth and the lands of the Cossack Hetmanate on military campaigns against Cossacks and Crimean Tatars and travelled throughout much of what today constitutes Ukraine drew 1948 a detailed map of "General Depiction of the Deserted Plains, Commonly Identified as Ukraine, Together with its Neighboring Provinces"  (ibid.).
+
+[![Beauplan (1648) Camporum Desertorum vulgo Ukraina (Wikimedia)](Beauplan_1648_Camporum_Desertorum_vulgo_Ukraina_988x768.png)](https://upload.wikimedia.org/wikipedia/commons/3/3b/General_Depiction_of_the_Empty_Plains_%28in_Common_Parlance%2C_the_Ukraine%29_Together_with_its_Neighboring_Provinces_WDL79.png)
+
+
 ### Resurgence and Russification
 
 After the Khmelnytsky Uprising, which began in 1648, Kyiv became the capital of the hetmanate of the Zaporozhian Cossacks. In 1654, they submitted to the Moscow Tsar in the enforced Treaty of Pereyaslav. Under the rule of the Cossack hetman Ivan Masepa, numerous important buildings were renovated and schools founded. The Kyiv Cave Monastery, St. Sophia Cathedral and St. Michael's Monastery were given their current appearance in the Ukrainian Baroque style. 
@@ -120,3 +136,6 @@ After the Orange Revolution and Euro-Maidan, Kyiv is a symbol of the resilience 
 
 [^ukraine-kyiv-3]: Vladimir-Suzdal (2025 March 29) English Wikipedia. [https://en.wikipedia.org/wiki/Vladimir-Suzdal](https://en.wikipedia.org/wiki/Vladimir-Suzdal)
 
+[^ukraine-kyiv-4]: Heiko Muhr (February 24, 2023) Lines of Latitude: Putting Ukraine on the map (and keeping it there). UC Berkeley Library. [https://update.lib.berkeley.edu/2023/02/24/lines-of-latitude-putting-ukraine-on-the-map-and-keeping-it-there/](https://update.lib.berkeley.edu/2023/02/24/lines-of-latitude-putting-ukraine-on-the-map-and-keeping-it-there/)
+
+[^ukraine-kyiv-5]: Benjamin van der Linde (15.12.2020) Von den angewandten Farben zur funktionalen Kolorierungsmethode. MEMO – Medieval and Early Modern Material Culture Online. [https://memo.imareal.sbg.ac.at/wsarticle/memo_quer/2020-quer-1-vanderlinde-kolorierungsmethode/](https://memo.imareal.sbg.ac.at/wsarticle/memo_quer/2020-quer-1-vanderlinde-kolorierungsmethode/)

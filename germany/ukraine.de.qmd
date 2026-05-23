@@ -21,6 +21,15 @@ abstract: >
 {{< var todo >}}
 
 
+::: {.callout-tip title="Deusche Hilfsbereitschaft"}
+Mit dem Eintreffen ukrainischer Flüchtlinge wegen der Vollinvasion zeigte die deutsche Zivilgesellschaft ein unglaubliches Ausmaß an Hilfsbereitschaft. Wer konnte, half bei der Aufnahme, mit Übersetzungen, Behördengängen und viele Familien nahmen Flüchtlinge auf.[^germany-ukraine-3] 
+:::
+
+
 [^germany-ukraine-1]:  Nico Lange (2024) Aber die NATO! 10 populäre Mythen über Putins Krieg gegen die Ukraine, Kapitel 4. Münchener Sicherheitskonferenz, Zeitenwende on tour.  [https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=16](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=16)
 
 [^germany-ukraine-2]: Nico Lange (2024) Aber die NATO! 10 populäre Mythen über Putins Krieg gegen die Ukraine, Kapitel 6. Münchener Sicherheitskonferenz, Zeitenwende on tour.  [https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=24](https://securityconference.org/assets/user_upload/MSC_Aber_die_NATO_10_Mythen.pdf#page=24)
+
+[^germany-ukraine-3]: Sachsen Fernsehen (03.03.2022) Eine Ukrainerin in Dresden erzählt vom Ukraine-Krieg.
+[https://www.sachsen-fernsehen.de/eine-ukrainerin-in-dresden-erzaehlt-vom-ukraine-krieg-1011900/](https://www.sachsen-fernsehen.de/eine-ukrainerin-in-dresden-erzaehlt-vom-ukraine-krieg-1011900/)
+

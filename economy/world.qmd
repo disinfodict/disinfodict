@@ -1,0 +1,24 @@
+---
+abstract: > 
+  Business with war and genocide? Continuing to pay blood tax to Russia? Murder and torture for profit? Which companies should be boycotted and sanctioned!
+---
+
+
+# Business in Russia {#sec-economy-world}
+
+::: {.callout-caution title="Myth"}
+Business and politics can be kept separate
+:::
+
+::: {.callout-tip title="Truth"}
+- Companies that make business with Russia help Russia conduct a bloody war
+- Companies that make business in Russia pay blood tax to the evil empire
+:::
+
+
+![Countries from which most companies continue to operate in Russia (Source: leave-russia.org)](leave-russia.png)
+
+* Some countries have barely reduced their business operations in Russia (China, India, Turkey, UAE)
+* The U.S. has significantly reduced its business operations in Russia, while Germany has reduced them to a much lesser extent
+
+For details on individual countries, see [leave-russia.org](https://leave-russia.org/)

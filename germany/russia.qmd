@@ -1,40 +1,580 @@
 ---
 abstract: > 
-  Help us write: Not our war? How Germany and Russia have repeatedly colluded to divide up Poland and Ukraine, most infamous in the Hitler-Stalin-Pact
+  Not our war? How Germany and Russia have repeatedly joined forces to divide Poland and Ukraine, most infamously in the Treaty of Rapallo and  the Hitler-Stalin Pact.
 keywords:
-  - Molotow   
+  - Hitler   
+  - Stalin
+  - Molotov   
   - Ribbentrop
+  - Treaty of Rapallo
 ---
 
-# German-Russian relations  {#sec-germany-russia}
+
+# German-Russian Relations  {#sec-germany-russia}
 
 ::: {.callout-caution title="Myth"}
-- Germany has historical responsibility for Russia
-[<br></br>![Search for topic in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=2em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20german&sort=relevance)
+- Germany bears a historical responsibility toward Russia [![Keyword search in EUvsDisinfo](../all_common_img/EUvsDisinfo_400x240.jpg){height=1em}](https://euvsdisinfo.eu/disinformation-cases/?text=russian%20german&sort=relevance)
 :::
 
 ::: {.callout-tip title="Truth"}
-- Germany has repeatedly colluded with Russia at the expense of Ukraine
-- Germany has historical responsibility for Ukraine
+- Germany has repeatedly colluded with Russia at the expense of Poland and Ukraine [![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/Germany%E2%80%93Russia_relations)
+- Germany bears a historical responsibility toward Ukraine
 :::
 
 
-## Pre-sowiet
+## Pre-Soviet Era
 
-{{< var todo >}}
+### Knowledge Transfer (since 1480)
 
+> Russian rulers have always been keen to recruit advisors from Germany. This includes not only candidates for Gazprom’s supervisory board, but also great scholars after whom golden cookies in Hanover are named today: Gottfried Wilhelm Leibniz (1646–1716), the quintessential German polymath, was a philosopher, mathematician, and pioneer of the Enlightenment—and also a Privy Councilor of Justice in the service of the Tsar.[^germany-russia-25]
 
-## Hitler-Stalin
+The Grand Princes of Moscow, or rather Tsars Ivan III and Ivan IV, had craftsmen, military personnel, and other specialists such as doctors, pharmacists, scholars, technicians, armourers, cannon foundrymen, engineers, and military instructors recruited in Germany. Thus, a foreign settlement known as the “German Suburb” emerged in Moscow in the 16th century. 
 
-{{< var todo >}}
+Leibniz was followed by other renowned mathematicians such as Daniel Bernoulli and Leonard Euler.[^germany-russia-26] Since the 18th century, Russians have had no other Western European foreign counterparts with whom they have maintained such numerous and diverse ties as with the Germans. In 1698, regular instruction in the Russian language began at the University of Halle. To this day, the University of Halle maintains particularly close ties with Russia and hosts and protects one of Germany’s most prominent pro-Russian professors, who, with remarkable regularity—much like John Mearsheimer—repeatedly calls for Ukrainians to capitulate for the sake of peace. 
 
-The collaboration extended to the harmonization of nationalistic to chauvinistic cultural and media channels, from which the word “fascism” disappeared. Sergei Eisenstein staged Wagner at the Bolshoi Theater, the libraries of the USSR were purged, anti-fascist works by Thomas and Heinrich Mann or Franz Werfel (and even those by communist authors such as Willi Bredel, Hans Marchwitza, and Erich Weinert) disappeared, as did the émigré newspapers.[^germany-russia-1] 
-
-
-## Nordstream
-
-{{< var todo >}}
+German-Russian cultural and scientific exchange has always served as a cover for economic and military cooperation. For instance, the Office for Foreign Science and Technology (BINT), established in 1921 at the Soviet Trade Mission in Berlin, went hand in hand with secret military cooperation under the Treaty of Rapallo; see @sec-germany-russia-militarycooperation. Yet the supposedly “anti-fascist” Soviet Union had no qualms about engaging with fascist theory and practice: In 1928, a Russian-German Committee for Racial Research was founded.
 
 
-[^germany-russia-1]: Bernhard H. Bayerlein (8. Juni 2025) Stalin-Hitler-Pakt reloaded. Deutsch-russische Kollaborationen im 20. und 21. Jahrhundert. [https://geschichtedergegenwart.ch/20643-2/](https://geschichtedergegenwart.ch/20643-2/)
+### Great Northern War (1700–1721)
+
+During the [Great Northern War](https://en.wikipedia.org/wiki/Great_Northern_War) (1700–1721), Prussia faced the choice of joining a European alliance against Russia or pursuing a separate alliance policy with the Tsar. The “Soldier King,” Frederick William I, initially entered into an alliance with London, but betrayed it and sided with Russia:
+
+> The Soldier King, however, signed the treaty only after severe inner turmoil, which even confined him to his sickbed, for he feared losing the Tsar’s support, which, despite conflicting experiences, gave him a sense of security. The inner conflict that Frederick William endured was a mixture of emotion and calculation. A kind of elective affinity existed between Russia and Prussia.  
+
+> ...  
+> Showing great empathy for the Tsar’s situation, he justified his decision not to use the alliance he had just concluded with England-Hanover as a basis for an anti-Tsar policy ... It was based on a similarly hostile perception of Anglo-Hanoverian policy (a precursor to anti-Americanism) and was rooted in power politics, stemming from a shared interest in the lasting weakening of Poland (and Ukraine). On this basis, the Tsar and the Soldier King met when, in February 1720—about half a century before the First Partition of Poland—they signed a treaty for the first time (similar to the Treaties of Rapallo and the Hitler-Stalin Pact) that contained a whole bundle of anti-Polish provisions... In a personal declaration, which he himself kept secret from his ministers, Frederick William guaranteed that he would not enter the war against Russia alongside England.[@Schulze_Wessel:2023, p. 41f, our comments in parentheses]
+
+Without Prussian (and Polish) allies, London’s policy of containment against Russia had no chance of success. Ingria, Estonia, Livonia, and part of Finland came under Russian control. Russia now dominated the Baltic Sea and replaced Sweden as the dominant power in northeastern Europe. 
+
+> In the dramatic final phase of the Great Northern War, two distinct patterns had emerged in response to Russia as a new European power: British containment and Prussian alignment with Russia for the joint control of Poland. In a remarkable case of path dependence, London and Berlin repeatedly fell back on these patterns up until World War I. British policy pursued anti-Russian containment primarily in the Eastern Question, for instance in the last quarter of the 18th century and then in the Crimean War, as well as in competition with Russia in Central Asia ... Conversely, until the founding of the German Empire in 1870/71, Prussian policy almost consistently prioritized an alliance with Russia, with control of Poland forming the purpose of the Russian-Prussian alliance.
+[@Schulze_Wessel:2023, p. 42].
+
+This telltale pattern characterized the collusion between Germany and Russia for centuries, enabled the unprecedented expansion of the Russian Empire, and continued in the relationship with the Soviet Union.
+
+
+### Emigration to Russia (since 1762)
+
+At times, Russia seemed to some Germans like the Promised Land; they emigrated there and, through their labor, supported Russian imperialism:
+
+> In 1762, tens of thousands of people set out on an arduous journey from the banks of the Rhine and Neckar rivers to the distant Volga: armed with their Bibles and hymnals, they answered Empress Catherine’s call to settle in Russia and, exempt from taxes for 30 years, cultivate a plot of land. The colonists did well for themselves and multiplied splendidly: by 1874, when universal conscription was introduced in Russia, there were already more than one million Russian Germans in the Tsarist Empire.[^germany-russia-33] 
+
+## Soviet Era
+
+### Ukrainian People's Republic
+
+Starting in 1915, the German Empire played a decisive, and in part guiding, role in the Russian Revolution by supporting Lenin’s Bolsheviks in order to weaken Russia during World War I. In April 1917, Germany enabled Vladimir Lenin and other revolutionaries to return from exile in Switzerland to Russia to overthrow the provisional government. The German secret service and the Foreign Office provided financial support to the Bolsheviks to encourage strikes and propaganda:
+
+> The convergence of German imperial interests and Lenin’s interests in the revolutionary year of 1917 was impossible to overlook, for friend or foe alike.[^germany-russia-23]
+
+While Lenin spoke out in his April Theses of 1917 against the annexationist policies of the—now Soviet—Russian Empire (toward Poland and Ukraine),[^germany-russia-24] in 1918 he crushed the newly founded [Ukrainian People’s Republic](https://en.wikipedia.org/wiki/Ukrainian_People%27s_Republic) and annexed it into the Soviet Russian Empire:
+
+> Contrary to his original promises, Lenin was by no means prepared to recognize the legitimacy and autonomy of the Ukrainian People’s Republic and designated it as an enemy of the revolution. In a memorandum in December 1917, the Council of People’s Commissars of Ukraine issued an ultimatum. Should the latter fail to take the demanded measures within the next 48 hours, the new revolutionary government in Russia would be at war with the Ukrainian People’s Republic. [![Link to Wikipedia](../all_common_img/Wikipedia.png){height=1em}](https://en.wikipedia.org/wiki/History_of_Ukraine#20th_century)  
+
+The first Ukrainian state was dissolved during the Russian Civil War following the Red Army’s invasion in early 1920 and incorporated into Soviet Russia as the Ukrainian Soviet Socialist Republic.
+
+### Secret military cooperation (1920–1933) {#sec-germany-russia-militarycooperation}
+
+On April 16, 1922, Germany and Russia signed the Treaty of Rapallo.[^germany-russia-7] With this treaty, the two states resumed their economic and diplomatic relations ... amid great skepticism from the Western powers, particularly France. The justified mistrust of Germany’s rapprochement with Russia is still referred to today as the “Rapallo Complex.” While it was still claimed in 1953 that there had been no secret supplementary agreement to the Treaty of Rapallo[^germany-russia-12], it has been known since at least 1961 that on July 29 and August 11, 1922, Germany and Russia entered into secret agreements on military cooperation and began joint military preparations for a war against Poland. [^germany-russia-2] 
+
+> The political isolation of the German Empire and the Soviet Union, their joint opposition to the newly reestablished Poland—to which both states had ceded significant territories following World War I and the Polish -Soviet War, the military restrictions of the Treaty of Versailles on the German side, and the Soviet goal of building a modern army were the decisive factors that led to the secret cooperation between the Reichswehr and the Red Army between 1920 and 1933. This topic had been declared taboo in the Soviet Union and removed from open academic discussion.[^germany-russia-3]
+
+In other words, contrary to claims made by German and Russian sources, Stalin did not simply respond to Hitler with the Molotov–Ribbentrop Pact—a claim that is detached from reality in any case, given the partition of Poland—but rather, German-Soviet cooperation against Poland began shortly after the end of World War I, specifically with secret joint arms projects:
+
+> To finance and coordinate the covert arms enterprises in the USSR, which also fulfilled German orders for military goods, the Reichswehr Ministry founded the “Society for the Promotion of Industrial Enterprises” (Gefu) in 1923, with offices in Berlin and Moscow, and provided it with the necessary working capital. Retired Major Fritz Tschunke was appointed to head the Gefu. Under its supervision were the aircraft factory in Fili, the Bersol’ chemical plant for the production of toxic substances in Ivascenkovo near Samara—with participation by the Stoltzenberg company—and the production of artillery ammunition in various Soviet factories (Zlatoust, Tula, Ochta, Kazan, Petrograd) with the assistance of Krupp. At that time, BMW (tank and aircraft engines), Karl Walter (firearms), Rheinmetall, Siemens, Carl Zeiss, and other companies were also establishing a presence in Russia.^[ibid.]
+
+In other words, contrary to claims made by German and Russian sources, Stalin did not simply respond to Hitler with the Molotov–Ribbentrop Pact—a claim that is detached from reality in any case, given the partition of Poland—but rather, German-Soviet cooperation against Poland began shortly after the end of World War I, specifically with secret joint arms projects:
+
+> To finance and coordinate the covert arms enterprises in the USSR, which also fulfilled German orders for military goods, the Reichswehr Ministry founded the “Society for the Promotion of Industrial Enterprises” (Gefu) in 1923, with offices in Berlin and Moscow, and provided it with the necessary working capital. Retired Major Fritz Tschunke was appointed to head the Gefu. Under its supervision were the aircraft factory in Fili, the Bersol’ chemical plant for the production of toxic substances in Ivascenkovo near Samara—with participation by the Stoltzenberg company—and the production of artillery ammunition in various Soviet factories (Zlatoust, Tula, Ochta, Kazan, Petrograd) with the assistance of Krupp. At that time, BMW (tank and aircraft engines), Karl Walter (firearms), Rheinmetall, Siemens, Carl Zeiss, and other companies also established a presence in Russia. ^[ibid.] 
+
+> Although military cooperation between the Soviet Union and Germany between 1922 and 1933 is often forgotten, it had a decisive influence on the origins and outbreak of World War II. Germany rebuilt its devastated military at four secret bases in Russia. In return, the Reichswehr sent men to educate and train the young Soviet officer corps. The most important aspect of Soviet-German cooperation, however, was its technological component.[^germany-russia-4]
+
+### Hitler-Stalin (1939–1941)
+
+The fact that Hitler and Stalin share responsibility for World War II is often denied[^germany-russia-1] (@sec-wwii-responsibility):
+
+> The Molotov–Ribbentrop Pact, signed on August 23, 1939, was the culmination of a two-decade-long campaign by both sides to rearm, dismantle the postwar order established at Versailles, and destroy their common enemy, Poland. The resumption of military cooperation played a decisive role in reshaping the alliance between the world wars.^[ibid.]
+
+The collaboration extended to the harmonization of nationalist to chauvinist cultural and media outlets, from which the word “fascism” disappeared. Sergei Eisenstein staged Wagner at the Bolshoi Theater; the libraries of the USSR were purged, and anti-fascist works by Thomas and Heinrich Mann or Franz Werfel (and even those by communist authors such as Willi Bredel, Hans Marchwitza, and Erich Weinert) disappeared, as did the émigré newspapers.[^germany-russia-1]
+
+> To this day, progress in implementing this in memory and cultural policy as well as in political education has been sluggish. Narratives of lies and propaganda, attempts to downplay the events, or outright denial—all driven by interested parties—have contributed to the fact that historical research is still far from a comprehensive understanding of the “devil’s pact.” Narratives designed to legitimize the past remain in vogue. ^[ibid.]
+
+
+### Operation Barbarossa (1941–1945)
+
+On June 22, 1941, the German Wehrmacht invaded the Soviet Union. Operation Barbarossa marked the beginning of a war of annihilation driven by power politics, economic interests, and racial ideology.
+
+> On Hitler’s orders, the Wehrmacht began concrete preparations for a war against the Soviet Union starting in December 1940. The plan was to kill a large portion of the local population, “Germanize” a small portion—and enslave or expel the rest. This was intended to create “living space in the East” for the settlement of Germans. The same motive had already underlain the war against Poland ... Thus, the “Economic Organization East” or the “Economic Staff East” coordinated the mass exploitation of raw materials and the deportation of forced laborers in the occupied territories.[^germany-russia-13]
+
+Did German tanks roll into Russia? No. A glance at the map shows that the Russian campaign initially targeted the Baltic states, Belarus, and above all, Ukraine.
+
+[![Heiner Möller's (2022), Map of the Barbarossa Operation, ZMSBw](unternehmen-barbarossa.jpg){width=“67%”}](https://zms.bundeswehr.de/de/mediathek/aktuelle-karte-barbarossa-5386466)
+
+> By the end of 1941, the Baltic states, Belarus, and large parts of Ukraine had been occupied. In the conquered territories, special units began their murderous “special missions”: the systematic murder of Jewish residents, Communist officials, and the Sinti and Roma. By the end of 1941, around half a million people had fallen victim to mass shootings, in which units of the Wehrmacht also participated. The initial joy of the local population—especially the Ukrainian and Baltic peoples—over their liberation from the “Stalinist yoke” by the Wehrmacht largely turned to hatred, which developed into a partisan war waged with extreme brutality on both sides.[^germany-russia-15]
+
+Hitler wanted Ukraine’s nutrient-rich black soil and raw materials, and he wanted “Eastern workers,” and he wanted to kill Jews.[^germany-russia-14] And they lived primarily in Ukraine. 
+
+
+## The GDR During the Cold War
+
+Just two years after the end of World War II, in June 1947, the “Society for the Study of Soviet Culture” was founded; it was renamed the “Society for German-Soviet Friendship” (DSF) at its second congress in July 1949. Economic and cultural ties between the “brother nations” of Germany and Russia were considered exemplary within the Eastern Bloc. By 1990, some 12,000 students had completed their studies in the Soviet Union... the GDR’s elite was systematically brought into line with Russian ideology.
+
+## The Federal Republic of Germany During the Cold War
+
+### Adenauer (1949–1953)
+
+The sovereign Federal Republic’s first independent act of foreign policy was Adenauer’s trip to Moscow on September 8, 1955: believing he was freeing German prisoners of war from Russian camps, Adenauer did exactly what Khrushchev wanted him to do ([Reflexive Control](#sec-intro-termstech-reflexivecontrol)): the Soviet Union received diplomatic recognition—despite the division of Germany—and thus gained access to economic (corruption) and cultural (indoctrination) relations: in 1958, the first trade agreement between the Federal Republic and the Soviet Union was signed in the World Hall of the Federal Foreign Office in Bonn. [^germany-russia-16] [^germany-russia-17]
+
+### Ehrhard (1953–1966)
+
+During Erhard’s chancellorship, relations between Germany and the Soviet Union were strained. However, Ludwig Erhard fell from power in 1966 over a memorandum he titled “German Proposals for a Constructive Peace Policy,” in which he offered the Soviet Union and all Eastern Bloc states an exchange of formal declarations renouncing the use of force, disarmament, and détente—a softening of the [Hallstein Doctrine](https://en.wikipedia.org/wiki/Hallstein_Doctrine) and a precursor to Brandt’s Ostpolitik.[^germany-russia-18]
+
+From 1959 to 1964, the Druzhba pipeline was built from Tatarstan to the GDR. 
+
+
+### Kiesinger (1966–1969)
+
+Upon taking office, Georg Kiesinger reiterated Erhard’s offer and claimed—ignoring the historical facts—that Germany had served as a bridge between Western and Eastern Europe for centuries. He also stated that the German people wished to establish understanding with Poland and Czechoslovakia. [^germany-russia-19] Little remained of this after the [Prague Spring](https://en.wikipedia.org/wiki/Prague_Spring). During Kiesinger’s brief chancellorship, important steps were taken toward détente (appeasement) with the Soviet Union, the deeper reasons for which lay in the behavior of the U.S. and France; therefore, here are several passages from an article well worth reading in its entirety, which bear a striking resemblance to the Russian invasion of Ukraine:
+
+> Following the formation of the Grand Coalition in December 1966, the federal government was already prepared to find justifications for establishing full diplomatic relations with all Eastern Bloc states (again, with the exception of the GDR). It was now argued that these Eastern Bloc states had maintained diplomatic relations with the GDR only out of necessity since its founding in 1949, and from this it was concluded that it was justified to establish diplomatic relations in such special cases as well, while continuing to insist with great emphasis on the claim to sole representation vis-à-vis non-Eastern Bloc states.  
+>  ...  
+> Throughout the month of May and thereafter, Western intelligence services recorded troop movements around Czechoslovakia; at the end of May, a Warsaw Pact “staff exercise” also began in the CSSR, which was otherwise free of Soviet troops. NATO, however, issued reassuring statements. The troop movements were interpreted as part of a war of nerves  
+> ...  
+> However, when comparing the West’s reaction with earlier or later responses to Soviet acts of violence, the fact that there was virtually no official discussion of sustained countermeasures or sanctions following the intervention (“Prague Spring”) is one of the most revealing aspects of this crisis, one that requires explanation ... the West’s demonstrative inaction ...  The general question therefore remains as to how this overall rather businesslike acceptance of this flagrant violation of international law—which was not entirely free of cynicism—can be explained ... it became abundantly clear that the U.S. was exercising demonstrative restraint ... In any case, Kiesinger also sensed from his conversation with the American ambassador that NATO’s leading power was determined to downplay the events in Czechoslovakia as much as possible for the time being. This may at least partially explain his overly obvious restraint. It was also disconcerting that the Federal Government was informed of the Eastern Bloc’s intervention not by NATO authorities, but through the news agencies ... Moreover, the Federal Republic quickly realized that any attempt to draw concrete strategic conclusions from the intervention would sooner rather than later result in the U.S. demanding increased military and financial contributions from the European allies  
+> ...  
+> Bahr added: There is no answer to the question of what should happen now. But the chancellor has grasped two things: “The policy of peace must continue. We can and will only get something from the Russians.” His predominant feeling toward the Russians, he said, was fear. ... Undoubtedly, everyone involved in Bonn has learned a lesson from these events: in the future, they must avoid even the slightest appearance of wanting to pursue a differentiated policy of détente without consulting the Soviet Union ... Above all, it was now Egon Bahr who emphatically urged Brandt to resume discussions on the central issues primarily with the Soviet Union ... Since no group of states was advocating a change in the status quo in Europe anyway, Bahr continued, it would be risky for Bonn to give priority to the countries of “Inter-Europe” ... It was also evident that the Johnson government had no intention whatsoever of allowing the events in Prague to deter it from concluding the Non-Proliferation Treaty... Egon Bahr went the furthest in this regard, expressing himself most radically in an internal memorandum intended for Federal Foreign Minister Brandt: “The fictions we continue to carry with us are being twisted by us and others into a noose that could strangle us. [Articles] 53 and 107 are the same chimera as the continued existence of Germany as a whole.  
+> ...  
+> In the spring of 1969, the Communist Party of Czechoslovakia was once again ruthlessly brought into line... Even in political circles in Bonn, life had long since returned to business as usual. From then on, the enduring lesson of the Czechoslovak crisis was understood to be that one must maintain a clear distance from reformist communists or openly protesting dissidents. At most, it seemed permissible to request humane treatment or expatriation in individual cases from the repressive authorities. This was how Bonn behaved toward the signatories of Charter 77, toward the “Helsinki Groups” in the Soviet Union, and in 1980–81 toward “Solidarność.” In this respect, too, the 1968 Czechoslovak crisis acted as a catalyst for anxieties that, while already apparent beforehand, now began to dictate behavior and characterized Bonn’s policy of détente right up through the years of upheaval in 1989–90.[^germany-russia-20]
+
+
+### Brand (1969–1974)
+
+Under Willy Brand, German-Soviet natural gas pipeline deals began:
+
+> On February 1, 1970, at the prestigious Kaiserhof address in Essen, executives from Mannesmann, Ruhrgas AG, and Deutsche Bank signed a contract with their Soviet counterparts for a lucrative billion-dollar deal. Mannesmann supplied the Soviets with large-diameter pipes sufficient for a 2,000-kilometer pipeline. Deutsche Bank provided a favorably priced loan of 1.2 billion marks so that the buyers could pay for the goods. In return, the Soviet Union would supply up to 3 billion cubic meters of natural gas per year for 20 years.  
+> ...  
+> Brandt sees—25 years after the war—the gas deliveries from Siberia less as a risk of dependency and more as a sign of trust toward the former mortal enemy. Objections from the U.S. are dismissed.[^germany-russia-5]
+
+
+### Schmidt (1974–1982)
+
+Under Chancellor Schmidt, gas imports rose to 30 percent of consumption:
+
+> The increasing gas supplies weathered severe crises such as the Soviet invasion of Afghanistan in 1979 and the imposition of martial law in Poland in late 1981. The U.S. government once again criticized the expansion of German-Soviet gas trade. It demanded sanctions against Moscow and a move away from this dependence, which the German government rejected. “Those who trade with one another do not shoot at each other,” argued Helmut Schmidt.[^germany-russia-6] 
+
+At the onset of the Soviet Union’s collapse, German social democracy sided with Moscow and against the Russian colonies’ desire for freedom:
+
+> In 1981, Egon Bahr, the architect of German Ostpolitik, wrote that peace was more important than Poland. This was when General Wojciech Jaruzelski imposed martial law. [^germany-russia-8] [^germany-russia-9] 
+
+> The foreign currency flowing to Moscow for gas supplied to Germany enabled the Soviet Union to purchase Western cutting-edge technology—legally and often illegally—with which further gas fields could be developed.
+> ...  
+> The CIA had discovered which particularly important control components the Soviet Union was illegally purchasing from Western partners. However, instead of putting a stop to these transactions, U.S. experts tampered with the delivered software—and perhaps the circuitry as well... U.S. intelligence agencies are said to have ensured that at least one major pipeline junction was blown up as early as 1982. The explosion was so massive that it could be seen from space. [^germany-russia-22] [^germany-russia-21]
+
+### Kohl (1982–1992)
+
+A significant portion of the German public reacted to the deployment of Soviet medium-range missiles with fear and a desire for appeasement, and the so-called “peace movement”—steered by the KGB—attempted to prevent[^germany-russia-28] the rearmament with Pershing medium-range missiles necessary[^germany-russia-27] for deterrence. 
+
+When the Soviet Union lost the arms race and Mikhail Gorbachev signed an agreement with Ronald Reagan in Washington in December 1987 to reduce intermediate-range missiles in Europe, “Gorbimania” broke out in Germany: the Germans deified the leader of the Soviet Union. They credited him with bringing unity to Germany (which was actually more likely due to Ronald Reagan). 
+
+> Only in Germany is Mikhail Gorbachev glorified as a shining figure; even the obituaries resemble hagiographies. But this misses the political reality by a mile. He actually wanted to prevent reunification, his economic reforms were a disaster—and in Riga, Vilnius, Tbilisi, and Baku, the Nobel Peace Prize laureate revealed himself to be a brutal imperialist.[^germany-russia-32]
+
+The fact that Gorbachev sought to violently suppress the Baltic states’ aspirations for freedom on January 13, 1991—the “Bloody Sunday” of Vilnius—[^germany-russia-29] [^germany-russia-30] is still not widely recognized in Germany today, which is why, as late as 2026, an explanatory article by the Bundeswehr[^germany-russia-31]
+
+While “Gorbimania” was ultimately a pan-German glorification of Russia, there were even more specific pro-Russian activities: Key figures in the German Social Democratic Party attempted to sabotage German reunification and help Russia save the GDR:
+
+> Bahr “tried everything after 1989 to prevent the Two-Plus-Four Treaty … Bahr conspired with the Falin Group in Moscow, which was hostile to Gorbachev,” writes Baum in a letter to the editor in the “FAZ.”  
+>  
+> “I’m sick of us Social Democrats constantly being more Soviet than the Soviets,” lamented SPD foreign policy expert Norbert Gansel as early as 33 years ago, in February 1990, after Bahr had announced that a unified Germany should not be a member of NATO[^germany-russia-10]
+
+
+## Post-Soviet Era
+
+### Kohl (1992–1998)
+
+Under Kohl, some 2.3 million Russians of German descent (late) repatriates arrived in Germany from the former Soviet Union. Kohl hoped to gain grateful CDU voters. This dangerous gamble—on people with no experience of democracy—paid off in part:
+
+> Both scenarios—unnoticeable integration and ongoing segregation—describe the reality of different social groups within the larger category of “Russian-German late repatriates.” [^germany-russia-34] 
+
+However, 20%–30%—more than half a million people—remained poorly integrated, consume Russian media, soak up Russian propaganda, and today vote for extremist pro-Russian parties. Some glorify Russia with nostalgia and hope for a return to the promised land, even going so far as to endorse Russia’s war of aggression and the unscrupulous theft of Ukrainian land.[^germany-russia-35]
+
+### Schröder (1998–2005)
+
+Under Schröder, the “Gorbimania” continued: completely misjudging Putin’s character, goals, and background as a secret service agent and St. Petersburg mafioso, on September 25, 2001, the German Bundestag cheered the speech of a man who had used staged bombings in Moscow to justify a brutal war in Chechnya and set out, whatever the cost, to bomb Russia back to its former and new greatness. [^germany-russia-36] The fact that this speech was celebrated in Russia as the reconquest of Berlin was deliberately ignored.[^germany-russia-37]
+
+Gerhard Schröder and his wife Schröder-Köpf accepted a very special favor from Putin: they adopted two Russian children through official channels—despite Schröder’s advanced age and three failed marriages.[^germany-russia-38]
+
+Under Schröder, the BND’s counterintelligence operations against Russia were suspended: without any pressing need, they refrained from identifying and monitoring agents to determine what the Russian intelligence service was doing.[^germany-russia-39] 
+
+The slogan “Change through Trade” was touted; together with the Greens, Schröder phased out nuclear power and signed preliminary agreements for Nord Stream I: 
+
+> Gazprom becomes Putin’s extended arm, his political weapon; blackmail and threats are part of normal business practice. Even though hardly anyone in Germany took notice of it at the time: Putin exploits other countries’ dependence on Russian energy supplies with utter ruthlessness.
+
+### Merkel (2005–2013)
+
+> In early 2006, the gas dispute between Russia and Ukraine escalated. Russia had imposed new tariffs for gas transit through Ukraine and sought to enforce “market-oriented prices” for Kiev’s domestic consumption. When Ukraine refused to accept the steep surcharges, Putin halted deliveries in the freezing cold of January.[^germany-russia-5]
+
+So much was done for Russia during Merkel’s 16 years in office that a list of keywords must suffice here:
+
+* Early in her career, Merkel staged herself as the “Climate Chancellor” in a visually striking red anorak in the Arctic; in practice, she lobbied for internal combustion engines, against the transportation transition, against the energy transition, and in favor of Russian gas (“bridge technology,” “hybrid heating systems”) [^germany-russia-70]
+* Counterintelligence efforts were suspended
+* The Bundeswehr was downsized, cut to the bone, and conscription was suspended
+* Putin’s speech at the Munich Security Conference was not perceived for what it was: a declaration of aggressive Russian imperialism.[^germany-russia-50]
+* In 2008, Merkel (along with France) blocked Ukraine’s NATO membership
+* Merkel undermined the long-term agreement to phase out nuclear power, extended the operating lifespans of nuclear power plants in 2010, and cemented dependence on Russian gas in 2011 through the hasty post-Fukushima nuclear phase-out
+* Nord Stream I was built
+* In 2011, Germany (Rheinmetall) planned to build state-of-the-art combat simulation centers for the Russian army by 2014; in light of the Crimean invasion, the project was canceled in 2014—allegedly in a timely manner.[^germany-russia-40] [^germany-russia-41]
+
+
+## Hot War
+
+### Former Chancellor Schmidt (2014)
+
+Helmut Schmidt, speaking with the authority of the “former chancellor,” makes the counterfactual claim that Ukraine does not exist and that Russia does not want war. 
+
+::: {.callout-caution title="Former Chancellor Schmidt defends Putin’s invasion of Crimea with the authority of the ‘former chancellor’:"}
+"It is understandable that the Poles want this... But Ms. Merkel would do well not to heed this call but to remain cautious so as not to exacerbate the situation... These sanctions achieve nothing and merely lead to demands for even tougher sanctions. And if those don’t work, someone will call for increased armament. And then we end up in a war with weapons... Western policy is based on a major misconception: that there is a single Ukrainian people, a single national identity. In reality, there is Crimea, eastern Ukraine, and western Ukraine. Crimea, once the land of the Tatars, only became part of Ukraine in the 1950s through a “gift” from Russian leader Khrushchev. Western Ukraine consists largely of former Polish territories, all of which are Roman Catholic. And Eastern Ukraine, predominantly Russian Orthodox, lies within the territory of Kievan Rus’, the former heartland of Russia."[^germany-russia-11]
+:::
+
+::: {.callout-tip title="Schmidt unleashed a full barrage of Russian propaganda here—in BILD:"}
+Kyiv, Kyivan Rus' and Slavic Christianity were not Russian, but Ukrainian (@sec-ukraine-kyiv); naturally, the Russians do not own any land that they have not seized by force (@sec-russia-history), and Crimea was many things, but not Russian; rather, it was gradually Russified, including the genocide of the Crimean Tatars (@sec-crimea-history), just as the Ukrainian language and culture in the territory of Kyiiv Rus’ were gradually replaced by force with the Russian language (@sec-language-russia, @sec-language-ukraine), and there is no such thing as a Russian culture—except that of violence—anyway (@sec-culture-russia).
+:::
+
+### Merkel (2013–2021)
+
+* During the invasion of Crimea, Merkel pressured the Ukrainian interim government not to resist Russia, according to retired Lithuanian Lieutenant General Jonas Vytautas Žukas, who served as Commander-in-Chief of the Lithuanian Armed Forces from July 2014 to 2019. [^germany-russia-71]
+
+* Journalists who wanted to report critically on the invasion were pressured.[^germany-russia-78] 
+
+* Supposedly critical—but in fact anti-American - cabaret artists supported Russia: the low point of German cabaret art was a 2014 episode of “Die Anstalt” in which Max Uthoff and Claus von Wagner, under the guise of pacifism and in the service of totalitarianism[^germany-russia-82-en], propagated Russian narratives to “defend” the invasion of Crimea. [^germany-russia-79] In 2019, cabaret artist Florian Schroeder defamed Volodymyr Zelenskyy,[^germany-russia-80] and cabaret artist Anny Hartmann downplayed global warming and, in 2025, reversed the roles of perpetrator and victim in Russia’s war of aggression.[^germany-russia-81]
+
+* Putin creates waves of refugees from Syria, and Merkel brings them into the country, thereby boosting the AfD’s popularity
+
+* Despite the invasion of Crimea, MH17, and the takeover of the Donbas, Nord Stream II was also built and investments were made in Russian gas fields[^germany-russia-48]
+
+* The Merkel government allowed Russian corporations to take over gas pipelines and storage facilities and permitted Russia to drain the storage facilities in the winter of 2021/2022, making Germany (even) more vulnerable to blackmail.
+
+* The Merkel government provided state guarantees to gas companies, the consequences of which German taxpayers are still suffering from today.[^germany-russia-69]
+
+* Germany supplied billions of dollars’ worth of mechanical engineering products and machine tools to Russia.[^germany-russia-42] Even after the full-scale invasion, sanctions were circumvented.[^germany-russia-49] [^germany-russia-43] 
+
+* The Bavarian CSU government maintained close ties with Putin’s man in the EU: Viktor Orbán, [^germany-russia-44] [^germany-russia-45] [^germany-russia-46] and supported a “prestige project of the Russian leadership”: Sputnik V.[^germany-russia-47]
+
+* Amid the uncertainty caused by the COVID-19 pandemic, segments of the German population are losing themselves in the conspiracy theories and disinformation circulating on social media, refusing vaccinations, and suffering real harm from infections while unvaccinated. Many are unable to return to reality. Russia is fueling this trend with targeted propaganda: it tells its own population that the Covid vaccine is safe, while instilling fear in German society regarding the side effects of the life-saving vaccines.[^germany-russia-59] 
+
+::: {.callout-important title="Covid Conspiracy"}
+March 21, 2020 -- Coronavirus disinformation: the same patterns. Is Moscow exploiting the coronavirus crisis for political purposes? European Union disinformation hunters have listed hundreds of false reports originating in Russia about the novel coronavirus and COVID-19.[^germany-russia-73]
+
+October 8, 2020 -- The Federal Office for the Protection of the Constitution is monitoring Russian disinformation about the coronavirus.[^germany-russia-74]
+
+November 5, 2021 -- The Russian state broadcaster RT DE is one of the main sources for coronavirus deniers and “lateral thinkers” in Germany.[^germany-russia-75]
+
+November 14, 2021 -- RT’s propaganda boomerang: In Russia, they’re for vaccination; in Germany, against it.[^germany-russia-76]
+
+April 11, 2022 -- Analysis: Narratives in Russian state media regarding COVID-19 vaccines in the West.[^germany-russia-77]
+:::
+
+
+## Scholz (2021–2025)
+
+With Merkel’s departure, Putin’s preparations for war were complete, and Russia invaded all of Ukraine. 
+
+* Despite clear warnings from intelligence agencies about a Russian invasion, Scholz appoints an incompetent SPD member as defense minister
+
+* In the face of the impending Russian invasion of Ukraine, Germany sends Ukraine merely 5,000 helmets as a token gesture and as a signal to Moscow: they do not want to fall out with the Russians
+
+* When Russia invades, they predict a quick Russian victory and hope that Ukraine will lose the war quickly so they can quickly return to “business as usual” with Russia
+
+* In the aftermath, Germany supplied weapons to Ukraine, but always too little and too late
+
+* Germany provided significantly less support per capita and per GDP than the Nordic and Baltic states, and Scholz obscured this with the insistently repeated claim that Germany was by far the largest supplier
+
+* While the public in Lithuania raised millions of euros for weapons within a few days, such private initiatives were unthinkable in Germany. And every government delivery of a new weapons system was accompanied by endless public debates about the risks of escalation.
+
+* While England and France supplied cruise missiles, Germany held back the Taurus, citing a series of excuses.
+
+::: {.callout-important title="Taurus Cruise Missile"}
+Every refuted excuse for not delivering the Taurus was immediately replaced by a new one. No serious effort to give Ukraine the capability to destroy distant supply infrastructure was apparent:
+* They didn’t have enough Taurus missiles to deliver... without, however, repairing them or reordering a sufficient number
+* There would only be one computer in Germany capable of programming the Taurus, and doing so would make Germany a party to the war... without purchasing the ridiculous old hardware for a few thousand euros
+* The Ukrainians wouldn’t be able to operate the Taurus... without, however, sending a clear signal to Russia and training Ukrainian soldiers
+* and finally, the ultimate excuse... there are secret reasons not to deliver the Taurus
+:::
+
+::: {.callout-warning title="Gepard anti-aircraft tanks"}
+The Gepard anti-aircraft tanks supplied by Germany proved unexpectedly effective against Russian drone attacks. Who knows whether Germany would have supplied them if it had been known just how much this would thwart Russia’s plans?
+:::
+
+* Public broadcasting has regularly provided a platform for pro-Russian voices in live talk shows in the name of “balance,” thereby hyping up the pro-Russian parties AfD and BWS: the countless lies once broadcast to an audience of millions cannot be corrected by subsequent fact-checks—not to mention that no one reads them.
+
+* A large portion of Germany’s intellectual “elite”—led by moral philosopher Jürgen Habermas, would-be philosopher Richard David Precht, Constitutional Court Justice Julia Zeh, and feminist Alice Schwarzer—has attempted to undermine actual support for Ukraine through open letters, fears of escalation, and allegedly insufficient diplomatic efforts.
+
+
+::: {.callout-important title="Intellectual Disappointment: Jürgen Habermas"}
+The greatest disappointment for Germany’s intellectual elite was the stance taken by the moral philosopher Jürgen Habermas, whose “discourse ethics” dissolved into moral arbitrariness when put to the test, and who, at the decisive moment of “Never Again Fascism,” fell in line with the chorus of Russia’s appeasers, who, under the banner of the dove of peace “Never again war,” meaning that no weapons should be supplied to Ukraine and that Ukrainians should surrender to genocidal Russia, allegedly to prevent further bloodshed. This contribution by Habermas will go down in the history books as the pinnacle of German stupidity, German double standards, and German cowardice.  
+:::
+
+::: {.callout-tip title="Intellectual Highlight: Marko Martin"}
+*The Federal President had invited the writer Marko Martin to the “35 Years of the Peaceful Revolution” ceremony. Martin criticized the historical stance of SPD politicians, including that of the host... Among other things, Martin denounced Steinmeier’s stance toward Russia and Kremlin leader Vladimir Putin during his time as German foreign minister. He placed it in the same category as other historical assessments by prominent Social Democrats such as Egon Bahr, whose 1982 statement that the Polish Solidarność movement was “a threat to world peace” he quoted.*[^germany-russia-52] 
+
+Here is the full text of the speech[^germany-russia-53] and an interview with Marko Martin[^germany-russia-57]
+:::
+
+
+* The centrist political parties have sidelined their pro-Ukrainian military experts (SPD: Michael Roth, CDU: Roderich Kiesewetter and Norbert Röttgen, FDP: Marie-Agnes Strack-Zimmermann, Greens: Ton Hofreiter), and the political parties outside the center (AfD, BSW, The Left, a large wing of the SPD, a small but influential wing of the CDU) have worked toward Ukraine’s defeat and the resumption of economic relations, often amid the massive spread of Russian disinformation
+
+::: {.callout-important title="SPD: Agents of Influence for Russia"}
+The ruling SPD party refuses to expel Putin’s friend and Gazprom lobbyist Gerhard Schröder from the party; Nord Stream supporter Manuela Schwesig remains Minister-President of Mecklenburg-Western Pomerania; the SPD appoints Russia supporter Rolf Mützenich as parliamentary group leader, etc., etc.
+:::
+
+* Olaf Scholz complied with the wishes of Biden and Putin and exchanged the FSB Tiergarten murderer, convicted of murder, for alleged Russian opposition figures who, upon their release, had nothing better to do than immediately demand the lifting of sanctions and freedom of travel within the EU for the long-suffering Russian people. 
+* The pinnacle of German compassion was then shown to the widow of the imperial-Russian opposition figure Navalny (“Crimea is ours”), when he was, as expected, poisoned a second time after she had sent him back to Russia.
+
+* Even after the events in Bucha, German culture enthusiasts—or, more precisely, admirers of Russian imperial “culture”—still couldn't resist cheering on Putin's girlfriend, Anna Netrebko (“To Berlin”), and giving the middle finger to Ukrainian counter-protesters.
+
+::: {.callout-important title="Rimsky-Korsakov: The Night Before Christmas"}
+An opera by the Russian nationalist Rimsky-Korsakov, disguised as a Christmas fairy tale by Gogol, which defames Ukrainians as cute country bumpkins and pays homage to the Russian Empire, premiered in Germany in 1940 on the eve of the Hitler-Stalin Pact, and which Germany has managed just fine without ever since, must, of all times, be performed again in Germany in the winter of 2021 and the years to follow, in order to stir the German-Russian soul and remind people just how peaceful and great Russian culture really is (the misappropriated Gogol was a native Ukrainian).
+:::
+
+* The Scholz government blocked the release of frozen Russian funds to Ukraine; instead, only interest earnings were released[^germany-russia-51]
+
+* Dresden’s mayor for social affairs is withdrawing funding from a successful, exemplary self-help association known throughout Germany in order to funnel it to a Russian-influenced association: in the future, Ukrainian war refugees are to be cared for by Russians.[^germany-russia-54] [^germany-russia-55]
+
+* A Swabian association dominated by a businessman awards a “Gorbachev Peace Prize Lionheart” to the pro-Russian propagandist Krone-Schmalz, who campaigns for a Russian victory.
+
+* Germany and other EU countries import Russian liquefied natural gas,[^germany-russia-67] continue to export sanctioned and non-sanctioned goods relevant to the war to Russia via Kazakhstan, Turkey, and China, and continue to do business in Russia (see @sec-economy-world).
+
+* The imposition and enforcement of sanctions against Russia clearly still suffer from a lack of political will and German corruption.
+
+::: {.callout-important title="Sanctioned Goods Sent to Russia by Mail"}
+*According to the “Bild” newspaper, its reporters used hidden GPS trackers to follow how packages from Germany are making their way to Russia despite EU sanctions. The months-long investigation is said to have uncovered a suspected illegal parcel system that, according to the report, operates “without a hitch” ... the operational handling is said to take place via a warehouse near BER Airport. From there, 40-ton trucks carrying parcels reportedly depart regularly for Moscow.*[^germany-russia-61]
+:::
+
+::: {.callout-important title="Components for drones and missiles"}
+July 1, 2024 -- *Despite sanctions against Russia, weapons used in the war against Ukraine contain parts from all over the world—often from Germany as well.*[^germany-russia-63]
+
+August 13, 2025 -- *In Siberia, Russia is manufacturing a highly explosive and toxic explosive. Components from the German company Siemens are reportedly being used in its production.*[^germany-russia-64] 
+
+January 22, 2026 -- *The new, faster Geran-5 drone is equipped with a Telefly turbojet engine and a receiver for a satellite navigation system from China; the receiver apparently contains microchips from the U.S. companies Texas Instruments, CTS Corporation, and Monolithic Power Systems, as well as from the German company Infineon Technologies.*[^germany-russia-68]
+
+
+March 1, 2026 -- *Despite sanctions, German components are found in drones that Russia is using to attack Ukraine. Their number could reach hundreds of thousands, and the Russian military apparently values German components highly.*[^germany-russia-65]
+
+April 21, 2026 -- *Hundreds of thousands of German components are found in Russian drones and weapons systems. Research reveals complex supply chains involving intermediaries and third countries. “Made in Germany” powers Russian drones.*[^germany-russia-72]
+
+May 7, 2026 -- *Western components in Russian weapons. Kiesewetter (CDU): We are financing Russia’s war of aggression with German technology.*[^germany-russia-66]
+
+For more detailed analyses, see the reports from [b4ukraine.org](https://b4ukraine.org/reports).
+:::
+
+
+::: {.callout-important title="Non-sanctioned aluminum from Ireland"}
+Aughinish Alumina is located in western Ireland, about a 40-minute drive from Limerick. Approximately two million tons of aluminum oxide (alumina) are produced here annually. About two-thirds of the annual production goes to Russia. There, the oxide is processed into aluminum through smelting, which forms the raw material base for Putin’s drones and missiles.  
+
+The North Atlantic Fella Organization (NAFO) is calling on the EU to impose sanctions on aluminum exports to Russia. To take the wind out of Russia’s defamatory claims, the “Fellas” jokingly refer to themselves as “brain-damaged dogs” who all live in Langley (at the CIA).[^germany-russia-62]
+:::
+
+## Merz (since 2025)
+
+Before the election, Friedrich Merz called for tough messages to Russia ...
+
+> #Putin should have been given a clear warning: If the terror of war against the civilian population does not stop within 24 hours, the range restrictions on delivered weapons will be lifted. If that is not enough, Germany will supply #Taurus cruise missiles.
+> [Friedrich Merz, October 20, 2024, on Twitter](https://x.com/_FriedrichMerz/status/1847935786810786149?s=20)
+
+... and broke his promise after the election. Not even a signal indicating preparations for a Taurus delivery was sent to Moscow. Instead, some in the CDU are once again openly considering Russian gas via Nord Stream,[^germany-russia-60] for example Jan Heinisch, deputy leader of the CDU parliamentary group in the North Rhine-Westphalia state parliament, or Thomas Bareiß, who served as chairman of the supervisory board of the German Energy Agency (dena) from 2018 to 2022. Both were involved in drafting the energy policy guidelines of the CDU, CSU, and SPD coalition as members of the Climate and Energy Working Group.
+
+> May I introduce? Thomas Bareiß.  
+> As State Secretary in the Ministry of Economics, he sabotaged the energy transition and is implicated in the Azerbaijan affair.  
+> Wants to return to Russian gas. Negotiates the coalition agreement on behalf of the CDU.  
+> There is also a Moscow connection within the Union.  
+> -- [Ricarda Lang](https://x.com/Ricarda_Lang/status/1901617339012964857?s=20)
+
+Friedrich Merz did, at least, try to release the frozen Russian funds for Ukraine, but this was blocked by the Belgian Prime Minister, Bart de Weever: Belgium benefits from the interest on the Russian funds. [^germany-russia-58] Instead, the EU is now taking out loans to support Ukraine, much to the delight of Putin, who hopes that the dissatisfaction of European taxpayers will strengthen pro-Russian parties in the next elections.
+
+
+::: {.callout-important title="Symptom: Depraved schadenfreude"}
+![Depraved schadenfreude over an ongoing genocide (Klaus Ernst, BSW, formerly of the Left Party)](Klaus_Ernst_2026-05-18.png)
+:::
+
+
+## Sources
+
+[^germany-russia-2]: Bruce Sunderland (1961) Russo-German Military Collaboration, 1922-1933. Essays in History 6, 61-70. [https://essaysinhistoryjournal.com/article/id/1524/](https://doi.org/10.25894/eih.341)
+
+[^germany-russia-3]: SERGEJ A. GORLOW (1996)  GEHEIMSACHE MOSKAU - BERLIN. Die militärpolitische Zusammenarbeit zwischen der Sowjetunion
+und dem Deutschen Reich 1920-1933. Vierteljahresheft für Zeitgeschichte. Jahrgang 44, Heft 1. [https://www.ifz-muenchen.de/heftarchiv/1996_1_6_gorlow.pdf](https://www.ifz-muenchen.de/heftarchiv/1996_1_6_gorlow.pdf)
+
+[^germany-russia-4]: Ian Johnson (June 7, 2016) Sowing the Wind: The First Soviet-German Military Pact and the Origins of World War II. Was on the Rocks. [https://warontherocks.com/2016/06/sowing-the-wind-the-first-soviet-german-military-pact-and-the-origins-of-world-war-ii/](https://warontherocks.com/2016/06/sowing-the-wind-the-first-soviet-german-military-pact-and-the-origins-of-world-war-ii/)
+
+[^germany-russia-5]: Manfred Kriener (2.4.2022) Energiegeschäfte mit Russland. Die Gas-Connection. Was 1970 mit dem Erdgas-Röhren-Geschäft mit der Sowjetunion begann, könnte jetzt mit dem barbarischen Krieg in der Ukraine enden. TAZ. [https://taz.de/Energiegeschaefte-mit-Russland/!5842959/](https://taz.de/Energiegeschaefte-mit-Russland/!5842959/)
+
+[^germany-russia-6]: Frank Bösch (25.11.2022) Wie Europa von russischer Energie abhängig wurde. Bundeszentrale für politische Bildung. [https://www.bpb.de/themen/wirtschaft/europa-wirtschaft/515221/wie-europa-von-russischer-energie-abhaengig-wurde/](https://www.bpb.de/themen/wirtschaft/europa-wirtschaft/515221/wie-europa-von-russischer-energie-abhaengig-wurde/)
+
+[^germany-russia-7]: Bundeszentrale für Politische Bildung (08.04.2022) Vor 100 Jahren: Unterzeichnung des Vertrags von Rapallo. [https://www.bpb.de/kurz-knapp/hintergrund-aktuell/507112/vor-100-jahren-unterzeichnung-des-vertrags-von-rapallo/](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/507112/vor-100-jahren-unterzeichnung-des-vertrags-von-rapallo/)
+
+[^germany-russia-8]:  Ernst Köhler (07.06.16) Warum Polen ein ganz normales europäisches Land ist. Die Regierung in Warschau verfolgt eine rigorose Flüchtlingspolitik. Sie steht damit in der EU keineswegs allein da. Das haben wir uns nur eingebildet. [https://www.suedkurier.de/ueberregional/politik/Warum-Polen-ein-ganz-normales-europaeisches-Land-ist;art410924,8746882](https://www.suedkurier.de/ueberregional/politik/Warum-Polen-ein-ganz-normales-europaeisches-Land-ist;art410924,8746882)
+
+[^germany-russia-9]: SPIEGEL-Interview mit SPD-Vize Hans-Jürgen Wischnewski über das Bündnis und Polen (3.1.1982) »Wir haben uns vorgewagt«. [https://www.spiegel.de/politik/wir-haben-uns-vorgewagt-a-293053b7-0002-0001-0000-000014333340](https://www.spiegel.de/politik/wir-haben-uns-vorgewagt-a-293053b7-0002-0001-0000-000014333340)
+
+[^germany-russia-10]: Daniel Friedrich Sturm (19.07.2023)  Gerhart Baums Enthüllungen: Harsche Vorwürfe gegen Egon Bahr. Der SPD-Außenpolitiker Egon Bahr habe sich mit Moskau gegen die Vereinigung Deutschlands 1990 verschworen, behauptet Ex-Innenminister Gerhart Baum (FDP). [https://www.tagesspiegel.de/politik/gerhart-baums-enthullungen-ein-harscher-vorwurf-gegen-egon-bahr-10165000.html](https://www.tagesspiegel.de/politik/gerhart-baums-enthullungen-ein-harscher-vorwurf-gegen-egon-bahr-10165000.html)
+
+[^germany-russia-11]: HANS-JÖRG VEHLEWALD und DANIEL BISKUP (16.05.2014) Altkanzler Helmut Schmidt (95, SPD) über Europa und die Ukraine-Krise: „Ich traue Putin nicht zu, dass er Krieg will“. [https://www.bild.de/politik/inland/helmut-schmidt/bild-interview-altkanzler-europa-ukraine-krise-36003626.bild.html](https://www.bild.de/politik/inland/helmut-schmidt/bild-interview-altkanzler-europa-ukraine-krise-36003626.bild.html)
+
+[^germany-russia-12]: Helm Speidel (1953) REICHSWEHR UND ROTE ARMEE. Vierteljahreshefte für Zeitgeschichte. Jahrgang 1, Heft 1. [https://www.ifz-muenchen.de/heftarchiv/1953_1_2_speidel.pdf](https://www.ifz-muenchen.de/heftarchiv/1953_1_2_speidel.pdf)
+
+[^germany-russia-13]: Bundeszentrale für Politische Bildung (17.06.2021) 22. Juni 1941: Überfall auf die Sowjetunion. [https://www.bpb.de/kurz-knapp/hintergrund-aktuell/229431/22-juni-1941-ueberfall-auf-die-sowjetunion/](https://www.bpb.de/kurz-knapp/hintergrund-aktuell/229431/22-juni-1941-ueberfall-auf-die-sowjetunion/)
+
+[^germany-russia-14]: Cord Pagenstecher (01.06.2016) Überblick: Die nationalsozialistische Zwangsarbeit. Bundeszentrale für Politische Bildung. [https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/ns-zwangsarbeit/222627/ueberblick-die-nationalsozialistische-zwangsarbeit](https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/ns-zwangsarbeit/222627/ueberblick-die-nationalsozialistische-zwangsarbeit)
+
+[^germany-russia-15]: Arnulf Scriba (19. Mai 2015) Der Überfall auf die Sowjetunion. LeMO - Lebendiges Museum Online. Deutsches Historisches Museum, Berlin.  [https://www.dhm.de/lemo/kapitel/der-zweite-weltkrieg/kriegsverlauf/ueberfall-auf-die-sowjetunion-1941](https://www.dhm.de/lemo/kapitel/der-zweite-weltkrieg/kriegsverlauf/ueberfall-auf-die-sowjetunion-1941)
+
+[^germany-russia-16]: Bert Oliver Manig (13.09.2015) Vor 60 Jahren. Adenauer verhandelt in Moskau über Kriegsgefangene. Der Besuch sollte historisch werden: Vor 60 Jahren reiste Bundeskanzler Adenauer nach Moskau. Die Russen verlangten die Aufnahme diplomatischer Beziehungen mit der Bundesrepublik Deutschland. Doch mehr als 10.000 deutsche Kriegsgefangene und Zivilinternierte waren noch in russischen Lagern. [https://www.deutschlandfunk.de/vor-60-jahren-adenauer-verhandelt-in-moskau-ueber-100.html](https://www.deutschlandfunk.de/vor-60-jahren-adenauer-verhandelt-in-moskau-ueber-100.html)
+
+[^germany-russia-17]: Josef Foschepoth (31.05.1986) Adenauers Moskaureise 1955. Bundeszentrale für Politische Bildung.  [https://www.bpb.de/shop/zeitschriften/apuz/archiv/533780/adenauers-moskaureise-1955/](https://www.bpb.de/shop/zeitschriften/apuz/archiv/533780/adenauers-moskaureise-1955/)
+
+[^germany-russia-18]: Cicero (19.09.2009) Als Guttenberg Erhard stürzte. Bundeswirtschaftsminister Karl-Theodor zu Guttenberg agiert im Wahlkampf als Hüter der sozialen Marktwirtschaft. Sein Großvater dagegen stürzte einst deren Erfinder, Ludwig Erhard, vom Thron. [https://www.cicero.de/wirtschaft/als-guttenberg-erhard-sturzte/40000](https://www.cicero.de/wirtschaft/als-guttenberg-erhard-sturzte/40000)
+
+
+[^germany-russia-19]: Kurt Georg Kiesinger (13. Dezember 1966). Regierungserklärung der Großen Koalition. [https://www.1000dokumente.de/Dokumente/Kurt_Georg_Kiesinger,_Regierungserkl%C3%A4rung_der_Gro%C3%9Fen_Koalition](https://www.1000dokumente.de/Dokumente/Kurt_Georg_Kiesinger,_Regierungserkl%C3%A4rung_der_Gro%C3%9Fen_Koalition)
+
+[^germany-russia-20]: HANS-PETER SCHWARZ (1999) Die Regierung Kiesinger und die Krise in der CSSR 1968. Jahrgang 47, Heft 2. [https://www.ifz-muenchen.de/heftarchiv/1999_2_1_schwarz.pdf](https://www.ifz-muenchen.de/heftarchiv/1999_2_1_schwarz.pdf)
+
+[^germany-russia-21]: Sven-Felix Kellerhoff (20.04.2022) Streit über Pipelines. Mit Willy Brandt begannen die Russland-Deals der SPD. Welt. [https://www.welt.de/geschichte/article238261733/Russland-Pipelines-Mit-dem-Wechsel-zu-Brandt-begannen-die-Deals.html](https://www.welt.de/geschichte/article238261733/Russland-Pipelines-Mit-dem-Wechsel-zu-Brandt-begannen-die-Deals.html)
+
+[^germany-russia-22]: Peter Welchering (13.02.2019) Hacken im Kalten Krieg Von den Anfängen des Cyberwars. Deutschlandfunk Kultur.  [https://www.deutschlandfunkkultur.de/hacken-im-kalten-krieg-von-den-anfaengen-des-cyberwars-100.html](https://www.deutschlandfunkkultur.de/hacken-im-kalten-krieg-von-den-anfaengen-des-cyberwars-100.html)
+
+[^germany-russia-23]: Gerd Koenen (18.08.2017) Spiel um Weltmacht. Deutschland und die Russische Revolution. Bundeszentrale für Politische Bildung. [https://www.bpb.de/shop/zeitschriften/apuz/254460/spiel-um-weltmacht-deutschland-und-die-russische-revolution/](https://www.bpb.de/shop/zeitschriften/apuz/254460/spiel-um-weltmacht-deutschland-und-die-russische-revolution/)
+
+[^germany-russia-24]: Wladimir Iljitsch Lenin (1917) Auszüge aus Lenins April-Thesen. [https://de.alphahistory.com/russianrevolution/extracts-lenins-april-theses-1917/](https://de.alphahistory.com/russianrevolution/extracts-lenins-april-theses-1917/)
+
+[^germany-russia-25]: Marc Reichwein (11.03.2022) Berater des Zaren: Was uns Leibniz heute über Russland lehrt. Welt. 
+[https://www.welt.de/kultur/article237216293/Berater-des-Zaren-Was-uns-Leibniz-heute-ueber-Russland-lehrt.html](https://www.welt.de/kultur/article237216293/Berater-des-Zaren-Was-uns-Leibniz-heute-ueber-Russland-lehrt.html)
+
+[^germany-russia-26]: Rudolf Mumenthaler (2003) Schweizer in St. Petersburg von 1703 bis 1917. ETH Library.
+[https://doi.org/https://doi.org/10.3929/ethz-a-004594336](https://doi.org/https://doi.org/10.3929/ethz-a-004594336)
+
+[^germany-russia-27]: Hans Rühle (24.09.1983) Warum Nachrüstung? Bundeszentrale für Politische Bildung. [https://www.bpb.de/shop/zeitschriften/apuz/archiv/532795/warum-nachruestung/](https://www.bpb.de/shop/zeitschriften/apuz/archiv/532795/warum-nachruestung/)
+
+[^germany-russia-28]: Michael Hänel (4.8.2025) Wie russische Einflussnehmer die deutsche Friedensbewegung unterwanderten. SWR. [https://www.swr.de/swrkultur/wissen/wie-russische-einflussnehmer-die-deutsche-friedensbewegung-unterwanderten-102.html](https://www.swr.de/swrkultur/wissen/wie-russische-einflussnehmer-die-deutsche-friedensbewegung-unterwanderten-102.html)
+
+[^germany-russia-29]: Doris Liebermann (13.01.2021) Vor 30 Jahren: Der „Blutsonntag von Vilnius“Als Gorbatschow nach Litauen griff. Deutschlandfunk. [https://www.deutschlandfunk.de/vor-30-jahren-der-blutsonntag-von-vilnius-als-gorbatschow-100.html](https://www.deutschlandfunk.de/vor-30-jahren-der-blutsonntag-von-vilnius-als-gorbatschow-100.html)
+
+[^germany-russia-30]: Alexander Brakel (11. Juli 2022) Der Blutsonntag von Vilnius – Anfang vom Ende der Sowjetunion. Konrad-Adenauer-Stiftung (KAS). [https://www.kas.de/de/web/geschichte-der-cdu/kalender/kalender-detail/-/content/der-blutsonntag-von-vilnius-anfang-vom-ende-der-sowjetunion](https://www.kas.de/de/web/geschichte-der-cdu/kalender/kalender-detail/-/content/der-blutsonntag-von-vilnius-anfang-vom-ende-der-sowjetunion)
+
+[^germany-russia-31]: Bundeswehr (13.01.2026) Litauen-Dossier: Blutsonntag in Vilnius, 13. Januar 1991
+[https://zms.bundeswehr.de/de/mediathek/liatuen-dossier-storkmann-blutsonntag-von-vilnius-6057488](https://zms.bundeswehr.de/de/mediathek/liatuen-dossier-storkmann-blutsonntag-von-vilnius-6057488)
+
+[^germany-russia-32]: Thomas Urban (1. September 2022) Zum Tod von Michail Gorbatschow - Warum die deutsche Gorbimanie ein Irrtum ist. Cicero. [https://www.cicero.de/aussenpolitik/michail-gorbatschow-warum-die-deutsche-gorbimanie-ein-irrtum-ist](https://www.cicero.de/aussenpolitik/michail-gorbatschow-warum-die-deutsche-gorbimanie-ein-irrtum-ist)
+
+
+[^germany-russia-33]: György Dalos (7. November 2015) Russlanddeutsche: Von Heimat zu Heimat. Sie wurden als fleißige Bauern geholt und als vermeintliche Spione verfolgt: Die Russlanddeutschen und ihr Leben zwischen zwei Vaterländern. Zeit. [https://www.zeit.de/zeit-geschichte/2015/03/russlanddeutsche-auswandern-erster-weltkrieg-perestroika/komplettansicht](https://www.zeit.de/zeit-geschichte/2015/03/russlanddeutsche-auswandern-erster-weltkrieg-perestroika/komplettansicht)
+
+[^germany-russia-34]: Jannis Panagiotidis (18.07.2017) Geschichte der Russlanddeutschen ab Mitte der 1980er Jahre. Bundeszentrale für Politische Bildung. [https://www.bpb.de/themen/migration-integration/russlanddeutsche/249842/geschichte-der-russlanddeutschen-ab-mitte-der-1980er-jahre/](https://www.bpb.de/themen/migration-integration/russlanddeutsche/249842/geschichte-der-russlanddeutschen-ab-mitte-der-1980er-jahre/)
+
+[^germany-russia-35]: Denis Dawydow und Stefan Scholl (08.01.2019) Darum zieht es Russlanddeutsche zurück. Frankfurter Rundschau. [https://www.fr.de/panorama/darum-zieht-russlanddeutsche-zurueck-11049362.html](https://www.fr.de/panorama/darum-zieht-russlanddeutsche-zurueck-11049362.html)
+
+[^germany-russia-36]: Rolf Wiggershaus (25.09.2011) Die erste Rede eines russischen Präsidenten im Deutschen Bundestag. Deutschlandfunk. [https://www.deutschlandfunk.de/die-erste-rede-eines-russischen-praesidenten-im-deutschen-100.html](https://www.deutschlandfunk.de/die-erste-rede-eines-russischen-praesidenten-im-deutschen-100.html)
+
+[^germany-russia-37]: Alia Begisheva (26.09.2001) Russische Zeitungen "Putin nahm den Reichstag ein". Der Spiegel.
+[https://www.spiegel.de/politik/ausland/russische-zeitungen-putin-nahm-den-reichstag-ein-a-159425.html](https://www.spiegel.de/politik/ausland/russische-zeitungen-putin-nahm-den-reichstag-ein-a-159425.html)
+
+[^germany-russia-38]: Christian Rath (18.8.2004) Wenn die Schröders ein normales Paar wären: Ein 60-jähriger, mehrmals geschiedener Vielarbeiter und seine 41-jährige Ehefrau adoptieren ein Kind. Dürfen die das? TAZ. [https://taz.de/Wenn-die-Schroeders-ein-normales-Paar-waeren/!711354/](https://taz.de/Wenn-die-Schroeders-ein-normales-Paar-waeren/!711354/)
+
+[^germany-russia-39]: Claudia von Salzen (28.08.2022)  Moskaus Geheimdienst-Offensive: Wie Putins Spione in Deutschland und anderen Ländern agieren. Russische Nachrichtendienste führen eine regelrechte Offensive in Europa, mit Spionage in Politik und Wirtschaft, Hackerangriffen und Mord. Eine Analyse. Tagesspiegel. [https://www.tagesspiegel.de/politik/wie-putins-spione-in-deutschland-und-anderen-landern-agieren-8590483.html](https://www.tagesspiegel.de/politik/wie-putins-spione-in-deutschland-und-anderen-landern-agieren-8590483.html)
+
+[^germany-russia-70]: Rüdiger Haude (08.12.2021)  Adieu, „Klimakanzlerin“! Solarenergie-Förderverein Deutschland e.V. Ein Rückblick auf 16 Jahre Politik gegen den Klimaschutz. [https://www.sfv.de/adieu-klimakanzlerin](https://www.sfv.de/adieu-klimakanzlerin)
+
+[^germany-russia-40]: Rheinmetall (2011-11-25) Rheinmetall mit Großauftrag erfolgreich in Russland: Hochmodernes Trainingszentrum für das russische Heer. Hardthöhenkurier. [https://hardthoehenkurier.de/rheinmetall-mit-grossauftrag-erfolgreich-in-russland-hochmodernes-trainingszentrum-fuer-das-russische-heer/](https://hardthoehenkurier.de/rheinmetall-mit-grossauftrag-erfolgreich-in-russland-hochmodernes-trainingszentrum-fuer-das-russische-heer/)
+
+[^germany-russia-41]: Tilman Zülch (04.03.2014) Bundessicherheitsrat soll Bau eines Heeres-Ausbildungszentrums in Russland durch die Rheinmetall AG stoppen. Krise in der Ukraine: Deutschland soll Beispiel der USA folgen und militärische Zusammenarbeit mit Russland beenden. [https://www.gfbv.de/de/news/bundessicherheitsrat-soll-bau-eines-heeres-ausbildungszentrums-in-russland-durch-die-rheinmetall-ag/](https://www.gfbv.de/de/news/bundessicherheitsrat-soll-bau-eines-heeres-ausbildungszentrums-in-russland-durch-die-rheinmetall-ag/)
+
+[^germany-russia-42]: Dominik Feldges (27.07.2022) Russlandgeschäfte werden für Schweizer und deutsche Maschinenbauer zum Bumerang. Seit März 2022 dürfen keine Maschinen mehr nach Russland exportiert werden. Doch ältere Anlagen lassen sich weiterhin auch für die Produktion von Waffen verwenden. Der Branche droht ein Reputationsschaden. NZZ. [https://www.nzz.ch/wirtschaft/russland-deutsche-und-schweizer-maschinen-landen-in-der-ruestung-ld.1694457](https://www.nzz.ch/wirtschaft/russland-deutsche-und-schweizer-maschinen-landen-in-der-ruestung-ld.1694457)
+
+[^germany-russia-43]: Thatisnotthecase101 (22.7.2025) Selenskyj: 13 deutsche Firmen helfen Moskaus Rüstungsindustrie. Reddit. [https://www.reddit.com/r/de/comments/1lh1106/comment/mz73s23/](https://www.reddit.com/r/de/comments/1lh1106/comment/mz73s23/)
+
+[^germany-russia-44]: Sebastian Kraft (05.01.2018) Die CSU und Viktor Orban Eine Nähe, die viele verstört. Tagesschau. [https://www.tagesschau.de/inland/orban-csu-105.html](https://www.tagesschau.de/inland/orban-csu-105.html)
+
+[^germany-russia-45]: Sebastian Fischer (10.04.2018) CSU und Orbán Gefährlicher Flirt mit dem Autoritären. Gemeinsam mit der Internationale der Rechtspopulisten feiert die CSU den Sieg des Antiliberalen Viktor Orbán in Ungarn. Warum nur? Der Spiegel. [https://www.spiegel.de/politik/deutschland/ungarn-warum-die-csu-mit-viktor-orban-flirtet-kommentar-a-1202200.html](https://www.spiegel.de/politik/deutschland/ungarn-warum-die-csu-mit-viktor-orban-flirtet-kommentar-a-1202200.html)
+
+[^germany-russia-46]: Roman Deininger und Milán Dóka (29. November 2024) Die Beziehungen zwischen Bayern und Ungarn. Die CSU und ihre guten Freunde in Ungarn. SZ. [https://www.sueddeutsche.de/bayern/csu-fidesz-orban-weber-bruch-beziehungen-lux.JhTCeoNvjEo5WfCXTHsubx?reduced=true](https://www.sueddeutsche.de/bayern/csu-fidesz-orban-weber-bruch-beziehungen-lux.JhTCeoNvjEo5WfCXTHsubx?reduced=true)
+
+[^germany-russia-47]: Ralf Fücks (13.04.2021) Söders Sputnik-Deal Das falsche Signal zur falschen Zeit. Der Spiegel. [https://www.spiegel.de/ausland/sputnik-deal-von-markus-soeder-das-falsche-signal-zur-falschen-zeit-a-ac64a3c4-1f43-4e39-baf5-008048b1b602](https://www.spiegel.de/ausland/sputnik-deal-von-markus-soeder-das-falsche-signal-zur-falschen-zeit-a-ac64a3c4-1f43-4e39-baf5-008048b1b602)
+
+[^germany-russia-48]: Der Spiegel. (24.01.2026) Staatsgarantie für geplatztes Russlandgeschäft BASF streicht Hunderte Millionen Euro Steuergeld ein. Die BASF-Tochter Wintershall bekam 2016 Garantien vom Bund, um in Russland Gas zu fördern. Im Ukrainekrieg wurde die Firma enteignet. Die Entschädigung dafür tragen nun die deutschen Steuerzahler. [https://www.spiegel.de/wirtschaft/unternehmen/basf-streicht-hunderte-millionen-euro-steuergeld-ein-a-e6ced2f2-8536-4fd4-ba8d-7eb24071f520?sara_ref=re-so-x-rss#ref=rss](https://www.spiegel.de/wirtschaft/unternehmen/basf-streicht-hunderte-millionen-euro-steuergeld-ein-a-e6ced2f2-8536-4fd4-ba8d-7eb24071f520?sara_ref=re-so-x-rss#ref=rss)
+
+[^germany-russia-49]: Diana Resnik ( 21/04/2026) Diese deutschen Bauteile stecken in russischen Drohnen: Hunderttausende deutsche Bauteile finden sich in russischen Drohnen und Waffensystemen. Wie gelangen diese Komponenten nach Russland? Recherchen zeigen komplexe Lieferketten über Zwischenhändler und Drittstaaten. Made in Germany treibt russische Drohnen an. [https://de.euronews.com/my-europe/2026/05/09/ukraine-russland-drohnen-waffen-deutschland](https://de.euronews.com/my-europe/2026/05/09/ukraine-russland-drohnen-waffen-deutschland)
+
+[^germany-russia-71]: 15min (2025-02-06) „Angela Merkel maldavo nesipriešinti“: generolas J.V.Žukas atskleidžia pokalbius apie Krymo aneksiją. [https://www.15min.lt/kultura/naujiena/literatura/jav-pazadas-rusu-bauginimai-ir-kivircai-su-politikais-generolas-j-v-zukas-atskleidzia-tarnybos-uzkulisius-286-2384482](https://www.15min.lt/kultura/naujiena/literatura/jav-pazadas-rusu-bauginimai-ir-kivircai-su-politikais-generolas-j-v-zukas-atskleidzia-tarnybos-uzkulisius-286-2384482)
+
+[^germany-russia-50]: General a.D. Dr. h.c. Klaus Naumann (10. Februar 2026) Erinnerungen eines Zeitzeugen an ein überhörtes Signal. Putins Rede vor der Münchner Sicherheitskonferenz am 10.02.2007. Opinions on Security, Ausgabe 59, Deutsche Atlantische Gesellschaft e.V. [https://ata-dag.de/opinions-on-security/erinnerungen-eines-zeitzeugen-an-ein-ueberhoertes-signal/24273/](https://ata-dag.de/opinions-on-security/erinnerungen-eines-zeitzeugen-an-ein-ueberhoertes-signal/24273/)
+
+[^germany-russia-51]: Bundestag (Anträge zu eingefrorenem russischen Staatsvermögen abgelehnt) Anträge zu eingefrorenem russischen Staatsvermögen abgelehnt.  [https://www.bundestag.de/dokumente/textarchiv/2025/kw49-de-ukraine-1128240](https://www.bundestag.de/dokumente/textarchiv/2025/kw49-de-ukraine-1128240)
+
+[^germany-russia-52]: Der Spiegel (08.11.2024) Veranstaltung im Schloss Bellevue Publizist kritisierte Steinmeiers Russlandpolitik – Bundespräsident habe »wutentbrannt« reagiert. Zur Feierstunde »35 Jahre Friedliche Revolution« hatte der Bundespräsident den Schriftsteller Marko Martin geladen. Der kritisierte die historische Haltung von SPD-Politikern, auch des Gastgebers. Steinmeier war not amused.  [https://www.spiegel.de/kultur/frank-walter-steinmeier-soll-auf-rede-von-marko-martin-wutentbrannt-reagiert-haben-a-d8e5dd3b-df51-4f99-a86d-58a0cf00cd74](https://www.spiegel.de/kultur/frank-walter-steinmeier-soll-auf-rede-von-marko-martin-wutentbrannt-reagiert-haben-a-d8e5dd3b-df51-4f99-a86d-58a0cf00cd74)
+
+[^germany-russia-53]: Marko Martin (14. November 2024) Die Rede, die den Bundespräsidenten wütend machte: „Von fortgesetzten deutschen Lebenslügen und Verdrängungen – in Ost und West“. [https://vrds.de/die-rede-die-den-bundespraesidenten-wuetend-machte/](https://vrds.de/die-rede-die-den-bundespraesidenten-wuetend-machte/)
+
+
+[^germany-russia-54]: MDR Sachsen (16. Juli 2025) Kriegsflüchtlinge Streit um Ukraine-Hilfe in Dresden - Verein Plattform fühlt sich ausgebootet. Die Ukraine-Hilfe in Dresden funktioniert seit Jahren gut - dank der Menschen, die sich engagieren. Aber auch, weil ihre Arbeit finanziell unterstützt wird. Darüber ist nun ein Streit entbrannt, der inzwischen sogar den ukrainischen Botschafter auf den Plan rief. [https://www.mdr.de/nachrichten/sachsen/dresden/dresden-radebeul/streit-ukraine-hilfe-auslaenderrat-100.html](https://www.mdr.de/nachrichten/sachsen/dresden/dresden-radebeul/streit-ukraine-hilfe-auslaenderrat-100.html)
+
+[^germany-russia-55]: Dirk Hein
+(16.07.2025) Streit um Ukraine-Hilfe in Dresden: „Ohne den Zuschuss werden wir nicht überleben“. Interview in der Sächsischen Zeitung mit Natalija Bock. [https://www.saechsische.de/lokales/dresden/streit-um-ukraine-hilfe-in-dresden-ohne-den-zuschuss-werden-wir-nicht-ueberleben-QI4CK6H2IZC4FDTLP4MR52RD64.html](https://www.saechsische.de/lokales/dresden/streit-um-ukraine-hilfe-in-dresden-ohne-den-zuschuss-werden-wir-nicht-ueberleben-QI4CK6H2IZC4FDTLP4MR52RD64.html)
+
+[^germany-russia-57]: Timm, Ulrike (29. September 2025) Interview mit Marko Martin: „Freiheit ist das höchste Gut“ [https://www.deutschlandfunkkultur.de/schriftsteller-marko-martin-freiheit-ist-das-hoechste-gut-100.html](https://www.deutschlandfunkkultur.de/schriftsteller-marko-martin-freiheit-ist-das-hoechste-gut-100.html)
+
+[^germany-russia-58]: ZDF heute (19.12.2025) Russisches Vermögen bleibt unangetastet:Kredit für Ukraine: So sieht die Einigung der EU aus. Manche Mitgliedsstaaten wollten an das eingefrorene russische Vermögen, andere waren strikt dagegen. Nun ein Kompromiss: Die EU leiht Kiew 90 Milliarden Euro. Details zur Einigung. [https://www.zdfheute.de/politik/ausland/eu-kompromiss-kredit-ukraine-russisches-vermoegen-krieg-100.html](https://www.zdfheute.de/politik/ausland/eu-kompromiss-kredit-ukraine-russisches-vermoegen-krieg-100.html)
+
+[^germany-russia-59]: Plattform Wiederaufbau Ukraine - Themenkreis Transparenz und Gute Regierungsführung (26. Februar 2025) Russische Desinformation in Deutschland: Versuche digitaler Einflussnahme: In Deutschland breitet sich ein System russischer Desinformation aus, das sich konkret auf den deutschen politischen Kontext wie die kürzlichen Bundestagswahlen bezieht. Das Ziel ist klar: Das demokratische System der Bundesrepublik soll geschwächt und die öffentliche Meinung im Sinne Russlands beeinflusst werden.  [https://www.ukraine-wiederaufbauen.de/ukraine/russische-desinformation-in-deutschland-digitale-einflussnahme-247620](https://www.ukraine-wiederaufbauen.de/ukraine/russische-desinformation-in-deutschland-digitale-einflussnahme-247620)
+
+[^germany-russia-60]: Handelsblatt (20.03.2025)  Nord Stream: CDU-Politiker denken laut über Gas aus Russland nach. Russland war einst Deutschlands wichtigster Energielieferant. Mit der Ausweitung des Ukraine-Kriegs kam die Abnabelung. Doch nun wird wieder über Gaspipelines spekuliert. [https://www.handelsblatt.com/politik/deutschland/nord-stream-cdu-politiker-denken-laut-ueber-gas-aus-russland-nach/100115057.html](https://www.handelsblatt.com/politik/deutschland/nord-stream-cdu-politiker-denken-laut-ueber-gas-aus-russland-nach/100115057.html)
+
+[^germany-russia-61]: Lara Heisinger (25.01.2026) Trotz EU-Sanktionen: "Schattenpost" nach Moskau: Illegales System aufgedeckt. In Deutschland soll ein illegales Paket-System nach Russland laufen. Trotz EU-Sanktionen wird so verbotene Ware nach Moskau gebracht. Heute. [https://www.heute.at/s/schattenpost-nach-moskau-illegales-system-aufgedeckt-120157838]https://www.heute.at/s/schattenpost-nach-moskau-illegales-system-aufgedeckt-120157838
+
+[^germany-russia-62]: Peter Zellinger (15. Mai 2026) "Hunde mit Hirnschaden" wollen Putin das Aluminium für den Krieg wegnehmen. Rohstoffe aus Irland stützen Putins Kriegsmaschinerie. Die Onlinegruppe Nafo will das nun ändern und startet eine Kampagne für ein neues Sanktionspaket. [https://www.derstandard.de/consent/tcf/story/3000000320608/hunde-mit-hirnschaden-wollen-putin-das-aluminium-fuer-den-krieg-wegnehmen](https://www.derstandard.de/consent/tcf/story/3000000320608/hunde-mit-hirnschaden-wollen-putin-das-aluminium-fuer-den-krieg-wegnehmen)
+
+[^germany-russia-63]: Jean-Philipp Baeck und Anne Fromm (1.7.2024) Deutsche Bauteile in russischen WaffenDer globalisierte Krieg. Trotz Sanktionen gegen Russland stecken in Waffen, die im Krieg gegen die Ukraine eingesetzt werden, Teile aus aller Welt – oft auch aus Deutschland. TAZ. [https://taz.de/Deutsche-Bauteile-in-russischen-Waffen/!6017655/](https://taz.de/Deutsche-Bauteile-in-russischen-Waffen/!6017655/)
+
+[^germany-russia-64]: Miriam Rathje (13.08.2025) „Für die Raketenproduktion unersetzbar“: Wie deutsche Siemens-Bauteile trotz Sanktionen in Russlands Rüstungsindustrie landen. In Sibirien stellt Russland einen hochexplosiven und giftigen Sprengstoff her. Für die Fertigung werden wohl Komponenten des deutschen Konzerns Siemens genutzt. Wie gelangen sie trotz Sanktionen dorthin? Tagesspiegel [https://www.tagesspiegel.de/internationales/fur-die-raketenproduktion-unersetzbar-wie-deutsche-siemens-bauteile-trotz-sanktionen-in-russlands-rustungsindustrie-landen-14159951.html](https://www.tagesspiegel.de/internationales/fur-die-raketenproduktion-unersetzbar-wie-deutsche-siemens-bauteile-trotz-sanktionen-in-russlands-rustungsindustrie-landen-14159951.html)
+
+[^germany-russia-65]: Mykola Berdnyk und Nikita Oshuev (01.03.2026) Ukraine: Wie deutsche Bauteile in russische Drohnen gelangen.  Trotz der Sanktionen sind deutsche Komponenten in Drohnen zu finden, mit denen Russland die Ukraine angreift. Ihre Zahl könnte Hunderttausende erreichen, und das russische Militär schätzt deutsche Bauteile offenbar sehr. DW. [https://www.dw.com/de/ukraine-wie-deutsche-bauteile-in-drohnen-aus-russland-gelangen-hur-infineon-transistor-sanktionen/a-76139100](https://www.dw.com/de/ukraine-wie-deutsche-bauteile-in-drohnen-aus-russland-gelangen-hur-infineon-transistor-sanktionen/a-76139100)
+
+[^germany-russia-72]: Diana Resnik (21/04/2026) Diese deutschen Bauteile stecken in russischen Drohnen. Hunderttausende deutsche Bauteile finden sich in russischen Drohnen und Waffensystemen. Wie gelangen diese Komponenten nach Russland? Recherchen zeigen komplexe Lieferketten über Zwischenhändler und Drittstaaten. Made in Germany treibt russische Drohnen an. euronews. [https://de.euronews.com/my-europe/2026/05/09/ukraine-russland-drohnen-waffen-deutschland](https://de.euronews.com/my-europe/2026/05/09/ukraine-russland-drohnen-waffen-deutschland)
+
+[^germany-russia-66]: RadioEins (07.05.26) Westliche Bauteile in russischen Waffen Kiesewetter (CDU): Wir finanzieren mit deutscher Technik den russischen Angriffskrieg. RBB. [https://www.radioeins.de/programm/sendungen/modo1619/_/westliche-bauteile-in-russischen-kampfdrohnen.html](https://www.radioeins.de/programm/sendungen/modo1619/_/westliche-bauteile-in-russischen-kampfdrohnen.html)
+
+
+[^germany-russia-67]: Alexej Hock und Elena Kolb (29. Oktober 2025) Deutscher Abschied von russischem Flüssiggas: Die deutsche Firma SEFE nimmt immer noch russisches Flüssiggas ab. Ein neues EU-Gesetz und ein Sanktionspaket könnten den Import jedoch bald beenden. Bislang steckte das Unternehmen durch einen Altvertrag wohl in einem Dilemma. Correctiv. [https://correctiv.org/aktuelles/russland-ukraine-2/2025/10/29/deutscher-abschied-von-russischem-fluessiggas/](https://correctiv.org/aktuelles/russland-ukraine-2/2025/10/29/deutscher-abschied-von-russischem-fluessiggas/)
+
+[^germany-russia-68]: Alisa Yurchenko (January 22, 2026) Exclusive: American, European microchips found in Russia's latest missile-like drone. Most of the Western components found in the new Russian drone, Geran-5, were made by American companies. The Kyiv Independent reveals who supplies such components to Russia. [https://kyivindependent.com/exclusive-american-european-microchips-found-in-russias-latest-missile-like-drone/](https://kyivindependent.com/exclusive-american-european-microchips-found-in-russias-latest-missile-like-drone/)
+
+[^germany-russia-69]: Der Spiegel. (24.01.2026) Staatsgarantie für geplatztes Russlandgeschäft BASF streicht Hunderte Millionen Euro Steuergeld ein
+Die BASF-Tochter Wintershall bekam 2016 Garantien vom Bund, um in Russland Gas zu fördern. Im Ukrainekrieg wurde die Firma enteignet. Die Entschädigung dafür tragen nun die deutschen Steuerzahler. [https://www.spiegel.de/wirtschaft/unternehmen/basf-streicht-hunderte-millionen-euro-steuergeld-ein-a-e6ced2f2-8536-4fd4-ba8d-7eb24071f520](https://www.spiegel.de/wirtschaft/unternehmen/basf-streicht-hunderte-millionen-euro-steuergeld-ein-a-e6ced2f2-8536-4fd4-ba8d-7eb24071f520)
+
+
+[^germany-russia-73]: Christopher Nehring (21.03.202021) Corona-Desinformation: dieselben Muster. Nutzt Moskau die Coronakrise zu politischen Zwecken? Desinformations-Jäger der Europäischen Union listen Hunderte Falschmeldungen russischen Ursprungs über das neue Coronavirus und Covid-19. DW.
+[https://www.dw.com/de/corona-desinformation-immer-dieselben-muster/a-52869052](https://www.dw.com/de/corona-desinformation-immer-dieselben-muster/a-52869052)
+
+[^germany-russia-74]: Deutsches Ärzteblatt (8. Oktober 2020) Verfassungsschutz beobachtet russische Desinformation über Corona. [https://www.aerzteblatt.de/news/verfassungsschutz-beobachtet-russische-desinformation-ueber-corona-dafc2980-dd5f-4101-a456-ab98660adde5](https://www.aerzteblatt.de/news/verfassungsschutz-beobachtet-russische-desinformation-ueber-corona-dafc2980-dd5f-4101-a456-ab98660adde5)
+
+[^germany-russia-75]: Patrick Gensing (05.11.2021) Russische Propaganda Ein Virus des Misstrauens. Der russische Staatssender RT DE ist eine der wichtigsten Quellen für Corona-Leugner und "Querdenker" in Deutschland. Eine Analyse zeigt die Reichweite der russischen Propaganda, die oft auf irreführende Behauptungen setzt. [https://www.tagesschau.de/investigativ/rtde-covid-propaganda-desinformation-101.html](https://www.tagesschau.de/investigativ/rtde-covid-propaganda-desinformation-101.html)
+
+[^germany-russia-76]: Denis Trubetskoy (14.11.2021) Propaganda-Boomerang von RTIn Russland für die Impfung, in Deutschland dagegen. ntv. [https://www.n-tv.de/politik/In-Russland-fuer-die-Impfung-in-Deutschland-dagegen-article22927573.html](https://www.n-tv.de/politik/In-Russland-fuer-die-Impfung-in-Deutschland-dagegen-article22927573.html)
+
+[^germany-russia-77]: Daria Zakharova (11.04.2022) Analyse: Narrative russischer staatlicher Medien über Corona-Impfstoffe im Westen. Bundeszentrale für Politische Bildung, Russland-Analysen Nr. 418. [https://www.bpb.de/themen/europa/russland-analysen/nr-418/507595/analyse-narrative-russischer-staatlicher-medien-ueber-corona-impfstoffe-im-westen/](https://www.bpb.de/themen/europa/russland-analysen/nr-418/507595/analyse-narrative-russischer-staatlicher-medien-ueber-corona-impfstoffe-im-westen/)
+
+[^germany-russia-78]: Dietmar Pichler (19. Mai 2026) Kritik: Wie guter Journalismus angegriffen und Putinversteherei gefördert wurde. INVED Insight. [https://inved.eu/insight/kritik-wie-guter-journalismus-unter-beschuss-stand-und-putinversteherei-gefoerdert-wurde/](https://inved.eu/insight/kritik-wie-guter-journalismus-unter-beschuss-stand-und-putinversteherei-gefoerdert-wurde/)
+
+[^germany-russia-79]: Rudolf Ogiermann (08.03.2022) „Anstalt“-Kabarettisten widmen aktuelle Ausgabe dem Krieg in der Ukraine - und zeigen Reue. Merkur. [https://www.merkur.de/boulevard/zdf-kabarettisten-ukraine-krieg-putinversteher-91395414.html](https://www.merkur.de/boulevard/zdf-kabarettisten-ukraine-krieg-putinversteher-91395414.html)
+
+[^germany-russia-80]: Florian Schroeder im Gespräch mit Dieter Kassel (23.04.2019) Nach dem Wahlsieg des Komikers Wolodymyr Selenski in der Ukraine ist der Kabarettist Florian Schroeder skeptisch, ob Leute wie er in die aktive Politik gehören: Komiker sollten Fragen stellen, aber keine Lösungen präsentieren.
+[https://www.deutschlandfunkkultur.de/kabarettist-florian-schroeder-zur-ukraine-wahl-komiker-an-100.html](https://www.deutschlandfunkkultur.de/kabarettist-florian-schroeder-zur-ukraine-wahl-komiker-an-100.html)
+
+[^germany-russia-81]: Jonathan Josten (17.03.2025) Experte: "Die Ukraine muss kämpfen". Kabarettistin Anny Hartmann über den Ukraine-Krieg: „Verhandeln ist die einzige Lösung“ – Ein Faktencheck mit einem Osteuropa-Experten. Die Kabarettistin Anny Hartmann, bekannt für ihren politischen Witz, trat mit ihrem Programm Klimaballerina im Siegener Lyz auf. Doch ihre Aussagen zum Ukraine-Krieg sind kontrovers. Sie fordert Verhandlungen mit Russland – eine Forderung, die ein Osteuropa-Experte kritisch einordnet. Warum Hartmanns Thesen so umstritten sind und welche Fakten dagegen sprechen. [https://www.siegener-zeitung.de/kultur/regional/siegen-die-kabarettistin-anny-hartmann-kritisiert-die-ukraine-3BHWQLBRANAAHB4JDY56CZ5DXI.html](https://www.siegener-zeitung.de/kultur/regional/siegen-die-kabarettistin-anny-hartmann-kritisiert-die-ukraine-3BHWQLBRANAAHB4JDY56CZ5DXI.html)
+
+[^germany-russia-82-en]: Richard Herzinger (30. Dez. 2024) Why there is a Link between Pacifism and Totalitarianism. Short english version. [https://herzinger.org/why-there-is-a-link-between-pacifism-and-totalitarianism](https://herzinger.org/why-there-is-a-link-between-pacifism-and-totalitarianism).
+
+<!-- 
+https://www.kommunismusgeschichte.de/jhk/jhk-2007/article/detail/gulag-und-laogai-das-sowjetische-und-das-chinesische-lagersystem-im-vergleich
+https://www.spiegel.de/geschichte/kz-dachau-modell-fuer-deutsche-konzentrationslager-a-951071.html
+-->
+
+
 

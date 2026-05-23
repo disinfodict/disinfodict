@@ -20,14 +20,16 @@ Alte gebrauchte Fischernetze werden kostenlos von Carl Futtrup in Dänemark gesa
 
 :::: {.content-visible when-format="html:js"}
 ::: {layout-ncol=2}
-![Appell an die Menschlichkeit (Video (7.5 MB))  
+![Appell an die Menschlichkeit (Video (53 sec, 7.5 MB))  
 ](/all_common_img/nets-save-lives-1.mp4)  
+[![link to Volunteer Hero Carl Futtrups website  
+](/all_common_img/nets-save-lives-4.jpg)](https://www.carlfuttrup.dk/en)  
 [![Screeenshot des Berichts des Kyiv Independent auf youtube  
 ](/all_common_img/nets-save-lives-3.jpg)  
 Der Bericht vom Kyiv Independent auf Youtube  
-(Francis Farrell and Olena Zashko)](https://www.youtube.com/watch?v=lmyslTMbkkE)  
+(45 min, Francis Farrell and Olena Zashko)](https://www.youtube.com/watch?v=lmyslTMbkkE)  
 
-![Beladung eines Sattelzugs mit Netzen (Video (2.8 MB))](/all_common_img/nets-save-lives-2.mp4)  
+![Beladung eines Sattelzugs mit Netzen (Video (14 sec, 2.8 MB))](/all_common_img/nets-save-lives-2.mp4)  
 :::  
 ::::  
 
@@ -39,11 +41,23 @@ Der Bericht vom Kyiv Independent auf Youtube
 > Stichwort: "Netze"
 
 
+::: {.content-visible when-format="html"}
 ::: {layout-ncol=2}
 [![Link zu Fellas for Europe e.V.](../all_common_img/Fellas4Europe_Logo.png)](https://fellas4europe.org/)
 
 [![Link zu Osteuropahilfe der Landkreise Starnberg, Bad Tölz-Wolfratshausen und München e.V.](../all_common_img/Osteuropahilfe.png){width="50%"}](https://www.osteuropa-hilfe.de/)
 :::  
+:::  
+
+::: {.content-visible when-format="latex"}
+::: {layout-ncol=2}
+![Fellas for Europe e.V.](../all_common_img/Fellas4Europe_Logo.png)  
+[Link zu Fellas for Europe e.V.](https://fellas4europe.org/)
+
+![Osteuropahilfe der Landkreise Starnberg, Bad Tölz-Wolfratshausen und München e.V.](../all_common_img/Osteuropahilfe.png){width="50%"}  
+[Link zu Osteuropahilfe der Landkreise Starnberg, Bad Tölz-Wolfratshausen und München e.V.](https://www.osteuropa-hilfe.de/)
+:::  
+:::
 
 
 

@@ -26,6 +26,18 @@ Das Attentat von Sarajevo auf den österreichisch-ungarischen Thronfolger Franz 
 > Mit dem Attentat wollten die von Russland unterstützten serbischen Panslawisten ihre Forderung nach einem von Österreich-Ungarn unabhängigen serbischen Nationalstaat noch einmal deutlich machen.[^wwii-responsibility-1] 
 
 
+## Weimarer Republik
+
+### Vertrag von Rapallo
+
+Nach dem Frieden von Versailles begannen Deutschland und Russland unter dem Deckmantel des Rappalo-Vertrags eine geheime militärische Zusammenarbeit und Aufrüstung, welche die Grundlagen für dem Hitler-Stalin Pakt und den Zweiten Weltkrieg schuf:
+
+> Auf den ersten Blick enthielt der Vertrag nur harmlose Bestimmungn. Er sah den wechselseitigen Verzicht auf alle finanziellen Ansprüche vor, die Wiederaufnahme diplomatischer und konsularischer Beziehungen, und im Handel das Prinzip der  Meistbegünstigung. Mit dem Vertrag wurde jedoch auch die schon vor Rapallo angebahnte, streng geheim gehaltene militärische Zusammenarbeit diplomatisch abgesichert, die es Deutschland ermöglichte, sich bei dem Ausbau seines miliitärischen Potentials über die Bestimmungen des Versailler Vertrages hinwegzusetzen. Russland eröffnete Deutschland die Möglichkeit, eine Flugschule nahe der zentralrussischen Stadt Lipeck, eine Chemiwaffenfabrik Vol'sk sowie zwei Panzerfabriken in dern Nähe von Moskau und Rostow am Don aufzubauen. Im Gegenzug wurden russische Offiziere verdeckt in deutschen Militärakademien ausgebildet [@Schulze_Wessel:2023, S. 198]
+
+Siehe auch @sec-germany-russia-militarycooperation.
+
+
+
 ## Zweiter Weltkrieg
 
 ### Hitler-Stalin Pakt
@@ -58,6 +70,12 @@ Bis heute ist der Hitler-Stalin-Pakt ein blinder Fleck auf der Landkarte der Deu
 > Über die gemeinsame Zerschlagung Polens und die vereinbarte Unterjochung Ostmitteleuropas hinaus umfasste die deutsch-russische Zusammenarbeit die logistische Unterstützung für die Eroberungsfeldzüge der Wehrmacht durch die Lieferung von Öl, industriellen Rohstoffen und Getreidelieferungen aus der Sowjetunion und weiterer Staaten, die Zersetzung der Demokratien, die Schwächung der Anti-Hitler-Opposition und des Widerstands, die Liquidierung der linken Solidarität, die Auslieferung von Hitlergegnern an die Gestapo. 
 
 
+Selbst für eines der größten Kriegsverbrechen der Deutschen im Zweiten Weltkrieg, die Belagerung von St. Petersburg, trägt Stalin Mitverantwortung:
+
+> Stalin wurde zu Recht vorgeworfen, Leningrad geopfert und sich gleichgültig gegenüber dem Schicksal seiner Bevölkerung gezeigt zu haben. Für ihn hatten die Bedürfnisse der Roten Armee absolute Priorität. Aus diesem Grund verzögerte sich die Evakuierung der Zivilbevölkerung über die Eisstraße über den Ladogasee um Wochen.[^wwii-responsibility-6]
+
+
+> Aber sie haben auch gestohlen, gemordet, Verwandte zurückgelassen und sind dazu übergegangen, Menschenfleisch zu essen – wie es alle Gesellschaften tun, wenn die Nahrungsmittelvorräte zur Neige gehen. Ja, das Regime verteidigte die Stadt erfolgreich, entwickelte ausgeklügelte Nahrungsergänzungsmittel und richtete Versorgungs- und Evakuierungswege über den Ladogasee ein. Aber es verzögerte auch, vermasselte alles, verschwendete das Leben seiner Soldaten, indem es sie unausgebildet und unbewaffnet in die Schlacht schickte, versorgte seine eigenen hohen Apparatschiks, während alle um sie herum hungerten, und führte Tausende sinnloser Hinrichtungen und Verhaftungen durch.[^wwii-responsibility-7]
 
 
 
@@ -120,3 +138,8 @@ Die unprovozierte, auf Eroberung und Vernichtung zielende russische Großinvasio
 [^wwii-responsibility-4]: Bundeszentrale für politische Bildung (September 2022) Zusatzprotokoll "Hitler-Stalin-Pakt". [https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/der-zweite-weltkrieg/203800/zusatzprotokoll-hitler-stalin-pakt/](https://www.bpb.de/themen/nationalsozialismus-zweiter-weltkrieg/der-zweite-weltkrieg/203800/zusatzprotokoll-hitler-stalin-pakt/)
 
 [^wwii-responsibility-5]: Bernhard H. Bayerlein (8. Juni 2025) Stalin-Hitler-Pakt reloaded. Deutsch-russische Kollaborationen im 20. und 21. Jahrhundert. [https://geschichtedergegenwart.ch/20643-2/](https://geschichtedergegenwart.ch/20643-2/)
+
+[^wwii-responsibility-6]: John Barber (2011-02-17) Stalin and the Betrayal of Leningrad. BBC. [https://www.bbc.co.uk/history/worldwars/wwtwo/leningrad_betrayal_01.shtml](https://www.bbc.co.uk/history/worldwars/wwtwo/leningrad_betrayal_01.shtml)
+
+[^wwii-responsibility-7]: Anna Reid (2011) Siege of Leningrad: Deadliest City Blockade in Human History. Excerpted from Leningrad: Tragedy of a City under Siege, 1941-44, by Anna Reid. [https://www.thehistoryreader.com/military-history/siege-leningrad-deadliest-city-blockade-human-history/](https://www.thehistoryreader.com/military-history/siege-leningrad-deadliest-city-blockade-human-history/)
+

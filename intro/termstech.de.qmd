@@ -111,21 +111,21 @@ Seitdem setzen russische Diktatoren brutale psychologische Kriegsführung ein, u
 Für weitere Einzelheiten siehe @Galeotti:2019 @Darczewska:2017
 
 
-## Reflexive Kontrolle (1967)
+## Reflexive Kontrolle (1967) {#sec-intro-termstech-reflexivecontrol}
 
 Die moderne psychologische Kriegsführung ist eine Mischung aus diesen brutalen und subtileren Methoden. Der sowjetische mathematische Psychologe Vladimir Lefebvre entwickelte 1967 das Konzept der *Reflexiven Kontrolle* (@Goeij:2023). Nach @Kamphuis:2018 sind die Elemente der *Reflexiven Kontrolle*: 
 
 - __Ablenkung__: Schaffung einer realen oder imaginären Bedrohung für die Flanke oder den Rücken des Gegners in der Vorbereitungsphase von Kampfhandlungen, um ihn zu zwingen, seine Pläne anzupassen.
 - __Überlastung__ (mit Informationen): häufig große Mengen an widersprüchlichen Informationen übermitteln.
 - __Lähmung__: den Eindruck einer unerwarteten Bedrohung für ein vitales Interesse oder eine Schwachstelle erwecken.
-- Erschöpfung__: den Feind zu nutzlosen Operationen zwingen, ihn zwingen, mit reduzierten Ressourcen in den Kampf zu ziehen.
-- Täuschung__: den Feind zwingen, als Reaktion auf eine imaginäre Bedrohung in der Vorbereitungsphase des Kampfes Mittel zu verlagern.
-- Spaltung__: Akteure davon überzeugen, gegen die Interessen der Koalition zu operieren.
-- Einlullen__: den Feind davon überzeugen, dass es sich um ein im Voraus geplantes operatives Training und nicht um Vorbereitungen für Kampfhandlungen handelt.
-- Abschreckung__: den Eindruck von Überlegenheit erwecken.
-- Provokation__: den Feind zu Aktionen zwingen, die für die eigene Seite vorteilhaft sind.
-- Suggestion__: Informationen anbieten, die den Feind rechtlich, moralisch, ideologisch oder in anderen Bereichen beeinflussen.
-- Druck__: Informationen anbieten, die die gegnerischen Befehlshaber und/oder die gegnerische Regierung in den Augen der Bevölkerung diskreditieren.
+- __Erschöpfung__: den Feind zu nutzlosen Operationen zwingen, ihn zwingen, mit reduzierten Ressourcen in den Kampf zu ziehen.
+- __Täuschung__: den Feind zwingen, als Reaktion auf eine imaginäre Bedrohung in der Vorbereitungsphase des Kampfes Mittel zu verlagern.
+- __Spaltung__: Akteure davon überzeugen, gegen die Interessen der Koalition zu operieren.
+- __Einlullen__: den Feind davon überzeugen, dass es sich um ein im Voraus geplantes operatives Training und nicht um Vorbereitungen für Kampfhandlungen handelt.
+- __Abschreckung__: den Eindruck von Überlegenheit erwecken.
+- __Provokation__: den Feind zu Aktionen zwingen, die für die eigene Seite vorteilhaft sind.
+- __Suggestion__: Informationen anbieten, die den Feind rechtlich, moralisch, ideologisch oder in anderen Bereichen beeinflussen.
+- __Druck__: Informationen anbieten, die die gegnerischen Befehlshaber und/oder die gegnerische Regierung in den Augen der Bevölkerung diskreditieren.
 
 <!-- Memo: contains this list of lies
 1. Ethnic Russian minorities are suppressed in the Ukraine and in EU-countries;
@@ -152,6 +152,10 @@ Die Grenze zur Perfidie, die durch die Genfer Konventionen verboten ist, ist fli
 Die russische Invasion auf der Krim und im Donbas sind eindeutige Beispiele für hybride Kriegsführung: Russland schickte Soldaten ohne Abzeichen und behauptete, es handele sich um Separatisten, also innerukrainische Akteure, und begleitete dies mit Hasspropaganda: Der Bericht des Hohen Kommissars der Vereinten Nationen für Menschenrechte 2014 über die Lage der Menschenrechte in der Ukraine (@UN:2014) stellte fest, dass Russland während der Invasion der Krim *Hasspropaganda* einsetzte, die gegen Artikel 20 verstieß:
 
 > Mit dem Beginn der Krim-Krise kam es zu neuen Einschränkungen des freien Zugangs zu Informationen. Medienbeobachter wiesen auf einen erheblichen Anstieg der Propaganda im Fernsehen der Russischen Föderation hin, die sich parallel zu den Entwicklungen auf und um die Krim entwickelte. Es wurden auch Fälle von Hasspropaganda gemeldet. Dmitri Kiselev, russischer Journalist und kürzlich zum stellvertretenden Generaldirektor der staatlichen russischen Fernseh- und Rundfunkanstalt ernannt, hat in den Hauptnachrichten des Fernsehkanals „Rossija“ die Ukraine als „von gewalttätigen Faschisten überranntes Land“ dargestellt, Informationen über Kiewer Ereignisse verschleiert und behauptet, dass die Russen in der Ukraine ernsthaft bedroht und in physische Gefahr geraten seien, was die „Rückkehr“ der Krim in die Russische Föderation rechtfertige.
+
+Inzwischen beginnt sogar der träge Auslandsgeheimdienst BND die Gefahr hybrider Kriekgsführung zu erkennen (@Spiegel:2026): 
+
+> Russland stünden bis zu 60.000 Geheimdienstmitarbeiter weltweit zur Verfügung, »wobei eine noch größere Zahl von kooptierten Personen – ehemalige Militärangehörige, Beschaffungshelfer und andere Stellvertreter – noch nicht einmal mitgezählt ist«. Das Bundeskriminalamt habe 2025 321 mutmaßliche Sabotagefälle registriert. »Es ist wahrscheinlich, dass russische Akteure und ihre Telegram-Agenten hinter zahlreichen dieser Vorfälle stecken.«
 
 
 ## Informationskrieg (2016)
@@ -209,6 +213,158 @@ Die Manipulation und Beeinflussung ausländischer Informationen (Foreign Informa
 
 Russland steckt Milliarden professionale Propaganda, um anderen Länder (uns) zu spalten und zu destabilisieren. Russland betreibt Trollfabriken, Bot-Farmen, Desinformationskampagnen wie die Doppelgängerkampagne, welche Websiten fälscht um bei Manipulationen in sozialen Netzwerken auf diese verweisen zu können (@Potter:2024). Einer der größten propagandafirmen, über den Olifarechen Viktor Medwetschuk direkt von Putin gesteuert, ist die Social Design Agency (SDA) @FrommLitschko:2024. 
 
+
+### Telegram
+
+Telegram ist ein russischer Messenger-Dienst der zu einem sozialen Netzwerk geworden ist. Während er angeblich unabhängig von Russland  in Dubai residiert, steht seine Infrastruktur unter Kontrolle des russichen Geheimdienst FSB, der alle Nachrichten der Nutzer mitlesen kann [@Schurter:2025;@Anin:2025] und 50% der Inhalte werden von Russia Today kontrolliert [@Dobrokhotov:2026]. 
+
+
+### Akademische Unterwanderung
+
+Die russische Infiltration konzentriert sich natürlich auf Informationsmultiplikatoren und Personen mit Entscheidungsbeeinflussung, d. h. CEOs, Politiker, Meinungsführer wie Journalisten, Blogger und ... Professoren. Letztere sind besonders interessant, da sie eine Informationsautorität darstellen, von anderen Forschern häufig zitiert und von Journalisten interviewt werden und ihre Desinformation schwer zu widerlegen ist. Das Widerlegen akademischer Publikationen erfordert fundiertes Wissen, viel Arbeit, privilegierten Zugang zu Fachzeitschriften und Originalarchiven sowie finanzielle Ressourcen, um Studien zu replizieren. Schlimmer noch: Die Reproduktion oder Widerlegung der Arbeit anderer fördert nicht die akademische Karriere, sodass dies eigentlich niemand tut. Als Sahnehäubchen sind Professoren mit Festanstellung fast unmöglich aus ihren Positionen zu entfernen und werden von den „feindlichen” den Steuerzahlern finanziert. Daher sind Professoren ideale Einflussagenten, um eine Gesellschaft zu destabilisieren, und riesige russische Netzwerke sorgen dafür, dass ihre Kandidaten die interessanten Positionen erhalten.
+
+> Russische Geheimdienste verbreiten historische Mythen und entwickeln Desinformationskampagnen, um die Strategien eines Ziellandes zu beeinflussen und die öffentliche Meinung und die Psyche der Bevölkerung zu formen. Man geht davon aus, dass dieser Ansatz Russland dabei helfen würde, in allen Bereichen (informationstechnisch, psychologisch und ideologisch) Überlegenheit zu erlangen, die Kommunikationsinfrastruktur eines Ziellandes zu schädigen und das psychologische Profil und die ideologischen Präferenzen seines Militärpersonals und seiner Bevölkerung zu formen.  
+> Zu den bekanntesten historischen Mythen, die Russland verbreitet, gehören: seine Rolle als befreiender Sieger im Zweiten Weltkrieg, der die Nazis besiegte; die massive Kollaboration der Ukrainer mit Nazi-Deutschland und ihr organischer Antisemitismus als dominierender Trend in der Geschichte der Ukraine; und zuletzt: die ukrainische Nation ohne legitimes Existenzrecht; die heutige Ukraine als faschistischer Staat, der „Erinnerungskriege“ führt und „nationalistische Geschichtsdarstellungen“ verfasst; die Aggression der Nordatlantikvertrags-Organisation (NATO), die die nationale Sicherheit Russlands bedroht; und der Westen, der subversive Aktivitäten gegen die Russische Föderation durchführt. Diese staatlich geförderten historischen Narrative, die im Inland durch russische Gesetzgebung verstärkt und im Ausland durch aktive Maßnahmen verbreitet werden, spielen eine bedeutende Rolle in der russischen Erinnerungspolitik.  
+> ... Es gibt heute kaum noch renommierte internationale wissenschaftliche Tagungen, Foren oder Konferenzen, bei denen nicht russische Einflussagenten oder Geheimdienstmitarbeiter im Hintergrund präsent sind, sei es als Gäste, die sich unter das wissenschaftliche Publikum mischen, oder als Wissenschaftler verschiedener Ethnien und Nationalitäten, die auf diesen Veranstaltungen ihre Forschungsergebnisse vorstellen.
+> — @Bertelsen:2023
+
+Die russische Infiltration betrifft nicht nur Personen, sondern auch die akademische Infrastruktur wie Zeitschriften und Konferenzen, die Macht von Gutachtern, die Kontrolle über Fördermittel und schließlich Karrieren. Als zufälliges Beispiel nehmen wir „Berghahn Journals / New York Oxford”, einen Verlag, der etwa zur Zeit der Krim-Invasion gegründet wurde und sich als Heimat akademischer Zeitschriften ausgibt, aber tatsächlich die Verbreitung russischer Propaganda zulässt, wie in diesem Beispiel über den [angeblichen Stellvertreterkrieg in der Ukraine](https://www.berghahnjournals.com/view/journals/focaal/2024/98/fcl980110.xml), siehe auch @sec-ruwar-proxy.
+
+
+
+## Gegenmaßnahmen
+
+Die russische Informationskriegsführung ist staatlich gefördert, zentralisiert und offensiv. Westliche Demokratien betreiben keine staatlich geförderten und zentralisierten Trollfabriken, die Desinformationen verbreiten (und werden dies auch nie tun). Westliche Demokratien sind defensiv und daher in der Informationskriegsführung benachteiligt. Hier ein Überblick über den unzureichenden Resilienzstatus Westlicher Demokratien:
+
+- Erziehung: Medienkompetenz ✅
+- Debunking: Faktenchecks ✅
+- Prebunking: Immunisierung ❌
+- Crowding: Dezentrale Informationskriegsführung ❌
+- Realtime: Infrastruktur zur Bekämpfung von Desinformation in Echtzeit ❌
+- Penalties: Bestrafung der Urheber und Verbreiter bösartiger Desinformationen ❌
+
+Die EU hat erkannt, dass die bisherigen Gegenmaßnahmen nicht ausreichten (@EUvsDisinfo:2026):
+
+> Jahrelang bestand die Standardreaktion auf FIMI darin, die Falschmeldungen zu entlarven: die Lüge aufdecken, die Fakten richtigstellen, weitermachen. Das reicht jedoch nicht aus, da es die Akteure, die gegen FIMI vorgehen, in die Defensive drängt, sodass sie nur reagieren können, während der nächste Angriff bereits vorbereitet wird. Stattdessen ist ein Wandel erforderlich: weg vom Reagieren hin zum Stören – indem man die Grundlagen ins Visier nimmt, indem man kritische Knotenpunkte in Infrastrukturen, bei Vermittlern und in Lieferketten identifiziert
+
+Das Kernproblem *aller* bisher finanzierten Maßnahmen (Erziehung, Debunking, Prebunking) ist, dass sie nicht mit der - zum Teil industriell hergestellten - Menge an Desinformationen skalieren. Es braucht Gegenmaßnahmen mit minimalen Kosten, die technisch skalierbar bzw. automatisiserbar sind. 
+
+
+### Erziehung
+
+Medienkompetenz ist (zwar) ein wichtiger Baustein in der Bekämpfung von Desinformation, z.B. dieses Set von Verhaltensregeln [@MPF:DontBeFooled:2022]:
+
+1. **Vorsicht**: Seien Sie vorsichtig mit Informationen, Bildern oder anderen Materialien, die Sie verstören oder erschrecken oder starke Gefühle hervorrufen. Feindliche ausländische Mächte spielen häufig mit Ihren Emotionen, um Sie zu beeinflussen.
+2. **Überlegen Sie zweimal**: Vermeiden Sie es, zur Verbreitung von Desinformation, irreführenden Informationen und Propaganda beizutragen. Überlegen Sie zweimal, bevor Sie Informationen mit Freunden oder in sozialen Medien teilen.
+3. **Überprüfen Sie die Quelle**: Informieren Sie sich darüber, wie digitale Plattformen funktionieren, und seien Sie kritisch gegenüber Quellen. In einer Zeit, in der Algorithmen einen Großteil unserer Feeds kontrollieren, kann man leicht in eine bestimmte Erzählung hineingezogen werden – aber denken Sie daran, einen Schritt zurückzutreten und die Informationen zu überprüfen.
+4. **Suchen Sie nach verifizierten Informationen**. Achten Sie auf Informationen von Behörden und bleiben Sie auf dem Laufenden. Dies ist besonders wichtig, wenn etwas passiert, das starke Emotionen hervorruft.
+
+
+Aber Medienkompetenz lädt alle Arbeit gegen Desinformation beim Bürger ab, der erneut und immer wieder Lügen ausfiltern muss. Je höher der Anteil der industriell verbreiteten Desinformation ist, desto weniger machbar ist dieser Ansatz. Wir erwarten doch auch nicht vom Bürger, ein gekauftes Brot erst auf Schadstoffe zu untersuchen, bevor er es verzehrt. Es ist erhellend, wie umfangreich solches Lehrmaterial je nach Zielgruppe ist, z.B. von der schwedischen Psychologischen Verteidigungs-Agentur:
+
+1. **Bürger**: 24 Seiten [LASSEN SIE SICH NICHT TÄUSCHEN. Ein Handbuch, das Ihnen hilft, Desinformation, irreführende Informationen und Propaganda zu erkennen und damit umzugehen.](https://mpf.se/psychological-defence-agency/publications/archive/2023-12-04-dont-be-fooled---handbook)
+2. ** Kommunikator**: 25 Seiten [GEGENINFORMATIONEN – EIN HANDBUCH FÜR KOMMUNIKATOREN](https://mpf.se/psychological-defence-agency/publications/archive/2018-10-02-countering-information-influence-activities----a-handbook-for-communicators)
+3. **Journalist**: 48 Seiten [Bekämpfung von Informationsbeeinflussung. Ein Handbuch für Journalisten](https://mpf.se/psychological-defence-agency/publications/archive/2024-03-01-countering-information-influence-activities)
+4. **Experte**: 258 Seiten [PSYCHOLOGISCHE VERTEIDIGUNG UND INFORMATIONSBEEINFLUSSUNG – EIN LEHRBUCH ZU THEORIE UND PRAXIS](https://mpf.se/psychological-defence-agency/publications/archive/2026-01-19-psychological-defence-and-information-influence----a-textbook-on-theory-and-practice)
+
+Der Aufwand für den einzelnen ist nach oben offen.
+
+
+
+### Debunking
+
+Faktenchecks sind (zwar) ein wichtiger Baustein in der Bekämpfung von Desinformation, aber Faktenchecks haben zwei Probleme
+
+1. Faktenchecks kommen immer zu spät 
+2. Niemand kann alle Widerlegungen aller Lügen durchlesen. Allein die zentrale Datenbank von [EUvsDisinfo.eu](https://euvsdisinfo.eu/disinformation-cases/) umfasst 20.000 Einträge. 
+
+In der Folge bedeutet das: fast niemand liest Faktenschecks. Ganz besonders schlimm ist dies bei Faktenchecks nach einer Life-Sendung, bei der Propagandisten erst ein Millionenpublikum erreichen, und tags drauf nur eine verschwindende Minderheit einen - ohnehin meist unvollständigen - Faktencheck liest. Auf diese Art und Weise hat der öffentlich-rechtliche Rundfunk in Deutschland die extremistischen Parteien AfD und BSW groß gemacht. 
+
+
+### Prebunking
+
+Vorab Immunisierung gegen Propagandalügen ist der Versuch, schneller zu sein als Debunking, Menschen vor der Lüge auf diese vorzubereiten, so dass sie nicht verfängt. Vorab-Immunisierung ist (zwar) ein wichtiger Baustein in der Bekämpfung von Desinformation, aber Vorab-Immunisierung hat jede Menge Probleme:
+
+1. Es  ist unmöglich, Menschen auf die unendlich hoe Zahl möglicher Lügen vorzubereiten
+2. Die wenigsten Menschen haben die Zeit (und die Ausbildung) Fehlinformationstechniken so zu beherrschen, dass sie Fehlinformationen zuverlässig erkennen können, zumal das zsätzlich Domänenwissen voraussetzt
+3. Niemand kann sich vorab für alle Domänen so viel Wissen aneignen, dass er jede Lüge als seinem Wissen widersprechend erkennen könnte. Wer dieses Wissen hätte, bräuchte keine Nachrichten mehr lesen (das Oracle von Delphi).
+
+
+#### Prebunking Deep-Dive
+
+[prebunking.withgoogle.com](https://prebunking.withgoogle.com/), ist eine Zusammenarbeit zwischen der Universität Cambridge, Jigsaw (Google) und BBC Media Action. Das Social Decision-Making Lab der Universität Cambridge war führend bei der Entwicklung von Prebunking-Ansätzen, die auf der Impftheorie beruhen und darauf abzielen, die Widerstandsfähigkeit der Menschen gegenüber Falsch- und Desinformationen zu stärken. 
+
+Die Website erklärt [Common Manipulation Techniques](https://prebunking.withgoogle.com), erklärt [How To Prebunk](https://prebunking.withgoogle.com/how-to-prebunk/), listet [Resources and Case Studies](https://prebunking.withgoogle.com/resources/) und [Current Initiatives](https://prebunking.withgoogle.com/eu-prebunking/) auf und bietet ein [Quiz](https://prebunking.withgoogle.com/quiz/). Die Kurzbeschreibungen hier stammen von ihrer Website und ihrem vollständigen [Practical Guide to Prebunking Misinformation](https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf).
+
+Prebunking ist eine Technik, um Manipulationen im Internet vorzubeugen. Prebunking-Botschaften sollen Menschen dabei helfen, manipulative Inhalte zu erkennen und ihnen zu widerstehen. Indem sie die Menschen vorwarnen und sie in die Lage versetzen, irreführende Argumente zu erkennen und zu widerlegen, helfen diese Botschaften den Betrachtern, sich gegen künftige Irreführungen zu wappnen.
+
+Es gibt zwei vorherrschende Formen des Prebunking, die Fehlinformationen auf einer höheren Ebene behandeln
+über spezifische Fehlinformationsbehauptungen hinaus. Beide befassen sich mit unterschiedlichen Arten von Fehlinformationen:
+
+- Fehlinformationstechniken
+- Fehlinformationsnarrative
+
+
+#### Fehlinformationstechniken
+
+Das technikbasierte Prebunking konzentriert sich auf die Taktiken zur Verbreitung von Fehlinformationen. Während die Informationen, die zur Manipulation und Beeinflussung von Personen im Internet verwendet werden, sehr unterschiedlich sein können sehr unterschiedlich sein können, wiederholen sich die Techniken, die zur Irreführung eingesetzt werden, oft themenübergreifend und über
+Zeit. 
+
+#### Fehlinformationsnarrative
+
+Fehlinformationen im Internet treten oft in Form von Behauptungen oder Meinungen zu einem bestimmten Thema auf. Einzelne Desinformationsbehauptungen können jedoch oft in ein breiteres Narrativ einfließen. Themenbezogenes Prebunking befasst sich mit den breiteren, anhaltenden Narrativen von Fehlinformationen, die über spezifische Behauptungen hinausgehen.
+
+Die Bekämpfung einzelner Fehlinformationsbehauptungen ist zeitaufwändig und reaktiv, während das Prebunking breiter angelegter Narrative die Grundlagen mehrerer Behauptungen auf einmal entkräften kann und viel effektiver ist, wenn es darum geht, Widerstand gegen neue Behauptungen zu leisten, die diese falsche Grundlage teilen.
+
+
+### Dezentrale Informationskriegsführung
+
+Bis zum vollständigen Einmarsch Russlands in die Ukraine litten die westlichen Demokratien weitgehend hilflos unter der russischen Desinformation, die sich mit der Popularität der Fragmentierung privater Online-Presseorgane und insbesondere sozialer Netzwerke noch verschlimmerte. 
+
+Mit dem vollständigen Einmarsch Russlands in die Ukraine trat ein neues Phänomen auf: Die dezentralisierte Informationskriegsführung. Eine internationale Graswurzelbewegung namens [Nordatlantic Fella Organisation (NAFO)](https://nafo-ofan.org/pages/we-are-nafo) entstand: Engagierte Bürger auf der ganzen Welt bekämpfen russische Desinformation und unterstützen den ukrainischen Kampf für Freiheit und Frieden. Hier einige Artikel über die NAFO:
+
+
+- 2023-01-25: [Dezentralisierung ist die größte Stärke der NAFO](https://emerging-europe.com/opinion/why-decentralisation-is-nafos-greatest-strength/)
+- 2023-12-23: [Meinung: NAFO führt den Meme-Krieg der Ukraine](https://kyivindependent.com/opinion-nafo-and-ukraines-meme-war/)
+
+- 2024-06-24: [NAFO FORDERT EIN WEITERES HOCHRANGIGES OPFER](https://www.lucorg.com/nafo-claims-another-high-profile-victim/)
+- 2024-07-01: [NAFO fordert ein weiteres prominentes Opfer: Kampf gegen Desinformation](https://hackernoon.com/lang/de/Nafo-fordert-im-Kampf-gegen-Desinformation-ein-weiteres-prominentes-Opfer)
+- 2024-12-11: [Das Zeitalter der dezentralen Informationskriegsführung ist da](https://irregularwarfare.org/articles/the-age-of-decentralized-information-warfare-is-here/)
+- 2024-10-08: [Militärische Lehren für die NATO aus dem Russland-Ukraine-Krieg](https://henryjacksonsociety.org/publications/military-lessons-for-nato-from-the-russia-ukraine-war-preparing-for-the-wars-of-tomorrow/)
+
+- 2026-04-20: [(Kon-)Trolling der russischen Informationskriegsführung: Der digitale Aktivismus der Nordatlantischen Allianz gegen Moskaus Kriegsmaßnahmen](https://newstrategycenter.ro/wp-content/uploads/2026/04/ConTrolling-the-Russian-Information-Warfare-Efforts-1.pdf)
+
+Die AfD hat - wie die russische Propaganda - versucht, die NAFO zu diffamieren, als CIA-gesteuertes Cybermobbing. Eine Untersuchung der Deutschen Bundesregierung kommt zu dem Schluss (@Bundesregierung:2025): 
+
+> Die Bundesregierung macht sich die in der Vorbemerkung enthaltene Bewertung des Internetphänomens „NAFO“ als Diffamierung bzw. Cybermobbing ausdrücklich nicht zu eigen. Genauso wenig teilt sie die Einschätzung der Fragestellenden zu nachrichtendienstlicher Zusammenarbeit.
+
+Schlussendlich gilt aber auch für die Dezentrale Informationskriegsführung durch Freiwillige: sie ist nur ein Tropfen auf den heißen Stein: engagierte Freiwillige können (und sollen) nicht mit den staatlich finanzierten und koordinierten Desinfornmationsinstrumenten konkurrieren, mit Troll-Farmen, Bots, AI-Agenten. Es braucht Methoden die besser skalieren, die große Menge an Desinformation besser eindämmen. 
+
+
+### Strafen
+
+Nach klassisch-bequemer Lehrmeinung wären strafrechtliche Maßnahmen gegen Desinformation zu aufwendig (und nach Meinung von Propagandisten wären strafrechtliche Maßnahmen eine Einschränkung der Meinungsfreiheit, obwohl es kein verfassungsmäßiges Recht auf das Verbreiten von Lügen, Hass und Hetze gibt). In 2020 hat der Medienanwalt Chan-jo Jun darauf hingewiesen, dass das Ordnungswidrigkeitsrecht erstens das Potential zu einer skalierbaren, automatisierten Sanktionierung von Desinformation, Hass und Hetze hat (@Jun:2020), und bereits heute ein Paragraph existiert, der eine solche Anwendung erlauben würde ([Gesetz über Ordnungswidrigkeiten (OWiG) § 118 Belästigung der Allgemeinheit](https://www.gesetze-im-internet.de/owig_1968/__118.html)). Zwei Jahre später, 2022 berichtete die Presse [Daum:2022]:
+
+
+> Wer zu schnell fährt, begeht keine Straftat, sondern eine Ordnungswidrigkeit. Um Ordnungswidrigkeiten kümmern sich Bußgeldstellen (und erst bei Einspruch Gerichte und Staatsanwälte). Alles andere wäre viel zu aufwendig und langsam.  
+> ...  
+> Jun schlägt also vor, ein Ordnungswidrigkeitenrecht im Internet zu etablieren. Man könnte eine Bußgeldbehörde eröffnen. Und einen Bußgeldkatalog für mildere Delikte, die nicht mit Strafrecht verfolgt werden müssen. In schwierigen Fällen könnten Staatsanwälte bei der Grundrechtsabwägung helfen.  
+>   
+> Juns Vorschlag klingt einfach, ist aber differenziert. Er möchte nicht, dass Beleidigungen oder Volksverhetzungen von Straftaten herabgestuft werden zu Ordnungswidrigkeiten. Er möchte sie ergänzen. Beispiel: Bei Beleidigungen im Netz soll der Haupttäter nach wie vor strafrechtlich verfolgt werden. Aber einer, der die Beleidigung teilt, also weiterverbreitet?  
+>   
+> Solche Delikte kommen häufig vor und für sie hat die Justiz momentan kein sanfteres Mittel als das Strafrecht. Das bedeutet: sehr viel Aufwand. Also ignorieren Behörden solche Delikte oft. Mit Juns Vorschlag würde jemand, der eine Beleidigung teilt, ein Bußgeld bekommen. Fertig.  
+>   
+> Es kämen noch andere Taten für solche Ordnungswidrigkeiten infrage: die Verbreitung von erwiesenen Falschnachrichten etwa. Oder wiederholtes, spamartiges Belästigen mit Nachrichten, die nicht die Strafbarkeitsschwelle überschreiten. Bei schwereren Delikten würde weiterhin das Strafrecht greifen. Es gäbe einen fließenden Übergang von Ordnungswidrigkeiten zu Straftaten. Eben wie im Straßenverkehr.
+>   
+> Juns Vorschlag hätte zwei Vorteile: Es würde die Justiz entlasten. Und es würde das durchaus ramponierte Rechtsbewusstsein der Allgemeinheit stärken. Jedem wäre klar: Auf Aktion folgt Reaktion. Wer Hetze betreibt, zahlt. Man könnte in einem Bußgeldkatalog nachgucken: Falschnachrichten gelikt? 50 Euro. Eine Beleidigung verbreitet? 70 Euro. Das spricht sich rum. 
+
+Noch zwei Jahre später, 2024, wurde ein ausführliches Konzept zum Thema veröffentlicht [NAFU:de:2024], welches sich wie Anwalt Jun dafür ausspricht, je nach Schwere (und Reichweite) des Delikts einem fließenden Übergang zwischen Ordungswidrigkeit und klassischem Strafrecht zu implementieren. 
+
+Noch zwei Jahre später, 2026, ist immer noch nichts passiert. Die Legislative schläft. Die Exekutive schläft. Die Judikative schläft. Putin und die ihm ergebenen extremistischen Parteien freut es.
+
+
+## Institutionen gegen Desinformation
+
 ### Europäischer Auswärtiger Dienst – EAD
 
 In Anbetracht der außen- und sicherheitspolitischen Komponente hat der Europäische Auswärtige Dienst eine führende Rolle bei der Auseinandersetzung mit diesem Thema übernommen. Seit 2015, als das Problem erstmals auf der politischen Agenda der EU auftauchte, haben wir unsere Kapazitäten zur Bewältigung der FIMI-Herausforderung erheblich ausgebaut.
@@ -216,6 +372,11 @@ In Anbetracht der außen- und sicherheitspolitischen Komponente hat der Europäi
 Definition von FIMI: Der [EAD](https://www.eeas.europa.eu/eeas/tackling-disinformation-foreign-information-manipulation-interference_en?etrans=de) definiert FIMI als ein Verhaltensmuster, das Werte, Verfahren und politische Prozesse bedroht oder negativ beeinflussen kann. Solche Aktivitäten haben einen manipulativen Charakter und werden absichtlich und koordiniert durchgeführt. Akteure dieser Tätigkeit können staatliche oder nichtstaatliche Akteure sein, einschließlich ihrer Stellvertreter innerhalb und außerhalb ihres eigenen Hoheitsgebiets. 
 
 Seit 2015 führt die East Stratcom Task Force (ESTF) die Kampagne [EUvsDisinfo](https://www.euvsdisinfo.eu) durch, um kremlfreundliche Desinformation, Informationsmanipulation und Einmischung zu überwachen, zu analysieren und zu bekämpfen. Das Aushängeschild der Kampagne ist die Datenbank mit kremlfreundlichen Desinformationsfällen, die regelmäßig aktualisiert und entlarvt wird.
+
+
+### Allianz zur Sicherung der Demokratie (ASD)
+
+Die Allianz zur Sicherung der Demokratie (ASD), die derzeit beim German Marshall Fund (GMF) angesiedelt ist, stellt auf der Website [https://securingdemocracy.gmfus.org/](https://securingdemocracy.gmfus.org/) nützliche Tools zur Analyse von FIMI zur Verfügung. 
 
 
 ### FIMI-ISAC
@@ -230,6 +391,12 @@ FIMI-ISAC hat 2024 seinen ersten Bericht über ausländische Einflussnahme auf W
 Die [Agentur der Europäischen Union für Cybersicherheit (ENISA)](https://www.enisa.europa.eu/) arbeitet mit Organisationen und Unternehmen zusammen, um das Vertrauen in die digitale Wirtschaft zu stärken, die Widerstandsfähigkeit der EU-Infrastruktur zu verbessern und letztlich die digitale Sicherheit der EU-Bürger zu gewährleisten. Sie tut dies durch den Austausch von Wissen, die Entwicklung von Personal und Strukturen und die Sensibilisierung. Der EU-Cybersicherheitsakt hat die Arbeit der Agentur gestärkt.
 
 Siehe auch „Foreign Information Manipulation and Interference (FIMI) and Cybersecurity - Threat Landscape“ (@ENISA:FIMI:2022:de)
+
+
+### Bayern-Allianz gegen Desinformation
+
+Das deutsche Bundesland Bayern betreibt die [Bayern-Allianz gegen Desinformation](https://www.stmd.bayern.de/themen/bayern-allianz-desinformation/), siehe auch [Lernempfehlungen](#sec-appendix-recommendations-learning). 
+
 
 <!--
 ### DISARM Framework
@@ -249,54 +416,4 @@ Henin:2023
 [https://www.disarm.foundation/framework](https://www.disarm.foundation/framework)
 -->
 
-## Prebunking
 
-[prebunking.withgoogle.com](https://prebunking.withgoogle.com/), ist eine Zusammenarbeit zwischen der Universität Cambridge, Jigsaw (Google) und BBC Media Action. Das Social Decision-Making Lab der Universität Cambridge war führend bei der Entwicklung von Prebunking-Ansätzen, die auf der Impftheorie beruhen und darauf abzielen, die Widerstandsfähigkeit der Menschen gegenüber Falsch- und Desinformationen zu stärken. 
-
-Die Website erklärt [Common Manipulation Techniques](https://prebunking.withgoogle.com), erklärt [How To Prebunk](https://prebunking.withgoogle.com/how-to-prebunk/), listet [Resources and Case Studies](https://prebunking.withgoogle.com/resources/) und [Current Initiatives](https://prebunking.withgoogle.com/eu-prebunking/) auf und bietet ein [Quiz](https://prebunking.withgoogle.com/quiz/). Die Kurzbeschreibungen hier stammen von ihrer Website und ihrem vollständigen [Practical Guide to Prebunking Misinformation](https://prebunking.withgoogle.com/docs/A_Practical_Guide_to_Prebunking_Misinformation.pdf).
-
-Prebunking ist eine Technik, um Manipulationen im Internet vorzubeugen. Prebunking-Botschaften sollen Menschen dabei helfen, manipulative Inhalte zu erkennen und ihnen zu widerstehen. Indem sie die Menschen vorwarnen und sie in die Lage versetzen, irreführende Argumente zu erkennen und zu widerlegen, helfen diese Botschaften den Betrachtern, sich gegen künftige Irreführungen zu wappnen.
-
-Es gibt zwei vorherrschende Formen des Prebunking, die Fehlinformationen auf einer höheren Ebene behandeln
-über spezifische Fehlinformationsbehauptungen hinaus. Beide befassen sich mit unterschiedlichen Arten von Fehlinformationen:
-
-- Fehlinformationsnarrative
-- Fehlinformationstechniken
-
-### Fehlinformationsnarrative
-
-Fehlinformationen im Internet treten oft in Form von Behauptungen oder Meinungen zu einem bestimmten Thema auf. Einzelne Desinformationsbehauptungen können jedoch oft in ein breiteres Narrativ einfließen. Themenbezogenes Prebunking befasst sich mit den breiteren, anhaltenden Narrativen von Fehlinformationen, die über spezifische Behauptungen hinausgehen.
-
-Die Bekämpfung einzelner Fehlinformationsbehauptungen ist zeitaufwändig und reaktiv, während das Prebunking breiter angelegter Narrative die Grundlagen mehrerer Behauptungen auf einmal entkräften kann und viel effektiver ist, wenn es darum geht, Widerstand gegen neue Behauptungen zu leisten, die diese falsche Grundlage teilen.
-
-### Fehlinformationstechniken
-
-Das technikbasierte Prebunking konzentriert sich auf die Taktiken zur Verbreitung von Fehlinformationen. Während
-die Informationen, die zur Manipulation und Beeinflussung von Personen im Internet verwendet werden, sehr unterschiedlich sein können sehr unterschiedlich sein können, wiederholen sich die Techniken, die zur Irreführung eingesetzt werden, oft themenübergreifend und über
-Zeit. 
-
-
-## Dezentrale Informationskriegsführung
-
-Die russische Informationskriegsführung ist staatlich gefördert, zentralisiert und offensiv. Westliche Demokratien betreiben keine staatlich geförderten und zentralisierten Trollfabriken, die Desinformationen verbreiten (und werden dies auch nie tun). Westliche Demokratien sind mit Sicherheit defensiv und daher in der Informationskriegsführung benachteiligt. Westliche Demokratien haben bisher keine 
-
-- offensive Prebunking-Kampagnen
-- groß angelegte Einrichtungen, die Desinformation in Echtzeit bekämpfen
-- Bestrafung der Urheber und Verbreiter bösartiger Desinformationen
-
-Bis zum vollständigen Einmarsch Russlands in die Ukraine litten die westlichen Demokratien weitgehend hilflos unter der russischen Desinformation, die sich mit der Popularität der Fragmentierung privater Online-Presseorgane und insbesondere sozialer Netzwerke noch verschlimmerte. 
-
-Mit dem vollständigen Einmarsch Russlands in die Ukraine trat ein neues Phänomen auf: Die dezentralisierte Informationskriegsführung. Eine internationale Graswurzelbewegung namens [Nordatlantic Fella Organisation (NAFO)](https://nafo-ofan.org/pages/we-are-nafo) entstand: Engagierte Bürger auf der ganzen Welt bekämpfen russische Desinformation und unterstützen den ukrainischen Kampf für Freiheit und Frieden. Hier einige Artikel über die NAFO:
-
-
-- 2023-01-25: [Dezentralisierung ist die größte Stärke der NAFO](https://emerging-europe.com/opinion/why-decentralisation-is-nafos-greatest-strength/)
-- 2023-12-23: [Meinung: NAFO führt den Meme-Krieg der Ukraine](https://kyivindependent.com/opinion-nafo-and-ukraines-meme-war/)
-
-- 2024-06-24: [NAFO FORDERT EIN WEITERES HOCHRANGIGES OPFER](https://www.lucorg.com/nafo-claims-another-high-profile-victim/)
-- 2024-07-01: [NAFO fordert ein weiteres prominentes Opfer: Kampf gegen Desinformation](https://hackernoon.com/lang/de/Nafo-fordert-im-Kampf-gegen-Desinformation-ein-weiteres-prominentes-Opfer)
-- 2024-12-11: [Das Zeitalter der dezentralen Informationskriegsführung ist da](https://irregularwarfare.org/articles/the-age-of-decentralized-information-warfare-is-here/)
-- 2024-10-08: [Militärische Lehren für die NATO aus dem Russland-Ukraine-Krieg](https://henryjacksonsociety.org/publications/military-lessons-for-nato-from-the-russia-ukraine-war-preparing-for-the-wars-of-tomorrow/)
-
-Die AfD hat - wie die russische Propaganda - versucht, die NAFO zu diffamieren, als CIA-gesteuertes Cybermobbing. Eine Untersuchung der Deutschen Bundesregierung kommt zu dem Schluss (@Bundesregierung:2025): 
-
-> Die Bundesregierung macht sich die in der Vorbemerkung enthaltene Bewertung des Internetphänomens „NAFO“ als Diffamierung bzw. Cybermobbing ausdrücklich nicht zu eigen. Genauso wenig teilt sie die Einschätzung der Fragestellenden zu nachrichtendienstlicher Zusammenarbeit.

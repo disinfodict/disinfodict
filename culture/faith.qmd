@@ -15,7 +15,7 @@ Ukraine has a Christian tradition and culture that Russians can only dream of
 :::
 
 
-### Pysanki
+## Pysanki
 
 [https://www.metmuseum.org/perspectives/pysanky](https://www.metmuseum.org/perspectives/pysanky)
 https://pysanka.ukrainianinstitute.org/
@@ -23,7 +23,7 @@ https://pysanka.ukrainianinstitute.org/
 
 {{< var todo >}}
 
-### Pavuk
+## Pavuk
 
 {{< var todo >}}
 

@@ -26,6 +26,19 @@ The assassination of Archduke Franz Ferdinand, heir to the Austro-Hungarian thro
 > With the assassination, the Serbian Pan-Slavists, supported by Russia, wanted to once again make clear their demand for a Serbian nation state independent of Austria-Hungary.[^wwii-responsibility-1] 
 
 
+
+## Weimar Republic
+
+### Treaty of Rapallo
+
+
+After the Treaty of Versailles, Germany and Russia began secret military cooperation and armament under the guise of the Treaty of Rapallo, which laid the foundations for the Hitler-Stalin Pact and World War II: 
+
+> At first glance, the treaty contained only harmless provisions. It provided for the mutual waiver of all financial claims, the resumption of diplomatic and consular relations, and the principle of most-favored-nation treatment in trade. However, the treaty also provided diplomatic cover for the strictly confidential military cooperation that had already been initiated before Rapallo, enabling Germany to expand its military potential in violation of the provisions of the Treaty of Versailles. Russia gave Germany the opportunity to establish a flight school near the central Russian city of Lipetsk, a chemical weapons factory in Vol'sk, and two tank factories near Moscow and Rostov-on-Don. In return, Russian officers were secretly trained at German military academies [@Schulze_Wessel:2023, p. 198].
+
+See also Siehe auch @sec-germany-russia-militarycooperation.
+
+
 ## World War II
 
 ### Hitler-Stalin Pact
@@ -56,6 +69,13 @@ To this day, the Hitler-Stalin Pact remains a blind spot on the map of Germans, 
 
 > Beyond the joint destruction of Poland and the agreed subjugation of Eastern Central Europe, German-Russian cooperation included logistical support for the Wehrmacht's campaigns of conquest through the supply of oil, industrial raw materials, and grain from the Soviet Union and other states, the destruction of democracies, the weakening of the anti-Hitler opposition and resistance, the liquidation of left-wing solidarity, and the extradition of Hitler's opponents to the Gestapo. 
 
+
+Even for one of the biggest war-crimes of the Germans in World War II, the siege of St. Petersburg, Stalin shares responsibility:
+
+> Stalin has been accused of sacrificing Leningrad, of indifference to its population's fate, with some justice. For him the needs of the Red Army had total priority. This is why the evacuation of civilians by the ice road across Lake Ladoga was delayed for weeks.[^wwii-responsibility-6]
+
+
+> But they also stole, murdered, abandoned relatives and resorted to eating human meat – as do all societies when the food runs out. Yes, the regime successfully defended the city, devising ingenious food supplements and establishing supply and evacuation routes across Lake Ladoga. But it also delayed, bungled, squandered its soldiers’ lives by sending them into battle untrained and unarmed, fed its own senior apparatchiks while all around starved, and made thousands of pointless executions and arrests.[^wwii-responsibility-7]
 
 
 ### Conquests
@@ -118,3 +138,6 @@ The unprovoked, large-scale Russian invasion of Ukraine, aimed at conquest and d
 
 [^wwii-responsibility-5]: Bernhard H. Bayerlein (8. Juni 2025) Stalin-Hitler-Pakt reloaded. Deutsch-russische Kollaborationen im 20. und 21. Jahrhundert. [https://geschichtedergegenwart.ch/20643-2/](https://geschichtedergegenwart.ch/20643-2/)
 
+[^wwii-responsibility-6]: John Barber (2011-02-17) Stalin and the Betrayal of Leningrad. BBC. [https://www.bbc.co.uk/history/worldwars/wwtwo/leningrad_betrayal_01.shtml](https://www.bbc.co.uk/history/worldwars/wwtwo/leningrad_betrayal_01.shtml)
+
+[^wwii-responsibility-7]: Anna Reid (2011) Siege of Leningrad: Deadliest City Blockade in Human History. Excerpted from Leningrad: Tragedy of a City under Siege, 1941-44, by Anna Reid. [https://www.thehistoryreader.com/military-history/siege-leningrad-deadliest-city-blockade-human-history/](https://www.thehistoryreader.com/military-history/siege-leningrad-deadliest-city-blockade-human-history/)

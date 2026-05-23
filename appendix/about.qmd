@@ -46,6 +46,7 @@ Maintainer of a database and provider of a newsletter on desinformation: [EUvsDi
 
 We commit to the [IFCN code of Principles](https://ifcncodeofprinciples.poynter.org/the-commitments) but have not applied for signatory status yet: the [International Fact-Checking Network (IFCN) at Poynter](https://www.poynter.org/ifcn/) is committed to promoting excellence in fact-checking. IFCN believes nonpartisan and transparent fact-checking can be a powerful instrument of accountability journalism. Conversely, unsourced or biased fact-checking can increase distrust in the media and experts while polluting public understanding.
 
+[Do NOT confuse](https://euvsdisinfo.eu/fake-fact-checking-when-facts-are-fiction-and-falsehoods-are-facts/) the *International Fact-Checking Network (IFCN)* with the Kremlin's *Global Fact-Checking Network (GFCN)* (and don't visit their website).
 
 ## Start-up partners
 
